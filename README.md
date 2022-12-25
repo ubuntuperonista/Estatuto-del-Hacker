@@ -1,6 +1,9 @@
 # Estatuto-del-Hacker
-Herramental ASCII de hacking y adoctrinamiento peronista
+Herramental ASCII de hacking y adoctrinamiento peronista 
 por //~peron// <peron@texto-plano.xyz>
+
+###Requerimientos
+fortune, bsd fortune, cowsay, o similar.
 
 ## Frases Fortune de adoctrinamiento
 
@@ -9,42 +12,49 @@ Estas son frases y aforismos de adoctrinamiento en castellano para fortune o for
   * En BSD: 
 Copia doctrina - frases de adoctrinamiento, con word wrap a 72 líneas. 
 
-<code>cp doctrina /usr/share/games/fortune/</code>
-<code>cp doctrina.dat /usr/share/games/fortune/</code>
+<code>$ cp doctrina_bsd /usr/share/games/fortune/doctrina</code>
+
+<code>$ strfile /usr/share/games/fortune/doctrina</code>
 
   * En GNU/Linux:
 Copia doctrina2: frases de adoctrinamiento sin word wrap.
 
-  $ cp doctrina2 /usr/share/games/fortunes/es/doctrina
-  $ cp doctrina2.dat /usr/share/games/fortunes/es/doctrina.dat
+<code>$ cp doctrina_linux /usr/share/games/fortunes/es/doctrina</code>
+
+<code>$ strfile /usr/share/games/fortunes/es/doctrina</code>
 
 
-Utilízalas con con:
+### Uso
 
-fortune doctrina
+<code>fortune doctrina</code>
 
 ===
 
 ## Archivos COW
 
-Estas son gráficos .cow para definir personajes para cowsay.
+Gráficos ASCII .cow para definir personajes para cowsay.
 
 Puedes copiarlos en:
 
 * En BSD:
-Copialos con
-  $ cp vacapiloto.cow /usr/local/share/cows
-  $ cp 17oct.cow /usr/local/share/cows/
+Copia los personajes a la carpeta correspondiente con:
+
+<code>$ cp vacapiloto.cow /usr/local/share/cows/</code>
+
+<code>$ cp peron.cow /usr/local/share/cows/</code>
+
+<code>$ cp 17oct.cow /usr/local/share/cows/</code>
 
 * En Linux 
 Cópialos con
 
-  $ cp vacapiloto.cow /usr/share/cowsay/cows/
-  $ cp 17oct_deb.cow /usr/local/share/cows/peron.cow
+<code>$ cp vacapiloto.cow /usr/share/cowsay/cows/</code>
+<code>$ cp peron.cow /usr/share/cowsay/cows/</code>
+<code>$ cp 17oct_linux.cow /usr/local/share/cows/17oct.cow</code>
 
 
-### Ejemplo
+### Uso
 
-Ahora podrás utilizarlos con:
+Podrás utilizar los personajes con pipes. Por ejemplo:
 
-  clear && fortune doctrina | cowsay -f peron
+<code>clear && fortune doctrina | cowsay -f peron</code>
