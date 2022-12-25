@@ -50,7 +50,7 @@ Cópialos con
 
 <code>$ cp vacapiloto.cow /usr/share/cowsay/cows/</code>
 
-<code>$ cp peron.cow /usr/share/cowsay/cows/peron.cow</code>
+<code>$ cp peron_ascii.cow /usr/share/cowsay/cows/peron.cow</code>
 
 <code>$ cp 17oct_ascii.cow /usr/local/share/cows/17oct.cow</code>
 
