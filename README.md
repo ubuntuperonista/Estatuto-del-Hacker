@@ -6,13 +6,13 @@ por //~peron// <peron@texto-plano.xyz>
 
 Estas son frases y aforismos de adoctrinamiento en castellano para fortune o fortune-mud.
 
-* En BSD: 
-  Copia doctrina - frases de adoctrinamiento, con word wrap a 72 líneas. 
+  * En BSD: 
+Copia doctrina - frases de adoctrinamiento, con word wrap a 72 líneas. 
 
-  $ cp doctrina /usr/share/games/fortune/
-  $ cp doctrina.dat /usr/share/games/fortune/
+<code>cp doctrina /usr/share/games/fortune/</code>
+<code>cp doctrina.dat /usr/share/games/fortune/</code>
 
-* En GNU/Linux:
+  * En GNU/Linux:
 Copia doctrina2: frases de adoctrinamiento sin word wrap.
 
   $ cp doctrina2 /usr/share/games/fortunes/es/doctrina
@@ -34,13 +34,13 @@ Puedes copiarlos en:
 * En BSD:
 Copialos con
   $ cp vacapiloto.cow /usr/local/share/cows
-  $ cp peron.cow /usr/local/share/cows/
+  $ cp 17oct.cow /usr/local/share/cows/
 
 * En Linux 
 Cópialos con
 
   $ cp vacapiloto.cow /usr/share/cowsay/cows/
-  $ cp peron2.cow /usr/local/share/cows/peron.cow
+  $ cp 17oct_deb.cow /usr/local/share/cows/peron.cow
 
 
 ### Ejemplo
