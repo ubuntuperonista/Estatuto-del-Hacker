@@ -2,7 +2,7 @@
 Herramental ASCII de hacking y adoctrinamiento peronista 
 por //~peron// <peron@texto-plano.xyz>
 
-###Requerimientos
+### Requerimientos
 fortune, bsd fortune, cowsay, o similar.
 
 ## Frases Fortune de adoctrinamiento
@@ -41,16 +41,18 @@ Copia los personajes a la carpeta correspondiente con:
 
 <code>$ cp vacapiloto.cow /usr/local/share/cows/</code>
 
-<code>$ cp peron.cow /usr/local/share/cows/</code>
+<code>$ cp peron.cow /usr/local/share/cows/peron.cow</code>
 
-<code>$ cp 17oct.cow /usr/local/share/cows/</code>
+<code>$ cp 17oct_bsd.cow /usr/local/share/cows/17oct.cow</code>
 
 * En Linux 
 Cópialos con
 
 <code>$ cp vacapiloto.cow /usr/share/cowsay/cows/</code>
-<code>$ cp peron.cow /usr/share/cowsay/cows/</code>
-<code>$ cp 17oct_linux.cow /usr/local/share/cows/17oct.cow</code>
+
+<code>$ cp peron.cow /usr/share/cowsay/cows/peron.cow</code>
+
+<code>$ cp 17oct_ascii.cow /usr/local/share/cows/17oct.cow</code>
 
 
 ### Uso
