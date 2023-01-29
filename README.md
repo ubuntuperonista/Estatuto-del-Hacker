@@ -1,23 +1,23 @@
 # Estatuto-del-Hacker
 Herramental ASCII de hacking y adoctrinamiento peronista 
-por //~peron// <peron@texto-plano.xyz>
+por ~peron <peron@texto-plano.xyz>
 
 ### Requerimientos
-fortune, fortune-mud, bsd fortune, cowsay, o similar.
+Requieres de fortune, fortune-mud, bsd fortune, o similar, y cowsay o similar.
 
 ## Frases Fortune de adoctrinamiento
 
 Estas son frases y aforismos de adoctrinamiento en castellano para fortune o fortune-mud.
 
   * **Para BSD**: 
-Copia doctrina - frases de adoctrinamiento, con word wrap a 72 líneas. 
+Copia <file>doctrina</file> - frases de adoctrinamiento, con word wrap a 72 líneas en <file>/usr/share/games/fortune</file> de la siguiente manera: 
 
 <code>$ cp doctrina_bsd /usr/share/games/fortune/doctrina</code>
 
 <code>$ strfile /usr/share/games/fortune/doctrina</code>
 
   * **Para GNU/Linux**:
-Copie doctrina2 (frases de adoctrinamiento sin word wrap) en /usr/share/games/fortunes/es/.
+Copia <file>doctrina2</file> (frases de adoctrinamiento sin word wrap) en <file>/usr/share/games/fortunes/es/</file>, de la siguiente manera:
 
 <code>$ cp doctrina_linux /usr/share/games/fortunes/es/doctrina</code>
 
@@ -34,7 +34,7 @@ Copie doctrina2 (frases de adoctrinamiento sin word wrap) en /usr/share/games/fo
 
 Gráficos ASCII .cow para definir personajes para cowsay.
 
-Sigue las instrucciones para incorporalos
+Sigue las instrucciones para incorporalos:
 
 * **En BSD**:
 Copia los personajes a la carpeta correspondiente con:
@@ -46,7 +46,7 @@ Copia los personajes a la carpeta correspondiente con:
 <code>$ cp 17oct_bsd.cow /usr/local/share/cows/17oct.cow</code>
 
 * **En Linux**: 
-Cópialos con
+Cópialos los ficheros de los personajes en la carpeta correspondiente con:
 
 <code>$ cp vacapiloto.cow /usr/share/cowsay/cows/</code>
 
