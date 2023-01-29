@@ -10,14 +10,14 @@ Requieres de fortune, fortune-mud, bsd fortune, o similar, y cowsay o similar.
 Estas son frases y aforismos de adoctrinamiento en castellano para fortune o fortune-mud.
 
   * **Para BSD**: 
-Copia <file>doctrina</file> - frases de adoctrinamiento, con word wrap a 72 líneas en <file>/usr/share/games/fortune</file> de la siguiente manera: 
+Copia <file>doctrina_bsd</file> - frases de adoctrinamiento, con word wrap a 72 líneas en <file>/usr/share/games/fortune</file> de la siguiente manera: 
 
 <code>$ cp doctrina_bsd /usr/share/games/fortune/doctrina</code>
 
 <code>$ strfile /usr/share/games/fortune/doctrina</code>
 
   * **Para GNU/Linux**:
-Copia <file>doctrina2</file> (frases de adoctrinamiento sin word wrap) en <file>/usr/share/games/fortunes/es/</file>, de la siguiente manera:
+Copia <file>doctrina_linux</file> (frases de adoctrinamiento sin word wrap) en <file>/usr/share/games/fortunes/es/</file>, de la siguiente manera:
 
 <code>$ cp doctrina_linux /usr/share/games/fortunes/es/doctrina</code>
 
