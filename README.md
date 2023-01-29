@@ -62,7 +62,7 @@ Cópia los ficheros de los personajes <file>vacapiloto.cow</file>, <file>peron_a
 
 <code bash>$ cp 17oct_ascii.cow /usr/local/share/cows/17oct.cow</code>
 
-<code bash>$ cp vax.cow /usr/local/share/cows/17oct.cow</code>
+<code bash>$ cp vax.cow /usr/local/share/cows/vax.cow</code>
 
 
 ### Uso
