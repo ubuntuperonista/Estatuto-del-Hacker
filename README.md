@@ -90,10 +90,13 @@ oooooooooooooooooooooooooooooooooooooooooooooooo
     <o/ ~   \o\  ~o|  o/    o  _____   _o
      |  +o   |    |   |     |\|chori|   |\
     /\  /z   /\   /\  /\   /\  o   o    /\
+
 </pre>
 
 Para decir una frase corta sin borrar la terminal:
+
 <code bash>$ fortune -s doctrina | cowsay -f pocho</code>
+
 <pre>
  _____________________________________
 / Quien programe, comente. Quien use, \
