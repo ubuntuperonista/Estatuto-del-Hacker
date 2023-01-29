@@ -1,30 +1,34 @@
 # Estatuto-del-Hacker
-Herramental ASCII de hacking y adoctrinamiento peronista 
+Herramental ASCII para la terminal con Frases y aforismos de hacking y adoctrinamiento peronista en castellano para fortune o fortune-mud.
+
 por ~peron <peron@texto-plano.xyz>
+GPLv3
 
 ### Requerimientos
-Requieres de fortune, fortune-mud, bsd fortune, o similar, y cowsay o similar.
+Para poder utilizar los ficheros de frases se requiere de alguna versión de fortune, fortune-mud, bsd fortune, o similar, y para las gráficas cowsay o similar. 
+Estos paquetes suelen estar disponibles para la mayoría de las distribuciones de sistemas operativos similares a Unix.
 
-## Frases Fortune de adoctrinamiento
+## Frases Fortune de adoctrinamiento "Estatuto del Hacker"
 
-Estas son frases y aforismos de adoctrinamiento en castellano para fortune o fortune-mud.
+Instala las frases de adoctrinamiento en castellano.
 
-####Para BSD
-Copia <file>doctrina_bsd</file> - frases de adoctrinamiento, con word wrap a 72 líneas en <file>/usr/share/games/fortune</file> de la siguiente manera: 
+  * **Para BSD**:
+Copia <file>doctrina_bsd</file> (fichero con las frases de adoctrinamiento, con word wrap a 72 líneas) en el directorio <file>/usr/share/games/fortune</file> de tu sistema. Puedes hacerlo desde la terminal con los comandos siguientes: 
 
 <code bash>$ cp doctrina_bsd /usr/share/games/fortune/doctrina</code>
 
 <code bash>$ strfile /usr/share/games/fortune/doctrina</code>
 
-####Para GNU/Linux
-Copia <file>doctrina_linux</file> (frases de adoctrinamiento sin word wrap) en <file>/usr/share/games/fortunes/es/</file>, de la siguiente manera:
+  * **Para GNU/Linux**:
+Copia <file>doctrina_linux</file> (frases de adoctrinamiento sin word wrap) en el directorio <file>/usr/share/games/fortunes/es/</file> de tu sistema. Puedes hacerlo desde la terminal con los siguientes comandos:
 
 <code bash>$ cp doctrina_linux /usr/share/games/fortunes/es/doctrina</code>
 
 <code bash>$ strfile /usr/share/games/fortunes/es/doctrina</code>
 
-
 ### Uso
+
+Desde la terminal, usa fortune para llamar al fichero <file>doctrina</file>. En Ubuntu/Debian y BSD spodrás hacerlo con:
 
 <code>fortune doctrina</code>
 
@@ -32,11 +36,11 @@ Copia <file>doctrina_linux</file> (frases de adoctrinamiento sin word wrap) en <
 
 ## Archivos COW
 
-Gráficos ASCII .cow para definir personajes para cowsay.
+Distintos ficheros gráficos ASCII de extensión .cow con nuevos personajes para cowsay.
 
 Sigue las instrucciones para incorporalos:
 
-####Para BSD
+  * **Para BSD**:
 
 Cópia los ficheros de los personajes <file>vacapiloto.cow</file>, <file>peron_ascii.cow</file> y <file>17oct_ascii.cow</file> en la carpeta <file>/usr/local/share/cows/</file> con:
 
@@ -46,7 +50,7 @@ Cópia los ficheros de los personajes <file>vacapiloto.cow</file>, <file>peron_a
 
 <code bash>$ cp 17oct_bsd.cow /usr/local/share/cows/17oct.cow</code>
 
-####En Linux
+  * **Para GNU/Linux**:
 
 Cópia los ficheros de los personajes <file>vacapiloto.cow</file>, <file>peron_ascii.cow</file> y <file>17oct_ascii.cow</file> en la carpeta <file>/usr/share/cowsay/cows/</file> con:
 
@@ -66,3 +70,48 @@ Podrás dirigir la salida del comando a un personaje de cowsay por medio de pipe
 Por ejemplo:
 
 <code bash>clear && fortune doctrina | cowsay -f peron</code>
+
+<pre>
+ _________________________________________
+/ Muchas veces se ha dicho que el         \
+| software privativo va tras el lucro,    |
+| pero el objetivo inconfeso es lograr la |
+| explotación del hombre a través de las  |
+\ máquinas.                               /
+ -----------------------------------------
+ \
+  \           _______
+  \o/        \ peron \     ---------
+------+       \-------    | C  G  T |
+:::::::::::::::\::::::::::|---------|:::::::::::
+%%%%%%%%%%%%%%%%\%%%%%%%%%|%%%%%%%%%|%%%%%%%%%%%
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+oooooooooooooooooooooooooooooooooooooooooooooooo
+    <o/ ~   \o\  ~o|  o/    o  _____   _o
+     |  +o   |    |   |     |\|chori|   |\
+    /\  /z   /\   /\  /\   /\  o   o    /\
+</pre>
+
+Para decir una frase corta sin borrar la terminal:
+<code bash>$ fortune -s doctrina | cowsay -f pocho</code>
+<pre>
+ _____________________________________
+/ Quien programe, comente. Quien use, \
+\ documente.                          /
+ -------------------------------------
+        \
+         \  ,_____._____
+     ,_.    /-_---------_\
+    /  |   ||           ||        /\
+   /  <    \|.__.   .__.|/       | l
+  |    /    |E==<   E==<|      n J |
+  |  /     G|    | |    |D     \   |
+  | |      \|  , q_p ,  |J     _|__/_
+ ====       | /._____.\ |      |\__/|
+ |   |      (   \___J   )      |    |
+ |   |      (  =.___- = )     /    /
+ |   |       (.__-___,)      /    /
+  \   |____----+   |________/    /
+   \        \   \/   _/        /
+    \_____   \  /   /   ______/
+</pre>
