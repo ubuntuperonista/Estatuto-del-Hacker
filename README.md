@@ -9,19 +9,19 @@ Requieres de fortune, fortune-mud, bsd fortune, o similar, y cowsay o similar.
 
 Estas son frases y aforismos de adoctrinamiento en castellano para fortune o fortune-mud.
 
-  * **Para BSD**: 
+####Para BSD
 Copia <file>doctrina_bsd</file> - frases de adoctrinamiento, con word wrap a 72 líneas en <file>/usr/share/games/fortune</file> de la siguiente manera: 
 
-<code>$ cp doctrina_bsd /usr/share/games/fortune/doctrina</code>
+<code bash>$ cp doctrina_bsd /usr/share/games/fortune/doctrina</code>
 
-<code>$ strfile /usr/share/games/fortune/doctrina</code>
+<code bash>$ strfile /usr/share/games/fortune/doctrina</code>
 
-  * **Para GNU/Linux**:
+####Para GNU/Linux
 Copia <file>doctrina_linux</file> (frases de adoctrinamiento sin word wrap) en <file>/usr/share/games/fortunes/es/</file>, de la siguiente manera:
 
-<code>$ cp doctrina_linux /usr/share/games/fortunes/es/doctrina</code>
+<code bash>$ cp doctrina_linux /usr/share/games/fortunes/es/doctrina</code>
 
-<code>$ strfile /usr/share/games/fortunes/es/doctrina</code>
+<code bash>$ strfile /usr/share/games/fortunes/es/doctrina</code>
 
 
 ### Uso
@@ -36,31 +36,33 @@ Gráficos ASCII .cow para definir personajes para cowsay.
 
 Sigue las instrucciones para incorporalos:
 
-* **En BSD**:
-Copia los personajes a la carpeta correspondiente con:
+####Para BSD
 
-<code>$ cp vacapiloto.cow /usr/local/share/cows/</code>
+Cópia los ficheros de los personajes <file>vacapiloto.cow</file>, <file>peron_ascii.cow</file> y <file>17oct_ascii.cow</file> en la carpeta <file>/usr/local/share/cows/</file> con:
 
-<code>$ cp peron.cow /usr/local/share/cows/peron.cow</code>
+<code bash>$ cp vacapiloto.cow /usr/local/share/cows/</code>
 
-<code>$ cp 17oct_bsd.cow /usr/local/share/cows/17oct.cow</code>
+<code bash>$ cp peron.cow /usr/local/share/cows/peron.cow</code>
 
-* **En Linux**: 
-Cópialos los ficheros de los personajes en la carpeta correspondiente con:
+<code bash>$ cp 17oct_bsd.cow /usr/local/share/cows/17oct.cow</code>
 
-<code>$ cp vacapiloto.cow /usr/share/cowsay/cows/</code>
+####En Linux
 
-<code>$ cp peron_ascii.cow /usr/share/cowsay/cows/peron.cow</code>
+Cópia los ficheros de los personajes <file>vacapiloto.cow</file>, <file>peron_ascii.cow</file> y <file>17oct_ascii.cow</file> en la carpeta <file>/usr/share/cowsay/cows/</file> con:
 
-<code>$ cp 17oct_ascii.cow /usr/local/share/cows/17oct.cow</code>
+<code bash>$ cp vacapiloto.cow /usr/share/cowsay/cows/</code>
+
+<code bash>$ cp peron_ascii.cow /usr/share/cowsay/cows/peron.cow</code>
+
+<code bash>$ cp 17oct_ascii.cow /usr/local/share/cows/17oct.cow</code>
 
 
 ### Uso
 
 Solicita una frase al azar con:
-<code>fortune doctrina</code>
+<code bash>fortune doctrina</code>
 
 Podrás dirigir la salida del comando a un personaje de cowsay por medio de pipes. 
 Por ejemplo:
 
-<code>clear && fortune doctrina | cowsay -f peron</code>
+<code bash>clear && fortune doctrina | cowsay -f peron</code>
