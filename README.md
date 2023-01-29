@@ -3,21 +3,21 @@ Herramental ASCII de hacking y adoctrinamiento peronista
 por //~peron// <peron@texto-plano.xyz>
 
 ### Requerimientos
-fortune, bsd fortune, cowsay, o similar.
+fortune, fortune-mud, bsd fortune, cowsay, o similar.
 
 ## Frases Fortune de adoctrinamiento
 
 Estas son frases y aforismos de adoctrinamiento en castellano para fortune o fortune-mud.
 
-  * En BSD: 
+  * **Para BSD**: 
 Copia doctrina - frases de adoctrinamiento, con word wrap a 72 líneas. 
 
 <code>$ cp doctrina_bsd /usr/share/games/fortune/doctrina</code>
 
 <code>$ strfile /usr/share/games/fortune/doctrina</code>
 
-  * En GNU/Linux:
-Copia doctrina2: frases de adoctrinamiento sin word wrap.
+  * **Para GNU/Linux**:
+Copie doctrina2 (frases de adoctrinamiento sin word wrap) en /usr/share/games/fortunes/es/.
 
 <code>$ cp doctrina_linux /usr/share/games/fortunes/es/doctrina</code>
 
@@ -34,9 +34,9 @@ Copia doctrina2: frases de adoctrinamiento sin word wrap.
 
 Gráficos ASCII .cow para definir personajes para cowsay.
 
-Puedes copiarlos en:
+Sigue las instrucciones para incorporalos
 
-* En BSD:
+* **En BSD**:
 Copia los personajes a la carpeta correspondiente con:
 
 <code>$ cp vacapiloto.cow /usr/local/share/cows/</code>
@@ -45,7 +45,7 @@ Copia los personajes a la carpeta correspondiente con:
 
 <code>$ cp 17oct_bsd.cow /usr/local/share/cows/17oct.cow</code>
 
-* En Linux 
+* **En Linux**: 
 Cópialos con
 
 <code>$ cp vacapiloto.cow /usr/share/cowsay/cows/</code>
@@ -57,6 +57,10 @@ Cópialos con
 
 ### Uso
 
-Podrás utilizar los personajes con pipes. Por ejemplo:
+Solicita una frase al azar con:
+<code>fortune doctrina</code>
+
+Podrás dirigir la salida del comando a un personaje de cowsay por medio de pipes. 
+Por ejemplo:
 
 <code>clear && fortune doctrina | cowsay -f peron</code>
