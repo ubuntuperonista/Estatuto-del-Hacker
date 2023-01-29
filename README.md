@@ -71,14 +71,10 @@ Por ejemplo:
 
 <code bash>clear && fortune doctrina | cowsay -f peron</code>
 
-<pre>
+<code>
  _________________________________________
-/ Muchas veces se ha dicho que el         \
-| software privativo va tras el lucro,    |
-| pero el objetivo inconfeso es lograr la |
-| explotación del hombre a través de las  |
-\ máquinas.                               /
- -----------------------------------------
+/ Los hackers unidos, triunfaremos        \
+\ ----------------------------------------/
  \
   \           _______
   \o/        \ peron \     ---------
@@ -90,14 +86,13 @@ oooooooooooooooooooooooooooooooooooooooooooooooo
     <o/ ~   \o\  ~o|  o/    o  _____   _o
      |  +o   |    |   |     |\|chori|   |\
     /\  /z   /\   /\  /\   /\  o   o    /\
-
-</pre>
+</code>
 
 Para decir una frase corta sin borrar la terminal:
 
 <code bash>$ fortune -s doctrina | cowsay -f pocho</code>
 
-<pre>
+<code>
  _____________________________________
 / Quien programe, comente. Quien use, \
 \ documente.                          /
@@ -117,4 +112,4 @@ Para decir una frase corta sin borrar la terminal:
   \   |____----+   |________/    /
    \        \   \/   _/        /
     \_____   \  /   /   ______/
-</pre>
+</code>
