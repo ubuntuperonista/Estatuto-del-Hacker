@@ -50,6 +50,8 @@ Cópia los ficheros de los personajes <file>vacapiloto.cow</file>, <file>peron_a
 
 <code bash>$ cp 17oct_bsd.cow /usr/local/share/cows/17oct.cow</code>
 
+<code bash>$ cp vax.cow /usr/local/share/cows/</code>
+
   * **Para GNU/Linux**:
 
 Cópia los ficheros de los personajes <file>vacapiloto.cow</file>, <file>peron_ascii.cow</file> y <file>17oct_ascii.cow</file> en la carpeta <file>/usr/share/cowsay/cows/</file> con:
@@ -59,6 +61,8 @@ Cópia los ficheros de los personajes <file>vacapiloto.cow</file>, <file>peron_a
 <code bash>$ cp peron_ascii.cow /usr/share/cowsay/cows/peron.cow</code>
 
 <code bash>$ cp 17oct_ascii.cow /usr/local/share/cows/17oct.cow</code>
+
+<code bash>$ cp vax.cow /usr/local/share/cows/17oct.cow</code>
 
 
 ### Uso
