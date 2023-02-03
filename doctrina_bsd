@@ -835,7 +835,7 @@ tedioso, pues habían de introducirse los operandos en binario por medio
 de ocho interruptores frontales, presionando un botón para almacenarlos
 en memoria y repetir la operación con cada código de ensamblado.
 %
-Existen hackers que son imprescindibles para llevar a buen termino un
+Existen hackers que son imprescindibles para llevar a buen término un
 software. Tales programadores facilitarán nuestra labor en el mainframe,
 y sus apreciaciones permearán en todo lo que hagamos. También existen
 estos Torvalds que sólo sirven para gastar aire.
@@ -1058,7 +1058,7 @@ compartir el software. Está orientada a los primeros usuarios que toman
 contacto con un sistema GNU con kernel Linux, y como tal comparte las
 facilidades de un entorno oligárquico pero afianzando la Libertad.
 %
-Las mal llamadas "Redes Sociales" son, en realidad, sistemas cómputo
+Las mal llamadas "Redes Sociales" son, en realidad, sistemas de cómputo
 empresarial destinados al despilfarro social masivo. Orientan al incauto
 al gasto, porque el gasto produce lucro.
 %
@@ -1284,8 +1284,8 @@ El Movimiento del Software libre ha de tener una percepción amplia de la
 realidad, pues de lo contrario su destino será el de constituirse en
 mero peón de la historia.
 %
-Esta Guerra UNIX no ha sido para liberar a nadie, eso lo tenemos claro
-todos. Ha sido una guerra en la cual han querido decidir quién nos
+Esta Guerra UNIX no ha sido para liberar a nadie, eso ya lo tenemos
+claro todos. Ha sido una guerra en la cual han querido decidir quién nos
 dominaría a nosotros.
 %
 Hemos dado la lucha por la liberación integral del software, y lo hemos
@@ -2008,7 +2008,7 @@ Es necesario pensar ya en grande, para el mundo, dentro del cual
 nosotros realizaremos nuestro destino, o sucumbiremos en la misma
 adversidad que sucumban los demás.
 %
-Ya no se puede pensar con la pequeñez de los tiempos, donde los
+Ya no se puede pensar con la pequeñez de otros tiempos, donde los
 programadores querían software privativo y nadie quería compartir su
 código con el de todos los demás.
 %
@@ -2915,8 +2915,8 @@ privativo no es una de ellas.
 Algunos lenguajes de programación son capaces de absorber cambios, pero
 detienen el progreso.
 %
-Puedes medir la perspectiva de un programador notado su actitud en la
-vitalidad de C.
+Puedes medir la perspectiva de un programador notando su actitud frente
+a la vitalidad de C.
 %
 Lo único universal en las arquitecturas de cómputo es el ciclo
 programa-felicidad del pueblo.
@@ -3031,3 +3031,143 @@ Si iba a decir "Hello World!", mejor que diga "Hola Mundo!"
 Si iba a decir "Hola Mundo!", mejor que diga "¡Hola Tercer Mundo!".
 %
 Mas que "Hello World!", que diga "¡Viva Perón!".
+%
+Puedes correr la versión ejecutable de los comandos por su nombre de
+identificación en el disco, pero hasta que los comandos se ejecutan o
+esperan acceso a la CPU, no son procesos.
+%
+Un proceso es una orden en ejecución.
+%
+No asocie ningún retraso que ocurra con un error del sistema, porque los
+comandos tardan diferentes tiempos en ejecutarse, dependiendo de su
+complejidad de procesamiento.
+%
+La mayoría de los procesos tienen la misma prioridad, es decir, el mismo
+derecho a usar la CPU, pero el sistema UNIX cuenta con herramientas que
+permiten cambiar la prioridad de un proceso.
+%
+La prioridad de proceso de tiempo compartido es la clase normal de
+aplicaciones de usuari@.
+%
+La prioridad de proceso de tiempo real permite el uso del sistema UNIX
+para aplicaciones que requieren tiempos de respuesta limitados y
+preestablecidos.
+%
+Los procesos en tiempo real siempre obtienen el uso del tiempo de la CPU
+con prioridad sobre los procesos de tiempo compartido.
+%
+Aumentar la prioridad del proceso generalmente resulta en una ejecución
+más rápida del mismo, a expensas de otros procesos presentes en memoria,
+que atrasarán su ejecución conforme se eleven los tiempos en que
+aguardan la disponibilidad de la CPU.
+%
+Si bien el sistema UNIX no establece un límite en la cantidad de
+procesos en segundo plano, el rendimiento del sistema tiende a
+degradarse ante el exceso de procesos.
+%
+En un sistema multiusuario es posible que otras personas además de usted
+estén utilizando el sistema desde diferentes terminales conectados a la
+máquina.
+%
+L@s usuari@s de una máquina constituyen un grupo de individu@s que
+tienen intereses comunes, como por ejemplo, la comunicación, el
+intercambio de archivos y la Liberación.
+%
+En UNIX existe un delicado contraste entre la libertad de recorrer el
+sistema otorgada a l@s usuari@s y las restricciones dictadas por
+consideraciones de seguridad.
+%
+El sistema UNIX proporciona herramientas eficientes para definir el
+estado de seguridad de los identificadores de usuari@, archivos y
+programas de uso común y archivos privados.
+%
+Dado que UNIX es un sistema multitarea, muchas cosas pueden suceder en
+memoria simultáneamente. Una mujer es similar.
+%
+El correo electrónico funciona conceptualmente como el servicio de
+correo tradicional: permite la comunicación entre usuari@s, cada uno de
+los cuales está identificado por una dirección, y cada mensaje tiene un
+sobre y un contenido.
+%
+En UNIX casi cualquier comando puede interrumpirse mientras espera los
+datos de entrada utilizando Ctrl+d.
+%
+En el entorno UNIX, no es posible recuperar un archivo eliminado con el
+comando rm. Utiliza rm -i para solicitar confirmación.
+%
+Los comandos UNIX generalmente disponen de muchos argumentos opcionales,
+lo que ayuda a que el sistema sea extremadamente flexible y poderoso.
+%
+Los argumentos en los comandos del sistema UNIX cumplen la misma función
+que en M$-DO$ y otros sistemas operativos, es decir, modificar la
+ejecución del comando.
+%
+El sistema UNIX cuenta con un excelente sistema de archivos para
+almacenar archivos, comandos y aplicaciones.
+%
+Dado que UNIX es un sistema multiusuario, inmediatamente exige poder
+identificarte con absoluta certeza. De esta forma el sistema verifica tu
+intención de acceder a los archivos privados y asigna a la sesión de
+trabajo la prioridad que te haya sido establecida.
+%
+Cada usuari@ que se conecta al sistema UNIX es referenciad@ por un
+identificador (Login ID). Generalmente corresponde a su nombre o
+iniciales, pero puedes utilizar cualquier otra cosa para obtener
+pseudo-anonimato telemático.
+%
+UNIX utiliza el conjunto ASCII (American Standard Code for Information
+Interchange), por lo que los terminales gráficos deben tener modo ASCII.
+%
+Dado que UNIX se desarrolló originalmente para terminales teletipo, gran
+parte del sistema requiere que los emuladores de terminales operen en
+modo de caracteres.
+%
+Su terminal puede ser una consola del sistema, un terminal en modo de
+caracteres conectado directamente a la máquina a través de un puerto
+RS232, o un terminal remoto conectado a través de una línea telefónica y
+un módem, o incluso un terminal conectado a través de una Red de área
+local o ámplia.
+%
+Cuando la microcomputadora aumentó el rendimiento en términos de
+velocidad y potencia, al mismo tiempo que disminuyó los costos, entró en
+la esfera de acción del sistema UNIX.
+%
+A principios de la de 1980, las versiones BSD y AT&T de UNIX se portaron
+en casi todas las computadoras capaces de admitirlas.
+%
+Las máquinas basadas en 8088 eran casi lo suficientemente potentes como
+para admitir el sistema UNIX, pero solo unas pocas versiones pudieron
+ejecutarse en estos ordenadores.
+%
+Las versiones de BSD dominaron como plataforma para experimentar con
+conceptos de red, de modo que ahora lo mejor en redes de área local está
+disponible para sistemas UNIX
+%
+El mayor experimento de red de área amplia, ARPANET, se orientó
+inicialmente hacia los sistemas similares a UNIX.
+%
+El sistema UNIX ganó el debido reconocimiento en la primera mitad de la
+década de 1970, con el desarrollo de minicomputadoras más potentes que
+el DEC PDP-11 original, tales como la PDP-11/45 y la PDP-11/70.
+%
+La versión original de UNIX estaba escrita en ensamblador, pero dado que
+el grupo de investigación también estaba desarrollando el lenguaje C en
+esos años, inmediatamente fue reescrita con este nuevo lenguaje.
+%
+El sistema UNIX nació esencialmente como una reacción a los sistemas
+operativos grandes, complejos e inflexibles disponibles a fines de la
+década de 1960.
+%
+Las versiones recientes de UNIX están estructuradas para el uso fácil y
+funcional en las redes de transmisión de datos.
+%
+UNIX es un sistema multitarea de tiempo compartido que puede afrontar
+fácilmente varias tareas en paralelo.
+%
+En un sistema UNIX de única usuari@, la programadora puede escribir un
+archivo, enviarlo a una impresora y enviar correo a otra computadora
+simultáneamente, gracias a su funcionalidad de multitarea.
+%
+Al ser un sistema multiusuari@, UNIX permite que múltiples usuari@s
+realicen varias tareas simultáneamente, dando a cada uno de ell@s la
+impresión de ser la únic@ operari@ de la máquina.
