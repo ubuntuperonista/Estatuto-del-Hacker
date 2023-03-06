@@ -8,12 +8,14 @@ wget -O /tmp/peron.cow https://caja.texto-plano.xyz/peron/fortune-phrases/peron2
 wget -O /tmp/pocho.cow https://caja.texto-plano.xyz/peron/fortune-phrases/pocho.cow
 wget -O /tmp/vacapiloto.cow https://caja.texto-plano.xyz/peron/fortune-phrases/vacapiloto.cow
 wget -O /tmp/vax.cow https://caja.texto-plano.xyz/peron/fortune-phrases/vax.cow
+wget -O /tmp/vax3900.cow https://caja.texto-plano.xyz/peron/fortune-phrases/vax3900.cow
 
 echo "Moviendo ficheros..."
 mv  /tmp/peron.cow /usr/share/cowsay/cows/peron.cow
 mv  /tmp/pocho.cow /usr/share/cowsay/cows/pocho.cow
 mv  /tmp/vacapiloto.cow /usr/share/cowsay/cows
 mv  /tmp/vax.cow /usr/share/cowsay/cows
+mv  /tmp/vax3900.cow /usr/share/cowsay/cows
 mv /tmp/doctrina /usr/share/games/fortunes/es
 cd /usr/share/games/fortunes/es/
 
