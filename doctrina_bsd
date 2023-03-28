@@ -3362,3 +3362,169 @@ Populares, que son el verdadero consumo.
 %
 El anhelo comercial desmedido e injustificado presentado por ciertos
 operadores de BBS las llevó a su rápido ocaso y colapso.
+%
+El capacitor no es un matrimonio.
+%
+El capacitor es un consumible electrónico.
+%
+Los capacitores se cambian todos juntos. Todos unidos triunfaremos.
+%
+El técnico gorila discrimina, y cambia "un capacitor".
+%
+El mal técnico ojea los capacitores de la placa para no cambiarlos
+todos, como se debe hacer. Obra de remilgado pero en su impericia deja
+la destrucción a la acción del tiempo.
+%
+Debes ser más realista con el tiempo de cómputo.
+%
+UNIX más que llave inglesa, prefiere las llaves fijas.
+%
+El sistema más seguro es también el más difícil de emplear.
+%
+Incrementar la seguridad puede incrementar los costos en términos de un
+acceso a datos más lento, operaciones más lentas, e inferior desempeño
+general.
+%
+Mayores medidas de seguridad requieren mayor tiempo de personal.
+%
+Los orígenes de los problemas de seguridad fuera del dominio del sistema
+operativo son dos: el descuido del usuario, y la vulnerabilidad de las
+instalaciones de cómputo.
+%
+La mayoría de los crímenes informáticos se comenten por usuarios
+autorizados sin siquiera violar los métodos de seguridad del sistema
+operativo.
+%
+Asegúrate que tus políticas de operación sean efectivas y consistentes
+antes de evaluar los requerimientos de seguridad de tu cómputo.
+%
+Cada centro de cómputo ha de contar con sus propios requerimientos de
+seguridad.
+%
+Algunos centros de cómputo sólo requieren medidas de seguridad
+limitadas, porque deben tolerar alguna forma de acceso no autorizado,
+sufriendo escasos efectos adversos.
+%
+Existen centros de cómputo cuya seguridad no puede tolerar siquiera la
+menor irrupción, tales como los centros militares para la defensa, o la
+informática comercial y bancaria.
+%
+En un sistema de cómputo las fallas de seguridad se producien
+generalmente por una de las cuatro sendas de acción: irresponsabilidad
+del usuari@, sondeo del usuari@, penetración del usuari@ e ingeniería
+social.
+%
+La ingeniería social refiere situaciones en las cuales un@ instrus@ gana
+acceso al sistema no por medios técnicos, sino por engalo a usuari@s,
+operador@s y administrador@s.
+%
+Intrus@s potenciales pueden impersonar a usuari@s autorizadas por
+teléfono.
+%
+Intrus@s potenciales pueden solicitar información que les permita ganar
+acceso al sistema, tal como números telefónicos o contraseñas.
+%
+Intrus@s potenciales pueden solicitar a un@ operador@ descuidada
+realizar alguna acción que comprometa la seguridad de su propio sistema
+de cómputo.
+%
+En la medida que la seguridad del sistema operativo se ha visto
+técnicamente reforzada, la ingeniería social se ha vuelto un factor
+mayor en los incidentes de seguridad.
+%
+Las situaciones donde un@ usuari@ irrumpe a través de los controles de
+seguridad para ganar acceso al sistema de cómputo se denominan
+Penetración del Usuari@.
+%
+Si bien las funcionalidades de seguridad del sistema hacen
+extremadameten dificultosa su penetración, es imposible hacer cualquier
+sistema operativo completamente impenetrable.
+%
+Las situaciones donde un@ usuari@ explota sectores insuficientemente
+protegidos del sistema se denomina Sondeo del Usuari@.
+%
+Siempre trata el Sondeo del Usuari@ seriamente.
+%
+Algun@s usuari@s consideran lograr acceso a un área prohibida del
+sistema como un desafío intelectual.
+%
+Algun@s usuari@s disfrutan el juego de usuari@ contra el sistema.
+%
+Aunque las intenciones pueden ser inofensivas, el robo de servicios
+informáticos constituye un crímen en la mayoría de las jurisdicciones.
+%
+Micro$oft roba servicios informáticos, y como tal es una organización
+criminal.
+%
+Usuari@s con seria malicia pueden buscar información confidencial,
+intentar malversación, o incluso destruir datos por sondeo.
+%
+Las situaciones donde la usuari@ accidentalmente o a propósito provoca
+algún daño notable al sistema de cómputo se conoce como
+Irresponsabilidad del Usuari@.
+%
+En cualquier sistema multiusuario puede haber dos tipos de usuarios:
+autorizados y no autorizados.
+%
+Cualquier usuari@ autorizad@ para utilizar un sistema de cómputo tiene
+el derecho a acceder al mismo y sus recursos informáticos de acuerdo al
+criterio de autorización establecido por la administrador@ del sistema
+de cómputo.
+%
+L@s usuari@s no autorizad@s no tienen derecho a utilizar el sistema en
+sí, o bien no tienen derecho a utilizar ciertos recursos del sistema,
+incluso en determinados momentos del día.
+%
+Con el correr del tiempo se ha hecho obvio que la seguridad efectiva de
+un sistema de cómputo sólo puede resultar de la aplicación de un modelo
+básico de estructura de sistema de cómputo seguro.
+%
+El modelo de seguridad informática por Monitora de Referencia desglosa
+al sistema de cómputo en criterios de utilización por sujetos y objetos,
+según una base de datos de autorización, a través de un tren de
+auditoría seguido por arbitrio de la Monitora.
+%
+Nuestros hackers en el mainframe son quienes ejercen un control humano
+en la compilación, extracción de datos georreferenciados, y permiten que
+su explotación sea mucho más efectiva por parte del conductor, que un
+supuesto esquema de machine-learning ideado por un lego en la política.
+%
+El Hacking organizado es también la rebelión de las masas contra un
+sistema.
+%
+No interesa el compilador que se utiliza, las ideologías insidiosas y
+caducas han sido superadas por un sentimiento nuevo de verdadera y
+efectiva Liberación del Software.
+%
+Las CPUs que ahora gastan energía en programas estériles deben volver a
+compilar paquetería GNU, pero para que ello suceda ha de existir un
+hacker que teclee.
+%
+C es un lenguaje adulto.
+%
+El depurador adb es útil para hurgar entre los cuerpos inermes de los
+programas escritos en C.
+%
+El pensamiento profundo asociado a declaraciones escritas juciosamiente
+en el código fuente sigue siendo aún la herramienta de depurado más
+efectiva.
+%
+El compilador-compilador yacc le ayudará a compilar un compilador de
+forma veloz.
+%
+El generador de analizadores léxicos lex le permite generar un
+compilador de lenguajes más simples, dables en ser operados a través de
+expresiones regulares.
+%
+Aquellos programas escritos en C que no dependen en demasía de las
+funcionalidades especiales de UNIX (tales como las tuberías) pueden ser
+portados a otras máquinas que cuenten con compiladores de C.
+%
+Si deseas expresar algo, utiliza expresiones regulares. Si deseas ser
+entendido, utiliza C.
+%
+Quien comprende C, entiende el mundo que lo rodea.
+%
+Quien compila C, lo hace para portarlo.
+%
+El derecho de portar y compilar C no debe ser infringido.
