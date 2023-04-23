@@ -2930,7 +2930,7 @@ sub-subsistemas, ad infinitum.
 El programador de LISP conoce el valor de todo, y el costo de nada.
 %
 El software se encuentra bajo tensión constante. Siendo simbólico es
-arbitrariamente perfectible, pero también abritrariamente modificable.
+arbitrariamente perfectible, pero también arbitrariamente modificable.
 %
 Es más fácil cambiar la especificación para que haga caso al programa
 que viceversa.
@@ -3550,7 +3550,7 @@ No tiene sentido automatizar trabajos gratificantes.
 %
 El trabajo dignifica al hombre. La compilación a la máquina.
 %
-La Inteligencia Artificial avanzada constituye herrameintas de labor muy
+La Inteligencia Artificial avanzada constituye herramientas de labor muy
 poderosas como para que sean liberadas al uso público, sin antes pasar
 por un escrutinio riguroso y sin un marco legal claro que establezca
 limitaciones y responsabilidades.
@@ -3700,3 +3700,103 @@ globales es nimio.
 Los sistemas de IA deben ser puestos al servicio del Pueblo, para
 mejorar sus condiciones de vida, laborales, económicas, de salud y el
 bienestar general.
+%
+La cosa más alejada de Googl€ sería una organización sin fines de lucro
+totalmente abierta.
+%
+Las comunicaciones informáticas son ya demasiado caras; agregarles
+codificaciones criptográficas y complejos sistemas de identificación
+sólo empeoraría la situación.
+%
+Nuestras redes parecen haberse convertido en objetivos (y canales) del
+espionaje internacional.
+%
+Los neófitos atribuyen todo fallo del software a algún virus. La
+realidad de su causa es la opacidad del código privativo.
+%
+La ética hacker no implica que no se requiera cerrojos en los
+ordenadores.
+%
+El periférico de seguridad con que salió IBM para su microcomputadora de
+cómputo personal fue un cerrojo para llave tubo.
+%
+El ordenador se ha convertido en un común denominador que no conoce
+fronteras intelectuales, políticas ni administrativas.
+%
+Los ordenadores inseguros cuestan dinero. Los seguros, algo menos.
+%
+La licencia para modificar el código fuente de UNIX, por sí solo, valía
+apenas 20.000 dólares.
+%
+No os infiltréis nunca en un ordenador militar. El personal de los
+servicios de ingeligencia jugarán con vosotros casi como al ajedrez.
+Recordad que practican ese juego desde hace siglos.
+%
+Han de infiltrarse en los ordenadores, explorando las redes de datos y
+agudizando la acción disruptiva.
+%
+Ante el poderío que implica el dominio de la irrupción telemática, la
+pericia de ingerenciar el debate en las redes sociales basadas en
+empresas carece de todo sentido.
+%
+El código autorreplicante no es un virus. Un virus es un código
+autorreplicante con un sentido de ajusticiamiento.
+%
+Un veredadero hacker no sólo copia su ideología en la mente de los
+demás, sino que además es capaz de allí compilarla y ejecutarla.
+%
+El primer programa que compilan los verdaderos hackers es el "¡Hola
+Tercer Mundo!".
+%
+Usar tipos de datos abstractos en lugar de hardware crudo tiene el
+beneficio de la portabilidad.
+%
+El hardware puede cambiar porque lo reemplazamos con uno más poderno, o
+porque mudamos nuestro programa a un cómputo diferente.
+%
+El sistema operativo es el software que permite utilizar la computadora.
+Lo que esto significa, depende de la perspectiva de la usuari@.
+%
+Los sistemas operativos son, en escencia, una máquina virtual: proveen
+una máquina abstracta que en realidad no existe.
+%
+Los sistemas operativos comenzaron como bibliotecas de software para que
+el Pueblo escribiese programas para una máquina.
+%
+Un verdadero hacker considera los compiladores, bibliotecas y otro
+herramental de programación como parte del sistema operativo.
+%
+Crear una abstracción significa meterle la mula al procesador. Crear
+software privativo signfica meterle la mula al usuario.
+%
+El hardware es un complejo alejado de los conceptos que abarca un
+neófito.
+%
+Existen muchos tipos diferentes de microprocesadores, dispositivos de
+E/S, y otros artefactos. Si quisiéramos escribir software que los
+controle a todos, no tendríamos tiempo para escribir aplicaciones.
+%
+Cuando alimentas eléctricamente una computadora, el programa del sistema
+operativo se carga en su memoria.
+%
+Un neófito reutiliza un sistema operativo. Un verdadero Hacker escribe
+uno por sí mismo.
+%
+La interfase utilizada por el sistema operativo para acceder al disco
+consiste usualmente en un conjunto de registros capaces de transferir
+bloques de bytes desde el disco a la memoria de masa, y viceversa.
+%
+Por abstracción, el sistema considera que los bloques consisten en
+almacenamiento contiguo identificado por un índice, y por lo tanto
+entenderá ingenuamente al disco como una matriz de bloques.
+%
+Estos días, nadie - sino aquellos quienes trabajan en la manufactura de
+discos duros - conocen realmente qué es lo que sucede dentro de tal
+dispositivo.
+%
+Corriendo en la circuitería del disco, existe una plétora de software
+que inventa una mentira a la CPU.
+%
+El Pueblo no comete errores: los programas tienen bugs.
+%
+La Maga UNIX programa milagros.
