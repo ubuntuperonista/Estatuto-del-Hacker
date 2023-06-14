@@ -920,7 +920,7 @@ El hacking es un peligro que florece.
 %
 Incluso si nuestra actividad es de superficie, el uso de encriptaciones tornará a las redes de datos un lugar más seguro para todos.
 %
-El correo electrónico puede ser seguro en tanto sea descentralizado. Sin embargo, muchos usan formas de comunicación menos segura como proveedores de correo web comercial, o redes sociales basadas en empresas.
+El correo electrónico puede ser seguro en tanto sea descentralizado. Sin embargo, muchos usan formas de comunicación menos segura como los proveedores de correo web comercial, o las redes sociales basadas en empresas.
 %
 Los proveedores independientes de correo electrónico ofrecen una interfaz web sobre conexión encriptada, y cifran todos los mensajes enviados entre ellos; un email de aktivix a un usuario de riseup resultará encriptado en la medida que se redacta, y cuando viaja entre postas telemáticas.
 %
@@ -1358,7 +1358,7 @@ Los verdaderos hackers cambian la gravitación de su uso telemático de las plat
 %
 Comunica tu módem con el de tus pares, no con una compañía.
 %
-La Internet primigenia se sentaba en protocolos. La actual aún lo hace: disóciate de las plataformas.
+La Internet primigenia se asentaba en protocolos. La actual aún lo hace: disóciate de las plataformas.
 %
 Usenet utiliza un protocolo abierto, el NNTP, al que cualquiera puede acceder utilizando variedad de aplicaciones.
 %
@@ -1417,7 +1417,7 @@ Las plataformas centralizadas no son la única fuente arbitral de lo que se perm
 %
 Un Conductor ha de saber utilizar las redes sociales basadas en empresa como un muelle, acumulando tensión de sus tecno-esclavos. Cuando lo necesite, la liberará.
 %
-Conserva los datos en tus discos propios, sobre los cuales te reservas control total y absoluto.
+Conserva tus datos en discos propios, sobre los cuales te reservas control total y absoluto.
 %
 Encripta tus discos. Desencripta los ajenos.
 %
@@ -1867,7 +1867,7 @@ Existen centros de cómputo cuya seguridad no puede tolerar siquiera la menor ir
 %
 En un sistema de cómputo las fallas de seguridad se producien generalmente por una de las cuatro sendas de acción: irresponsabilidad del usuari@, sondeo del usuari@, penetración del usuari@ e ingeniería social.
 %
-La ingeniería social refiere situaciones en las cuales un@ instrus@ gana acceso al sistema no por medios técnicos, sino por engalo a usuari@s, operador@s y administrador@s.
+La ingeniería social refiere situaciones en las cuales un@ instrus@ gana acceso al sistema no por medios técnicos, sino por engaño a usuari@s, operador@s y administrador@s.
 %
 Intrus@s potenciales pueden impersonar a usuari@s autorizadas por teléfono.
 %
@@ -2025,7 +2025,7 @@ La lenta performance de lectura de la cinta de papel perforada hizo que esta tec
 %
 Con el advenimiento de los primeros microordenadores, en lugar de hacer uso binario de la magnetización como tradicionalmente se operaba en las  mainframes, se hace un uso magnetofónico, modulando en forma de sonido.
 %
-No hay valor social en tecnologías que simplifican tareas a unas pocas personas generando alto riesgo para la dignidad de muchas otras.
+No existe valor social en tecnologías que simplifican tareas a unas pocas personas generando alto riesgo para la dignidad de muchas otras.
 %
 No existe valor social en limitar las oportunidades de desarrollo, el acceso a recursos informáticos y el menoscabo de derechos.
 %
@@ -2091,8 +2091,118 @@ Por abstracción, el sistema considera que los bloques consisten en almacenamien
 %
 Estos días, nadie - sino aquellos quienes trabajan en la manufactura de discos duros - conocen realmente qué es lo que sucede dentro de tal dispositivo.
 %
-Corriendo en la circuitería del disco, existe una plétora de software que inventa una mentira a la CPU.
+Corriendo en la circuitería del disco, existe una plétora de software que le inventa una mentira a la CPU.
 %
 El Pueblo no comete errores: los programas tienen bugs.
 %
 La Maga UNIX programa milagros.
+%
+Por su flexibilidad infinita, UNIX puede ser el paraíso del usuario veterano, y la pesadilla del bisoño. Su Administrador oficia de jamón del medio.
+%
+UNIX puede ser difícil de mantener.
+%
+Tradicionalmente, la administración de UNIX ha implicado toquetear docenas de ficheros de configuración y soportar a usuarios finales que podrían no tener idea alguna de cómo funciona realmente.
+%
+Suele creerse que el encargado de hacer funcionar las cosas en UNIX es el Kernel. Pero quien realmente las hace funcionar es el SysAdmin.
+%
+X refiere a un sistema de gráficas de ventanas basadas en redes de datos según el modelo Cliente-Servidor. En éste la aplicación (cliente) no accede directamente a la pantalla, sino que se comunica con un programa de presentación intermedio (el servidor.)
+%
+UNIX es un sistema operativo interactivo, multitarea y multiusuari@.
+%
+Un sistema operativo es un conjunto de instrucciones que gobiernan la manera en que los componentes electrónicos de la computadora interpretan y responden a órdenes y a instrucciones preprogramadas en forma de software de aplicación.
+%
+El sistema UNIX fue diseñado originalmente a finales de la década de 1960 para servir a una comunidad: específicamente investigadores de trabajo mancomunado.
+%
+A mediados de la década de 1970 debido al licencimiento liberal del sistema UNIX por parte de AT&T, comenzaron a eclosionar diferentes versiones del mismo.
+%
+Antes de la década de 1980, el sistema UNIX se utilizaba principalmente en centros académicos y de investigación.
+%
+En 1981 la Universidad de California en Berkeley presentó una implementación de UNIX denominada Distribución de Software de Berkeley, el BSD.
+%
+El sistema UNIX ha demostrado su valía para el desarrollo de software de computadora, y se ajusta fácilmente a aplicaciones específicas de la industria.
+%
+Para inicios de la década de 1980, el sistema UNIX era capaz de correr en una gran variedad de ambientes informáticos originados entre diferentes fabricantes, volviéndolo único en el mundo del cómputo.
+%
+El poder y flexibilidad del sistema UNIX se ven en sus capacidades multitarea multiusuari@.
+%
+La capacidad multiusuari@ de UNIX te permite trabajar con independencia en el sistema mientras compartes recursos y datos con otr@s usuari@s.
+%
+La capacidad multitarea de UNIX te permite ejecutar comandos y correr programas al unísono, siguiendo distintos métodos.
+%
+En UNIX, junto con las tareas interactivas mas normales, puedes computar trabajos capaces de correr diferidos en "segundo plano". Mientras obra así, podrás utilizar el terminal de forma interactiva en otro trabajo computacional.
+%
+Históricamente, el sistema UNIX ha sido visto como un sistema de tiempo de cómputo compartido de uso general. Hoy - sin embargo - el sistema se considera en ambientes de cómputo de tiempo real.
+%
+La GPLv3 no puede matar a Googl€, pero sí lo puede fundir.
+&
+Un programa liberado bajo GPLv3 es incapaz de matar a Googl€. Pero si toda la comunidad licencia su software bajo tales premisas, sin duda lo fundirían en beneficio de todos.
+%
+Sumando código fuente liberado bajo GPLv3, se desgasta y devora cualquier GAFAM que se tenga enfrente.
+%
+En la Guerra Telemática la seguridad de los hackers la garantizan los Pubnix, los servidores de acceso público protegidos por criptosistemas.
+%
+Los púbnix garantizan salvoconductos para el desarrollo de herramental de lucha telemática, evadiendo su rastreo, destrucción o eventual inutilización.
+%
+La lid telemática consiste fundamentalmente en una guerra de movilidad por transmisión.
+%
+A nuestro frente están las GAFAM, tentáculos de los tecno-oligarcas que siempre han oprimido al Pueblo.
+%
+Las versiones 4.x del UNIX de Berkeley descendían del UNIX Versión 7 de 1979, y rápidamente se hicieron de la reputación de un UNIX de avanzada.
+%
+El AT&T UNIX System III fue una versión de UNIX Versión 7 lanzada en 1981 con una interfaz de terminales depurada, pero totalmente incompatible con las mejoras de Berkeley.
+%
+El AT&T UNIX System V de 1983 fue vendido como producto, pero al poco tiempo dejó de ser interesante: carecía de soporte para conectividad a redes TCP/IP.
+%
+Los hackers no pueden dar nada que la CPU no compile. Lo que el hacker puede hacer es evitar que entre todos los programadores, algunos se lleven la parte del león mientras que otros carguen con la parte del ratón.
+%
+Con estas compilaciones, nuestros hackers - ungidos bajo el signo de la justicia social - no hay hecho mas que programar esa justicia, dando a los usuarios lo que es de los usuarios, y a la CPU lo que es de la CPU.
+%
+Esta programación social ha hecho que yo cuente con un gran predicamento entre los hackers, en razón de que les he asegurado la Justicia Social que nunca habían tenido.
+%
+Hoy, que los hackers gozan de mayores salarios, compilan y depuran mejor, sienten que se los ha dignificado; y es lógico que así sea.
+%
+Yo he levantado la bandera de la dignificación del hacker, porque este país necesita hombres y mujeres de compilen, y es la suprema dignidad de la compilación la que estoy creando.
+%
+No hay ninguna dignidad más alta que compilar.
+%
+Los hackers ahora empleados en la industria de las TIC deben comprender los riesgos de muerte clandestina y hacer un esfuerzo para difundir el conocimiento proveniente de su investigación a través de vectores y métodos clandestinos.
+%
+Los límites impuestos por las nuevas leyes de tecnocontrol extendido actúan como un fuerte incentivo para que la clandestinidad se vuelva más unida y reactiva.
+%
+El papel de los hackers es hacer que el futuro sea más libre, no solo más seguro.
+%
+El verdadero hacker guarda clandestinidad en el sistema.
+%
+El underground es la clandistinidad telemática.
+%
+El Mago UNIX navega su clandestinidad entre el bus de entrada/salida y el kernel.
+%
+"Sólo uso LibreOffice y navegador" era un tango que se escuchaba en vitrola.
+%
+Los Gusanos diseñados en el XEROX PARC estaban diseñados para viajar de máquina en máquina y hacer tareas útiles en un ambiente de redes de datos distribuidas.
+%
+Un virus informático es un trozo de código que se agrega a sí mismo a otros programas, incluyendo sistemas operativos. 
+%
+Un virus informático no puede ejecutarse independientemente; requiere que su "huésped" sea ejecutado para activarse.
+%
+Un gusano informático es un programa que puede ejecutarse por sí mismo y puede propagar una versión completamente funcinoal de sí mismo en otras máquinas.
+%
+Los hackers están interesados en conocer cómo funciona un programa informático. Estos individuos tienen un interés válido para ver el código fuente.
+%
+Ver el código fuente para estudiarlo es un interés válido y necesario.
+%
+Sólo puede aprenderse a programar viendo código de programación.
+%
+En la medida que se infecten repetidamente con virus, los sistemas informáticos se verán más y más sobrecargados con procesos en ejecución.
+%
+Los virus informáticos son programas de computadora capaces de infectar otros programas modificándolos para incluir una copia posiblemente evolucionada de sí mismos.
+%
+Un hacker puede parecer valiente por programar controladores de dispositivos o modificar el núcleo del sistema operativo, pero temblará ante la mera idea de alterar sendmeil o sus ficheros de configuración.
+%
+Para toquetear SENDMAIL hay que ser un mago UNIX.
+%
+Desarrollar un conjunto de programas cooperativos se alinea con la filosofía UNIX.
+%
+El más grande problema de la seguridad en los ambientes multitarea y multiusuario es obvio e imposible de resolver: muchos servicios constan de ficheros de comandos y configuración propiedad de un solo usuario.
+%
+La seguridad del sistem@ multiusuari@ se hace entre tod@s.
