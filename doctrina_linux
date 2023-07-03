@@ -86,7 +86,7 @@ Cuando el disco rígido mecánico agota su vida útil, suele tronar como escarmi
 %
 Copiar no es como muchos creen, piratear, copiar es distinto que piratear, Piratear es ajusticiar, copiar es compartir, y al software siempre es mejor compartirlo que piratearlo.
 %
-El software no le sale al paso por suerte ni por casualidad. Esto se programa, se compilar, se ejecuta, y recién después se copia. Es decir, el software depende de esa acción, de una preparación, y de una organización.
+Esto se programa, se compila, se ejecuta, y recién después se copia. Es decir, el software depende de esa acción, de una preparación, y de una organización.
 %
 El software a nadie le sale al paso, no es obra de la casualidad, el software es obra de la previsión, de la organización y la realización libre.
 %
@@ -272,7 +272,7 @@ La CPU no es un chip. La CPU es un órgano.
 %
 El Kernel constituye el órgano de la conducción táctica. El órgano de la conducción estratégica es el Hacker.
 %
-Cuando HP hizo HP/UX e IBM sacó AIX, supimos que la guerra UNIX estaba decidida. Porque si estos señores le quieren colgar un UNIX al mainframe, es que no tienen ni calzón que ponerse pa' ir al baile.
+Cuando HP hizo HP/UX y la IBM sacó AIX, supimos que la guerra UNIX estaba decidida. Porque si estos señores le quieren colgar un UNIX al mainframe, es porque no tienen ni calzón que ponerse pa' ir al baile.
 %
 En estos tiempos, pagar una licencia de software es un crímen.
 %
@@ -316,7 +316,7 @@ Los programas libres pueden mancomunarse junto a otros libres, y atresar una uni
 %
 La libertad se defiende en el campo, en el taller, en la calle, en casa y en la CPU. No se puede aceptar que uno sea libre en su casa mientras que en el taller, en la fábrica, en la calle, y en la CPU su software es esclavo.
 %
-Deben seguir adelante con su organización y defender su software libre. La libertad individual es la base de la libertad colectiva, y esta constuye el cimiento de la libertad del software.
+Deben seguir adelante con su organización y defender su software libre. La libertad individual es la base de la libertad colectiva, y esta construye el cimiento de la libertad del software.
 %
 Contra sofismas y dictaduras de quienes paradójicamente se proclaman liberales y propugnan el software privativo, decimos la verdad.
 %
@@ -360,7 +360,7 @@ Pocos sistemas se pueden hacer aislados: normalmente los UNIX son un kernel y ci
 %
 Hay una sola forma de resolver el problema de la agitación de las masas, y ella es el verdadero software libre.
 %
-No queremos consentir que en la gran ciudad telemática que habitamos, los datos del programador experto, profesionamente calificado, residan hacinados en un servidor ajeno inmundo porque su patrón se niega a instalar una instancia libre de almacenamiento.
+No queremos consentir que en la gran ciudad telemática que habitamos, los datos del programador experto, profesionalmente calificado, residan hacinados en un servidor ajeno inmundo porque su patrón se niega a instalar una instancia libre de almacenamiento.
 %
 Nos quieren decir que lo nuevo es contar con aplicaciones de ejecución remota, en la nube. Esta doctrina que se denomina "software como servicio" no es otra cosa que la zoncera de siempre, una engañifa para incautos.
 %
@@ -628,7 +628,7 @@ Solamente la energía eléctrica requerida para poner en ejecución funciones no
 %
 Un Movimiento como el nuestro ha de preferir - siempre que sea posible - la integración de software libre desarrollado en nuestro terruño. Esta será la conducta que al fin y al cabo propinará un verdadero uppercut al Capital.
 %
-Hemos de rechazar las formas en que las grandes corporaciones tecnológicas tratan de privarnos de nuestras libertades, y ayudar a establecer un ejemplo positivo para los usuarios de computadores alrededor del planeta
+Hemos de rechazar las formas en que las grandes corporaciones tecnológicas tratan de privarnos de nuestras libertades, y ayudar a establecer un ejemplo positivo para los usuarios de computadores alrededor del planeta.
 %
 No son pocas las veces en las que los más atresados programadores - aplomados y acostumbrados en escribir código - no distinguen entre lo verdaderamente útil y lo accesorio.
 %
@@ -818,7 +818,7 @@ Todo organismo biológico cumple un ciclo vital marcado por una constante transf
 %
 Como la mente, el cuerpo también ha de mantenerse fresco. Si esto es una verdad irrefutable en la biología humana, mucho más lo es en la informática. Por ello utilizo water-cooling en mis núcleos de procesamiento.
 %
-Podremos aún querer utilizar algún proveedor de internet por acceso telefónico dial-up (no ADSL). Tales tendidos, difundidos durante el primer peronismo con el objeto de transmitir voz, pueden parecer anacrónicos pero si obramos bien puede sacarnos de más de un apuro.
+Podremos aún querer utilizar algún proveedor de internet por acceso telefónico dial-up (no ADSL). Tales tendidos (difundidos durante el primer peronismo con el objeto de transmitir voz) pueden parecer anacrónicos, pero si obramos bien puede sacarnos de más de un apuro.
 %
 Audacity es un editor de sonido peronista, multiplataforma, y libre. Opera bajo sistemas operativos libres, aunque también está preparado para trabajar en Window$.
 %
@@ -1078,7 +1078,7 @@ La grandeza del kernel y la felicidad de los hackers son dos objetivos esenciale
 %
 Un Mago UNIX ha de tener un papel activo y relevante en toda la programación, y no debe compilar resignadamente un kernel que elaboren los demás.
 %
-Poco tiempo después Appl€ comienza a utilizar Int€l, con el Okey de Micro$oft. Si eso no es estar de acuerdo, pues lo disimulan muy bien. Son hechos que están demostrando el acuerdo, que no critico, que creo ques constructivo. Pero más constructivo es que nosotros conformemos una arquitectura abierta en la que también estemos de acuerdo.
+Poco tiempo después Appl€ comienza a utilizar Int€l, con el Okey de Micro$oft. Si eso no es estar de acuerdo, pues lo disimulan muy bien. Son hechos que están demostrando el acuerdo, que no critico, que creo que es constructivo. Pero más constructivo es que nosotros conformemos una arquitectura abierta en la que también estemos de acuerdo.
 %
 Cuando una sociedad incrementa el grado de sofisticación del software privativo que instala, aumenta a la vez su nivel de dependencia.
 %
@@ -2134,7 +2134,7 @@ En UNIX, junto con las tareas interactivas mas normales, puedes computar trabajo
 Históricamente, el sistema UNIX ha sido visto como un sistema de tiempo de cómputo compartido de uso general. Hoy - sin embargo - el sistema se considera en ambientes de cómputo de tiempo real.
 %
 La GPLv3 no puede matar a Googl€, pero sí lo puede fundir.
-&
+%
 Un programa liberado bajo GPLv3 es incapaz de matar a Googl€. Pero si toda la comunidad licencia su software bajo tales premisas, sin duda lo fundirían en beneficio de todos.
 %
 Sumando código fuente liberado bajo GPLv3, se desgasta y devora cualquier GAFAM que se tenga enfrente.
@@ -2153,7 +2153,11 @@ El AT&T UNIX System III fue una versión de UNIX Versión 7 lanzada en 1981 con 
 %
 El AT&T UNIX System V de 1983 fue vendido como producto, pero al poco tiempo dejó de ser interesante: carecía de soporte para conectividad a redes TCP/IP.
 %
-Los hackers no pueden dar nada que la CPU no compile. Lo que el hacker puede hacer es evitar que entre todos los programadores, algunos se lleven la parte del león mientras que otros carguen con la parte del ratón.
+Los hackers no pueden dar nada que la CPU no compile.
+%
+Lo que el hacker puede hacer es evitar que entre todos los programadores, algunos se lleven la parte del león mientras que otros carguen con la parte del ratón.
+%
+Lo que el kernel puede hacer es evitar que entre todos los núcleos de la CPU, algunos se lleven la parte del león mientras que otros carguen con la parte del ratón.
 %
 Con estas compilaciones, nuestros hackers - ungidos bajo el signo de la justicia social - no hay hecho mas que programar esa justicia, dando a los usuarios lo que es de los usuarios, y a la CPU lo que es de la CPU.
 %
@@ -2185,7 +2189,7 @@ Un virus informático es un trozo de código que se agrega a sí mismo a otros p
 %
 Un virus informático no puede ejecutarse independientemente; requiere que su "huésped" sea ejecutado para activarse.
 %
-Un gusano informático es un programa que puede ejecutarse por sí mismo y puede propagar una versión completamente funcinoal de sí mismo en otras máquinas.
+Un gusano es un programa informático que puede ejecutarse por sí mismo y puede propagar una versión de sí completamente funcional en otras máquinas.
 %
 Los hackers están interesados en conocer cómo funciona un programa informático. Estos individuos tienen un interés válido para ver el código fuente.
 %
@@ -2206,3 +2210,49 @@ Desarrollar un conjunto de programas cooperativos se alinea con la filosofía UN
 El más grande problema de la seguridad en los ambientes multitarea y multiusuario es obvio e imposible de resolver: muchos servicios constan de ficheros de comandos y configuración propiedad de un solo usuario.
 %
 La seguridad del sistem@ multiusuari@ se hace entre tod@s.
+%
+Un gusano informático consiste en dos partes, un programa principal y un programa iniciador/vectorizador.
+%
+La seguridad de las contraseñas la provee en gran parte el prohibitivo esfuerzo de intentar todas las combinaciones de caracteres posibles.
+%
+En la medida que los ordenadores se vuelven más poderosos, el costo de intentar todas las combinaciones de caracteres posibles para una contraseña disminuye.
+%
+Dividir la tarea computacional de intentar todas las combinaciones de caracteres posibles entre múltiples procesadores disminuye aún más el tiempo necesario para desencriptar contraseñas.
+%
+Actualmente es factible para cualquier ordenador pre-encriptar y almacenar todas las palabras del diccionario, construcciones alternas de tales palabras, y una gran colección de nombres propios para una comparación de contraseñas posterior.
+%
+En toda acción de guerra telemática, los medios que se emplean son la potencia de cómputo, y la transmisión. Quien no tenga la potencia de la CPU propia no tiene otro remedio que multiplicar su acción por transmisión, hackeando la CPU de otro.
+%
+¡Ni BIOS ni botas! ¡LibreBoot y pelotas!
+%
+Es necesario que los Hackers y Usuarios se convenzan que estamos empeñados en una lucha decisiva para evitar la vuelta del software privativo.
+%
+La Liberación Digital impone esfuerzos y sacrificios que sólo se superan con una voluntad enérgica y perseverante. 
+%
+Es menester no dar tregua a la tiranía de las GAFAM, y dar a la resistencia civil la mayor intensidad y extensión. 
+%
+Sin software publicado bajo GPLv3, la Liberación Digital no podrá realizarse a corto plazo.
+%
+Cada /home debe ser una Unidad Básica Secreta, y cada hacker, jefe y vigía de GNU.
+%
+Es necesario que los Clústers clandestinos se perfeccionen en alto grado para enfrentar los trabajos de la lucha telemática que se avecina.
+%
+En la lucha telemática que se avecina, los usuarios tendrán el peso de la acción más importante. 
+%
+Los hackers ya han puesto en evidencia su decisión en sucesos pasados, y lo harán en el futuro merced a su decisión política y la potencia de cómputo de las CPUs que dominan.
+%
+Las masas de usuarios han superado el ámbito de sus problemas intrínsecos para intervenir enérgicamente en la realización de sus propias compilaciones.
+%
+Luchamos por la GPL y no por la CPU.
+%
+La GPL debe apasionarnos, las CPU deben despreocuparnos.
+%
+Siendo la finalidad básica la Revolución Digital Justicialista, las demás programaciones deben compilarse a esta finalidad.
+%
+La conducta de cada usuario y en especial de cada programador, estará fijada en lo que pueda hacer, en cada momento, para derribar las GAFAM e imponer la GPLv3.
+%
+Al compilar, a la CPU le da lo mismo. Quien se apura es el usuario.
+%
+Si la compilación es bajo GPL, no debe existir ningún apuro para la CPU.
+%
+Es menester mantener firmes, unidos e informados a los Clústers de cómputo, de cualquier tipo que existan.
