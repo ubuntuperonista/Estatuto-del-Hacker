@@ -480,7 +480,7 @@ Como Conductor, puedo decirles que - siempre y cuando nuestras capacidades técn
 %
 Uno de los inconvenientes intrínsecos del hardware consiste en el de la obsolescencia de los medios de almacenamiento, ya sea por la dificultad de conseguirlos, o por el natural deterioro de sus partes móviles.
 %
-Es necesario conocer la historia para llegar a un buen puerto en cualquiera de los quehaceres que podamos emprender, y en el caso de los sistemas computados, esta también será práctica como base para apreciar.
+Es necesario conocer la historia para llegar a un buen puerto en cualquiera de los quehaceres que podamos emprender, y en el caso de los sistemas computados, esta también será la práctica a seguir como base para apreciar.
 %
 UNIX es minimalista, pero proyectado a la grandeza. Solamente un sistema de esta característrica corresponde una comunidad como la de los hackers unidos. Los timoratos, los pobres de espíritu y los mediocres prefieren siempre los pequeños proyectos como Window$.
 %
@@ -1855,7 +1855,7 @@ Mayores medidas de seguridad requieren mayor tiempo de personal.
 %
 Los orígenes de los problemas de seguridad fuera del dominio del sistema operativo son dos: el descuido del usuario, y la vulnerabilidad de las instalaciones de cómputo.
 %
-La mayoría de los crímenes informáticos se comenten por usuarios autorizados sin siquiera violar los métodos de seguridad del sistema operativo.
+La mayoría de los crímenes informáticos se cometen por usuarios autorizados sin siquiera violar los métodos de seguridad del sistema operativo.
 %
 Asegúrate que tus políticas de operación sean efectivas y consistentes antes de evaluar los requerimientos de seguridad de tu cómputo.
 %
@@ -2059,7 +2059,7 @@ Ante el poderío que implica el dominio de la irrupción telemática, la pericia
 %
 El código autorreplicante no es un virus. Un virus es un código autorreplicante con un sentido de ajusticiamiento.
 %
-Un veredadero hacker no sólo copia su ideología en la mente de los demás, sino que además es capaz de allí compilarla y ejecutarla.
+Un veredadero hacker no sólo copia su ideología en la mente de los demás, sino que además es capaz de compilarla y ejecutarla allí.
 %
 El primer programa que compilan los verdaderos hackers es el "¡Hola Tercer Mundo!".
 %
@@ -2183,7 +2183,7 @@ El Mago UNIX navega su clandestinidad entre el bus de entrada/salida y el kernel
 %
 "Sólo uso LibreOffice y navegador" era un tango que se escuchaba en vitrola.
 %
-Los Gusanos diseñados en el XEROX PARC estaban diseñados para viajar de máquina en máquina y hacer tareas útiles en un ambiente de redes de datos distribuidas.
+Los Gusanos escritos en el XEROX PARC estaban diseñados para viajar de máquina en máquina y hacer tareas útiles en un ambiente de redes de datos distribuidas.
 %
 Un virus informático es un trozo de código que se agrega a sí mismo a otros programas, incluyendo sistemas operativos. 
 %
@@ -2270,3 +2270,35 @@ Programar es ordenar. Compilar es persuadir.
 Existen lenguajes interpretados, y lenguajes compilados. Hay quebalbucear ambos.
 %
 El Conductor es un intérprete. Las masas obreras, un compilador de doble pasada.
+%
+Usa Window$ todas las mañanas y nada peor te sucederá durante el día.
+%
+Viajar en el bus de E/S cuesta dos bits.
+%
+La brecha de seguridad más grande del sistema es ponerle una CPU que no ha sido diseñada por uno mismo.
+%
+La shell no tiene nada de especial, es como cualquier otro programa regular del sistema UNIX.
+%
+La shell no es el sistema operativo en sí mismo.
+%
+La shell es la interfaz entre la mujer y la máquina.
+%
+sh es la shell de Bourne, estándar en UNIX System V, y como tal, lleva el signo $ como prompt.
+%
+csh es la C shell, desarrollada en el Departamento de Ciencias de la Universidad de Berkeley. Es igual a la shell de Bourne con algunos lujos en sus estructuras de control, historial de órdenes y alias. Su prompt es un signo %.
+%
+ksh es la shell de Korn, que combina los logros de la shell de Bourne y la C.
+%
+rsh es la shell de Bourne restringida, útil en todo momento que el superusuario anhela castrar a los ingresantes remotos al sistema.
+%
+ua es una shell de menúes implementada en UNIX System V que se distingue por ser lenta, incluso a la friolera de 2400 baudios.
+%
+La mayor parte de los comandos y programas de UNIX toman su entrada del teclado y envían su salida a la pantalla del terminal. Pero eso sólo si contamos con una.
+%
+/etc/passwd es el fichero de contraseñas, el más importante del sistema UNIX. Atácalo.
+%
+Atemoriza con ensamblador sin comentarios.
+%
+Quien programe, reprogramará.
+%
+Quen no programe, será programado.
