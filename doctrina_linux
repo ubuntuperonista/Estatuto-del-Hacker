@@ -1146,7 +1146,7 @@ Los magros controles de seguridad de Micro$oft Team$ permiten a terceros inyecta
 %
 Modifica adjuntos enviados para hacer que usuarios incautos descarguen ficheros de una URL externa en lugar del enlace generado por Micro$oft $harePoint.
 %
-Encubre los adjuntos de Micro$oft Team$ para aparentar ser inocuos pero ocultan un ejecutable o documento justiciero.
+Encubre tus adjuntos de Micro$oft Team$ para que aparenten ser inocuos, pero oculta en ellos un ejecutable o documento justiciero.
 %
 Realiza esquemas de URI insegura para permitir la sustracción de hashes SMB NTLM o ataques de relays NTLM.
 %
@@ -1660,6 +1660,8 @@ Mas que "Hello World!", que diga "¡Viva Perón!".
 Puedes correr la versión ejecutable de los comandos por su nombre de identificación en el disco, pero hasta que los comandos se ejecuten o esperan acceso a la CPU, no son procesos.
 %
 Un proceso es una orden en ejecución.
+%
+Un proceso consta de seis partes: vias estándar de entrada, salida y error, el código del programa que se ha ordenado ejecución, junto con los ambientes globales y locales que le dan sustento.
 %
 No asocie ningún retraso que ocurra con un error del sistema, porque los comandos tardan diferentes tiempos en ejecutarse, dependiendo de su complejidad de procesamiento.
 %
@@ -2301,4 +2303,62 @@ Atemoriza con ensamblador sin comentarios.
 %
 Quien programe, reprogramará.
 %
-Quen no programe, será programado.
+Quien no programe, será programado.
+%
+La humanidad se ha tecnificado, y ha pasado del trabajo manual al trabajo en la máquina, y del trabajo en la máquina al trabajo de la "la máquina universal".
+%
+Para que nuestro cómputo sea completamente libre, el Hombre de Trabajo debe ser el verdadero Amo en la ecuación, y no un mero esclavo del Capital por un lado ni del desarrollador del Software por otro.
+%
+La Justicia Social en el ámbito del Software aprecia al trabajador y lo aleja de la pasiva figura de Usuario para convertirlo en un Artista Creador.
+%
+Aunque los logros de integrar una Interfaz de Linea de Comandos "a pelo" parezcan nimios, el hecho de contar con un visualizador de tubos catodicos y un teclado para ingresar las ordenes era tener la potencia de la CGT en una caja.
+%
+Toda terminal, unida por un comunicador serial, podía comunicarse con otro equipo con mayor potencia computacional, y por lo tanto correr potentes rutinas de software. 
+%
+Siempre existirán individuos que busquen en las redes sociales afluencia de placer al igual que lo harían en el juego, consumo, o adicciones. Si les resultan insuficientes, agredirán sistemáticamente sus plataformas, y en raras ocasiones a otros participantes.
+%
+Con que sólo 1/1.000 de los usuarios operen inadecuadamente en las redes sociales basadas en empresas, las disrumpirán irreversiblemente.
+%
+Si la caja tiene colores y frases como "Vengeance", "Black Edition", "Hero", "Ultimate", "Dominance", "Extreme", "Hard", "Warrior" y "Gaming", evítalo a toda costa. Se trata de hardware de bajo valor que el Capital pone al alcance de los neófitos mas ingenuos.
+%
+Todas nuestras tecnologías electrónicas parecen marchar hacia la unidad.
+%
+Teléfonos, televisión, sistemas de cable, receptores de satélite, grabadoras de videocasetes, videodiscos, cámaras de video y fijas, computadoras domésticas... todo evoluciona hacia una especie de supersistema "teletrónico" que algún día fusionará estas partes ahora separadas en un todo integrado.
+%
+UNIX es como un DOS... ¡DOScientas veces más potente!
+%
+Quienes ponen la UX por delante del sistema, ponen el carro delante del caballo.
+%
+Al César lo que es del César, y a 64 bits lo que es de 64 bits.
+%
+Basta de "juegos de 8 bits" escritos por individuos que jamás jugaron un juego 8 bits.
+%
+A pesar de las súplicas de las empresas de tecnología para colapsar nuestras identidades, nuestras familias y nuestras vidas en línea en formas simplificadas y computables que encajen perfectamente en las estructuras de sus bases de datos, seguimos viviendo vidas complicadas y confusas que solo se parecen a las de los ejecutivos que buscaban moldearlas.
+%
+A veces un laberinto surge en una sola línea de código.
+%
+Los scripts de shell a menudo se usan para crear aplicaciones más grandes para que las usen otras personas. Según mi experiencia, la mayoría de las aplicaciones completas utilizan varios scripts que funcionan entre sí. Como resultado, tenemos que idear una forma de comunicar información entre varios scripts que trabajan juntos como una sola aplicación.
+%
+Usar Ctrl+D para abandonar la sesión del intérprete tcsh es considerado descortés, pero esta shell debería saber al respecto y temer lo que un escopetazo puede hacerle a una placa madre.
+%
+No cierre la sesión de tcsh accidentalmente con Ctrl+d (como cuando lo dieron a luz, desnudo y a los gritos). Ciérrela cuando lo desee, ordenándolo con "exit".
+%
+Que no haya un GitHub sin un GitLab que lo clone.
+%
+No faltará un colchonero que fabrique un teclado enrollable de goma.
+%
+Quien pone derecho el pendrive a la primera, todo lo sabe en la vida.
+%
+Lo único que quedaba de la IBM PS/2 eran los colorcitos de los enchufes. Y ya ni eso...
+%
+OS/2 era un calvo que se quiso peinar a la gomina para resolver un problema que sólo tenía IBM.
+%
+Cuando a usted le digan que el interior de la máquina necesita lucesitas de colores, le están vendiendo espejitos de colores.
+%
+Si va a tener LEDs, que sean al frente y parpadeantes.
+%
+Su overclocking es superfluo: borre todos los programas ajenos y escríbalos usted mismo. Bien.
+%
+El bruto al joystick le dice palanca. Pero ESTO es una palanca.
+%
+Centralizar código fuente en una única plataforma ajena es incluso peor que no programar.
