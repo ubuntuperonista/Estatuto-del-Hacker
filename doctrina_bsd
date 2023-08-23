@@ -769,7 +769,7 @@ perjudicarán, y la mayor parte no serán ni favorables ni desfavorables
 pero en adelante sólo debemos confiar en lo que nosotros mismos seamos
 capaces de compilar para destruirlo.
 %
-Volver al BASIC nos recuerda los condiciones de antaño, y las
+Volver al BASIC nos recuerda las condiciones de antaño, y las
 posibilidades que teníamos entonces, mucho más acotadas sin duda gracias
 al avance de una técnica que hemos dominado.
 %
@@ -3755,7 +3755,7 @@ Tercer Mundo!".
 Usar tipos de datos abstractos en lugar de hardware crudo tiene el
 beneficio de la portabilidad.
 %
-El hardware puede cambiar porque lo reemplazamos con uno más poderno, o
+El hardware puede cambiar porque lo reemplazamos con uno más moderno, o
 porque mudamos nuestro programa a un cómputo diferente.
 %
 El sistema operativo es el software que permite utilizar la computadora.
@@ -3771,7 +3771,7 @@ Un verdadero hacker considera los compiladores, bibliotecas y otro
 herramental de programación como parte del sistema operativo.
 %
 Crear una abstracción significa meterle la mula al procesador. Crear
-software privativo signfica meterle la mula al usuario.
+software privativo significa meterle la mula al usuario.
 %
 El hardware es un complejo alejado de los conceptos que abarca un
 neófito.
@@ -4237,3 +4237,18 @@ El bruto al joystick le dice palanca. Pero ESTO es una palanca.
 %
 Centralizar código fuente en una única plataforma ajena es incluso peor
 que no programar.
+%
+El cómputo es narcisismo cuantificado disfrazado como actividad
+productiva.
+%
+El hardware no alimenta al software.
+%
+Quien no desea, no programa.
+%
+Quien conoce el mínimo programa obra ricamente.
+%
+Un parser es un mecanismo que traduce cadenas de texto a símbolos identificables.
+%
+El número mágico se usa en los sistemas UNIX para identificar el tipo de fichero.
+%
+Un byte mas allá de COBOL está la inmortalidad.
