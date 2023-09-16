@@ -13,37 +13,37 @@ Estos paquetes suelen estar disponibles para la mayoría de las distribuciones d
 
 ## Frases Fortune de adoctrinamiento "Estatuto del Hacker"
 
-Instala las frases de adoctrinamiento en castellano.
+Instale las frases de adoctrinamiento en castellano en su sistema operativo correspondiente.
 
-  * **Para BSD**:
-Copia <file>doctrina_bsd</file> (fichero con las frases de adoctrinamiento, con word wrap a 72 líneas) en el directorio <file>/usr/share/games/fortune</file> de tu sistema BSD. Puede hacerlo desde la terminal con los estos comandos: 
-
-<code bash>$ cp doctrina_bsd /usr/share/games/fortune/doctrina</code>
-
-<code bash>$ strfile /usr/share/games/fortune/doctrina</code>
-
-  * **Para GNU/Linux**:
+  * **Instrucciones Para GNU/Linux**:
 Copie <file>doctrina_linux</file> (fichero con frases de adoctrinamiento sin word wrap) en el directorio <file>/usr/share/games/fortunes/es/</file> de su sistema GNU/Linux. Puede hacerlo desde la terminal con los siguientes comandos:
 
 <code bash>$ cp doctrina_linux /usr/share/games/fortunes/es/doctrina</code>
 
 <code bash>$ strfile /usr/share/games/fortunes/es/doctrina</code>
 
+  * **Instrucciones Para BSD**:
+Copia <file>doctrina_bsd</file> (fichero con las frases de adoctrinamiento, con word wrap a 72 líneas) en el directorio <file>/usr/share/games/fortune</file> de tu sistema BSD. Puede hacerlo desde la terminal con los estos comandos: 
+
+<code bash>$ cp doctrina_bsd /usr/share/games/fortune/doctrina</code>
+
+<code bash>$ strfile /usr/share/games/fortune/doctrina</code>
+
 ### Uso
 
-Desde la terminal, use el programa fortune para llamar al fichero <file>doctrina</file>. En Ubuntu/Debian y BSD spodrás hacerlo con:
+Desde la terminal de su sistema operativo, use el programa fortune para llamar al fichero <file>doctrina</file>. Tanto en sistemas Ubuntu/Debian como BSD podrá hacerlo con:
 
 <code>fortune doctrina</code>
 
 ===
 
-## Archivos COW
+## Archivos .cow
 
 Se trata de distintos ficheros de gráficos ASCII con extensión .cow, ada uno con un nuevo personaje que se puede usar con cowsay o programas similares.
 
-Sigue las instrucciones para incorporalos:
+Sigue las instrucciones para incorporalos al sistema que corresponda:
 
-  * **Para GNU/Linux**:
+  * **Instrucciones para GNU/Linux**:
 
 Copie los ficheros de los personajes <file>vacapiloto.cow</file>, <file>gaucho_hacker.cow</file>, <file>peron_ascii.cow</file>, <file>vax.cow</file>, <file>vax3900.cow</file> y <file>17oct_ascii.cow</file> en la carpeta carpeta <file>/usr/share/cowsay/cows/</file> de su sistema GNU/Linux. Podrá hacerlo con:
 
@@ -60,7 +60,7 @@ Copie los ficheros de los personajes <file>vacapiloto.cow</file>, <file>gaucho_h
 <code bash>$ cp vax3900.cow /usr/local/share/cows/vax.cow</code>
 
 
-  * **En BSD**:
+  * **Instrucciones para BSD**:
 
 Copie los ficheros de los personajes <file>vacapiloto.cow</file>, <file>gaucho_hacker.cow</file>, <file>peron_ascii.cow</file>, <file>vax.cow</file>, <file>vax3900.cow</file> y <file>17oct_ascii.cow</file> en la carpeta <file>/usr/local/share/cows/</file> de su sistema BSD. Podrá hacerlo ingresando estos comandos:
 
