@@ -1,11 +1,14 @@
 # Estatuto-del-Hacker
-Herramental ASCII para la terminal con Frases y aforismos de hacking y adoctrinamiento peronista en castellano para fortune o fortune-mud.
+
+Herramental ASCII para la terminal de línea de comandos, con Frases y aforismos de hacking y adoctrinamiento (en castellano). Requiere fortune o fortune-mud.
 
 por ~peron <peron@texto-plano.xyz>
+
 GPLv3
 
 ### Requerimientos
-Para poder utilizar los ficheros de frases se requiere de alguna versión de fortune, fortune-mud, bsd fortune, o similar, y para las gráficas cowsay o similar. 
+Para poder utilizar los ficheros de frases se requiere de alguna versión de fortune, fortune-mud, bsd fortune, o similar. Para las gráficas .cow requiere el programa cowsay o similar.
+
 Estos paquetes suelen estar disponibles para la mayoría de las distribuciones de sistemas operativos similares a Unix.
 
 ## Frases Fortune de adoctrinamiento "Estatuto del Hacker"
@@ -13,14 +16,14 @@ Estos paquetes suelen estar disponibles para la mayoría de las distribuciones d
 Instala las frases de adoctrinamiento en castellano.
 
   * **Para BSD**:
-Copia <file>doctrina_bsd</file> (fichero con las frases de adoctrinamiento, con word wrap a 72 líneas) en el directorio <file>/usr/share/games/fortune</file> de tu sistema. Puedes hacerlo desde la terminal con los comandos siguientes: 
+Copia <file>doctrina_bsd</file> (fichero con las frases de adoctrinamiento, con word wrap a 72 líneas) en el directorio <file>/usr/share/games/fortune</file> de tu sistema BSD. Puede hacerlo desde la terminal con los estos comandos: 
 
 <code bash>$ cp doctrina_bsd /usr/share/games/fortune/doctrina</code>
 
 <code bash>$ strfile /usr/share/games/fortune/doctrina</code>
 
   * **Para GNU/Linux**:
-Copia <file>doctrina_linux</file> (frases de adoctrinamiento sin word wrap) en el directorio <file>/usr/share/games/fortunes/es/</file> de tu sistema. Puedes hacerlo desde la terminal con los siguientes comandos:
+Copie <file>doctrina_linux</file> (fichero con frases de adoctrinamiento sin word wrap) en el directorio <file>/usr/share/games/fortunes/es/</file> de su sistema GNU/Linux. Puede hacerlo desde la terminal con los siguientes comandos:
 
 <code bash>$ cp doctrina_linux /usr/share/games/fortunes/es/doctrina</code>
 
@@ -28,7 +31,7 @@ Copia <file>doctrina_linux</file> (frases de adoctrinamiento sin word wrap) en e
 
 ### Uso
 
-Desde la terminal, usa fortune para llamar al fichero <file>doctrina</file>. En Ubuntu/Debian y BSD spodrás hacerlo con:
+Desde la terminal, use el programa fortune para llamar al fichero <file>doctrina</file>. En Ubuntu/Debian y BSD spodrás hacerlo con:
 
 <code>fortune doctrina</code>
 
@@ -36,28 +39,13 @@ Desde la terminal, usa fortune para llamar al fichero <file>doctrina</file>. En 
 
 ## Archivos COW
 
-Distintos ficheros gráficos ASCII de extensión .cow con nuevos personajes para cowsay.
+Se trata de distintos ficheros de gráficos ASCII con extensión .cow, ada uno con un nuevo personaje que se puede usar con cowsay o programas similares.
 
 Sigue las instrucciones para incorporalos:
 
-  * **Para BSD**:
-
-Cópia los ficheros de los personajes <file>vacapiloto.cow</file>, <file>peron_ascii.cow</file> y <file>17oct_ascii.cow</file> en la carpeta <file>/usr/local/share/cows/</file> con:
-
-<code bash>$ cp vacapiloto.cow /usr/local/share/cows/</code>
-
-<code bash>$ cp peron.cow /usr/local/share/cows/peron.cow</code>
-
-<code bash>$ cp 17oct_bsd.cow /usr/local/share/cows/17oct.cow</code>
-
-<code bash>$ cp gaucho_hacker.cow /usr/local/share/cows/gaucho.cow</code>
-
-
-<code bash>$ cp vax.cow /usr/local/share/cows/</code>
-
   * **Para GNU/Linux**:
 
-Cópia los ficheros de los personajes <file>vacapiloto.cow</file>, <file>peron_ascii.cow</file> y <file>17oct_ascii.cow</file> en la carpeta <file>/usr/share/cowsay/cows/</file> con:
+Copie los ficheros de los personajes <file>vacapiloto.cow</file>, <file>gaucho_hacker.cow</file>, <file>peron_ascii.cow</file>, <file>vax.cow</file>, <file>vax3900.cow</file> y <file>17oct_ascii.cow</file> en la carpeta carpeta <file>/usr/share/cowsay/cows/</file> de su sistema GNU/Linux. Podrá hacerlo con:
 
 <code bash>$ cp vacapiloto.cow /usr/share/cowsay/cows/</code>
 
@@ -69,13 +57,33 @@ Cópia los ficheros de los personajes <file>vacapiloto.cow</file>, <file>peron_a
 
 <code bash>$ cp vax.cow /usr/local/share/cows/vax.cow</code>
 
+<code bash>$ cp vax3900.cow /usr/local/share/cows/vax.cow</code>
+
+
+  * **En BSD**:
+
+Copie los ficheros de los personajes <file>vacapiloto.cow</file>, <file>gaucho_hacker.cow</file>, <file>peron_ascii.cow</file>, <file>vax.cow</file>, <file>vax3900.cow</file> y <file>17oct_ascii.cow</file> en la carpeta <file>/usr/local/share/cows/</file> de su sistema BSD. Podrá hacerlo ingresando estos comandos:
+
+<code bash>$ cp vacapiloto.cow /usr/local/share/cows/</code>
+
+<code bash>$ cp peron.cow /usr/local/share/cows/peron.cow</code>
+
+<code bash>$ cp 17oct_bsd.cow /usr/local/share/cows/17oct.cow</code>
+
+<code bash>$ cp gaucho_hacker.cow /usr/local/share/cows/gaucho.cow</code>
+
+<code bash>$ cp vax.cow /usr/local/share/cows/</code>
+
+<code bash>$ cp vax3900.cow /usr/local/share/cows/</code>
+
 
 ### Uso
 
-Solicita una frase al azar con:
+Solicite una frase al azar con:
+
 <code bash>fortune doctrina</code>
 
-Podrás dirigir la salida del comando a un personaje de cowsay por medio de pipes. 
+Podrá dirigir la salida del comando a un personaje de cowsay por medio de pipes. 
 Por ejemplo:
 
 <code bash>clear && fortune doctrina | cowsay -f peron</code>
