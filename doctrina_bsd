@@ -3670,7 +3670,7 @@ al abuso de esta información.
 El gran peligro de la inteligencia artificial es que aumente el poder de
 los tecno-oligarcas.
 %
-Cualquier sistema puede ser inseguro: basta qye se dirija de un modo
+Cualquier sistema puede ser inseguro: basta que se conduzca de un modo
 estúpido.
 %
 Los ordenadores de alta seguridad son de difícil acceso e incómodos de
@@ -3679,7 +3679,7 @@ utilizar.
 Los sistemas abiertos y amenos suelen ser inseguros.
 %
 Quienes no tengan una memoria de Masa estarán condenados a trabajar cien
-veces más de lo necesario sólo para volver a lograr lo que ya tenía
+veces más de lo necesario sólo para volver a lograr lo que ya tenían
 asegurado...
 %
 Escribir un programa más o menos complejo requiere muchos metros de
@@ -4252,3 +4252,41 @@ Un parser es un mecanismo que traduce cadenas de texto a símbolos identificable
 El número mágico se usa en los sistemas UNIX para identificar el tipo de fichero.
 %
 Un byte mas allá de COBOL está la inmortalidad.
+%
+Los medios de almacenamiento se desgastan.
+%
+Conseguir que una computadora se comunique con el mundo exterior no es
+una tarea fácil, pero hacer que lo haga un programador es más difícil.
+%
+La mayoría del esfuerzo computacional está dado en convertir el
+resultado maquinal para que lo entienda un tonto cualquiera.
+%
+Los fabricantes de circuitos integrados idearon uno que oficia de
+"controlador de vídeo". Este pequeño chip (¡una computadora por derecho
+propio!) realiza todo el trabajo de servicio y permite al procesador
+hacer cosas más importantes, como ejecutar un programa.
+%
+La CPU puede dedicar una gran cantidad de tiempo a realizar el trabajo
+requerido, o podemos incorporar otra computadora para que lo haga por
+ella.
+%
+Dentro de la CPU, tratamos los datos en una forma llamada byte. Cuando
+esto se traduce a la forma que adopta en el exterior, se convierte en un
+caracter.
+%
+Un bit no consiste más que en una condición de ENCENDIDO o APAGADO.
+%
+El módem modifica las señales digitales que le gustan a la computadora
+en señales de audio que adopta la red telefónica.
+%
+Cuando se envía una condición de ENCENDIDO al módem, se transmite una
+señal de 1270 ciclos. Cuando se envía una condición de APAGADO al MÓDEM,
+se transmite una señal de audio de 1070 ciclos.
+%
+Toda distribución de kernel Linux viene surtida con paquetes de
+aplicaciones. No creerán que pelado nace el mono...
+%
+Un clúster de datos para el Pueblo permite almacenar para trabajar, y
+resguardar para luchar.
+%
+La Masa es 0. Quien la transforma en 1 es su Conductor.
