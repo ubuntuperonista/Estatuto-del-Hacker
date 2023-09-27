@@ -1,11 +1,10 @@
 # provisto por ~peron <peron@texto-plano.xyz>
 $the_cow = <<"EOC";
- $thoughts
   $thoughts
-   $thoughts  _   _
-     ((O=O))
-     [ o o ]
-    //\\   /\\\\
-      (' `)  
-       (u)
+   $thoughts _   _
+    ((O=O))
+    [ o o ]
+   //\\   /\\\\
+     (' `)  
+      (u)
 EOC
