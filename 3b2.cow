@@ -1,7 +1,8 @@
 # provisto por ~peron <peron@texto-plano.xyz>
 $the_cow = <<"EOC";
     $thoughts
-     $thoughts   +--------------------------+
+     $thoughts
+   +--------------------------+
    | |||||||||||  o AT&T 32B  |
    | |||||||||||||||||||||||| |
    | |||||||||||||||||||||||| |
