@@ -3,6 +3,7 @@
 # Requiere fortune, fortunes-es o fortune-mud
 echo "Descargando todo..."
 wget -O /tmp/doctrina https://caja.texto-plano.xyz/peron/fortune-phrases/doctrina2
+wget -O /tmp/rms https://caja.texto-plano.xyz/peron/fortune-phrases/rms2
 wget -O /tmp/peron.cow https://caja.texto-plano.xyz/peron/fortune-phrases/peron2.cow
 wget -O /tmp/pocho.cow https://caja.texto-plano.xyz/peron/fortune-phrases/pocho.cow
 wget -O /tmp/vacapiloto.cow https://caja.texto-plano.xyz/peron/fortune-phrases/vacapiloto.cow
@@ -24,11 +25,13 @@ mv  /tmp/vax.cow /usr/share/cowsay/cows
 mv  /tmp/vax3900.cow /usr/share/cowsay/cows
 mv  /tmp/gaucho.cow /usr/share/cowsay/cows
 mv /tmp/doctrina /usr/share/games/fortunes/es
-cd /usr/share/games/fortunes/es/
+mv /tmp/rms /usr/share/games/fortunes/es
 
 echo "OK!"
 echo 'Actualizando Doctrinas...'
+cd /usr/share/games/fortunes/es/
 strfile doctrina
+strfile rms
 echo 'Doctrinas actualizadas'
 echo "Te devuelvo al directorio"
 cd -
