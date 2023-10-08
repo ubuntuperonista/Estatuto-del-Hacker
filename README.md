@@ -16,7 +16,7 @@ Estos paquetes suelen estar disponibles para la mayoría de las distribuciones d
 Instale las frases de adoctrinamiento en castellano en su sistema operativo correspondiente.
 
   * **Instrucciones Para GNU/Linux**:
-Copie <file>doctrina_linux</file> (fichero con frases de adoctrinamiento sin word wrap) en el directorio <file>/usr/share/games/fortunes/es/</file> de su sistema GNU/Linux. Puede hacerlo desde la terminal con los siguientes comandos:
+Copie <file>doctrina_linux</file> y <file>rms_linux</file> (fichero con frases de adoctrinamiento sin word wrap) en el directorio <file>/usr/share/games/fortunes/es/</file> de su sistema GNU/Linux. Puede hacerlo desde la terminal con los siguientes comandos:
 
 <code bash>$ cp doctrina_linux /usr/share/games/fortunes/es/doctrina</code>
 <code bash>$ cp rms_linux /usr/share/games/fortunes/es/doctrina</code>
@@ -54,7 +54,7 @@ Sigue las instrucciones para incorporalos al sistema que corresponda:
 
   * **Instrucciones para GNU/Linux**:
 
-Copie los ficheros de los personajes <file>vacapiloto.cow</file>, <file>gaucho_hacker.cow</file>, <file>peron_ascii.cow</file>, <file>vax.cow</file>, <file>vax3900.cow</file> y <file>17oct_ascii.cow</file> en la carpeta carpeta <file>/usr/share/cowsay/cows/</file> de su sistema GNU/Linux. Podrá hacerlo con:
+Copie los ficheros de los personajes <file>vacapiloto.cow</file>, <file>gaucho_hacker.cow</file>, <file>peron_ascii.cow</file>, <file>vax.cow</file>, <file>vax3900.cow</file>, <file>17oct_ascii.cow</file> y <file>rms.cow</file> en la carpeta carpeta <file>/usr/share/cowsay/cows/</file> de su sistema GNU/Linux. Podrá hacerlo con:
 
 <code bash>$ cp vacapiloto.cow /usr/share/cowsay/cows/</code>
 
@@ -74,7 +74,7 @@ Copie los ficheros de los personajes <file>vacapiloto.cow</file>, <file>gaucho_h
 
   * **Instrucciones para BSD**:
 
-Copie los ficheros de los personajes <file>vacapiloto.cow</file>, <file>gaucho_hacker.cow</file>, <file>peron_ascii.cow</file>, <file>vax.cow</file>, <file>vax3900.cow</file> y <file>17oct_ascii.cow</file> en la carpeta <file>/usr/local/share/cows/</file> de su sistema BSD. Podrá hacerlo ingresando estos comandos:
+Copie los ficheros de los personajes <file>vacapiloto.cow</file>, <file>gaucho_hacker.cow</file>, <file>peron_ascii.cow</file>, <file>vax.cow</file>, <file>vax3900.cow</file>, <file>17oct_ascii.cow</file> y <file>rms.cow</file> en la carpeta <file>/usr/local/share/cows/</file> de su sistema BSD. Podrá hacerlo ingresando estos comandos:
 
 <code bash>$ cp vacapiloto.cow /usr/local/share/cows/</code>
 
