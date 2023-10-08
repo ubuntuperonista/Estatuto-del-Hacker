@@ -19,21 +19,30 @@ Instale las frases de adoctrinamiento en castellano en su sistema operativo corr
 Copie <file>doctrina_linux</file> (fichero con frases de adoctrinamiento sin word wrap) en el directorio <file>/usr/share/games/fortunes/es/</file> de su sistema GNU/Linux. Puede hacerlo desde la terminal con los siguientes comandos:
 
 <code bash>$ cp doctrina_linux /usr/share/games/fortunes/es/doctrina</code>
+<code bash>$ cp rms_linux /usr/share/games/fortunes/es/doctrina</code>
 
 <code bash>$ strfile /usr/share/games/fortunes/es/doctrina</code>
+<code bash>$ strfile /usr/share/games/fortunes/es/rms</code>
 
   * **Instrucciones Para BSD**:
 Copia <file>doctrina_bsd</file> (fichero con las frases de adoctrinamiento, con word wrap a 72 líneas) en el directorio <file>/usr/share/games/fortune</file> de tu sistema BSD. Puede hacerlo desde la terminal con los estos comandos: 
 
 <code bash>$ cp doctrina_bsd /usr/share/games/fortune/doctrina</code>
+<code bash>$ cp rms_bsd /usr/share/games/fortune/rms</code>
+
 
 <code bash>$ strfile /usr/share/games/fortune/doctrina</code>
+<code bash>$ strfile /usr/share/games/fortune/rms</code>
 
 ### Uso
 
 Desde la terminal de su sistema operativo, use el programa fortune para llamar al fichero <file>doctrina</file>. Tanto en sistemas Ubuntu/Debian como BSD podrá hacerlo con:
 
 <code>fortune doctrina</code>
+
+o bien:
+
+<code>fortune rms</code>
 
 ===
 
@@ -59,6 +68,9 @@ Copie los ficheros de los personajes <file>vacapiloto.cow</file>, <file>gaucho_h
 
 <code bash>$ cp vax3900.cow /usr/local/share/cows/vax.cow</code>
 
+<code bash>$ cp rms.cow /usr/local/share/cows/rms.cow</code>
+
+
 
   * **Instrucciones para BSD**:
 
@@ -76,12 +88,20 @@ Copie los ficheros de los personajes <file>vacapiloto.cow</file>, <file>gaucho_h
 
 <code bash>$ cp vax3900.cow /usr/local/share/cows/</code>
 
+<code bash>$ cp rms.cow /usr/local/share/cows/</code>
+
+
 
 ### Uso
 
 Solicite una frase al azar con:
 
 <code bash>fortune doctrina</code>
+
+o bien:
+
+<code bash>fortune rms</code>
+
 
 Podrá dirigir la salida del comando a un personaje de cowsay por medio de pipes. 
 Por ejemplo:
