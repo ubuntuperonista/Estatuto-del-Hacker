@@ -370,7 +370,7 @@ Para la mayoría de los programas pequeños, usar el copyleft no amerita el esfu
 %
 Cuando el código fuente de un paquete de software tiene menos de 300 líneas, los beneficios que proporciona el copyleft suelen ser demasiado pequeños para justificar la inconveniencia de asegurarse que una copia de la licencia acompañe siempre al software.
 %
-La Licencia Apache 2.0 se trata de una licencia de software débil, laxa, "blanda" (sin copyleft), que contiene cláusulas para evitar que contribuidores y distribuidores sean demandados por violación de patentes. 
+La Licencia Apache 2.0 se trata de una licencia de software débil, laxa, "blanda" (sin copyleft), que contiene cláusulas para evitar que contribuidores y distribuidores sean demandados por violación de patentes.
 %
 La licencia Apache 2.0 es la mejor de las licencias débiles (blandas). Así que, si por el motivo que sea va a emplear una licencia débil, esta es la que recomendamos.
 %
@@ -740,3 +740,253 @@ Las patentes del algoritmo de compresión LZW se aplicaron en 1983, y todavía n
 En 1998, se suspendió la distribución de un programa libre para reproducir archivos de audio MP3 comprimidos bajo amenaza de una demanda judicial por patente.
 %
 A pesar de que resulta muy útil discutir la efectividad práctica del modelo de desarrollo de tipo "catedral" y la fiabilidad y potencia de ciertos programas de software libre, debemos ir más allá. Debemos hablar de libertad y de principios.
+%
+La mayor deficiencia de nuestros sistemas operativos no reside en el software, sino en la ausencia de buenos manuales libres para nuestros sistemas.
+%
+La documentación es una parte esencial de cualquier paquete de software
+%
+Un paquete importante de software libre sin un buen manual libre que lo acompañe constituye un lastre considerable.
+%
+La documentación libre, al igual que el software, es una cuestión de libertad, no de precio.
+%
+Debe autorizarse la redistribución del manual de un programa libre -incluida la venta comercial, en papel y on line -, de modo que el manual pueda acompañar a todas las copias del programa.
+%
+Por regla general, no creo que la gente deba tener el derecho de modificar toda clase de artículos y libros. Pero existe una razón específica de que la libertad para modificar sea un elemento crucial para la documentación relativa al software libre.
+%
+Debemos ser capaces de modificar el contenido "técnico" del manual y luego redistribuirlo en los medios y canales habituales; de lo contrario, el manual dejaría de ser útil y necesitaríamos elaborar uno completamente nuevo.
+%
+Se calcula que existen diez millones de usuarios de sistemas GNU/Linux como Debian GNU/Linux y Red Hat Linux. El software libre ha desarrollado tales ventajas prácticas que está ganando adeptos por razones puramente prácticas.
+%
+Nuestra capacidad para hacer frente a los desafíos y las amenazas anteriormente descritos dependerá de nuestra voluntad de mantenernos firmes en nombre de la libertad.
+%
+Nuestros esfuerzos por atraer a nuevos usuarios a nuestra comunidad superan con creces a nuestras iniciativas a la hora de enseñarles los principios de nuestra comunidad.
+%
+La tarea de enseñar a los nuevos usuarios el valor de la libertad se complicó especialmente en 1998, cuando parte de la comunidad decidió abandonar el término "software libre" y empezó a hablar de "software de código abierto".
+%
+Quienes proponen el "código abierto" intentaban dejar a un lado los principios que habían impulsado la creación del software libre y el proyecto GNU, procurando así atraer a los ejecutivos y a los usuarios de empresas, quienes comparten mayoritariamente una ideología que antepone las ganancias económicas a la libertad.
+%
+La retórica del "código abierto" se concentra en la posibilidad de crear un software de alta calidad y capacidad, pero rehuye las nociones de libertad, comunidad y principios.
+%
+El apoyo de la comunidad empresarial puede contribuir al bien de la comunidad de distintas maneras, siempre que partamos de unas condiciones de igualdad.
+%
+Los términos "software libre" y "código abierto" describen más o menos la misma categoría de software, pero implican cosas muy distintas acerca del software y sus valores.
+%
+El Proyecto GNU sigue empleando el término "software libre" para expresar la idea de que la libertad, y no sólo la tecnología, es importante.
+%
+He realizado mi trabajo siempre ansioso ante la perspectiva de que no tuviera suficiente capacidad para ello, sin saber si mi labor bastaría para alcanzar el objetivo deseado.
+%
+La visión de un regimiento de hackers manos a la obra constituye una fuente de alivio y de alegría.
+%
+Con el transcurso de los años los peligros son cada vez mayores, y ahora Microsoft nos tiene en su punto de mira.
+%
+No podemos pensar que el futuro de la libertad está asegurado. ¡No os engañéis! Si quieres conservar tu libertad, tienes que estar preparado para defenderla.
+%
+GNU, que significa GNU No es Unix, es el nombre de un sistema de software completamente compatible con Unix que estoy escribiendo para poder regalarlo libremente a quien pueda utilizarlo.
+%
+GNU será capaz de ejecutar programas de Unix, pero no será idéntico a Unix. Haremos todas las mejoras que sean convenientes y estén basadas en nuestra experiencia con otros sistemas operativos.
+%
+Considero que la regla de oro requiere que si a mi me gusta un programa, lo debo compartir con otra gente que le guste
+%
+Los vendedores de software quieren dividir a los usuarios y seducirlos, haciendo que cada usuario acuerde no compartir su software con otros. Yo rehúso a romper mi solidaridad con otros usuarios de esta manera
+%
+No puedo en buena conciencia firmar un acuerdo de no divulgación o un acuerdo de licencia de software.
+%
+Para poder continuar usando ordenadores sin vergüenza, he decidido agrupar un cuerpo suficiente de software libre de tal manera que pueda seguir andando sin ninguna clase de software que no sea libre.
+%
+He dejado el laboratorio de IA para negar al MIT cualquier excusa legal que me prohíba distribuir software GNU.
+%
+Unix no es mi ideal de sistema, pero no es del todo malo.
+%
+Las características esenciales de Unix parecen ser buenas y pienso que puedo añadir lo que le falta a Unix sin echarlas a perder.
+%
+GNU no es de dominio público. Todos tendrán permiso para modificar y redistribuir GNU, pero a ningún distribuidor se le permitirá restringir su redistribución posterior. Es decir, no estarán permitidas modificaciones propietarias.
+%
+Quiero asegurarme de que todas las versiones de GNU permanezcan libres.
+%
+He encontrado muchos otros programadores que están entusiasmados con GNU y quieren ayudar.
+%
+Muchos programadores están descontentos con la comercialización del software de sistema.
+%
+El acto fundamental de amistad entre programadores es el hecho de compartir programas.
+%
+Al desarrollar y utilizar GNU en lugar de programas propietarios, nosotros podemos ser hospitalarios con todos y obedecer la ley.
+%
+GNU sirve como ejemplo de inspiración y como bandera para conminar a otros a unirse a nosotros en el acto de compartir.
+%
+GNU puede darnos una sensación de armonía que es imposible cuando utilizamos software que no es libre.
+%
+Estoy pidiendo a los fabricantes de ordenadores que donen equipos y dinero. Estoy pidiendo donativos en forma de programas y trabajo.
+%
+He encontrado que muchos programadores están ansiosos de contribuir trabajando a tiempo parcial para GNU.
+%
+Un sistema completo en Unix contiene cientos de utilidades, cada una de las cuales se documenta por separado.
+%
+Una vez que se haya escrito GNU, todos podremos obtener un buen sistema de software libre, al igual que obtenemos aire.
+%
+Un usuario que necesite modificar el sistema será siempre libre de hacerlo por sí mismo, o de contratar a cualquier programador o empresa disponible para hacerlo por él.
+%
+Los usuarios no estarán ya a merced de un programador o una empresa que sea dueña del código fuente y que sea la única en posición de realizar modificaciones.
+%
+Las escuelas podrán proporcionar un ambiente bastante más educativo, animando todos los estudiantes a estudiar y mejorar el código del sistema.
+%
+En el laboratorio de programación de Harvard solían tener la política de que ningún programa podía ser instalado en el sistema si su código fuente no estaba a disposición del públic.
+%
+Copiar por completo o una parte de un programa es tan natural para un programador como respirar y le es igual de productivo.
+%
+Si la gente prefiriera pagar por GNU y su servicio en vez de obtener GNU libre y sin servicio, una empresa que ofrezca servicio a las personas que obtuvieron GNU libre debiera tener beneficios.
+%
+Los usuarios que no saben de ordenadores necesitan que se les lleve de la mano: hacer cosas por ellos que ellos mismos podrían hacer fácilmente, pero que no saben cómo hacerlas.
+%
+Aquellos de nosotros que no necesitemos servicios debemos poder usar el programa sin pagar por el servicio.
+%
+Si mucha gente obtiene GNU a través de sus amistades y estas empresas no resultan ser un buen negocio, esto demostraría que la publicidad no era realmente necesaria para divulgar GNU.
+%
+Si tu negocio es vender un sistema operativo, no te gustará GNU, pero ese es tu problema.
+%
+La creatividad puede considerarse una contribución social, pero sólo si la sociedad es libre de aprovechar sus resultados.
+%
+No hay nada que objetar en querer un pago por el trabajo, o por buscar maximizar los propios ingresos, siempre y cuando no se utilicen medios que sean destructivos. Pero las formas a las que estamos acostumbrados actualmente en el campo del software se basan en la destrucción.
+%
+Extraer dinero de los usuarios de un programa mediante la restricción de su uso resulta destructivo porque las restricciones reducen la cantidad y las formas en que el programa puede ser utilizado.
+%
+Cuando se opta deliberadamente por la restricción, las consecuencias dañinas son la destrucción deliberada.
+%
+Restringir la copia no es la única forma para hacer negocios con el software. Es la forma más común porque es de la que se obtiene más dinero.
+%
+El "control sobre el uso de las ideas de uno" realmente constituye control sobre las vidas de otras personas; y normalmente se usa para dificultar más sus vidas.
+%
+El sistema de patentes fue establecido para animar a los inventores a revelar los detalles de sus inventos. Su propósito fue ayudar a la sociedad y no tan to ayudar a los inventores.
+%
+La programación tiene una fascinación irresistible para algunas personas, generalmente para las mejores en el ramo.
+%
+Lo que muestran los hechos es que la gente programa por razones distintas a la de la riqueza; pero si se les da una oportunidad de hacer también mucho dinero.
+%
+Deberías ser libre de redistribuir copias con o sin modificaciones, de forma gratuita o cobrando por su distribución, a cualquiera y en cualquier lugar. Gozar de esta libertad significa, entre otras cosas, no tener que pedir permiso ni pagar para ello.
+%
+Deberías ser libre para introducir modificaciones y utilizarlas de forma privada, ya sea en tu trabajo o en tu tiempo libre, sin siquiera tener que mencionar su existencia. Si decidieras publicar estos cambios, no deberías estar obligado a notificárselo a ninguna persona ni de ninguna forma en particular.
+%
+La libertad para utilizar un programa significa que cualquier individuo u organización podrán ejecutarlo desde cualquier sistema informático, con cualquier fin y sin la obligación de comunicárselo subsiguientemente ni al desarrollador ni a ninguna entidad en concreto.
+%
+La libertad para redistribuir copias supone incluir las formas binarias o ejecutables del programa y el código fuente tanto de las versiones modificadas como de las originales —la distribución de programas en formato ejecutable es necesaria para su adecuada instalación en sistemas operativos libres.
+%
+No pasa nada si no se puede producir una forma ejecutable o binaria —dado que no todos los lenguajes pueden soportarlo—, pero todos debemos tener la libertad para redistribuir tales formas si se encuentra el modo de hacerlo.
+%
+Puedes pagar o no por obtener copias de software libre, pero independientemente de la manera en que las obtengas, siempre tendrás libertad para copiar, modificar e incluso vender estas copias.
+%
+El software libre no significa que sea "no comercial". Cualquier programa libre estará disponible para su uso, desarrollo y distribución comercial.
+%
+A veces la normativa gubernamental de control de las exportaciones y las sanciones comerciales pueden constreñir tu libertad para distribuir copias a nivel internacional.
+%
+Cuando hablamos de software libre, es preferible evitar expresiones como "regalar" o "gratis", porque entonces caeremos en el error de interpretarlo como una mera cuestión de precio y no de libertad.
+%
+Las tecnologías digitales de la información ayudan al mundo haciendo que sea más fácil copiar y modificar información. Los ordenadores prometen hacer esto de forma más sencilla para todos.
+%
+Las tecnologías digitales son más flexibles que la imprenta: cuando la información adopta forma digital, puedes copiarla fácilmente para compartirla con otros.
+%
+Nuestras ideas e intuiciones acerca de la propiedad sobre los objetos materiales tratan acerca de si es justo privarle a alguien de un objeto. No se aplican directamente a hacer copias de algo. Pero los propietarios nos piden que apliquemos estas ideas de todas formas.
+%
+Copiar no tiene un efecto directo sobre el propietario, y no hace daño a nadie. El propietario sólo puede perder si la persona que hizo la copia hubiese pagado por otra del propietario en su lugar.
+%
+Los autores a menudo apelan a una conexión especial con los programas que han escrito y añaden que, en consecuencia, sus deseos e intereses respecto al programa simplemente prevalecen sobre los de cualquier otra persona
+%
+Para los que presentan "el desarrollador es más importante que tú" como un axioma ético, sólo les puedo decir que yo mismo, un notable autor de software, lo considero una tontería.
+%
+El hecho de que tú ejecutes o modifiques un programa que yo he escrito te afecta a ti directamente y a mí sólo indirectamente. Si tú le das una copia a tu amigo te afecta a ti y a tu amigo mucho más que lo que me afecta a mí. Yo no debería tener el poder de decirte que no hagas estas cosas. Nadie debería.
+%
+Cuando un programa tiene un propietario, los usuarios pierden la libertad de controlar una parte de sus propias vidas.
+%
+Cuando los propietarios de software nos dicen que ayudar a nuestro vecino de una manera natural es «piratería», están contaminando el espíritu cívico de nuestra sociedad.
+%
+Como un usuario de informática de hoy en día, te puedes encontrar usando un programa propietario. Si un amigo te pide hacer una copia, estaría mal negarse a ello.
+%
+La cooperación es más importante que el copyright.
+%
+Una persona debería aspirar a vivir una vida honrada abiertamente con orgullo, y esto significa decir "no" al software propietario.
+%
+Tienes derecho a poder cooperar abierta y libremente con otras personas que usan software.
+%
+Tienes derecho a poder aprender cómo funciona el software, y a enseñar a tus estudiantes con él.
+%
+Tienes derecho a poder contratar a tu programador favorito para arreglarlo cuando un software se rompa.
+%
+Tienes derecho al software libre.
+%
+Es importante que la gente conozca el origen del sistema, su historia y su propósito.
+%
+El Mundo Libre que se ha desarrollado en torno a GNU/Linux no es un lugar seguro; los problemas que nos llevaron a crear GNU no han sido completamente erradicados y amenazan con volver.
+%
+Usar el nombre de GNU/Linux es una forma de que la gente lo recuerde e informe a los demás de nuestros objetivos.
+%
+Es posible escribir buen software libre sin pensar en GNU.
+%
+Un gran reto para el futuro del software libre es la tendencia de las empresas de distribución de Linux a agregar software no libre a GNU/Linux en nombre de la conveniencia y la potencia.
+%
+La mayor parte de los desarrolladores de distribución comercial agregan software no libre; ninguno produce una distribución completamente libre.
+%
+Cuando escriben un programa que depende de un paquete no libre, su software no podrá formar parte de un sistema totalmente libre.
+%
+Si publicar alternativas libres se redujera a una mera cuestión de programación, resolver los futuros problemas podría ser cada vez más fácil a medida que aumentaran los recursos destinados al desarrollo en nuestra comunidad.
+%
+No podemos esperar que el mero deseo de un software potente y fiable incite a la gente a emprender grandes esfuerzos de programación.
+%
+Necesitamos la clase de determinación que la gente tiene cuando lucha por su libertad y su comunidad, determinación para seguir adelante durante años sin rendirse.
+%
+Algunos distribuidores de software GNU/Linux añaden paquetes propietarios al sistema básico libre e invitan a los usuarios a considerar esto como una ventaja, en lugar de un retroceso en la libertad.
+%
+Al igual que las ciencias, el software despiertan la codicia en un gran número de gerentes universitarios: consideran los programas como una potencial fuente de ingresos, y no como aportaciones al saber humano.
+%
+Cuando los gestores comprendan que sus opciones se limitan a tener un paquete de software libre que aportará prestigio a la universidad o nada de nada, por lo general se decantarán por la primera opción.
+%
+Sea cual sea vuestra postura, siempre conviene mostrar determinación y adoptar una perspectiva ética, tal y como lo hacemos nosotros en el movimiento del software libre.
+%
+Si deseamos tratar al público éticamente, el software debería ser libre en el sentido de libertad para todos.
+%
+Nosotros defendemos que quienes redistribuyen software libre cobren cuanto quieran o cuanto puedan por él.
+%
+Algunas veces los programas libres se distribuyen gratis y otras a cambio de un precio cuantioso.
+%
+El programa es libre porque los usuarios lo pueden utilizar libremente, sin que importe su precio.
+%
+Los programas que no son libres se venden frecuentemente a precios altos, pero a veces una tienda te ofrece una copia sin cobrarte. No obstante, eso no lo convierte en software libre.
+%
+Con o sin precio, el programa no es libre cuando sus usuarios no tienen
+libertad.
+%
+Dado que el software libre no es una cuestión de precio, un precio bajo no resulta más libre, ni más próximo a lo libre.
+%
+Si redistribuyes copias de software libre, también puedes fijar un precio cuantioso para hacer algo de dinero. Redistribuir software es una actividad buena y legítima; si lo haces, también puedes sacar una ga-
+nancia por ello.
+%
+El software libre es un proyecto comunitario y cualquiera que lo integre debería buscar formas de contribuir a la construcción de la comunidad.
+%
+¡Distribuir software libre es una oportunidad de obtener medios para el desarrollo! ¡No la pierdas!
+%
+Los monopolistas del ámbito del software intentan como locos que no instales un programa propietario sin pagar el precio de mercado.
+%
+Con el software libre, los usuarios no tienen que pagar un precio de distribución para utilizar software. Pueden copiar el programa de un amigo que tenga una copia o con la ayuda de un amigo que tenga acceso a la red.
+%
+Rigurosamente "vender" significa intercambiar bienes por dinero. Vender una copia de un programa libre es legítimo y nosotros lo alentamos.
+%
+La licencia GPL (General Public License) de GNU no establece requisitos sobre cuánto puedes cobrar por distribuir una copia de software libre.
+%
+La licencia GPL obliga a proporcionar una copia del código fuente del programa.
+%
+Al defender la libertad de los usuarios, no nos distraen cuestiones secundarias como cuánto se cobra por una distribución.
+%
+La libertad es la cuestión, toda la cuestión y la única cuestión.
+%
+Únietenos y comparte tu software
+%
+Hackers, serán libres.
+%
+He llegado a interesarme por el copyright porque no hay forma de evitarlo en el mundo de las redes informáticas.
+%
+Como usuario de ordenadores y de redes desde hace treinta años, valoro las libertades que hemos perdido y las que podríamos perder.
+%
+El copyleft es un método para convertir un programa en software libre y exigir que todas las versiones del mismo, modificadas o ampliadas, también lo sean.
+%
+El copyleft garantiza que cada usuario goce de esta libertad.
+%
+El copyleft ayuda a programador o a la programadora que deseen contribuir a mejorar el software libre al darles autorización para ello.
+%
+Para aplicar el copyleft a un programa, primero reservamos los derechos; luego añadimos los términos de distribución, un instrumento legal que otorga a todo el mundo el derec
