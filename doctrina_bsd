@@ -2038,11 +2038,11 @@ Si hemos de loguearnos, que sea para liberarnos.
 %
 Nadie puede depurar sin el apoyo del Pueblo.
 %
-No podemos deternernos en discutir si es más aconsejable la programación
-que el desarrollo espontáneo, porque la segunda alternativa implica
-dejar a los usuarios librados a sus propias fuerzas, y por ello,
-convertidos en terreno fértil para que les metan software privativo por
-la ventana.
+No podemos detenernos en discutir si es más aconsejable la programación
+en C que el desarrollo en máquinas virtuales, porque la segunda
+alternativa implica dejar a los usuarios librados a sus propias fuerzas,
+y por ello, convertidos en terreno fértil para que les metan software
+privativo por el backdoor.
 %
 El software libre es revolucionario en su concepción, y pacífico en su
 compilación.
@@ -2485,7 +2485,18 @@ Datos.
 %
 Cuando sobran recursos, no se pone un firewall, se abren puertos.
 %
+Cuando los recursos sobran, se comparten.
+%
+Todo Ataque de Denegación de Servicios es consecuencia de la injusticia
+social.
+%
 A l@s compañer@s se les abren los puertos.
+%
+Con los puertos 22 y 23 abiertos damos al pueblo un abrazo de justicia y
+amor.
+%
+No ha de temerse al hardware, sino dominarlo con software propio, al que
+le decimos en la cara lo que queremos, en C.
 %
 En Window$ todas las aplicaciones son un caos. Eso es excelente.
 %
@@ -3950,7 +3961,7 @@ más seguro.
 %
 El verdadero hacker guarda clandestinidad en el sistema.
 %
-El underground es la clandistinidad telemática.
+El underground es la clandestinidad telemática.
 %
 El Mago UNIX navega su clandestinidad entre el bus de entrada/salida y
 el kernel.
@@ -4672,7 +4683,7 @@ interés ecológico y social, pues saben que se trata de un tema crítico
 que puede generar debate público y llevar a una fuerte regulación
 necesaria.
 %
-No resulta que un centro de datos de Micro$soft, que debía haber
+No resulta que un centro de datos de Micro$oft, que debía haber
 consumido 84 millones de litros de agua al año en beneficio de ellos
 mismos, en realidad consumiera cuatro veces más de lo anunciado.
 %
@@ -4940,3 +4951,5 @@ puede desatar lo que él ha anudado.
 %
 Nosotros convertimos el pensamiento en código, y otros lo modificarán.
 Que esos otros jamás impidan verlo y modificarlo nuevamente.
+%
+Sin comunicaciones no hay comando.
