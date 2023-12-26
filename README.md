@@ -47,7 +47,9 @@ Use strfile para incorporar los ficheros .DAT.
 git clone https://github.com/ubuntuperonista/Estatuto-del-Hacker/ ;
 sudo cp /tmp/Estatuto-del-Hacker/fortunes/doctrina_bsd /usr/share/games/fortune/doctrina ;
 sudo cp /tmp/Estatuto-del-Hacker/fortunes/rms_bsd /usr/share/games/fortune/rms ;
-sudo cp /tmmp/Estatuto-del-Hacker/cows/*.cow /usr/local/share/cows/ ;
+sudo cp /tmp/Estatuto-del-Hacker/cows/*.cow /usr/local/share/cows/ ;
+sudo mv /usr/local/share/cows/17oct_bsd.cow /usr/local/share/cows/17oct.cow ;
+sudo rm /usr/local/share/cows/17oct_ascii.cow /usr/local/share/cows/peron_ascii.cow ;
 sudo mv /usr/local/share/cows/17oct_bsd.cow /usr/local/share/cows/17oct.cow ;
 cd /usr/share/games/fortune/ ;
 sudo strfile /usr/share/games/fortune/doctrina ;
