@@ -30,7 +30,10 @@ sudo cp /tmp/Estatuto-del-Hacker/fortunes/rms_linux /usr/share/games/fortunes/es
 sudo cp /tmp/Estatuto-del-Hacker/cows/*.cow /usr/share/cowsay/cows/ ;
 cd /usr/share/games/fortunes/es/ ;
 sudo strfile /usr/share/games/fortunes/es/doctrina ;
-sudo strfile /usr/share/games/fortunes/es/rms</code>
+sudo strfile /usr/share/games/fortunes/es/rms
+sudo cp /tmp/Estatuto-del-Hacker/actualizar_doctrinas.sh /usr/local/sbin/actualizar_doctrinas
+sudo chmod +x /usr/local/sbin/actualizar_doctrinas
+</code>
 
 ##Instrucciones para instalación en BSD:
 
