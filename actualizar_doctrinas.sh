@@ -1,5 +1,5 @@
 #!/usr/bin/bash
-# Programa para bajar las fortunes de adoctrinamiento peronista.
+# Programa para bajar las fortunes de adoctrinamiento peronista directamente del repositorio original.
 # Requiere fortune, fortunes-es o fortune-mud
 echo "Descargando todo..."
 wget -O /tmp/doctrina https://caja.texto-plano.xyz/peron/fortune-phrases/doctrina2
