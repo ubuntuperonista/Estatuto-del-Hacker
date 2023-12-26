@@ -40,7 +40,7 @@ sudo chmod +x /usr/local/sbin/actualizar_doctrinas
 ##Instrucciones para instalación en BSD:
 
 Copie <file>doctrina_bsd</file> y <file>rms_bsd</file> (ficheros con las frases de adoctrinamiento, con word wrap a 72 líneas situados en el directorio <file>Estatuto-del-Hacker/fortunes</file>) en el directorio <file>/usr/share/games/fortune/</file> de su sistema BSD.
-Copie los ficheros de los personajes <file>pocho.cow</file>, <file>vacapiloto.cow</file>, <file>gaucho_hacker.cow</file>, <file>peron.cow</file>, <file>vax.cow</file>, <file>vax3900.cow</file>, <file>17oct_bsd.cow</file>, <file>pdp11_84.cow</file> y <file>rms.cow</file> situados en la carpeta <file>Estatuto-del-Hacker/cows</file> carpeta <file>/usr/local/share/cows</file> de su sistema BSD.
+Copie los ficheros de los personajes <file>pocho.cow</file>, <file>vacapiloto.cow</file>, <file>gaucho_hacker.cow</file>, <file>vax.cow</file>, <file>vax3900.cow</file>, <file>17oct_bsd.cow</file>, <file>pdp11_84.cow</file> y <file>rms.cow</file> situados en la carpeta <file>Estatuto-del-Hacker/cows</file> carpeta <file>/usr/local/share/cows</file> de su sistema BSD.
 Use strfile para incorporar los ficheros .DAT.
 
 <code bash>cd /tmp ;
