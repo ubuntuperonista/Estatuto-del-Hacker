@@ -29,7 +29,7 @@ sudo cp /tmp/Estatuto-del-Hacker/fortunes/doctrina_linux /usr/share/games/fortun
 sudo cp /tmp/Estatuto-del-Hacker/fortunes/rms_linux /usr/share/games/fortunes/es/rms ;
 sudo cp /tmp/Estatuto-del-Hacker/cows/*.cow /usr/share/cowsay/cows/ ;
 sudo mv /usr/share/cowsay/cows/17oct_ascii.cow /usr/share/cowsay/cows/17oct ;
-rm /usr/share/cowsay/cows/17oct_bsd.cow ;
+sudo rm /usr/share/cowsay/cows/17oct_bsd.cow ;
 cd /usr/share/games/fortunes/es/ ;
 sudo strfile /usr/share/games/fortunes/es/doctrina ;
 sudo strfile /usr/share/games/fortunes/es/rms ;
