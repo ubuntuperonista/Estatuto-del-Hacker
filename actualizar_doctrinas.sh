@@ -35,4 +35,4 @@ strfile rms
 echo 'Doctrinas actualizadas'
 echo "Te devuelvo al directorio"
 cd -
-/usr/games/fortune -s doctrina | /usr/games/cowsay -f peron
+/usr/games/fortune -s doctrina | /usr/games/cowsay -f 17oct
