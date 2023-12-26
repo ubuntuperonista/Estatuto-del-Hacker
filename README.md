@@ -7,81 +7,41 @@ por ~peron <peron@texto-plano.xyz>
 GPLv3
 
 ### Requerimientos
-Para poder utilizar los ficheros de frases se requiere de alguna versión de fortune, fortune-mud, bsd fortune, o similar. Para las gráficas .cow requiere el programa cowsay o similar.
+Requiere de alguna versión de fortune, fortune-mud, bsd-fortune, o similar. Para las gráficas .cow requiere el programa cowsay o similar.
 
 Estos paquetes suelen estar disponibles para la mayoría de las distribuciones de sistemas operativos similares a Unix.
 
 ## Frases Fortune de adoctrinamiento "Estatuto del Hacker"
 
-Instale las frases de adoctrinamiento en castellano en su sistema operativo correspondiente.
+Copie doctrina_linux y rms_linux (ficheros con frases de adoctrinamiento sin word wrap situados en el directorio Estatuto-del-Hacker/fortunes) en el directorio <file>/usr/share/games/fortunes/es/</file> de su sistema GNU/Linux. 
+Copie los ficheros de los personajes <file>vacapiloto.cow</file>, <file>gaucho_hacker.cow</file>, <file>peron_ascii.cow</file>, <file>vax.cow</file>, <file>vax3900.cow</file>, <file>17oct_ascii.cow</file> y <file>rms.cow</file> en la carpeta carpeta <file>/usr/share/cowsay/cows/</file> de su sistema GNU/Linux. 
+Use strfile para incorporar los ficheros .DAT. 
 
-  * **Instrucciones Para GNU/Linux**:
-
-Copie <file>doctrina_linux</file> y <file>rms_linux</file> (fichero con frases de adoctrinamiento sin word wrap) en el directorio <file>/usr/share/games/fortunes/es/</file> de su sistema GNU/Linux. Puede hacerlo desde la terminal con los siguientes comandos:
-
-<code bash>
-cd /tmp ;
+<code bash>cd /tmp ;
 git clone https://github.com/ubuntuperonista/Estatuto-del-Hacker/ ;
 sudo cp /tmp/Estatuto-del-Hacker/fortunes/doctrina_linux /usr/share/games/fortunes/es/doctrina
-sudo cp /tmp/Estatuto-del-Hacker/fortunes/doctrina_linux/rms_linux /usr/share/games/fortunes/es/doctrina
-</code>
+sudo cp /tmp/Estatuto-del-Hacker/fortunes/doctrina_linux/rms_linux /usr/share/games/fortunes/es/doctrina ;
+sudo cp /tmp/Estatuto-del-Hacker/cows/*.cow /usr/share/cowsay/cows/ ;
+cd /usr/share/games/fortunes/es/ ;
+sudo strfile /usr/share/games/fortunes/es/doctrina ;
+sudo strfile /usr/share/games/fortunes/es/rms</code>
 
-<code bash>
-strfile /usr/share/games/fortunes/es/doctrina
-strfile /usr/share/games/fortunes/es/rms
-</code>
 
-  * **Instrucciones Para BSD**:
-Copia <file>doctrina_bsd</file> (fichero con las frases de adoctrinamiento, con word wrap a 72 líneas) en el directorio <file>/usr/share/games/fortune</file> de tu sistema BSD. Puede hacerlo desde la terminal con los estos comandos: 
+###Instrucciones de Instalación en BSD:
 
-<code bash>
-cd /tmp ;
+Copie <file>doctrina_bsd</file> y <file>rms_bsd</file> (ficheros con las frases de adoctrinamiento, con word wrap a 72 líneas situados en el directorio <file>Estatuto-del-Hacker/fortunes</file>) en el directorio <file>/usr/share/games/fortune/</file> de su sistema BSD.
+Copie los ficheros de los personajes <file>vacapiloto.cow</file>, <file>gaucho_hacker.cow</file>, <file>peron_ascii.cow</file>, <file>vax.cow</file>, <file>vax3900.cow</file>, <file>17oct_ascii.cow</file>, <file>pdp11_84.cow</file> y <file>rms.cow</file> situados en la carpeta <file>Estatuto-del-Hacker/cows</file> carpeta <file>/usr/local/share/cows</file> de su sistema BSD.
+Use strfile para incorporar los ficheros .DAT.
+
+<code bash>cd /tmp ;
 git clone https://github.com/ubuntuperonista/Estatuto-del-Hacker/ ;
 sudo cp /tmp/Estatuto-del-Hacker/fortunes/doctrina_bsd /usr/share/games/fortune/doctrina ;
-sudo cp /tmp/Estatuto-del-Hacker/fortunes/rms_bsd /usr/share/games/fortune/rms
-</code>
-
-
-<code bash>
-strfile /usr/share/games/fortune/doctrina ;
-strfile /usr/share/games/fortune/rms
-</code>
-
-### Uso
-
-Desde la terminal de su sistema operativo, use el programa fortune para llamar al fichero <file>doctrina</file>. Tanto en sistemas Ubuntu/Debian como BSD podrá hacerlo con:
-
-<code>fortune doctrina</code>
-
-o bien:
-
-<code>fortune rms</code>
-
-===
-
-## Archivos .cow
-
-Se trata de distintos ficheros de gráficos ASCII con extensión .cow, ada uno con un nuevo personaje que se puede usar con cowsay o programas similares.
-
-Sigue las instrucciones para incorporalos al sistema que corresponda:
-
-  * **Instrucciones para GNU/Linux**:
-
-Copie los ficheros de los personajes <file>vacapiloto.cow</file>, <file>gaucho_hacker.cow</file>, <file>peron_ascii.cow</file>, <file>vax.cow</file>, <file>vax3900.cow</file>, <file>17oct_ascii.cow</file> y <file>rms.cow</file> en la carpeta carpeta <file>/usr/share/cowsay/cows/</file> de su sistema GNU/Linux. Podrá hacerlo con:
-
-<code bash>$ sudo cp Estatuto-del-Hacker/cows/*.cow /usr/share/cowsay/cows/</code>
-
-
-  * **Instrucciones para BSD**:
-
-Copie los ficheros de los personajes <file>vacapiloto.cow</file>, <file>gaucho_hacker.cow</file>, <file>pdp11_84.cow</file>, <file>peron_ascii.cow</file>, <file>vax.cow</file>, <file>vax3900.cow</file>, <file>17oct_ascii.cow</file> y <file>rms.cow</file> en la carpeta <file>/usr/local/share/cows/</file> de su sistema BSD. Podrá hacerlo ingresando estos comandos:
-
-<code bash>
-sudo cp /tmp/Estatuto-del-Hacer/cows/*.cow /usr/local/share/cows/
-</code>
-
-
-
+sudo cp /tmp/Estatuto-del-Hacker/fortunes/rms_bsd /usr/share/games/fortune/rms ;
+sudo cp /tmmp/Estatuto-del-Hacker/cows/*.cow /usr/local/share/cows/ ;
+cd /usr/share/games/fortune/ ;
+sudo strfile /usr/share/games/fortune/doctrina ;
+sudo strfile /usr/share/games/fortune/rms</code>
+  
 ### Uso
 
 Solicite una frase al azar con:
@@ -91,7 +51,6 @@ Solicite una frase al azar con:
 o bien:
 
 <code bash>fortune rms</code>
-
 
 Podrá dirigir la salida del comando a un personaje de cowsay por medio de pipes. 
 Por ejemplo:
@@ -115,7 +74,7 @@ oooooooooooooooooooooooooooooooooooooooooooooooo
     /\  /z   /\   /\  /\   /\  o   o    /\
 </code>
 
-Para decir una frase corta sin borrar la terminal:
+Para solicitar una frase corta al azar sin borrar la terminal:
 
 <code bash>$ fortune -s doctrina | cowsay -f pocho</code>
 
