@@ -56,39 +56,14 @@ Sigue las instrucciones para incorporalos al sistema que corresponda:
 
 Copie los ficheros de los personajes <file>vacapiloto.cow</file>, <file>gaucho_hacker.cow</file>, <file>peron_ascii.cow</file>, <file>vax.cow</file>, <file>vax3900.cow</file>, <file>17oct_ascii.cow</file> y <file>rms.cow</file> en la carpeta carpeta <file>/usr/share/cowsay/cows/</file> de su sistema GNU/Linux. Podrá hacerlo con:
 
-<code bash>$ cp vacapiloto.cow /usr/share/cowsay/cows/</code>
-
-<code bash>$ cp peron_ascii.cow /usr/share/cowsay/cows/peron.cow</code>
-
-<code bash>$ cp 17oct_ascii.cow /usr/local/share/cows/17oct.cow</code>
-
-<code bash>$ cp gaucho_hacker.cow /usr/local/share/cows/gaucho.cow</code>
-
-<code bash>$ cp vax.cow /usr/local/share/cows/vax.cow</code>
-
-<code bash>$ cp vax3900.cow /usr/local/share/cows/vax.cow</code>
-
-<code bash>$ cp rms.cow /usr/local/share/cows/rms.cow</code>
-
+<code bash>$ sudo cp Estatuto-del-Hacker/cows/*.cow /usr/share/cowsay/cows/</code>
 
 
   * **Instrucciones para BSD**:
 
 Copie los ficheros de los personajes <file>vacapiloto.cow</file>, <file>gaucho_hacker.cow</file>, <file>peron_ascii.cow</file>, <file>vax.cow</file>, <file>vax3900.cow</file>, <file>17oct_ascii.cow</file> y <file>rms.cow</file> en la carpeta <file>/usr/local/share/cows/</file> de su sistema BSD. Podrá hacerlo ingresando estos comandos:
 
-<code bash>$ cp vacapiloto.cow /usr/local/share/cows/</code>
-
-<code bash>$ cp peron.cow /usr/local/share/cows/peron.cow</code>
-
-<code bash>$ cp 17oct_bsd.cow /usr/local/share/cows/17oct.cow</code>
-
-<code bash>$ cp gaucho_hacker.cow /usr/local/share/cows/gaucho.cow</code>
-
-<code bash>$ cp vax.cow /usr/local/share/cows/</code>
-
-<code bash>$ cp vax3900.cow /usr/local/share/cows/</code>
-
-<code bash>$ cp rms.cow /usr/local/share/cows/</code>
+<code bash>$ sudo cp Estatuto-del-Hacer/cows/*.cow /usr/local/share/cows/</code>
 
 
 
