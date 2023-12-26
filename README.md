@@ -1,6 +1,6 @@
 # Estatuto-del-Hacker
 
-Herramental ASCII para la terminal de línea de comandos, con Frases y aforismos de hacking y adoctrinamiento (en castellano). Requiere fortune o fortune-mud.
+Herramental ASCII para la terminal de línea de comandos, con Frases y aforismos de hacking y adoctrinamiento (en castellano). 
 
 por ~peron <peron@texto-plano.xyz>
 
@@ -9,12 +9,14 @@ GPLv3
 ## Instalación
 
 ### Prerrequisitos
-Al ser frases para fortune, requiere de alguna versión de este programa, como GNU fortune, fortune-mud, bsd-fortune, o similar. Para las gráficas .cow requiere el programa cowsay o similar. Estos paquetes clásicos están disponibles para la mayoría de las distribuciones de sistemas operativos similares a Unix. Por ejemplo:
+Las frases para fortune requiere de alguna versión de este programa (GNU fortune, fortune-mud, bsd-fortune, o similar). Los personajes .cow requieren cowsay o similar. Ambos suelen estar disponibles en la mayoría de las distribuciones de sistemas operativos similares a Unix. Por ejemplo:
 
 En GNU/Linux (Ubuntu/Debian)
+
 <code bash>sudo apt install fortunes-es</code>
 
 En BSD:
+
 <code bash>pkg install fortune</code>
 
 ## Instrucciones de instalación en GNU/Linux
