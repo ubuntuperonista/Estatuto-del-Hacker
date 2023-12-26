@@ -6,10 +6,10 @@ por ~peron <peron@texto-plano.xyz>
 
 GPLv3
 
-### Requisitos
-Requiere de alguna versión de fortune, fortune-mud, bsd-fortune, o similar. Para las gráficas .cow requiere el programa cowsay o similar.
+## Instalación
 
-Estos paquetes suelen estar disponibles para la mayoría de las distribuciones de sistemas operativos similares a Unix. Por ejemplo:
+### Prerrequisitos
+Al ser frases para fortune, requiere de alguna versión de este programa, como GNU fortune, fortune-mud, bsd-fortune, o similar. Para las gráficas .cow requiere el programa cowsay o similar. Estos paquetes clásicos están disponibles para la mayoría de las distribuciones de sistemas operativos similares a Unix. Por ejemplo:
 
 En GNU/Linux (Ubuntu/Debian)
 <code bash>sudo apt install fortunes-es</code>
@@ -17,7 +17,7 @@ En GNU/Linux (Ubuntu/Debian)
 En BSD:
 <code bash>pkg install fortune</code>
 
-## Frases Fortune de adoctrinamiento "Estatuto del Hacker"
+## Instrucciones de instalación en GNU/Linux
 
 Copie doctrina_linux y rms_linux (ficheros con frases de adoctrinamiento sin word wrap situados en el directorio Estatuto-del-Hacker/fortunes) en el directorio <file>/usr/share/games/fortunes/es/</file> de su sistema GNU/Linux. 
 Copie los ficheros de los personajes <file>vacapiloto.cow</file>, <file>gaucho_hacker.cow</file>, <file>peron_ascii.cow</file>, <file>vax.cow</file>, <file>vax3900.cow</file>, <file>17oct_ascii.cow</file> y <file>rms.cow</file> en la carpeta carpeta <file>/usr/share/cowsay/cows/</file> de su sistema GNU/Linux. 
@@ -32,8 +32,7 @@ cd /usr/share/games/fortunes/es/ ;
 sudo strfile /usr/share/games/fortunes/es/doctrina ;
 sudo strfile /usr/share/games/fortunes/es/rms</code>
 
-
-###Instrucciones de Instalación en BSD:
+##Instrucciones para instalación en BSD:
 
 Copie <file>doctrina_bsd</file> y <file>rms_bsd</file> (ficheros con las frases de adoctrinamiento, con word wrap a 72 líneas situados en el directorio <file>Estatuto-del-Hacker/fortunes</file>) en el directorio <file>/usr/share/games/fortune/</file> de su sistema BSD.
 Copie los ficheros de los personajes <file>vacapiloto.cow</file>, <file>gaucho_hacker.cow</file>, <file>peron_ascii.cow</file>, <file>vax.cow</file>, <file>vax3900.cow</file>, <file>17oct_ascii.cow</file>, <file>pdp11_84.cow</file> y <file>rms.cow</file> situados en la carpeta <file>Estatuto-del-Hacker/cows</file> carpeta <file>/usr/local/share/cows</file> de su sistema BSD.
@@ -48,7 +47,7 @@ cd /usr/share/games/fortune/ ;
 sudo strfile /usr/share/games/fortune/doctrina ;
 sudo strfile /usr/share/games/fortune/rms</code>
   
-### Uso
+## Uso
 
 Solicite una frase al azar con:
 
@@ -63,7 +62,8 @@ Por ejemplo:
 
 <code bash>clear && fortune doctrina | cowsay -f peron</code>
 
-<code> _________________________________________
+<code>
+_________________________________________
 / Los hackers unidos, triunfaremos        \
 \ ----------------------------------------/
  \
@@ -80,9 +80,10 @@ oooooooooooooooooooooooooooooooooooooooooooooooo
 
 Para solicitar una frase corta al azar sin borrar la terminal:
 
-<code bash>$ fortune -s doctrina | cowsay -f pocho</code>
+<code bash>fortune -s doctrina | cowsay -f pocho</code>
 
-<code> _____________________________________
+<code>
+_____________________________________
 / Quien programe, comente. Quien use, \
 \ documente.                          /
  -------------------------------------
