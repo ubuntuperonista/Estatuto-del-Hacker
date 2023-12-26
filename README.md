@@ -6,10 +6,16 @@ por ~peron <peron@texto-plano.xyz>
 
 GPLv3
 
-### Requerimientos
+### Requisitos
 Requiere de alguna versión de fortune, fortune-mud, bsd-fortune, o similar. Para las gráficas .cow requiere el programa cowsay o similar.
 
-Estos paquetes suelen estar disponibles para la mayoría de las distribuciones de sistemas operativos similares a Unix.
+Estos paquetes suelen estar disponibles para la mayoría de las distribuciones de sistemas operativos similares a Unix. Por ejemplo:
+
+En GNU/Linux (Ubuntu/Debian)
+<code bash>sudo apt install fortunes-es</code>
+
+En BSD:
+<code bash>pkg install fortune</code>
 
 ## Frases Fortune de adoctrinamiento "Estatuto del Hacker"
 
@@ -57,8 +63,7 @@ Por ejemplo:
 
 <code bash>clear && fortune doctrina | cowsay -f peron</code>
 
-<code>
- _________________________________________
+<code> _________________________________________
 / Los hackers unidos, triunfaremos        \
 \ ----------------------------------------/
  \
@@ -71,15 +76,13 @@ Por ejemplo:
 oooooooooooooooooooooooooooooooooooooooooooooooo
     <o/ ~   \o\  ~o|  o/    o  _____   _o
      |  +o   |    |   |     |\|chori|   |\
-    /\  /z   /\   /\  /\   /\  o   o    /\
-</code>
+    /\  /z   /\   /\  /\   /\  o   o    /\</code>
 
 Para solicitar una frase corta al azar sin borrar la terminal:
 
 <code bash>$ fortune -s doctrina | cowsay -f pocho</code>
 
-<code>
- _____________________________________
+<code> _____________________________________
 / Quien programe, comente. Quien use, \
 \ documente.                          /
  -------------------------------------
@@ -97,5 +100,4 @@ Para solicitar una frase corta al azar sin borrar la terminal:
  |   |       (.__-___,)      /    /
   \   |____----+   |________/    /
    \        \   \/   _/        /
-    \_____   \  /   /   ______/
-</code>
+    \_____   \  /   /   ______/</code>
