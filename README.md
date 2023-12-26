@@ -29,7 +29,6 @@ sudo cp /tmp/Estatuto-del-Hacker/fortunes/doctrina_linux /usr/share/games/fortun
 sudo cp /tmp/Estatuto-del-Hacker/fortunes/rms_linux /usr/share/games/fortunes/es/rms ;
 sudo cp /tmp/Estatuto-del-Hacker/cows/*.cow /usr/share/cowsay/cows/ ;
 sudo mv /usr/share/cowsay/cows/17oct_ascii.cow /usr/share/cowsay/cows/17oct.cow ;
-sudo mv /usr/share/cowsay/cows/peron_ascii.cow /usr/share/cowsay/cows/peron.cow ;
 sudo rm /usr/share/cowsay/cows/17oct_bsd.cow ;
 cd /usr/share/games/fortunes/es/ ;
 sudo strfile /usr/share/games/fortunes/es/doctrina ;
@@ -50,8 +49,7 @@ sudo cp /tmp/Estatuto-del-Hacker/fortunes/doctrina_bsd /usr/share/games/fortune/
 sudo cp /tmp/Estatuto-del-Hacker/fortunes/rms_bsd /usr/share/games/fortune/rms ;
 sudo cp /tmp/Estatuto-del-Hacker/cows/*.cow /usr/local/share/cows/ ;
 sudo mv /usr/local/share/cows/17oct_bsd.cow /usr/local/share/cows/17oct.cow ;
-sudo rm /usr/local/share/cows/17oct_ascii.cow /usr/local/share/cows/peron_ascii.cow ;
-sudo mv /usr/local/share/cows/17oct_bsd.cow /usr/local/share/cows/17oct.cow ;
+sudo rm /usr/local/share/cows/17oct_ascii.cow ;
 cd /usr/share/games/fortune/ ;
 sudo strfile /usr/share/games/fortune/doctrina ;
 sudo strfile /usr/share/games/fortune/rms</code>
