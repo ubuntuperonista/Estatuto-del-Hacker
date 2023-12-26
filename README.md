@@ -32,8 +32,8 @@ sudo mv /usr/share/cowsay/cows/17oct_ascii.cow /usr/share/cowsay/cows/17oct ;
 rm /usr/share/cowsay/cows/17oct_bsd.cow ;
 cd /usr/share/games/fortunes/es/ ;
 sudo strfile /usr/share/games/fortunes/es/doctrina ;
-sudo strfile /usr/share/games/fortunes/es/rms
-sudo cp /tmp/Estatuto-del-Hacker/actualizar_doctrinas.sh /usr/local/sbin/actualizar_doctrinas
+sudo strfile /usr/share/games/fortunes/es/rms ;
+sudo cp /tmp/Estatuto-del-Hacker/actualizar_doctrinas.sh /usr/local/sbin/actualizar_doctrinas ;
 sudo chmod +x /usr/local/sbin/actualizar_doctrinas
 </code>
 
