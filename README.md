@@ -28,6 +28,8 @@ git clone https://github.com/ubuntuperonista/Estatuto-del-Hacker/ ;
 sudo cp /tmp/Estatuto-del-Hacker/fortunes/doctrina_linux /usr/share/games/fortunes/es/doctrina ;
 sudo cp /tmp/Estatuto-del-Hacker/fortunes/rms_linux /usr/share/games/fortunes/es/rms ;
 sudo cp /tmp/Estatuto-del-Hacker/cows/*.cow /usr/share/cowsay/cows/ ;
+sudo mv /usr/share/cowsay/cows/17oct_ascii.cow /usr/share/cowsay/cows/17oct ;
+rm /usr/share/cowsay/cows/17oct_bsd.cow ;
 cd /usr/share/games/fortunes/es/ ;
 sudo strfile /usr/share/games/fortunes/es/doctrina ;
 sudo strfile /usr/share/games/fortunes/es/rms
@@ -38,7 +40,7 @@ sudo chmod +x /usr/local/sbin/actualizar_doctrinas
 ##Instrucciones para instalación en BSD:
 
 Copie <file>doctrina_bsd</file> y <file>rms_bsd</file> (ficheros con las frases de adoctrinamiento, con word wrap a 72 líneas situados en el directorio <file>Estatuto-del-Hacker/fortunes</file>) en el directorio <file>/usr/share/games/fortune/</file> de su sistema BSD.
-Copie los ficheros de los personajes <file>vacapiloto.cow</file>, <file>gaucho_hacker.cow</file>, <file>peron_ascii.cow</file>, <file>vax.cow</file>, <file>vax3900.cow</file>, <file>17oct_ascii.cow</file>, <file>pdp11_84.cow</file> y <file>rms.cow</file> situados en la carpeta <file>Estatuto-del-Hacker/cows</file> carpeta <file>/usr/local/share/cows</file> de su sistema BSD.
+Copie los ficheros de los personajes <file>vacapiloto.cow</file>, <file>gaucho_hacker.cow</file>, <file>peron.cow</file>, <file>vax.cow</file>, <file>vax3900.cow</file>, <file>17oct_bsd.cow</file>, <file>pdp11_84.cow</file> y <file>rms.cow</file> situados en la carpeta <file>Estatuto-del-Hacker/cows</file> carpeta <file>/usr/local/share/cows</file> de su sistema BSD.
 Use strfile para incorporar los ficheros .DAT.
 
 <code bash>cd /tmp ;
@@ -46,6 +48,7 @@ git clone https://github.com/ubuntuperonista/Estatuto-del-Hacker/ ;
 sudo cp /tmp/Estatuto-del-Hacker/fortunes/doctrina_bsd /usr/share/games/fortune/doctrina ;
 sudo cp /tmp/Estatuto-del-Hacker/fortunes/rms_bsd /usr/share/games/fortune/rms ;
 sudo cp /tmmp/Estatuto-del-Hacker/cows/*.cow /usr/local/share/cows/ ;
+sudo mv /usr/local/share/cows/17oct_bsd.cow /usr/local/share/cows/17oct.cow ;
 cd /usr/share/games/fortune/ ;
 sudo strfile /usr/share/games/fortune/doctrina ;
 sudo strfile /usr/share/games/fortune/rms</code>
