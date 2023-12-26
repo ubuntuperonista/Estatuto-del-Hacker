@@ -1,0 +1,47 @@
+Estatuto-del-Hacker
+///////////////////
+
+
+Instrucciones de Instalación en GNU/Linux:
+-----------------------------
+
+Copie doctrina_linux y rms_linux (fichero con frases de adoctrinamiento sin word wrap situados en el directorio Estatuto-del-Hacker/fortunes) en el directorio /usr/share/games/fortunes/es/ de su sistema GNU/Linux. 
+Copie los ficheros de los personajes vacapiloto.cow, gaucho_hacker.cow, peron_ascii.cow, vax.cow, vax3900.cow, 17oct_ascii.cow y rms.cow en la carpeta carpeta /usr/share/cowsay/cows/ de su sistema GNU/Linux. 
+Use strfile para incorporar los ficheros .DAT. 
+
+  cd /tmp ;
+  git clone https://github.com/ubuntuperonista/Estatuto-del-Hacker/ ;
+  sudo cp /tmp/Estatuto-del-Hacker/fortunes/doctrina_linux /usr/share/games/fortunes/es/doctrina
+  sudo cp /tmp/Estatuto-del-Hacker/fortunes/doctrina_linux/rms_linux /usr/share/games/fortunes/es/doctrina ;
+  sudo cp /tmp/Estatuto-del-Hacker/cows/*.cow /usr/share/cowsay/cows/ ;
+  cd /usr/share/games/fortunes/es/ ;
+  sudo strfile /usr/share/games/fortunes/es/doctrina ;
+  sudo strfile /usr/share/games/fortunes/es/rms
+
+Instrucciones de Instalación en BSD:
+------------------------------------
+
+Copia doctrina_bsd y rms_bsd (ficheros con las frases de adoctrinamiento, con word wrap a 72 líneas situados en el directorio Estatuto-del-Hacker/fortunes) en el directorio /usr/share/games/fortune/ de su sistema BSD.
+Copie los ficheros de los personajes vacapiloto.cow, gaucho_hacker.cow, peron_ascii.cow, vax.cow, vax3900.cow, 17oct_ascii.cow, pdp11_84.cow y rms.cow situados en la carpeta Estatuto-del-Hacker/cows carpeta /usr/share/cowsay/cows/ de su sistema BSD. Podrá hacerlo con:/usr/share/games/fortune de tu sistema BSD.  
+Use strfile para incorporar los ficheros .DAT.
+
+  cd /tmp ;
+  git clone https://github.com/ubuntuperonista/Estatuto-del-Hacker/ ;
+  sudo cp /tmp/Estatuto-del-Hacker/fortunes/doctrina_bsd /usr/share/games/fortune/doctrina ;
+  sudo cp /tmp/Estatuto-del-Hacker/fortunes/rms_bsd /usr/share/games/fortune/rms ;
+  sudo cp /tmmp/Estatuto-del-Hacker/cows/*.cow /usr/local/share/cows/ ;
+  cd /usr/share/games/fortune/ ;
+  sudo strfile /usr/share/games/fortune/doctrina ;
+  sudo strfile /usr/share/games/fortune/rms
+
+
+Uso
+///
+
+Desde la terminal de su sistema operativo, use el programa fortune para llamar al fichero doctrina. Tanto en sistemas Ubuntu/Debian como BSD podrá hacerlo con:
+
+  fortune doctrina
+
+o bien:
+
+  fortune rms
