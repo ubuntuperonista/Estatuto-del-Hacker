@@ -3,7 +3,7 @@ Estatuto-del-Hacker
 
 
 Instrucciones de Instalación en GNU/Linux:
------------------------------
+------------------------------------------
 
 Copie doctrina_linux y rms_linux (fichero con frases de adoctrinamiento sin word wrap situados en el directorio Estatuto-del-Hacker/fortunes) en el directorio /usr/share/games/fortunes/es/ de su sistema GNU/Linux. 
 Copie los ficheros de los personajes vacapiloto.cow, gaucho_hacker.cow, peron_ascii.cow, vax.cow, vax3900.cow, 17oct_ascii.cow y rms.cow en la carpeta carpeta /usr/share/cowsay/cows/ de su sistema GNU/Linux. 
