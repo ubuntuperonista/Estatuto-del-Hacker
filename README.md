@@ -19,7 +19,7 @@ Use strfile para incorporar los ficheros .DAT.
 
 <code bash>cd /tmp ;
 git clone https://github.com/ubuntuperonista/Estatuto-del-Hacker/ ;
-sudo cp /tmp/Estatuto-del-Hacker/fortunes/doctrina_linux /usr/share/games/fortunes/es/doctrina
+sudo cp /tmp/Estatuto-del-Hacker/fortunes/doctrina_linux /usr/share/games/fortunes/es/doctrina ;
 sudo cp /tmp/Estatuto-del-Hacker/fortunes/rms_linux /usr/share/games/fortunes/es/rms ;
 sudo cp /tmp/Estatuto-del-Hacker/cows/*.cow /usr/share/cowsay/cows/ ;
 cd /usr/share/games/fortunes/es/ ;
