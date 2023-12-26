@@ -67,7 +67,7 @@ o bien:
 Podrá dirigir la salida del comando a un personaje de cowsay por medio de pipes. 
 Por ejemplo:
 
-<code bash>clear && fortune doctrina | cowsay -f peron</code>
+<code bash>clear && fortune doctrina | cowsay -f 17oct</code>
 
 <code>
 _________________________________________
