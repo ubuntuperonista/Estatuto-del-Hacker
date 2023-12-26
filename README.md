@@ -16,23 +16,36 @@ Estos paquetes suelen estar disponibles para la mayoría de las distribuciones d
 Instale las frases de adoctrinamiento en castellano en su sistema operativo correspondiente.
 
   * **Instrucciones Para GNU/Linux**:
+
 Copie <file>doctrina_linux</file> y <file>rms_linux</file> (fichero con frases de adoctrinamiento sin word wrap) en el directorio <file>/usr/share/games/fortunes/es/</file> de su sistema GNU/Linux. Puede hacerlo desde la terminal con los siguientes comandos:
 
-<code bash>$ cp doctrina_linux /usr/share/games/fortunes/es/doctrina</code>
-<code bash>$ cp rms_linux /usr/share/games/fortunes/es/doctrina</code>
+<code bash>
+cd /tmp ;
+git clone https://github.com/ubuntuperonista/Estatuto-del-Hacker/ ;
+sudo cp /tmp/Estatuto-del-Hacker/fortunes/doctrina_linux /usr/share/games/fortunes/es/doctrina
+sudo cp /tmp/Estatuto-del-Hacker/fortunes/doctrina_linux/rms_linux /usr/share/games/fortunes/es/doctrina
+</code>
 
-<code bash>$ strfile /usr/share/games/fortunes/es/doctrina</code>
-<code bash>$ strfile /usr/share/games/fortunes/es/rms</code>
+<code bash>
+strfile /usr/share/games/fortunes/es/doctrina
+strfile /usr/share/games/fortunes/es/rms
+</code>
 
   * **Instrucciones Para BSD**:
 Copia <file>doctrina_bsd</file> (fichero con las frases de adoctrinamiento, con word wrap a 72 líneas) en el directorio <file>/usr/share/games/fortune</file> de tu sistema BSD. Puede hacerlo desde la terminal con los estos comandos: 
 
-<code bash>$ cp doctrina_bsd /usr/share/games/fortune/doctrina</code>
-<code bash>$ cp rms_bsd /usr/share/games/fortune/rms</code>
+<code bash>
+cd /tmp ;
+git clone https://github.com/ubuntuperonista/Estatuto-del-Hacker/ ;
+sudo cp /tmp/Estatuto-del-Hacker/fortunes/doctrina_bsd /usr/share/games/fortune/doctrina ;
+sudo cp /tmp/Estatuto-del-Hacker/fortunes/rms_bsd /usr/share/games/fortune/rms
+</code>
 
 
-<code bash>$ strfile /usr/share/games/fortune/doctrina</code>
-<code bash>$ strfile /usr/share/games/fortune/rms</code>
+<code bash>
+strfile /usr/share/games/fortune/doctrina ;
+strfile /usr/share/games/fortune/rms
+</code>
 
 ### Uso
 
@@ -61,9 +74,11 @@ Copie los ficheros de los personajes <file>vacapiloto.cow</file>, <file>gaucho_h
 
   * **Instrucciones para BSD**:
 
-Copie los ficheros de los personajes <file>vacapiloto.cow</file>, <file>gaucho_hacker.cow</file>, <file>peron_ascii.cow</file>, <file>vax.cow</file>, <file>vax3900.cow</file>, <file>17oct_ascii.cow</file> y <file>rms.cow</file> en la carpeta <file>/usr/local/share/cows/</file> de su sistema BSD. Podrá hacerlo ingresando estos comandos:
+Copie los ficheros de los personajes <file>vacapiloto.cow</file>, <file>gaucho_hacker.cow</file>, <file>pdp11_84.cow</file>, <file>peron_ascii.cow</file>, <file>vax.cow</file>, <file>vax3900.cow</file>, <file>17oct_ascii.cow</file> y <file>rms.cow</file> en la carpeta <file>/usr/local/share/cows/</file> de su sistema BSD. Podrá hacerlo ingresando estos comandos:
 
-<code bash>$ sudo cp Estatuto-del-Hacer/cows/*.cow /usr/local/share/cows/</code>
+<code bash>
+sudo cp /tmp/Estatuto-del-Hacer/cows/*.cow /usr/local/share/cows/
+</code>
 
 
 
