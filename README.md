@@ -37,7 +37,7 @@ sudo cp /tmp/Estatuto-del-Hacker/actualizar_doctrinas.sh /usr/local/sbin/actuali
 sudo chmod +x /usr/local/sbin/actualizar_doctrinas
 </code>
 
-##Instrucciones para agregar Estatuto-del-Hacker en bsdcowsay 4 en BSD:
+## Instrucciones para agregar Estatuto-del-Hacker en bsdcowsay 4 en BSD:
 
 Copie <file>fortunes/doctrina_bsd</file> y <file>fortunes/rms_bsd</file> (ficheros con las frases de adoctrinamiento, con word wrap a 72 líneas en el directorio <file>/usr/share/games/fortune/</file> de su sistema BSD.
 Copie los ficheros <file>.cow</file> de los personajes <file>Estatuto-del-Hacker/bsdcows</file> en la carpeta <file>/usr/local/share/cows</file> de su sistema BSD.
