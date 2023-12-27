@@ -1,0 +1,23 @@
+# provisto por ~peron <peron\@texto-plano.xyz>
+## Un RMS con barba GNU ASCII RMS
+$the_cow = <<EOC;
+     $thoughts          \@\@MMMMMMM\@
+      $thoughts      \@\@MM\@WY     YM\@
+       $thoughts    \@MM\@WY         WM\@
+          \@MM\@Y           YWM\@
+         AM\@Y             YM\@M\@
+         M\@MY              YM\@MA
+        A\@MMY/===    ===    Y\@M\@A
+        MM\@W ,<O>)   (<O>\\- YM\@M\@
+       AM\@MN ~  ~/| \\~       Y\@M\@A
+      M\@M\@N       | \\        YMM\@A\\
+      M\@M\@N     (O O)\\       YMMAMMA
+      M\@M\@G     /GNUG\\      GNMM\@MMA
+      MMM\@G    /G----G\\   /GNUM\@MRMS
+      M\@MMGN   G ====GN GNUGN M\@MMRMS
+     AM\@\@MGNUGNU GNU GNUGNUGN M\@\@MRMS
+    AMM\@MGNUGNUGNUGNUGNUGNUG MM\@MMRMS
+   AMM\@MMMGNUGNUGNUGNUGNUGNU # M\@\@MMRMS
+  AM\@MMMGNUGNUGNUGNUGNUGNUG #   \\YMMRMS
+ /    MMM# # GNUGNUGNUGNU #         \\ RMS
+EOC
