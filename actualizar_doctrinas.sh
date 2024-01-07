@@ -13,8 +13,9 @@ wget -O /tmp/rms.cow https://caja.texto-plano.xyz/peron/fortune-phrases/rms.cow
 wget -O /tmp/vax.cow https://caja.texto-plano.xyz/peron/fortune-phrases/vax.cow
 wget -O /tmp/vax3900.cow https://caja.texto-plano.xyz/peron/fortune-phrases/vax3900.cow
 wget -O /tmp/gaucho.cow https://caja.texto-plano.xyz/peron/fortune-phrases/gaucho.cow
+wget -O /tmp/altair.cow https://caja.texto-plano.xyz/peron/fortune-phrases/altair.cow
 
-echo "Moviendo ficheros..."
+echo "Moviendo ficheros .cow..."
 mv  /tmp/17oct.cow /usr/share/cowsay/cows/17oct.cow
 mv  /tmp/pocho.cow /usr/share/cowsay/cows/pocho.cow
 mv  /tmp/vacapiloto.cow /usr/share/cowsay/cows
@@ -24,6 +25,9 @@ mv  /tmp/rms.cow /usr/share/cowsay/cows
 mv  /tmp/vax.cow /usr/share/cowsay/cows
 mv  /tmp/vax3900.cow /usr/share/cowsay/cows
 mv  /tmp/gaucho.cow /usr/share/cowsay/cows
+mv  /tmp/altair.cow /usr/share/cowsay/cows
+
+echo "Moviendo fortunes..."
 mv /tmp/doctrina /usr/share/games/fortunes/es
 mv /tmp/rms /usr/share/games/fortunes/es
 
