@@ -1,0 +1,14 @@
+# provisto por ~peron <peron@texto-plano.xyz>
+$the_cow = <<"EOC";
+    $thoughts
+     $thoughts
+   ==============================
+  | oooooooooo        oo ooo ooo |
+  | oo                           |
+  |    o ooo ooo ooo ooo ooo ooo |
+  |    + +++ +++ +++ +++ +++ +++ |
+  |_+__+__+__+__+__+__+__+_+_____|
+  |MITS Altair 8800 Computer     |
+   ==============================
+    -                          -
+EOC
