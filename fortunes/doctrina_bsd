@@ -2129,9 +2129,9 @@ A quien se le solicite introducir nombre y contraseña, debe asegurarse
 de que se encuentra en una URL legítima antes de comenzar siquiera a
 tipear en los campos de formulario.
 %
-Ya que nunca se puede tener el control sobre un servicio gestionado por
-otra persona, no debe utilizarse jamás un servicio informático si en
-principio podría hacer lo mismo con un programa informático.
+Ya que nunca se puede controlar un servicio gestionado por otra persona,
+no debe utilizarse jamás un servicio informático si en principio podría
+hacer lo mismo con un programa informático libre en tu propio sistema.
 %
 Depender de un servicio web es distinto a correr un programa. Usar un
 servicio es depender. Correr un programa es realizar. Y para realizar
@@ -2574,7 +2574,7 @@ elementos incorregibles, los hackers no deben dejarlos de lado, sino al
 contrario, deben persuadirlos para que se viertan a la lucha y oculten
 bugs indepurables en el código de quien les paga.
 %
-Es mas fácil cambiar el software que el hardware de la Masa.
+Es mas fácil cambiar el hardware que el software de la Masa.
 %
 El único general que tiene Window$ es el General Failure.
 %
@@ -4610,7 +4610,7 @@ ayudarlo a instalar software libre.
 Únete a las unidades básicas del Software Libre que funcionan en tu
 zona.
 %
-Loguéate los Pubnix de tu zona, y exígeles que usen GNU.
+Loguéate a los Pubnix de tu zona, y exígeles que usen GNU.
 %
 Participad de aquellos proyectos cuyo objetivo sea la realización de
 obras creativas que se puedan compartir.
@@ -4685,7 +4685,7 @@ interés ecológico y social, pues saben que se trata de un tema crítico
 que puede generar debate público y llevar a una fuerte regulación
 necesaria.
 %
-No resulta que un centro de datos de Micro$oft, que debía haber
+No resulta extraño que un centro de datos de Micro$oft, que debía haber
 consumido 84 millones de litros de agua al año en beneficio de ellos
 mismos, en realidad consumiera cuatro veces más de lo anunciado.
 %
@@ -4963,7 +4963,7 @@ Vamos a tener que andar con el pendrive de bootear en el bolsillo.
 %
 La red de datos no es confiable.
 %
-La latencia nunca es cero.
+La latencia jamás es cero.
 %
 El ancho de banda es finito.
 %
@@ -4973,7 +4973,7 @@ La topología de la red de datos cambia.
 %
 No existe un solo administrador.
 %
-El costo de transporte nunca es cero.
+El costo de transporte jamás es cero.
 %
 La red de datos es heterogénea.
 %
@@ -5207,8 +5207,8 @@ Un sindicato es una puerta lógica de unión.
 %
 La revolución no será monetizada.
 %
-Cuando cualquier servicio en línea importante desaparece, una parte del
-tejido cultural de nuestra civilización desaparece con él.
+Cuando un servicio en línea importante desaparece, una parte del tejido
+cultural de nuestra civilización desaparece con él.
 %
 A medida que invertimos más de nuestras vidas en el ámbito electrónico,
 las decisiones corporativas de cerrar los servicios digitales en línea
@@ -5243,3 +5243,119 @@ Soy escéptico de que las empresas de capital privado decidan
 espontáneamente pensar en términos de preservación a largo plazo de
 aquellos datos de alcance comunitario. Sólo lo harán aquellas privadas
 de capital.
+%
+No toleraré que el hardware informático de uso general, que debería ser
+un instrumento de liberación y creatividad, se reduzca a un canal
+cerrado de distribución de "contenidos". Al intentar paralizar mis
+herramientas, la maquinaria de los grandes medios me ha convertido en su
+enemigo.
+%
+Cualquier programa privativo dado, cuando corra, será obsoleto.
+%
+Cualquier programa privativo dado, cuesta y tarda más.
+%
+Si un programa privativo es útil, habrá de ser modificado.
+%
+Si un programa privativo es inútil, será frondosamente documentado.
+%
+Cualquier programa privativo se expandirá hasta ocupar toda la memoria
+disponible.
+%
+El valor de un programa privativo es proporcional al peso de su salida.
+%
+La complejidad de un programa privativo dado crecerá hasta exceder las
+capacidades del programador que debe mantenerlo.
+%
+Mas vale 0 en RAM que 1 en la nube.
+%
+Es la modificación, no la ejecución, la que hace avanzar el Pubnix. La
+ejecución sólo lo mantiene habitado.
+%
+Al disco viejo, backup nuevo.
+%
+A diferencia de las piedras, las llaves PGP se pueden revocar.
+%
+UNIX no habría alcanzado nunca al Pueblo sin la ayuda de GNU.
+%
+No es poderosa la CPU que tiene más núcleos, sino la que menos necesita.
+%
+Cuando el disco suena, datos se lleva.
+%
+A buen C no hay mala CPU.
+%
+Dentro de cada pequeño bug hay un bug enorme luchando por salirse al
+paso.
+%
+Una cosa es predicar y otra hacer buenos kernels.
+%
+El disco es plata, la RAM es oro.
+%
+Programa que requiere 1K de RAM, usa 2 si se los dan.
+%
+Romper una contraseña mediante fuerza bruta es una lotería. El más
+potente clúster de cómputo te hará tener todos los boletos.
+%
+Hablar de software y callar al Pueblo es una farsa.
+%
+Quien liberó su software bajo GPLv3 no está obligado a nada más.
+%
+A Window$ muerto, GNU puesto.
+%
+El programador debe considerar las cosas mas sencillas de lo que son.
+%
+Cuando se compila demasiado, se aburre uno de piratear.
+%
+El que copia, otorga.
+%
+En todo bug reconocemos pensamientos rechazados.
+%
+Los comentarios en el código suenan bien y no obligan a la CPU.
+%
+Un programador sin rebeldía es el peor de los esclavistas.
+%
+No basta correr el código; además hay que modificarlo.
+%
+A veces el código fuente nos consuela de las cosas, y las redes de datos
+de las personas.
+%
+Cuando el Windowser no tiene nada que hacer, mata moscas con el rabo.
+%
+Váyase lo devuelto por /dev/null.
+%
+Ningún código asoma por mi terminal sin que haya estado primero en mi
+corazón.
+%
+Otros se jactan de las líneas de código que han escrito; a mí me
+enorgullecen las que he borrado.
+%
+Bien de firewall y antivirus, pero mal de BIOS.
+%
+Escoge un kernel Linux-libre; la costumbre te lo hará agradable.
+%
+No creas hasta ver el código fuente.
+%
+Loguear y hacer ls, tiene el history mil millares.
+%
+Si el SysAdmin instala Window$, ¿qué no harán los demás vecinos?
+%
+Al compilador poco vale la intención, es la shell quien vive de ella.
+%
+Nunca digas esta distro no instalaré.
+%
+Ved el código en el fenómeno y podréis hacer la ingeniería inversa.
+%
+Hacker con miedo, programa ligero.
+%
+Los Window$ y la pesca, a los tres días apestan.
+%
+No temas ni desees el bug.
+%
+Fiar, en GCC y en otro no.
+%
+Siempre que un programa parezca fácil, es porque el README está
+incompleto.
+%
+Para arribar a la verdad, el usuario compra apps, el técnico formatea
+Window$, y el hacker instala GNU.
+%
+Suplantemos con nuestro software libre, el de los demás.
