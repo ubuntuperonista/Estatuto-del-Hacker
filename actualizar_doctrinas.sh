@@ -14,22 +14,14 @@ wget -O /tmp/vax.cow https://caja.texto-plano.xyz/peron/fortune-phrases/vax.cow
 wget -O /tmp/vax3900.cow https://caja.texto-plano.xyz/peron/fortune-phrases/vax3900.cow
 wget -O /tmp/gaucho.cow https://caja.texto-plano.xyz/peron/fortune-phrases/gaucho.cow
 wget -O /tmp/altair.cow https://caja.texto-plano.xyz/peron/fortune-phrases/altair.cow
+wget -O /tmp/vt52.cow https://caja.texto-plano.xyz/peron/fortune-phrases/vt52.cow
 
 echo "Moviendo ficheros .cow..."
-mv  /tmp/17oct.cow /usr/share/cowsay/cows/17oct.cow
-mv  /tmp/pocho.cow /usr/share/cowsay/cows/pocho.cow
-mv  /tmp/vacapiloto.cow /usr/share/cowsay/cows
-mv  /tmp/3b2.cow /usr/share/cowsay/cows
-mv  /tmp/pdp11_84.cow /usr/share/cowsay/cows
-mv  /tmp/rms.cow /usr/share/cowsay/cows
-mv  /tmp/vax.cow /usr/share/cowsay/cows
-mv  /tmp/vax3900.cow /usr/share/cowsay/cows
-mv  /tmp/gaucho.cow /usr/share/cowsay/cows
-mv  /tmp/altair.cow /usr/share/cowsay/cows
+mv -f /tmp/*.cow /usr/share/cowsay/cows/
 
 echo "Moviendo fortunes..."
-mv /tmp/doctrina /usr/share/games/fortunes/es
-mv /tmp/rms /usr/share/games/fortunes/es
+mv -f /tmp/doctrina /usr/share/games/fortunes/es
+mv -f /tmp/rms /usr/share/games/fortunes/es
 
 echo "OK!"
 echo 'Actualizando Doctrinas...'
@@ -39,4 +31,5 @@ strfile rms
 echo 'Doctrinas actualizadas'
 echo "Te devuelvo al directorio"
 cd -
+#Dispara una fortune adoctrinante de demostración
 /usr/games/fortune -s doctrina | /usr/games/cowsay -f 17oct
