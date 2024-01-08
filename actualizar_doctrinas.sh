@@ -15,6 +15,8 @@ wget -O /tmp/vax3900.cow https://caja.texto-plano.xyz/peron/fortune-phrases/vax3
 wget -O /tmp/gaucho.cow https://caja.texto-plano.xyz/peron/fortune-phrases/gaucho.cow
 wget -O /tmp/altair.cow https://caja.texto-plano.xyz/peron/fortune-phrases/altair.cow
 wget -O /tmp/vt52.cow https://caja.texto-plano.xyz/peron/fortune-phrases/vt52.cow
+wget -O /tmp/vt100.cow https://caja.texto-plano.xyz/peron/fortune-phrases/vt100.cow
+
 
 echo "Moviendo ficheros .cow..."
 mv -f /tmp/*.cow /usr/share/cowsay/cows/
