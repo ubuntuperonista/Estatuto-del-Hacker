@@ -1,4 +1,4 @@
-Intentar poseer conocimiento, intentar controlar si la gente se le
+Intentar poseer conocimiento, intentar controlar si a la gente se le
 permite usarlo, o intentar detener a otros de compartirlo, es sabotaje.
 %
 La Libertad 0 es la libertad para ejecutar el programa como tu quieras.
@@ -10,7 +10,7 @@ La Libertad 2 es la libertad de redistribuir copias exactas cuando lo
 desees. Es una libertad para ayudar al prójimo.
 %
 Libertad 3 es la libertad para redistribuir copias de tus versiones
-modificadas cuando lo desees. Esta es la liberta para contribuir a tu
+modificadas cuando lo desees. Esta es la libertad para contribuir a tu
 comunidad.
 %
 El Derecho de Autor no era un problema cuando sólo restringía a las
@@ -78,7 +78,7 @@ legalmente vinculante.
 %
 De las seis licencias Creative Commons, dos son libres (CC-BY y
 CC-BY-SA); de esos dos, sólo la última sigue el concepto de "prohibido
-prohubir" y es Copyleft.
+prohibir" y es Copyleft.
 %
 Cuando las personas copian y redistribuyen un programa, deben incluir
 una copia de su manual. Al modificar el programa, deberían modificarel
@@ -87,7 +87,7 @@ en sí debe ser libre. Y para garantizar que permanezca libre, debe
 contar con Copyleft.
 %
 Creative Commons es un proyecto creado en 2001 por un grupo de expertos
-en ciberderecho (no relacionado con el copyleft, pero parcialmente
+en derechos digitales (no relacionado con el copyleft, pero parcialmente
 inspirado en él) y, al igual que el copyleft, ofrece alternativas al
 copyright.
 %
@@ -1833,3 +1833,311 @@ luego añadimos los términos de distribución, un instrumento legal que
 otorga a todo el mundo el derecho a utilizar, modificar y redistribuir
 el código del programa o cualquier programa derivado del mismo, siempre
 que no se alteren los términos de distribución.
+%
+La primera vez que tuve la oportunidad de hacer algo en Lisp fue siendo
+un novato en Harvard, cuando escribí un intérprete de Lisp para el
+PDP-11.
+%
+El PDP-11 era una máquina muy pequeña, tenía algo así como 8k de
+memoria, y me las arreglé para escribir el intérprete en unas mil
+instrucciones.
+%
+En la década de los 70, antes de que mi vida se politizara a causa de
+terribles sucesos, simplemente me dedicaba a hacer una extensión tras
+otra de varios programas.
+%
+Lo interesante de Emacs era que no solo incluía un lenguaje de
+programación, sino que además los comandos de edición de los que
+disponía el usuario estaban escritos en ese mismo lenguaje, de forma que
+permitía cargar nuevas instrucciones mientras se estaba editando.
+%
+Podía modificar los programas que estaba utilizando e, inmediatamente,
+editar utilizando los programas recién modificados.
+%
+Teníamos un sistema que resultaba útil para tratar con texto además de
+programar, y que, sin embargo, permitía al usuario programar el editor
+mientras lo estaba usando.
+%
+La construcción de programas complejos y gigantescos para usarlos en las
+ediciones de textos de uno, y después intercambiarlos con otros,
+alimentó el espíritu de cooperación espontánea que teníamos entonces en
+el Laboratorio de Inteligencia Artificial.
+%
+Compartíamos programas con todo el que deseara usarlos, eran
+conocimiento humano.
+%
+A pesar de que no había un pensamiento político organizado que
+relacionara la forma en que compartíamos software con el diseño de
+Emacs, estoy convencido de que había una conexión entre ellos, quizá una
+conexión inconsciente.
+%
+Creo que fue la naturaleza de la forma de vida que llevábamos en el
+Laboratorio de Inteligencia Artificial lo que condujo a Emacs e hizo de
+él lo que fue.
+%
+a pesar de que no había un pensamiento político organizado que
+relacionara la forma en que compartíamos software con el diseño de
+Emacs, estoy convencido de que había una conexión entre ellos, quizá una
+conexión inconsciente.
+%
+TECO era nuestro editor de textos y era un lenguaje de programación
+extremadamente feo, no podía haber sido más feo. La razón era que no fue
+diseñado para ser un lenguaje de programación, sino como un lenguaje de
+órdenes y un editor de textos.
+%
+El lenguaje sobre el que construye sus extensiones no debería ser
+considerado como un lenguaje de programación a posteriori, sino que
+debería ser diseñado como un lenguaje de programación desde un
+principio.
+%
+El propósito del proyecto GNU es hacer más fácil para la gente rechazar
+el software que no sea libre, pisotea libertades y domina usuarios,
+proporcionándole software libre para sustituirlo.
+%
+Multics Emacs de Bernie Greenberg fue un gran éxito: programar nuevas
+órdenes de edición era tan práctico que incluso los administrativos
+empezaron a aprender a hacerlo en sus oficinas.
+%
+Para aquellos que no tienen el valor moral de rechazar el software que
+no es libre cuando hacerlo representa un inconveniente práctico, lo que
+intentamos hacer es ofrecer una alternativa libre de forma que puedan
+mudarse a la libertad de forma más ordenada y con menos sacrificios en
+términos prácticos.
+%
+Queremos hacer más fácil vivir en libertad, cooperar.
+%
+Con software libre es libre de cooperar con otros así como libre de
+ayudarse a usted mismo.
+%
+Con software que no es libre, alguien le está dominando y está
+manteniendo dividida a la gente. No se le permite compartir con el
+resto, no es libre de cooperar ni de ayudar a la sociedad, como tampoco
+es libre de ayudarse a usted mismo.
+%
+Divididos y desamparados es como se encuentran los usuarios de software
+que no es libre.
+%
+Hemos producido una enorme variedad de software libre.
+%
+Hemos hecho lo que la gente decía que nunca lograríamos hacer; tenemos
+dos sistemas operativos de software libre.
+%
+Tenemos muchas aplicaciones libres y, obviamente, todavía tenemos mucho
+camino por recorrer. Así que necesitamos su ayuda.
+%
+Me gustaría pedirles que colaboraran como voluntarios para el proyecto
+GNU; ayúdennos a desarrollar software libre para más tareas.
+%
+No hay otro sistema que GNU, y Linux es uno de sus kernels.
+%
+Si alguien roba un medio de almacenaje que contiene una versión de
+software licenciada bajo GPL, que ha sido publicada, entonces el ladrón
+probablemente tiene derecho a hacer copias y redistribuirlas bajo la
+GPL; pero si alguien encarcelado por robar, puede que para hacerlo tenga
+que esperar a que lo dejen en libertad.
+%
+Si una empresa trató de publicar su versión de software bajo GPL, y la
+sigue tratando como secreto comercial, esto vulneraría la GPL.
+%
+Si una empresa distribuye como secreto comercial una copia de alguna
+obra de otros desarrolladores cubierta por la GPL, esta compañía ha
+violado la GPL y tendrá que dejar de distribuir ese programa.
+%
+Si una empresa me proporciona como secreto comercial una copia de una
+obra suya cubierta por la GPL, si el programa distribuido no incluye
+ninguna obra ajena cubierta por la GPL, entonces la compañía no está
+violando la GPL. Pero esa compañía está haciendo dos declaraciones
+contradictorias acerca de lo que usted puede hacer con el programa: que
+puede redistribuirlo y que no puede hacerlo. Sería razonable pedir una
+aclaración de las condiciones de uso de ese programa antes de aceptar
+una copia.
+%
+De cuando en cuando, en un intervalo de años, modificamos la GPL: a
+veces para clarificarla, a veces para autorizar ciertos tipos de uso
+antes no permitidos, y a veces para hacer más estricto algún requisito.
+%
+Es un error revocar permisos ya concedidos, a menos que se deba a alguna
+vulneración. Si su libertad pudiera ser revocada, no sería una auténtica
+libertad.
+%
+Si obtiene una copia de una versión de un programa bajo determinada
+versión de una licencia, siempre debe disfrutar de los derechos que
+concede dicha versión.
+%
+La GPL se diseñó para programas; contiene muchas cláusulas complejas que
+son cruciales para los programas, pero que no tienen ningún sentido para
+un libro o manual.
+%
+La licencia GFDL para documentación tiene cláusulas que permiten a los
+editores de manuales libres obtener un beneficio vendiendo copias:
+textos de cubierta, por ejemplo. Las reglas especiales para las
+secciones de Aprobaciones hacen posible utilizar la GFDL para un
+estándar oficial. Esto permitiría versiones modificadas, pero no podrían
+ser etiquetadas como «la estándar».
+%
+Al utilizar la GFDL permitimos cambios en el texto de un manual que
+trata un asunto técnico. Es importante poder modificar las partes
+técnicas, pues quien modifica un programa debe modificar también la
+documentación correspondiente. La libertad de hacer esto es un
+imperativo ético.
+%
+Nuestros manuales incluyen también secciones en las que se expone
+nuestra posición política con respecto al software libre. Las marcamos
+como "invariables", de modo que no puedan ser modificadas o eliminadas.
+La GFDL prevé estas "secciones invariables".
+%
+Las plantillas no son tan relevantes como para que haga falta emplear el
+copyleft para protegerlas.
+%
+Normalmente no hay problema en utilizar el copyleft para obras menores,
+pero las plantillas son un caso especial, ya que se combinan con datos
+proporcionados por los usuarios de la aplicación y esa combinación se
+distribuye.
+%
+Recomendamos que licencie sus plantillas bajo condiciones sencillas y
+permisivas.
+%
+Qué programas haya utilizado para editar el código fuente, compilarlo,
+estudiarlo o grabarlo es habitualmente irrelevante por lo que se refiere
+a la licencia de dicho código fuente.
+%
+Si las bibliotecas no se ajustan a la excepción de la GPL relativa a las
+"bibliotecas del sistema" deberá añadir una nota dando permiso para
+enlazar su programa con ellas.
+%
+Sería útil disponer de traducciones de la GPL en lenguas distintas del
+inglés.
+%
+Si diéramos nuestra aprobación oficial a una traducción de la GPL
+estaríamos permitiendo a todo el mundo hacer todo lo que la traducción
+diga que pueden hacer. Si la traducción es absolutamente precisa,
+perfecto. Pero si la traducción contiene algún error, los resultados
+podrían ser desastrosos e irreparables.
+%
+Puesto que la GPL es una licencia con copyright, los titulares del
+copyright del software son quienes tienen la facultad de hacer cumplir
+la GPL.
+%
+Si observa un incumplimiento de la GPL debe informar a los
+desarrolladores del software afectado cubierto por la GPL.
+%
+La GPL no exige a nadie usar Internet para la distribución. Tampoco
+exige a nadie en particular que redistribuya el programa. Y (aparte de
+un caso especial), aun cuando alguien decida a veces redistribuir el
+programa, la GPL no dice que deba facilitarle una copia a usted o a
+cualquier otra persona en particular.
+%
+La GPL no anula (ni puede hacerlo) las leyes locales.
+%
+Por el mero hecho de manifestar su acuerdo con la GPL usted no adquiere
+compromiso alguno. Para solo usar software con licencia GPL usted no
+está obligado a manifestar su acuerdo con nada. Contraerá obligaciones
+únicamente si modifica o distribuye el software.
+%
+El instalador y los archivos que instala son obras diferentes. Como
+consecuencia, los términos de la GPL no se aplican al software de
+instalación.
+%
+La FSF se opone a que las leyes estadounidenses de control de las
+exportaciones se apliquen al software libre. Esas leyes no solo son
+incompatibles con el objetivo general de libertad del software, sino que
+no sirven a ningún propósito gubernamental razonable, ya que el software
+libre está en la actualidad y debería siempre estar disponible para
+gente de casi todos los países, incluidos países sin leyes de control de
+las exportaciones y que no participan en los embargos comerciales
+promovidos por EE. UU.
+%
+Las leyes estadounidenses de control de las exportaciones no hacen que
+el software libre quede fuera del alcance de ningún gobierno, y los
+ciudadanos de ningún país deben ser privados del software libre,
+independientemente de las políticas de sus gobiernos.
+%
+Facilitamos copias de todo el software con licencia GPL publicado por la
+FSF, sin necesidad de que se nos den explicaciones del lugar de
+residencia o del uso que se le pretende dar.
+%
+No se puede utilizar software cubierto por la GPL en un dispositivo que
+dejará de funcionar si los clientes no siguen pagando una cuota de
+suscripción. Como el requisito de continuar pagando una cuota limita la
+capacidad del usuario de correr el programa, y se trata de n requisito
+adicional sobre la GPL, la licencia lo prohíbe.
+%
+Dado que la GPLv2 se escribió antes de que la distribución par-a-par se
+popularizara, es difícil cumplir con sus requisitos cuando se comparte
+código por esta vía.
+%
+La propagación de un trabajo amparado surgida simplemente como
+consecuencia de la transmisión entre usuarios para obtener una copia
+tampoco requiere aceptación de la licencia GPL.
+%
+Algunos dispositivos usan software libre que puede ser actualizado, pero
+están diseñados de tal manera que los usuarios no puedan modificar ese
+software.
+%
+Cuando la gente distribuye Productos de Usuario que incluyen software
+bajo la GPLv3, la sección 6 exige que le proporcionen la información
+necesaria para modificar ese software.
+%
+La GPLv3 puede utilizarse también para licenciar materiales cubiertos
+por otras leyes similares al copyright; por ejemplo, las máscaras de
+semiconductores.
+%
+Cualquier bien material susceptible de quedar cubierto por copyright
+puede ser licenciado bajo la GPL.
+%
+En muchas situaciones el copyright no cubre la fabricación material de
+hardware a partir de un diseño gráfico. En tales situaciones, su
+licencia del diseño gráfico no ejerce ningún control sobre la
+manufacturación o la venta del hardware, sea cual fuere la licencia que
+use.
+%
+El único caso en que la licencia GPL le exigiría publicar sus claves
+criptográficas privadas sería si difundiera software en un Producto de
+Usuario y el hardware analizara el software en busca de una firma
+criptográfica válida para empezar a funcionar. En tal caso debe
+proporcionar dicha clave a cualquier poseedor del dispositivo que lo
+solicite.
+%
+Los poseedores de un Producto de Usuario licenciado bajo GPLv3, deben
+poder instalar software modificado en el dispositivo y hacerlo funcionar
+%
+La GPLv3 no exige que los votantes tengan la posibilidad de modificar el
+software que opera en una máquina de votación
+%
+El votante que utiliza una máquina de votación (al igual que cualquier
+otra cabina) no toma posesión de ella, ni siquiera temporalmente, de
+manera que el votante no toma posesión del software binario presente en
+ella.
+%
+Solo por que el software que opera en una computadora sea libre, eso no
+quiere decir que puede confiar en la máquina de votar.
+%
+Las computadoras no son fiables para votar. El voto debería emitirse en
+papel.
+%
+La licencia GPLv3 es icompatible con la GPLv2.
+%
+Si tratara de combinar código publicado bajo la GPLv2 con código
+publicado bajo la GPLv3, estaría vulnerando la sección 6 de la GPLv2.
+%
+Si el código está publicado bajo la "versión 2 o posterior" de la GPL,
+es compatible con la GPLv3, puesto que la GPLv3 es una de las opciones
+que admite.
+%
+GPLv3 exige de forma explícita que en la redistribución se incluya toda
+la «Información de Instalación» necesaria, mientras que la GPLv2 no
+utiliza esa expresión, pero exige que en la redistribución se incluyan
+los scripts utilizados para controlar la compilación e instalación del
+ejecutable, junto con el correspondiente código fuente completo.
+%
+A efectos de la GPL, existen dos formas de copia: por propagación, y por
+difusiión. En la primera se considera a título individual, y la segunda,
+colectivo.
+%
+Hemos creado estos nuevos términos para que nuestros propósitos sean lo
+más claros posibles sea cual sea el lugar en el que se interprete la
+licencia. La copia por propagación o copia por difusión aclaran estas
+diferencias funcionales en la licencia GPLv3.
+%
+Una licencia que impone restricciones sobre quién puede usar el
+programa, o para qué, no es una licencia de software libre.
