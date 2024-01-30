@@ -8,6 +8,7 @@ wget -O /tmp/17oct.cow https://caja.texto-plano.xyz/peron/fortune-phrases/17oct_
 wget -O /tmp/pocho.cow https://caja.texto-plano.xyz/peron/fortune-phrases/pocho.cow
 wget -O /tmp/vacapiloto.cow https://caja.texto-plano.xyz/peron/fortune-phrases/vacapiloto.cow
 wget -O /tmp/3b2.cow https://caja.texto-plano.xyz/peron/fortune-phrases/3b2.cow
+wget -O /tmp/pdp11_70.cow https://caja.texto-plano.xyz/peron/fortune-phrases/pdp11_70.cow
 wget -O /tmp/pdp11_84.cow https://caja.texto-plano.xyz/peron/fortune-phrases/pdp11_84.cow
 wget -O /tmp/rms.cow https://caja.texto-plano.xyz/peron/fortune-phrases/rms.cow
 wget -O /tmp/vax.cow https://caja.texto-plano.xyz/peron/fortune-phrases/vax.cow
