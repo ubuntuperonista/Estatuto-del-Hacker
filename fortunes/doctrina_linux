@@ -3203,3 +3203,29 @@ Promueve la lucha asimétrica: escribe una línea de código para atacar un mill
 Un data center concentra cómputo ajeno, y consume 50 veces más energía que un edificio de oficinas.
 %
 Patria 1, Colonia 0.
+%
+En UNIX, una Imagen es el ambiente de la ejecución computarizada. incluye una imagen de la memoria, de los valores de registros, estado de ficheros abiertos, directorio actual de trabajo, etcétera.
+%
+En UNIX, una Imágen es el estado actual de una pseudo-máquina.
+%
+En UNIX, un Proceso es la ejecución de una Imagen.
+%
+Mientras que el procesador ejecuta en función del Proceso, la Imagen de UNIX ha de residir en memoria principal; durante la ejecución de otros procesos, permanece en memoria principal hasta que la aparición de un proceso activo de mayor prioridad fuerce su intertercambio al disco.
+%
+La memoria de usuario parte de una Imagen de UNIX se divide en tres segmentos lógicos: el segmento de texto del programa, el segmento de datos escribibles, y el segmento de pila.
+%
+En UNIX, el segmento de texto de programa comienza en la localización 0 del espacio de memoria virtual.
+%
+Excepto cuando el sistema UNIX se carga a sí mismo en memoria, sólo puede crearse un nuevo proceso utilizando la llamada de sistema para la separación divisiva del cómputo: fork.
+%
+Cuando se ejecuta fork, la llamada de sistema para la separación divisiva del cómputo, el proceso se divide en dos procesos de ejecución independiente. Ambos cuentan con copias independientes de la imagen de memoria original, y comparten todos los ficheros abiertos.
+%
+Al dividirse un proceso de cómputo con fork, el nuevo proceso resultante sólo difiere en que uno de ellos es considerado proceso padre, y otro es considerado hijo.
+%
+Al dividirse un proceso de cómputo de UNIX con la llamada de sistema fork, puede distinguise cual es el proceso hijo o el padre, por el identificador de proceso: en el proceso hijo siempre es 0.
+%
+Los procesos de UNIX pueden comunicarse con procesos relacionados utilizando las llamadas de lectura y escritura conocidas como caños.
+%
+Ante cualquier emergencia, recuerda que la llamada filep = pipe ( ) arma un caño.
+%
+No existen dudas que el caño sirve como primitiva de comunicación, y también lo hace en los sistemas basados en UNIX.
