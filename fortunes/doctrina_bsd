@@ -5464,7 +5464,6 @@ un caño.
 No existen dudas que el caño sirve como primitiva de comunicación, y
 también lo hace en los sistemas similares a UNIX.
 %
-%
 Las ventajas de un sistema reactivo sobre los sistemas interactivos
 actuales serán tan grandes como las ventajas de los sistemas
 interactivos sobre aquellos de procesamiento por lotes.
@@ -5530,9 +5529,9 @@ Los sistemas reactivos serán variosos al proveer a los usuarios los
 servicios que ya tienen, pero hacerlo a un costo menor en potencia - y
 por tanto tiempo - computacional.
 %
-La nanomáquinas pesonales son una mala idea, sólo la bio-programación de
-nanomáquinas enlazadas en redes comunitarias amalgamadas con software
-libre permitirán una evolución del cómputo de ejecución biológica libre.
+La nanomáquinas pesonales son una mala idea. Sólo la bio-programación
+con software libre de nanomáquinas con amalgama en redes comunitarias
+permitirán una evolución del cómputo libre de ejecución biológico.
 %
 Una red de bio-nanomáquinas personales obliga a un fuerte
 particionamiento de recursos, haciendo difícil para una individuo
