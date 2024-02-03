@@ -6,6 +6,7 @@ wget -O /tmp/doctrina https://caja.texto-plano.xyz/peron/fortune-phrases/doctrin
 wget -O /tmp/rms https://caja.texto-plano.xyz/peron/fortune-phrases/rms2
 wget -O /tmp/17oct.cow https://caja.texto-plano.xyz/peron/fortune-phrases/17oct_ascii.cow
 wget -O /tmp/pocho.cow https://caja.texto-plano.xyz/peron/fortune-phrases/pocho.cow
+wget -O /tmp/osinde.cow https://caja.texto-plano.xyz/peron/fortune-phrases/osinde.cow
 wget -O /tmp/vacapiloto.cow https://caja.texto-plano.xyz/peron/fortune-phrases/vacapiloto.cow
 wget -O /tmp/3b2.cow https://caja.texto-plano.xyz/peron/fortune-phrases/3b2.cow
 wget -O /tmp/3b2_400.cow https://caja.texto-plano.xyz/peron/fortune-phrases/3b2_400.cow
