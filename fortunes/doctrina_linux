@@ -3275,3 +3275,63 @@ Existe un continuo ciclo en el cual los procesos de bio-cómputo se tornan más 
 La Justicia Social es el patch que corrije todos los bugs.
 %
 En escencia, un hacker es justicialista.
+%
+El mediador entre el hardware y el software ha de ser el Pueblo.
+%
+Para la mayoría de los usuarios, la comunicación con el núcleo del sistema se lleva a cabo con la asistencia de un programa denominado Shell. La shell es - en escencia - asistencialista.
+%
+La shell es un intérprete de órdenes: lee las líneas mecanografiadas por el usuario y las interpreta como solicitudes para correr otros programas.
+%
+Un programa que copia su entrada estándar procesada a su salida estándar se denomina filtro.
+%
+Manipular la función command-not-found para persuadir la instalación de paquetes snap digitados a los usuarios de Ubuntu es simple: hay que cargar un snap que pretenda ser algo de superficie, y la sugerencia de paquetes hará el resto.
+%
+Como la Justicia Social, la shell es en sí una orden, y puede ejecutarse recursivamente. De tal forma, en circunstancias ordinarias, el bucle principal de la shell no cesa jamás.
+%
+La vida en la shell incluye la capacidad de sustituir parámetros y construir listas de argumentos desde un subconjunto especificado de nombres de fichero de un directorio.
+%
+Las instancias de la shell en la cual los usuarios ingresan órdenes son sólo procesos hijos de otro proceso.
+%
+El último paso en la inicialización de un sistema UNIX es la creación de un único proceso y la invocación de un programa denominado init, destinado a crear un proceso para cada canal de terminal de cómputo que exista en él.
+%
+Cuando un usuario mecanografía un nombre de usuario en la línea login de UNIX, una instancia apropiada de init despierta, lee el nombre, coteja el registro codificado de contraseñas, y de coincidir, el prorgrama init cambia al directorio del usuario, configura el identificador de proceso al del usuario, y ejecuta una instancia de la shell.
+%
+A no ser que se tomen otras medidas, una acción ilegal en un sistema UNIX provoca la terminación del proceso y la escritura en un fichero en el directorio actual de una imagen de la memoria de núcleo. Es posible el uso de un depurador para determinar el estado de un programa al momento de la falla.
+%
+El éxito del sistema UNIX se debió principalmente al hecho de que no fue diseñado para cumplir objetivo predefinido alguno.
+%
+Nuestra intención ha sido siempre construir una relación cómoda con la máquina y explorar ideas e invenciones en sistemas operativos y otro software.
+%
+Como somos programadores, naturalmente diseñamos un sistema que hiciera sencillo escribir, evaluar y usar programas de computadora.
+%
+La expresión más importantes de nuestro deseo para la conveniencia de la programación es convivir en un ambiente informático dispuesto para el uso interactivo.
+%
+Siempre quisimos un sistema de cómputo interactivo, incluso a pesar de que la versión original de UNIX sólo soportaba un usuario.
+%
+Creemos que un sistema interactivo propiamente diseñado es mucho más productivo y satisfactorio de usar que un sistema de cómputo por lotes. 
+%
+Un sistema de cómputo interactivo resulta bastante sencillo de adaptar al uso no interactivo, mientras que la noción inversa es imposible.
+%
+Dado que los deseos parcialmente antagonistas entre una eficiencia razonable y una funcionalidad de cómputo expresiva, la limitación de potencia de cómputo no sólo nos ha incentivado la economía de recursos, pero también a una cierta elegancia en el diseño de nuestro sistema.
+%
+Al igual que la Justicia Social, casi desde un comienzo el sistema UNIX pudo sostenerse con el esfuerzo de los trabajadores.
+%
+Si los diseñadores de un sistema están obligados a utilizarlo, rápidamente comprendes sus deficiencias funcionales y superficiales, y se incentivan a corregirlas antes de que sea tarde.
+%
+Si los diseñadores de un sistema no lo utilizan y comercian su código fuente, tal sistema se verá rápidamente colmado de deficiencias funcionales, de las cuales sólo se intentarán corregir de manera superficial.
+%
+En UNIX no existen grandes rutinas con "métodos de acceso" que aislen al programador del amor de las llamadas de sistema.
+%
+Todos los programas de usuario de UNIX llaman al sistema directamente o usan un pequeño programa de una biblioteca, encargado de precargar una cierta cantidad de caracteres y los lee o escribe todos a la vez.
+%
+Dada la necesidad que todos los programas sean utilizables con cualquier fichero o dispositivo como flujo de caracteres de su entrada o salida, también se volvió necesario persuadir tales consideraciones dependientes de dispositivo al sistema operativo UNIX en sí.
+%
+La alternativa a que todos los programas de UNIX sean utilizables con cualquier fichero o dispositivos de flujo de caracteres como entrada y salida sería cargar - en todos los programas - rutinas que hagan caso de cada dispositivo de hardware (las cuales son onerosas en espacio), o bien depender de algún modo de enlace dinámico a la rutina apropiada para cada dispositivo cuando aquél sea necesario. Ambas son onerosas tanto en sobreprogramación como en hardware.
+%
+El éxito de UNIX recae no tanto en invenciones novedosas, sino mas bien en la total explotación de un conjunto de ideas fértiles cuidadosamente seleccionadas, y especialmente en demostrar que éstas pueden resultar clave para la implementación de un sistema operativo pequeño pero poderoso.
+%
+La operación de bifurcación FORK, como se implementa en UNIX, estaba esencialmente presente en el sistema de tiempo de cómputo compartido GENIE.
+%
+Gran cantidad de funcionalidades de UNIX fueron influenciadas por Multics, que sugiere la forma particular de las llamadas de Entrada/Salida, así como el nombre de la shell y sus funciones generales.
+%
+La noción de que la Shell UNIX debe crear un proceso para cada comando también sugiere el diseño primigenio de Multics, aunque en dicho sistema fue luego desechada por razones de eficiencia. Un esquema similar se utiliza en TENEX.
