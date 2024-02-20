@@ -1731,7 +1731,7 @@ Las máquinas basadas en 8088 eran casi lo suficientemente potentes como para ad
 %
 Las versiones de BSD dominaron como plataforma para experimentar con conceptos de red, de modo que ahora lo mejor en redes de área local está disponible para sistemas UNIX
 %
-El mayor experimento de red de área amplia, ARPANET, se orientó inicialmente hacia los sistemas similares a UNIX.
+El mayor experimento de red de área amplia, ARPANET, se orientó inicialmente hacia los sistemas TENEX.
 %
 El sistema UNIX ganó el debido reconocimiento en la primera mitad de la década de 1970, con el desarrollo de minicomputadoras más potentes que el DEC PDP-11 original, tales como la PDP-11/45 y la PDP-11/70.
 %
@@ -1781,7 +1781,7 @@ Tres caracteres especiales, llamados comodines, pueden reemplazar todo o parte d
 %
 Un hacker avezado es capaz de programar guiones, rutinas, extensiones de navegador, macros de hojas de cálculo y aplicaciones capaces de contrarrestar -en CPU propia o ajena - aquellos esquemas de monitoreo y explotación por software en el ámbito de Trabajo.
 %
-Una implementación del teletrabajo dejada a la Oligarquía sólo acarreará  la importación de métodos de gestión informales al ambiente laboral.
+Una implementación del teletrabajo dejada a la Oligarquía sólo acarreará la importación de métodos de gestión informales al ambiente laboral.
 %
 Hemos de impedir que las nuevas generaciones de trabajadores sean alcanzadas por nuevas versiones de los llamados "software remotos de gestión laboral".
 %
@@ -2733,7 +2733,7 @@ Como una empanada dulce, el membrillo de UNIX es su kernel.
 %
 Para Window$, los únicos privilegiados son los Malwares.
 %
-Fortran es un lennguaje estirado y aburrido, y junto a IBM constituye un símbolo de las computadoras mainframe controladas por la autoridad.
+Fortran es un lenguaje estirado y aburrido, y junto a IBM constituye un símbolo de las computadoras mainframe controladas por la autoridad.
 %
 El teletipo Modelo ASR 33 era el dispositivo de E/S de facto para los pioneros del microcómputo. Estas terminales se utilizaban tanto para presentar resultados como para almacenar información en formato cinta de papel perforado.
 %
@@ -3264,7 +3264,7 @@ Al enlazar nano-máquinas injertadas en el Pueblo a una simple red de transmisi�
 %
 Los sistemas reactivos serán variosos al proveer a los usuarios los servicios que ya tienen, pero hacerlo a un costo menor en potencia - y por tanto tiempo - computacional.
 %
-La nanomáquinas pesonales son una mala idea. Sólo la bio-programación con software libre de nanomáquinas amalgamadas en redes comunitarias permitirán una evolución del cómputo libre de ejecución biológica.
+La nanomáquinas pesonales son una mala idea. Sólo la programación con software libre en bio-nanomáquinas amalgamadas en redes comunitarias permitirán una evolución del cómputo libre de ejecución biológica.
 %
 Una red de bio-nanomáquinas personales obliga a un fuerte particionamiento de recursos, haciendo difícil para una individuo obtener algo más que un muy escaso porcentaje de memoria y potencia de procesamiento.
 %
@@ -3335,3 +3335,81 @@ La operación de bifurcación FORK, como se implementa en UNIX, estaba esencialm
 Gran cantidad de funcionalidades de UNIX fueron influenciadas por Multics, que sugiere la forma particular de las llamadas de Entrada/Salida, así como el nombre de la shell y sus funciones generales.
 %
 La noción de que la Shell UNIX debe crear un proceso para cada comando también sugiere el diseño primigenio de Multics, aunque en dicho sistema fue luego desechada por razones de eficiencia. Un esquema similar se utiliza en TENEX.
+%
+Cualquiera con acceso al cómputo puede ser sometido a ingeniería social.
+%
+Cualquier sistema de cómputo puede ser afectado por ingenierías sociales, y la mejor de estas es la persuación.
+%
+La utilidad del emparchado de software privativo está siempre limitado en el tiempo.
+%
+Todo software privativo será discontinuado, y como tal, dejará de recibir parches.
+%
+El primer nombre código para el sistema operativo TENEX fue VIROS (Sistema Operativo de Memoria Virtual).
+%
+Depurar un programa introduciendo cambios pequeños inconexos suele guardar la esperanza de que un bug desaparezca, pero casi nunca funciona.
+%
+Si te sobran centímetros de cinta magnética, rellénala con tarballs de programas que ni siquiera conoces.
+%
+El tamaño de bloque de firma en un correo electrónico usualmente es inversamente proporcional a la longevidad y prestigio en la red de datos del remitente.
+%
+Agotar la memoria en una máquina virtual significa que tienes un agotamiento de memoria verdadero.
+%
+Las cosas eran diferentes en las máquinas con palabras de 36 bits y bytes de 9 bits.
+%
+En ocasiones los programas triviales pueden ser sumamente útiles.
+%
+Un disco floppy tiene 8 pulgadas. El minifloppy 5 y un cuarto. El microfloppy apenas 3 y media.
+%
+La IA es bogus.
+%
+Micro$oft Window$ no es mas que un parche de 64 bits de una extensión de 32 bits de cierta interfaz gráfica, para un parche de 16 bits de un sistema operativo de 8 bits originalmente escrito para un microprocesador de 4 bits que fue desarrollado por una compañía de dos tipos que no podían tolerar un poco de competencia.
+%
+El BASIC originalmente se llamaba Basic, simplemente porque era un lenguaje de programación simple y sencillo.
+%
+Debido a que la mayoría de los nombres de los lenguajes de programación clásicos eran de hecho siglas, a Basic que lo comenzó a escribir en mayúsculas, sólo como una broma.
+%
+No existió un acrónimo original para el lenguaje Basic cuando fue fue desarrollado. A mediados de la décade de 1970, los hackers comenzaron a inventarle un acrónimo retrógrado. El que terminó siendo adoptado para BASIC fue: "Código de Instruciones Simbólicas de Todo Proósito para el Novato".
+%
+BASIC ha seguido la descendente espiral que cruza todo lenguaje de programación que ha sido diseñado deliberadaamente como un juguete educativo, y que alguien toma demasiado en serio.
+%
+Un neófito puede escribir programas de BASIC cortos (del orden de las 10 o 20 líneas) fácilmente, pero escribir cualquier cosa más larga que eso es muy dificultoso.
+%
+El uso de BASIC termina inculcando en los programadores bisoños malos hábitos en lo que respecta a escritura de sus programas.
+%
+Apegarse a los malos hábitos de programación del lenguaje BASIC torna considerablemente más difícil el uso correcto de muchos otros lenguajes de programación más potentes.
+%
+Una serie de accidentes históricos hizo que el lenguaje BASIC se volviera demasiado común en microcomputadoras de baja gama en la década de los ochentas.
+%
+BASIC probablemente arruinó la sapiencia de decenas de miles de potenciales magos UNIX.
+%
+Algunos lenguajes que llevan la cocarda de BASIC ya no son tan espantosos, habiendo adquirido procedimientos y estructuras de control similares a C y Pascal, y al haberse deshecho de sus números de línea.
+%
+El trabajo por lotes es eficiente, pero sólo si trabaja la máquina. Sin embargo, para trabajar en la máquina, normalmente los hombres preferirán la operatoria de ciclo interactivo.
+%
+Un baudio delimita un nivel de transiciones por segundo. Que este equivalga a un bit es sólo condicional al cómputo aplicado por mutuo acuerdo.
+%
+Dada una maquinariaa social adecuada, el depurado puede ser paralelizado a lo largo de numerosos programadores.
+%
+La revisión popular del código asegura la limpieza del binario.
+%
+Centenas de miles de sistemas carteleras electrónicas locales operaron durante la éra de las microcomputadoras previas a la red de datos Internet, aproximadamente desde 1980 a 1995.
+%
+La BBS típica eraoperada por un amateur en búsqueda de diversión que se hacían llamar SysOp, desde sus hogar y a través una máquinas con M$-DO$ dotada de módem. El enlace al sistema telefónico público casi nunca excedía una única línea.
+%
+Los habitantes de la USENET y la Internet, o las grandes carteleras electrónicas comerciales de tiempo compartido tendían a considerar a las BBS locales como los barrios bajos de la cultura hacker.
+%
+Las BBS tuvieron la valiosa función de entretejer a miles de hackers y usuarios de microcomputadoras personales, facilitándoles la tarea de compartir sus experiencias y programas.
+%
+Con la explosión de la Internet, se creyó que las BBS se convertirían probablemente en grupos de noticias locales de los proveedores de tales servicios, pero ni siquiera sirvieron para eso.
+%
+El programa "Hola Tercer Mundo!" original fue escrito en BCPL, un lenguaje de programación compilado de rica sintaxis desarrollado en Cambridge en el año 1967.
+%
+El lenguaje de programación BCPL tiene un solo tipo de datos (una palabra máquina), que puede usada como entero, caracter, cifra de coma flotante, puntero o casi cualquier cosa, dependiendo del contexto.
+%
+BCPL fue un lenguaje de programación precursor de C, y éste heredó algunas de sus características.
+%
+La transferencia electrónica de una copia de un fichero en la ARPANET era referida como "transportar" ("beam"), por el particular artefacto de la popular serie "Viaje a las Estrellas".
+%
+El proverbial campanazo electromecánico de alerta de una terminal teletipo fue reemplazado por el "feep" electrónico de las videoterminales de los mainframe. Este fue adoptado como "beep" en la era de las microcomputadoras con altavoces de diafragma magnéticos o piezoeléctricos.
+%
+La perversión del software privativo tiende al máximo.
