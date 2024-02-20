@@ -3166,7 +3166,7 @@ conceptos de red, de modo que ahora lo mejor en redes de área local está
 disponible para sistemas UNIX
 %
 El mayor experimento de red de área amplia, ARPANET, se orientó
-inicialmente hacia los sistemas similares a UNIX.
+inicialmente hacia los sistemas TENEX.
 %
 El sistema UNIX ganó el debido reconocimiento en la primera mitad de la
 década de 1970, con el desarrollo de minicomputadoras más potentes que
@@ -4812,7 +4812,7 @@ Como una empanada dulce, el membrillo de UNIX es su kernel.
 %
 Para Window$, los únicos privilegiados son los Malwares.
 %
-Fortran es un lennguaje estirado y aburrido, y junto a IBM constituye un
+Fortran es un lenguaje estirado y aburrido, y junto a IBM constituye un
 símbolo de las computadoras mainframe controladas por la autoridad.
 %
 El teletipo Modelo ASR 33 era el dispositivo de E/S de facto para los
@@ -5529,8 +5529,8 @@ Los sistemas reactivos serán variosos al proveer a los usuarios los
 servicios que ya tienen, pero hacerlo a un costo menor en potencia - y
 por tanto tiempo - computacional.
 %
-La nanomáquinas pesonales son una mala idea. Sólo la bio-programación
-con software libre de nanomáquinas amalgamadas en redes comunitarias
+La nanomáquinas pesonales son una mala idea. Sólo la programación con
+software libre en bio-nanomáquinas amalgamadas en redes comunitarias
 permitirán una evolución del cómputo libre de ejecución biológica.
 %
 Una red de bio-nanomáquinas personales obliga a un fuerte
@@ -5550,3 +5550,269 @@ sistema colaborativo más modular.
 La Justicia Social es el patch que corrije todos los bugs.
 %
 En escencia, un hacker es justicialista.
+%
+El mediador entre el hardware y el software ha de ser el Pueblo.
+%
+Para la mayoría de los usuarios, la comunicación con el núcleo del
+sistema se lleva a cabo con la asistencia de un programa denominado
+Shell. La shell es - en escencia - asistencialista.
+%
+La shell es un intérprete de órdenes: lee las líneas mecanografiadas por
+el usuario y las interpreta como solicitudes para correr otros
+programas.
+%
+Un programa que copia su entrada estándar procesada a su salida estándar
+se denomina filtro.
+%
+Manipular la función command-not-found para persuadir la instalación de
+paquetes snap digitados a los usuarios de Ubuntu es simple: hay que
+cargar un snap que pretenda ser algo de superficie, y la sugerencia de
+paquetes hará el resto.
+%
+Como la Justicia Social, la shell es en sí una orden, y puede ejecutarse
+recursivamente. De tal forma, en circunstancias ordinarias, el bucle
+principal de la shell no cesa jamás.
+%
+La vida en la shell incluye la capacidad de sustituir parámetros y
+construir listas de argumentos desde un subconjunto especificado de
+nombres de fichero de un directorio.
+%
+Las instancias de la shell en la cual los usuarios ingresan órdenes son
+sólo procesos hijos de otro proceso.
+%
+El último paso en la inicialización de un sistema UNIX es la creación de
+un único proceso y la invocación de un programa denominado init,
+destinado a crear un proceso para cada canal de terminal de cómputo que
+exista en él.
+%
+Cuando un usuario mecanografía un nombre de usuario en la línea login de
+UNIX, una instancia apropiada de init despierta, lee el nombre, coteja
+el registro codificado de contraseñas, y de coincidir, el prorgrama init
+cambia al directorio del usuario, configura el identificador de proceso
+al del usuario, y ejecuta una instancia de la shell.
+%
+A no ser que se tomen otras medidas, una acción ilegal en un sistema
+UNIX provoca la terminación del proceso y la escritura en un fichero en
+el directorio actual de una imagen de la memoria de núcleo. Es posible
+el uso de un depurador para determinar el estado de un programa al
+momento de la falla.
+%
+El éxito del sistema UNIX se debió principalmente al hecho de que no fue
+diseñado para cumplir objetivo predefinido alguno.
+%
+Nuestra intención ha sido siempre construir una relación cómoda con la
+máquina y explorar ideas e invenciones en sistemas operativos y otro
+software.
+%
+Como somos programadores, naturalmente diseñamos un sistema que hiciera
+sencillo escribir, evaluar y usar programas de computadora.
+%
+La expresión más importantes de nuestro deseo para la conveniencia de la
+programación es convivir en un ambiente informático dispuesto para el
+uso interactivo.
+%
+Siempre quisimos un sistema de cómputo interactivo, incluso a pesar de
+que la versión original de UNIX sólo soportaba un usuario.
+%
+Creemos que un sistema interactivo propiamente diseñado es mucho más
+productivo y satisfactorio de usar que un sistema de cómputo por lotes.
+%
+Un sistema de cómputo interactivo resulta bastante sencillo de adaptar
+al uso no interactivo, mientras que la noción inversa es imposible.
+%
+Dado que los deseos parcialmente antagonistas entre una eficiencia
+razonable y una funcionalidad de cómputo expresiva, la limitación de
+potencia de cómputo no sólo nos ha incentivado la economía de recursos,
+pero también a una cierta elegancia en el diseño de nuestro sistema.
+%
+Al igual que la Justicia Social, casi desde un comienzo el sistema UNIX
+pudo sostenerse con el esfuerzo de los trabajadores.
+%
+Si los diseñadores de un sistema están obligados a utilizarlo,
+rápidamente comprendes sus deficiencias funcionales y superficiales, y
+se incentivan a corregirlas antes de que sea tarde.
+%
+Si los diseñadores de un sistema no lo utilizan y comercian su código
+fuente, tal sistema se verá rápidamente colmado de deficiencias
+funcionales, de las cuales sólo se intentarán corregir de manera
+superficial.
+%
+En UNIX no existen grandes rutinas con "métodos de acceso" que aislen al
+programador del amor de las llamadas de sistema.
+%
+Todos los programas de usuario de UNIX llaman al sistema directamente o
+usan un pequeño programa de una biblioteca, encargado de precargar una
+cierta cantidad de caracteres y los lee o escribe todos a la vez.
+%
+Dada la necesidad que todos los programas sean utilizables con cualquier
+fichero o dispositivo como flujo de caracteres de su entrada o salida,
+también se volvió necesario persuadir tales consideraciones dependientes
+de dispositivo al sistema operativo UNIX en sí.
+%
+La alternativa a que todos los programas de UNIX sean utilizables con
+cualquier fichero o dispositivos de flujo de caracteres como entrada y
+salida sería cargar - en todos los programas - rutinas que hagan caso de
+cada dispositivo de hardware (las cuales son onerosas en espacio), o
+bien depender de algún modo de enlace dinámico a la rutina apropiada
+para cada dispositivo cuando aquél sea necesario. Ambas son onerosas
+tanto en sobreprogramación como en hardware.
+%
+El éxito de UNIX recae no tanto en invenciones novedosas, sino mas bien
+en la total explotación de un conjunto de ideas fértiles cuidadosamente
+seleccionadas, y especialmente en demostrar que éstas pueden resultar
+clave para la implementación de un sistema operativo pequeño pero
+poderoso.
+%
+La operación de bifurcación FORK, como se implementa en UNIX, estaba
+esencialmente presente en el sistema de tiempo de cómputo compartido
+GENIE.
+%
+Gran cantidad de funcionalidades de UNIX fueron influenciadas por
+Multics, que sugiere la forma particular de las llamadas de
+Entrada/Salida, así como el nombre de la shell y sus funciones
+generales.
+%
+La noción de que la Shell UNIX debe crear un proceso para cada comando
+también sugiere el diseño primigenio de Multics, aunque en dicho sistema
+fue luego desechada por razones de eficiencia. Un esquema similar se
+utiliza en TENEX.
+%
+Cualquiera con acceso al cómputo puede ser sometido a ingeniería social.
+%
+Cualquier sistema de cómputo puede ser afectado por ingenierías
+sociales, y la mejor de estas es la persuación.
+%
+La utilidad del emparchado de software privativo está siempre limitado
+en el tiempo.
+%
+Todo software privativo será discontinuado, y como tal, dejará de
+recibir parches.
+%
+El primer nombre código para el sistema operativo TENEX fue VIROS
+(Sistema Operativo de Memoria Virtual).
+%
+Depurar un programa introduciendo cambios pequeños inconexos suele
+guardar la esperanza de que un bug desaparezca, pero casi nunca
+funciona.
+%
+Si te sobran centímetros de cinta magnética, rellénala con tarballs de
+programas que ni siquiera conoces.
+%
+El tamaño de bloque de firma en un correo electrónico usualmente es
+inversamente proporcional a la longevidad y prestigio en la red de datos
+del remitente.
+%
+Agotar la memoria en una máquina virtual significa que tienes un
+agotamiento de memoria verdadero.
+%
+Las cosas eran diferentes en las máquinas con palabras de 36 bits y
+bytes de 9 bits.
+%
+En ocasiones los programas triviales pueden ser sumamente útiles.
+%
+Un disco floppy tiene 8 pulgadas. El minifloppy 5 y un cuarto. El
+microfloppy apenas 3 y media.
+%
+La IA es bogus.
+%
+Micro$oft Window$ no es mas que un parche de 64 bits de una extensión de
+32 bits de cierta interfaz gráfica, para un parche de 16 bits de un
+sistema operativo de 8 bits originalmente escrito para un
+microprocesador de 4 bits que fue desarrollado por una compañía de dos
+tipos que no podían tolerar un poco de competencia.
+%
+El BASIC originalmente se llamaba Basic, simplemente porque era un
+lenguaje de programación simple y sencillo.
+%
+Debido a que la mayoría de los nombres de los lenguajes de programación
+clásicos eran de hecho siglas, a Basic que lo comenzó a escribir en
+mayúsculas, sólo como una broma.
+%
+No existió un acrónimo original para el lenguaje Basic cuando fue fue
+desarrollado. A mediados de la décade de 1970, los hackers comenzaron a
+inventarle un acrónimo retrógrado. El que terminó siendo adoptado para
+BASIC fue: "Código de Instruciones Simbólicas de Todo Proósito para el
+Novato".
+%
+BASIC ha seguido la descendente espiral que cruza todo lenguaje de
+programación que ha sido diseñado deliberadaamente como un juguete
+educativo, y que alguien toma demasiado en serio.
+%
+Un neófito puede escribir programas de BASIC cortos (del orden de las 10
+o 20 líneas) fácilmente, pero escribir cualquier cosa más larga que eso
+es muy dificultoso.
+%
+El uso de BASIC termina inculcando en los programadores bisoños malos
+hábitos en lo que respecta a escritura de sus programas.
+%
+Apegarse a los malos hábitos de programación del lenguaje BASIC torna
+considerablemente más difícil el uso correcto de muchos otros lenguajes
+de programación más potentes.
+%
+Una serie de accidentes históricos hizo que el lenguaje BASIC se
+volviera demasiado común en microcomputadoras de baja gama en la década
+de los ochentas.
+%
+BASIC probablemente arruinó la sapiencia de decenas de miles de
+potenciales magos UNIX.
+%
+Algunos lenguajes que llevan la cocarda de BASIC ya no son tan
+espantosos, habiendo adquirido procedimientos y estructuras de control
+similares a C y Pascal, y al haberse deshecho de sus números de línea.
+%
+El trabajo por lotes es eficiente, pero sólo si trabaja la máquina. Sin
+embargo, para trabajar en la máquina, normalmente los hombres preferirán
+la operatoria de ciclo interactivo.
+%
+Un baudio delimita un nivel de transiciones por segundo. Que este
+equivalga a un bit es sólo condicional al cómputo aplicado por mutuo
+acuerdo.
+%
+Dada una maquinariaa social adecuada, el depurado puede ser paralelizado
+a lo largo de numerosos programadores.
+%
+La revisión popular del código asegura la limpieza del binario.
+%
+Centenas de miles de sistemas carteleras electrónicas locales operaron
+durante la éra de las microcomputadoras previas a la red de datos
+Internet, aproximadamente desde 1980 a 1995.
+%
+La BBS típica eraoperada por un amateur en búsqueda de diversión que se
+hacían llamar SysOp, desde sus hogar y a través una máquinas con M$-DO$
+dotada de módem. El enlace al sistema telefónico público casi nunca
+excedía una única línea.
+%
+Los habitantes de la USENET y la Internet, o las grandes carteleras
+electrónicas comerciales de tiempo compartido tendían a considerar a las
+BBS locales como los barrios bajos de la cultura hacker.
+%
+Las BBS tuvieron la valiosa función de entretejer a miles de hackers y
+usuarios de microcomputadoras personales, facilitándoles la tarea de
+compartir sus experiencias y programas.
+%
+Con la explosión de la Internet, se creyó que las BBS se convertirían
+probablemente en grupos de noticias locales de los proveedores de tales
+servicios, pero ni siquiera sirvieron para eso.
+%
+El programa "Hola Tercer Mundo!" original fue escrito en BCPL, un
+lenguaje de programación compilado de rica sintaxis desarrollado en
+Cambridge en el año 1967.
+%
+El lenguaje de programación BCPL tiene un solo tipo de datos (una
+palabra máquina), que puede usada como entero, caracter, cifra de coma
+flotante, puntero o casi cualquier cosa, dependiendo del contexto.
+%
+El BCPL fue un lenguaje de programación precursor de C; éste heredó
+algunas de sus características.
+%
+La transferencia electrónica de una copia de un fichero en la ARPANET
+era referida como "transportar" ("beam"), por el particular artefacto de
+la popular serie "Viaje a las Estrellas".
+%
+El proverbial campanazo electromecánico de alerta de una terminal
+teletipo fue reemplazado por el "feep" electrónico de las
+videoterminales de los mainframe. Este fue adoptado como "beep" en la
+era de las microcomputadoras con altavoces de diafragma magnéticos o
+piezoeléctricos.
+%
+La perversión del software privativo tiende al máximo.
