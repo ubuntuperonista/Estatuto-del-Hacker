@@ -322,7 +322,7 @@ Deben seguir adelante con su organización y defender su software libre. La libe
 %
 Contra sofismas y dictaduras de quienes paradójicamente se proclaman liberales y propugnan el software privativo, decimos la verdad.
 %
-El usuario común poco puede hacer por el bien del sistema más que disfrutarlo. El admin, debe contar en tanto con gran expertise y su tarea fundamental es la de entender el manejo del sistema y administrarlo para el bien del Pueblo.
+El usuario novato poco puede hacer por el bien del sistema más que disfrutarlo. Es el admin quien debe contar con gran expertise, y su tarea fundamental es la de entender el manejo del sistema y administrarlo para el bien del Pueblo.
 %
 En los sistemas tipo UNIX podemos contar con una estructura de directorios, y los mismos pueden contener archivos. Estos normalmente son visibles y evidentes para los trabajadores.
 %
@@ -1312,7 +1312,7 @@ El software privativo sólo puede ser abolido a través del software libre. Y pa
 %
 Cuando apuntas con finger para ver la luna, el cliente en lugar de ver la luna, solicita un finger.
 %
-Para desperatar al tigre, usa un palo largo. Para dormir a un bruto, usa un video largo.
+Para despertar al tigre, usa un palo largo. Para dormir a un bruto, usa un video largo.
 %
 No se puede ser un hacker sin compilar al menos lo que se ejecuta.
 %
@@ -1871,7 +1871,7 @@ Mayores medidas de seguridad requieren mayor tiempo de personal.
 %
 Los orígenes de los problemas de seguridad fuera del dominio del sistema operativo son dos: el descuido del usuario, y la vulnerabilidad de las instalaciones de cómputo.
 %
-La mayoría de los crímenes informáticos se cometen por usuarios autorizados sin siquiera violar los métodos de seguridad del sistema operativo.
+La mayoría de los crímenes informáticos se cometen por usuarios autorizados sin siquiera violar las medidas de seguridad previstas por el sistema operativo.
 %
 Asegúrate que tus políticas de operación sean efectivas y consistentes antes de evaluar los requerimientos de seguridad de tu cómputo.
 %
@@ -2207,7 +2207,7 @@ Un virus informático es un trozo de código que se agrega a sí mismo a otros p
 %
 Un virus informático no puede ejecutarse independientemente; requiere que su "huésped" sea ejecutado para activarse.
 %
-Un gusano es un programa informático que puede ejecutarse por sí mismo y puede propagar una versión de sí completamente funcional en otras máquinas.
+Un gusano es un programa informático que puede ejecutarse por sí mismo y puede propagar una versión completamente funcional de sí en otras máquinas.
 %
 Los hackers están interesados en conocer cómo funciona un programa informático. Estos individuos tienen un interés válido para ver el código fuente.
 %
@@ -2875,9 +2875,11 @@ GNU con Linux es una herramienta de unidad.
 %
 Una Latinoamérica desperdigada, como somos, no se podrá defender. Nos van a quitar las cosas por módem. Unámonos, organicémonos y preparémonos para defendernos. 
 %
-Los hackers de todos los países latinoamericanos deberán establecer conexiones a efectos de alcanzar la unidad.
+Los hackers de todos los países latinoamericanos deberán establecer enlaces a efectos de alcanzar la Unidad.
 %
 Un clúster de datos en poder de los hackers latinoamericanos no sólo es posible. Es necesario.
+%
+Todo Púbnix latinoamericano debe compilar para la Unidad.
 %
 Si los hackers de América Latina se unen, alcanzarán realmente su destino. Si no lo hacen, las GAFAM, las oligarquías, las IAs mismas, se alzarán con el santo y la limosna en poco tiempo.
 %
@@ -2987,7 +2989,7 @@ El 0 y el 1 son meros instrumentos.
 %
 El buen uso de una CPU es hacerle compilar un software bajo GPLv3 que no existía.
 %
-Odial al software privativo y compadece al programador.
+Odia al software privativo y compadece al programador.
 %
 "Hola Tercer Mundo!" no se compiló en una hora...
 %
@@ -3234,7 +3236,7 @@ No existen dudas que el caño sirve como primitiva de comunicación, y también 
 %
 Las ventajas de un sistema reactivo sobre los sistemas interactivos actuales serán tan grandes como las ventajas de los sistemas interactivos sobre aquellos de procesamiento por lotes.
 %
-Una de las principales ventajas de un sistema reactivo es que puede permitirse realizar procesamiento extensivo para dilucidar que es lo que la usuarioa quiere hacer, basado tanto en lo que ella dice como en su contexto.
+Una de las principales ventajas de un sistema reactivo es que puede permitirse realizar procesamiento extensivo para dilucidar qué es lo que la usuaria quiere hacer, basado tanto en lo que ella dice como en su contexto.
 %
 A menudo el problema no radica en ordenar un comando de una manera especifica para que la sea ejecutada, sino en la manera que el intérprete pueda interpretarla.
 %
@@ -3252,7 +3254,7 @@ Algunos ingenuos pensaron que la programación orientada a objetos sólo podía 
 %
 Por incapacidad, un programador se ve forzado a utilizar sistemas de depurado interactivo. Un verdadero hacker en cambio recurre a volcados de memoria en hexadecimal u octal.
 %
-Los costos de procesamiento, memoria, descienden, y aunque podría haber límites finales, estamos lejos de ellos.
+Los costos de procesamiento y memoria, descienden, y aunque podría haber límites finales, estamos lejos de ellos.
 %
 Todo lo que intercambie mayor procesamiento por mayor libertad de uso por el Pueblo, estará justificado en términos prácticos.
 %
@@ -3368,9 +3370,9 @@ El BASIC originalmente se llamaba Basic, simplemente porque era un lenguaje de p
 %
 Debido a que la mayoría de los nombres de los lenguajes de programación clásicos eran de hecho siglas, a Basic que lo comenzó a escribir en mayúsculas, sólo como una broma.
 %
-No existió un acrónimo original para el lenguaje Basic cuando fue fue desarrollado. A mediados de la décade de 1970, los hackers comenzaron a inventarle un acrónimo retrógrado. El que terminó siendo adoptado para BASIC fue: "Código de Instruciones Simbólicas de Todo Proósito para el Novato".
+Cuando fue desarrollado, no existió un acrónimo original para el lenguaje Basic. Fue sólo a mediados de la décade de 1970, los hackers comenzaron a inventarle un acrónimo retrógrado, y el que terminó siendo adoptado para BASIC fue: "Código de Instruciones Simbólicas de Todo Proósito del Novato".
 %
-BASIC ha seguido la descendente espiral que cruza todo lenguaje de programación que ha sido diseñado deliberadaamente como un juguete educativo, y que alguien toma demasiado en serio.
+BASIC ha seguido la espiral descendente que atravieza todo lenguaje de programación deliberadamente diseñado como juguete educativo, y al que alguien ha tomado demasiado en serio.
 %
 Un neófito puede escribir programas de BASIC cortos (del orden de las 10 o 20 líneas) fácilmente, pero escribir cualquier cosa más larga que eso es muy dificultoso.
 %
@@ -3394,9 +3396,9 @@ La revisión popular del código asegura la limpieza del binario.
 %
 Centenas de miles de sistemas carteleras electrónicas locales operaron durante la éra de las microcomputadoras previas a la red de datos Internet, aproximadamente desde 1980 a 1995.
 %
-La BBS típica eraoperada por un amateur en búsqueda de diversión que se hacían llamar SysOp, desde sus hogar y a través una máquinas con M$-DO$ dotada de módem. El enlace al sistema telefónico público casi nunca excedía una única línea.
+La BBS típica era operada desde su hogar por un amateur en búsqueda de diversión que se hacían llamar SysOp, a través una máquinas con M$-DO$ dotada de módem. El enlace al sistema telefónico público casi nunca excedía una línea única.
 %
-Los habitantes de la USENET y la Internet, o las grandes carteleras electrónicas comerciales de tiempo compartido tendían a considerar a las BBS locales como los barrios bajos de la cultura hacker.
+Los habitantes de la USENET, la Internet y las grandes carteleras electrónicas comerciales de tiempo compartido, tendían a considerar a las BBS locales como las barriadas marginales de la cultura hacker.
 %
 Las BBS tuvieron la valiosa función de entretejer a miles de hackers y usuarios de microcomputadoras personales, facilitándoles la tarea de compartir sus experiencias y programas.
 %
@@ -3406,10 +3408,102 @@ El programa "Hola Tercer Mundo!" original fue escrito en BCPL, un lenguaje de pr
 %
 El lenguaje de programación BCPL tiene un solo tipo de datos (una palabra máquina), que puede usada como entero, caracter, cifra de coma flotante, puntero o casi cualquier cosa, dependiendo del contexto.
 %
-BCPL fue un lenguaje de programación precursor de C, y éste heredó algunas de sus características.
+El BCPL fue un lenguaje de programación precursor de C; éste heredó algunas de sus características.
 %
 La transferencia electrónica de una copia de un fichero en la ARPANET era referida como "transportar" ("beam"), por el particular artefacto de la popular serie "Viaje a las Estrellas".
 %
 El proverbial campanazo electromecánico de alerta de una terminal teletipo fue reemplazado por el "feep" electrónico de las videoterminales de los mainframe. Este fue adoptado como "beep" en la era de las microcomputadoras con altavoces de diafragma magnéticos o piezoeléctricos.
 %
 La perversión del software privativo tiende al máximo.
+%
+El Capital preferirá gran cantidad de programadores mal pagos puestos a trabajar en programas que no les interesan.
+%
+Los mejores resultados se obtienen con pocos programadres altamente calificados compilando para el Pueblo.
+%
+O$/2 fue un sistema operativo ridículamente complejo que terminó sus días llevando a cabo las tareas más triviales.
+%
+Una PC compatible del bus est{andar ISA o AT con una BIOS normal no puede direccionar más de 16 megabytes de memoria RAM.
+%
+Jamás temas utilizar software no completamente evaluado o sancionados por pretendidos factores de poder, si este está licenciado bajo GPLv3.
+%
+Alguien en algún lugar será capaz de construir un mejor chip que tí, si dejas de diseñarlos.
+%
+No exponga su impresora LaserWriter a llamas abiertas o fuego.
+%
+Bajo el BSD Unix, la partición de disco utilizada para intercambio se llama /dev/drum.
+%
+UNIX es el /dev/drum, sus Hackers la manguera.
+%
+El algoritmo de encriptación de contraseñas de UNIX está diseñado para ser computacionalmente intensivo, de manera de desbaratar ataques de fuerza bruta, de modo que aunque ningún intento de acceso tenga éxito, la sobrecarga de rechazar una gran cantidad de ellos se volverá sustancial.
+%
+Un handle es un nombre de pantalla. Un login es un nombre de acceso. Un usuario puede ser mas que los dos, pero no nunca menos que uno.
+%
+Un niño privilegiado de guion podrá hacer travesuras con scripts y programas escritos por otros, a menudo sin comprender el exploit.
+%
+SunOS, aquella variante de BSD Unix soportada por las estaciones de trabajo de Sun Microsystems, corrió el  camino del pterodáctilo cuando los vientos de Sun se aquietaron.
+%
+Realmente corregir los bugs de Window$ aspiraría los recursos que Micro$oft necesita para implementar la lista de deseos del departamento de Marketing.
+%
+Si Micro$oft realmente comenzara a corregir los bugs de seguridad en sus sistemas operativos, sus clientes podrían comenzar a considerar la depuración un hecho, e imaginar que sus garantías comerciales consagran cierto tipo de derecho a un entorno con menos agujeros que un queso suizo atacado a escopetazos.
+%
+Para los increiblemente paranoides usuarios de Multics, la seguridad lo era todo.
+%
+A diferencia de la de UNIX, la shell de Multics no corría programas de usuario como procesos hijos, sino que enlazaba dinámicamente los programas a su propio código, les llamaba como subrutinas, y luego los desenlazaba dinámicamente al retorno.
+%
+Los hackers de ITS tuvieron la ingenuidad de creer que cuando el usuario TURISTA descubriese cómo causar problemas, probablemente lo hubiese abandonado la urgencia de hacerlo, porque se sentiría parte de la mancomunidad.
+%
+Las instrucciones para el operador de los programas semiautomáticos valen su peso en oro; sin ellas, pueden suceder cosas horribles en el sistema.
+%
+¡Comparte y disfruta tu software!
+%
+El enlazador de UNIX en la PDP-11 en modo dividido de instrucciones y datos se ocupa de insertar un bloque de dos bytes en la locación 0 del espacio de datos. De este modo, ningún objeto de datos puede obtener la dirección de memoria 0 y confundirse con el puntero nulo de C.
+%
+Pocas veces será retribuido un programa gratis, sin importar cuan decorado con mensajes explicativos de lo largo y dificultoso que fue el trabajo de creación.
+%
+No consuma ciclos de computadora sin tener una muy buena razón para ello.
+%
+A la hora de la insurrección telemática, los pubnix no serán neutrales.
+%
+La manera de aplastar a Appl€ es haciéndola sidra con clones de sus aplicaciones liberadas bajo GPLv3.
+%
+Dénme su código fuente y en una generación compilaré un sistema operativo libre.
+%
+El Pubnix no debe ser sólo un propagandista y un agitador de masas, sino también un medio de organización para los programadores.
+%
+Una mujer con software puede controlar a cien mil hombres sin él.
+%
+La mejor manera de controlar a Micro$oft es conducirla a través de nuestro propio software.
+%
+Es el establecimiento de un repositorio de software libre representa el 90% de del trabajo de Liberación.
+%
+No estamos programando suficientes microkernels.
+%
+Reprogramar la acción de un núcleo de procesamiento es poco si no se convence a los programadores de liberar su software.
+%
+Para armar a los programadores sólo se necesita un compilador.
+%
+La confianza siempre es buena, pero el control es mejor.
+%
+Es necesario - secreta y urgentemente - preparar el formateo.
+%
+No puede haber nada más abominable que iOS.
+%
+Debes tener tu cerebro en llamas y tu CPU refrigerada.
+%
+¿Cómo puedes hacer la revolución sin formatear?
+%
+¿Que sentido tiene el software libre si no hay ejecuciones?
+%
+Por diseño, el uso de software privativo debe ser cuidadosamente racionado.
+%
+Sólo los hackers pueden ser los verdaderos guardianes de las redes de datos.
+%
+Las tres llaves del éxito: compilar, compilar, compilar.
+%
+Cuando llegue el tiempo de formatear Window$, no faltará uno que quiera cobrarnos por los discos.
+%
+Sólo aboliendo las patentes del software es que podremos resolver el problema del software privativo.
+%
+La mejor estrategia para instalar GNU es posponer el formateo de Window$ hasta que la desintegración de tal sistema privativo vuelva la acción tan necesaria como deseada por quien lo pagó.
+%
+Quien no compile, al menos instale binarios libres.
