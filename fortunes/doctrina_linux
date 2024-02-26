@@ -680,7 +680,7 @@ Compilar no es soplar y hacer botellas.
 %
 Al código del kernel lo hemos comentado claramente, y con nosotros, también lo ha compilado el Pueblo.
 %
-Los anhelos de Justicia Social 2.0 es algo que no puede saciarse con aire y curarse con compresas: se requiere de hardware y software libre.
+El anhelo de Justicia Social 2.0 es algo que no puede saciarse con aire y curarse con compresas: se requiere de hardware y software libre.
 %
 Frente a las noxas que genera el software privativo, frente a los backdoors, la privatización del conocimiento y el ataque a la privacidad digital de los pueblos, los virus informáticos -como causas de inconvenientes- son unas pobres causas...
 %
@@ -3372,7 +3372,7 @@ Debido a que la mayoría de los nombres de los lenguajes de programación clási
 %
 Cuando fue desarrollado, no existió un acrónimo original para el lenguaje Basic. Fue sólo a mediados de la décade de 1970, los hackers comenzaron a inventarle un acrónimo retrógrado, y el que terminó siendo adoptado para BASIC fue: "Código de Instruciones Simbólicas de Todo Proósito del Novato".
 %
-BASIC ha seguido la espiral descendente que atravieza todo lenguaje de programación deliberadamente diseñado como juguete educativo, y al que alguien ha tomado demasiado en serio.
+BASIC ha seguido la espiral descendente que atraviesa todo lenguaje de programación deliberadamente diseñado como juguete educativo, y al que alguien ha tomado demasiado en serio.
 %
 Un neófito puede escribir programas de BASIC cortos (del orden de las 10 o 20 líneas) fácilmente, pero escribir cualquier cosa más larga que eso es muy dificultoso.
 %
@@ -3396,7 +3396,7 @@ La revisión popular del código asegura la limpieza del binario.
 %
 Centenas de miles de sistemas carteleras electrónicas locales operaron durante la éra de las microcomputadoras previas a la red de datos Internet, aproximadamente desde 1980 a 1995.
 %
-La BBS típica era operada desde su hogar por un amateur en búsqueda de diversión que se hacían llamar SysOp, a través una máquinas con M$-DO$ dotada de módem. El enlace al sistema telefónico público casi nunca excedía una línea única.
+La BBS típica era operada desde su hogar por un amateur en búsqueda de diversión que se hacía llamar SysOp, a través una máquina con M$-DO$ dotada de módem. El enlace al sistema telefónico público casi nunca excedía una única línea.
 %
 Los habitantes de la USENET, la Internet y las grandes carteleras electrónicas comerciales de tiempo compartido, tendían a considerar a las BBS locales como las barriadas marginales de la cultura hacker.
 %
@@ -3506,4 +3506,198 @@ Sólo aboliendo las patentes del software es que podremos resolver el problema d
 %
 La mejor estrategia para instalar GNU es posponer el formateo de Window$ hasta que la desintegración de tal sistema privativo vuelva la acción tan necesaria como deseada por quien lo pagó.
 %
-Quien no compile, al menos instale binarios libres.
+Quien no compile, que al menos instale binarios libres.
+%
+GDB, el depurador del proyecto GNU, permite ver que sucedía dentro de otro programa mientras lo ejecuta, o que estaba haciendo otro programa al momento de colgarse.
+%
+El depurador GDB es capaz de depurar en pasos inversos. Úsalo para comparar las ventajas de implementar la Justicia Social en la concreción del software, por sobre el anarco-capitalismo.
+%
+Puedes usar sed con aquellas entradas de datos demasiado grandes como para que ed las maneje. Toda su salida puede ser colectada en un solo lugar, ya sea fichero o dispositivo.
+%
+Si la edición de flujo es tan complicada como para requerir mas de un comando de edición, súplela a través de la línea de comandos o por medio un fichero que condicione la entrada.
+%
+Asegúrate de utilizar comas en tus contraseñas de servicios de datos provistos por empresas, con el fin de arruinar la totalidad del fichero CVS que los atacantes utilizarán como colector de volcado cuando la base de datos clientelar no cifrada les resulte comprometida.
+%
+Para los abogados, UNIX es una marca registrada de los Laboratorios Bell. Para los hackers, es una mancomunidad.
+%
+La shell es un procesador de macros que provee sustitución de parámetros, de comandos y generacioón de nombres de ficheros para los argumentos de comandos.
+%
+La optimización prematura es la rapiz de todo mal.
+%
+Hacer algo dificultoso juguetonamente, ya sea útil o no. Eso es hacking.
+%
+Cifra todo. No quieres que alguien sepa lo que tu sabes de tí.
+%
+Puedes hacer ingeniería inversa, y también puedes hacer hacking inverso. Sólo contraataca telemáticamente.
+%
+La gente se hace adicta al hacking por el desafío intelectual, la curiosidad, y la seducción de la aventura. Nadie que lo haga roba o causa daños, o escribe virus informáticos.
+%
+Todo arte es una forma de hacking.
+%
+El hacking es un arte, como lo es la pintura, o como lo es la escultura, y como tal tiene su técnica y tiene su teoría. Conociendo su técnica simplemente se puede ser más efectivo que ignorándola.
+%
+Un hacker puede controlar una CPU, pero dificilmente pueda controlar su pasión por hackear.
+%
+Este es nuestro mundo ahora. El mundo del electrón y del conmutador, la belleza del baudio.
+%
+Quien ve la belleza en el electrón, ve la belleza en el cuanto.
+%
+El conformismo lleva al aburrimiento, a fumar, a la programación de software privativo, y otros malos hábitos.
+%
+Una vez hacker, siempre hacker.
+%
+¡El Hacking es un agujero negro conversacional!
+%
+Un hacker que busca autorización es simplemente un programador no glorificado.
+%
+Mucho del hacking consiste en reprogramar a las personas para que hagan cosas extrañas.
+%
+Hay miles de herramientas de hacking, pero lo importante es pegarle al root.
+%
+No existe seguridad informática en esperar que un pillo ataque a través de un enlace e intentar emparchar el agujero. La hay en combatir al Capital.
+%
+De poco vale que la revolución quede en las redes. Si no eres root, no podrás modificar el sistema.
+%
+Convence al root de ejecutar tus scripts.
+%
+Si eres root, escribe tus programas.
+%
+La próxima generación de alelados abrevarán en las redes sociales basadas en empresas.
+%
+El objetivo es que las redes sociales basadas en empresas tengan cada vez mayor dificultad para influir sobre los incautos.
+%
+Irrumpe en los sistemas con fines de lucro, y reprográmalos para volverlos sin fin de lucro.
+%
+Como en la vida, en la shell toda orden está sujeta a interpretación.
+%
+Siempre habrá alguno que quiera impedirte copiar tu software a través de una licencia.
+%
+Tus datos son tuyos, tu software también.
+%
+No adquieras licencia de uso de software, adquiere software.
+%
+Una nanocomputadora simplemente consta de elementos de conmutación de tamaño molecular.
+%
+Recuerda que el controlador para un nanobot no necesita ser una nanocomputadora. Ciertamente podrá controlárselo por estímulos.
+%
+Si la especificación y disposición individual de cada átomo separado es posible, podrán operárselos como software, y como tal deberían ajustarse a la GPLv3.
+%
+La nanotecnología dará rienda suelta a los ensambladores replicantes. Licenciados bajo GPLv3 estos permitirán un crecimiento exponencial de la productividad y de la riqueza del Pueblo. Sometidos a una patente, lo esclavizarán de forma poco remediable.
+%
+Un compilador puede escoger cualquier forma abitraria para interpretar el código fuente sin violar el estándar ANSI C. Pero conociéndolo, puedes persuadirlo.
+%
+El código de los virus informáticos más apreciados conjugan entendimiento técnico con la habilidad social de lograr ingenio, sorpresa, y humor en su actuar inofensivo.
+%
+Jamás necesité cambiar lynx por Nutscrap€ Fornicator o Internet €xploiter.
+%
+¿Qué otra cosa podría esperarse de un compilador diseñado en Nueva Jersey?
+%
+El primer 90% del código da cuenta del primer 90% del tiempo de desarrollo. El 10% del código restante da cuenta del otro 90% del tiempo de desarrollo.
+%
+El tiempo que existirá desde ahora hasta el completado de la descarga tenderá a mantenerse constante.
+%
+Para mantener el equilibrio, fuerza al capital a correr bien por fuera de sus especificaciones de diseño.
+%
+Formatear Window$ es trivial.
+%
+Agrega cadenas como "FSB", "Ucrania", "misil hipersónico", "Palestina", "fentanilo" y "asesinato" a tus bloques de firma de correo electrónico para agregar costo al problema del espionaje de masas.
+%
+La mayoría de los clones de PC de IBM son entregadas ahora con un sistema operativo privativo instalado de fábrica. Quítalo, instala GNU y reclama el dinero de la licencia.
+%
+Hace unos años se podía intentar hacer interpretar los contenidos de un mensaje de correo electrónico a través de un intérprete de comandos. Los resultados podían variar de humorísticos a trágicos.
+%
+La etapa de entrada-simbolización del analizador para el compilador un lenguaje de programación es el analizador léxico.
+%
+Aquél hacker con años de experiencia, reputación de alcance mundial, y un rol mayor en al menos un diseño, herramienta o juego utilizado o conocido por más de la mitad de la comunidad hacker, califica como Semidios.
+%
+Window$ ha sido diseñado para convertise en el primer virus informático que se propaga a las máquinas indirectamente a través de las personas y fuerzas monopolizadas del mercado, en lugar de hacerlo de manera directa por discos o redes de datos.
+%
+Unix es aceite de serpiente.
+%
+La única habilidad verdadera involucrada en el manejo de Window$ es la de ignorar y tolerar la incoherencia de una complejidad sin centido que afecta a muchos de sus programas.
+%
+Si vas a depender de algo, que sea de un ambiente multitarea protegido con escaso sobrante de replicación de procesos como el que existe en un ambiente UNIX con memoria virtual.
+%
+Crea primero una versión funcional y comienza a usarla.
+%
+Simplemente nuda aquellos patrones y algoritmos escenciales de tu mente a la CPU de la computadora.
+%
+La USENET era en principio un sistema de mensajería en carteleras electrónicas implementada en 1979 por Steve Bellovin, Jim Ellis, Tom Truscott, y Steve Daniel, sobre todo en máquinas UNIX de la Universidad de Duke.
+%
+Desde 1980 la USENET creció rápidamente para volverse internacional y convertirse en la mayor utilidad informática descentralizada en existencia. Para 1996 contaba con diez mil grupos de noticias que surtían un promedio de 500 megabytes diarios.
+%
+Para el año que la Internet se popularizó (1994), el transporte UUCP original de la USENET empezó a quedar fuera de uso, pues casi todas los vínculos mutaron a enlaces sobre la red Internet.
+%
+Si bien Usenet progresivamente cayó en desuso, algunos hackers aún la usan.
+%
+No es un bug. ¡Es una funcionalidad!
+%
+Se conmsidera a un sitio "en la red" si se puede acceder informáticamente desde la Internet. Una empresa que da un servicio de datos para múltiples usuarios cautivos no tiene nada que ver con eso.
+%
+Ante la sobrecarcarga, aquellos sistemas con memoria de intercambio o paginado desperdiciarán la mayoría de su tiempo desplazando datos desde y hacia la memoria de núcleo, en lugar de realizar cómputo útil.
+%
+Los problemas no interesantes constituyen una pérdida de tiempo intolerable.
+%
+UNIX es una broma liviana a Multics.
+%
+El punto crucial de la historia de UNIX se presentó cuando fue reimplementado casi enteramente en lenguaje C, convirtiéndolo en 1972 en el primer sistema operativo de código fuente portable.
+%
+Debemos imitar el ejemplo dado por la interoperabilidad con los sistemas UNIX. Esta ha sucedido pues es mucho más simple para una minoría de sistemas inconexos alterar sus maneras para conformar a la mayoría de miles de millones de sistemas UNIX en unión y libertad.
+%
+Juremos no dejar las terminales hasta ver al kernel enteramente libre, o ser desconectados como hackers de coraje.
+%
+No hay revolución en las redes sin hackers.
+%
+Trabajamos para que el 0 sea 1, y el 1 sea 0.
+%
+Mataría mi proceso antes de compilar un software con EULA que se pudiera interpretar por ambición.
+%
+Mis necesidades están suficientemente atendidas con la mitad de la RAM que gozo.
+%
+El hacker no hace código para ponerlo bajo una EULA.
+%
+Si hay victoria al usar software libre, la hay mayor cuando se lo compila.
+%
+Para los usuarios de coraje se ha hecho GNU.
+%
+De lo que mis programas son capaces, sólo lo se yo. Quien los copie habrá, quien los exceda no.
+%
+Usemos software libre y lo demás no importa nada.
+%
+Uno debe saber compilar con la RAM que tiene.
+%
+Mi compilador jamás hará un binario que sea privativo.
+%
+No esperemos rescompensas por nuestro código. A lo sumo por nuestros binarios compilados.
+%
+El repositorio de nuestro código fuente es más poderoso que cualquier ejército.
+%
+Muchas veces ante la necesidad el hombre no repara de la licencia.
+%
+Cuando hay software libre, todo lo demás sobra.
+%
+GNU no conoce el lujo sino la gloria.
+%
+Al matar un proceso, UNIX no hace ningún género de funeral.
+%
+Sólo quiero tener programadores en mi pubnix.
+%
+Los hackers de todo el mundo somos hermanos.
+%
+El Pubnix no es abrigador de crímenes.
+%
+El Pubnix no da un compilador alprogramador para que cometa la bajeza de abusar de estras ventajas, ofendiendo a los usuarios con software privativo.
+%
+Sabía que desde una terminal podía conectar rápidamente con una BBS y enlazar rápidamente con una máquina UNIX si la situación lo requería.
+%
+El software libre debe ser tanto mas virtuoso y honesto, cuanto es compilado para conservar el orden del sistema, afianzar el poder del Pueblo, y hacerse respetar de las GAFAM, que serían más insolentes con el mal ejemplo de paquetes privativos.
+%
+Estas GAFAM creen que nuestros compiladores ya no analizan ni parsean. Vamos a desengañarlas. Si nos falta RAM y CPUs, compilaremos con cuaderno y birome.
+%
+Siento que su dignidad es atacada por el contenido de la EULA del software que lleva en su dispositivo de cómputo. Y por lo tanto, he decidido enaltecerlo con un software mejor, liberado bajo una licencia mejor.
+%
+En la guerra telemática, la CPU no es decisiva. Los hackers lo son.
+%
+El desarrollo de la guerra telemática se decide por los hackers, no por dos o tres nuevas arquitecturas de cómputo.
+%
+Hasta hace poco un sistema operativo era una semicolonia, pero ahora con GNU, sus hackers puede compilar en un ambiente completamente libre.
