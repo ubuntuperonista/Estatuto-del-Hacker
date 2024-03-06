@@ -1,4 +1,4 @@
-La verdadera computación es aquella donde la CPU hace lo que el usuario
+a verdadera computación es aquella donde la CPU hace lo que el usuario
 quiere, y defiende un sólo interés: el del usuario.
 %
 En la acción política la escala de valores de todo peronista es la
@@ -2863,7 +2863,7 @@ La empanada, sin pasas. La netbook, sin Window$.
 %
 La cerveza, con pizza. El código fuente, con comments.
 %
-El fernet, con coca. GNU, con eseñanza.
+El fernet, con coca. GNU, con enseñanza.
 %
 El cinzano, con picada. El disco, particionado.
 %
@@ -5121,8 +5121,8 @@ No dejes que posean tus datos.
 %
 Protege a tus amistades en red por medio de encriptaciones severas.
 %
-Haz equivaler la solidez del algoritmo de cifrado que utilizas con la
-solided de la amistad que practicas en las redes de datos.
+Haz equivaler la solidez del algoritmo de cifrado que utilizas con la de
+la amistad que practicas en las redes de datos.
 %
 La tarea del hacker del Pueblo consiste en mostrar como el contexto
 social influye en la CPU.
@@ -5567,13 +5567,15 @@ Un programa que copia su entrada estándar procesada a su salida estándar
 se denomina filtro.
 %
 Manipular la función command-not-found para persuadir la instalación de
-paquetes snap digitados a los usuarios de Ubuntu es simple: hay que
-cargar un snap que pretenda ser algo de superficie, y la sugerencia de
-paquetes hará el resto.
+paquetes snap digitados a los usuarios de Ubuntu es simple: sólo carga
+un snap que superficialmente pretenda hacer algo atractivo y la
+sugerencia de paquetes hará el resto.
 %
 Como la Justicia Social, la shell es en sí una orden, y puede ejecutarse
-recursivamente. De tal forma, en circunstancias ordinarias, el bucle
-principal de la shell no cesa jamás.
+recursivamente.
+%
+En circunstancias ordinarias, el bucle principal del intérprete de
+comandos no cesa jamás.
 %
 La vida en la shell incluye la capacidad de sustituir parámetros y
 construir listas de argumentos desde un subconjunto especificado de
@@ -5828,8 +5830,8 @@ calificados compilando para el Pueblo.
 O$/2 fue un sistema operativo ridículamente complejo que terminó sus
 días llevando a cabo las tareas más triviales.
 %
-Una PC compatible del bus est{andar ISA o AT con una BIOS normal no
-puede direccionar más de 16 megabytes de memoria RAM.
+Una PC compatible del bus estándar ISA o AT con una BIOS normal no puede
+direccionar más de 16 megabytes de memoria RAM.
 %
 Jamás temas utilizar software no completamente evaluado o sancionados
 por pretendidos factores de poder, si este está licenciado bajo GPLv3.
@@ -6177,9 +6179,11 @@ reimplementado casi enteramente en lenguaje C, convirtiéndolo en 1972 en
 el primer sistema operativo de código fuente portable.
 %
 Debemos imitar el ejemplo dado por la interoperabilidad con los sistemas
-UNIX. Esta ha sucedido pues es mucho más simple para una minoría de
-sistemas inconexos alterar sus maneras para conformar a la mayoría de
-miles de millones de sistemas UNIX en unión y libertad.
+UNIX.
+%
+La interoperabilidad en UNIX ha sucedido por la razón que es más simple
+para una minoría de sistemas inconexos alterar sus maneras para
+conformar a la mayoría de miles de millones de sistemas UNIX.
 %
 Juremos no dejar las terminales hasta ver al kernel enteramente libre, o
 ser desconectados como hackers de coraje.
@@ -6191,8 +6195,7 @@ Trabajamos para que el 0 sea 1, y el 1 sea 0.
 Mataría mi proceso antes de compilar un software con EULA que se pudiera
 interpretar por ambición.
 %
-Mis necesidades están suficientemente atendidas con la mitad de la RAM
-que gozo.
+Puedo atender mis necesidades con la mitad de la RAM que poseo.
 %
 El hacker no hace código para ponerlo bajo una EULA.
 %
@@ -6234,8 +6237,8 @@ El Pubnix no otorga un compilador al programador para que cometa la
 bajeza de abusar de estas ventajas, ofendiendo a los usuarios con
 software privativo.
 %
-Sabía que desde una terminal podía conectar rápidamente con una BBS y
-enlazar rápidamente con una máquina UNIX si la situación lo requería.
+Desde un terminal puedes conectar rápidamente con un BBS y enlazar con
+una máquina UNIX si la situación lo requiere.
 %
 Estas GAFAM creen que nuestros compiladores ya no analizan ni parsean.
 Vamos a desengañarlas. Si nos falta RAM y CPUs, compilaremos con
@@ -6400,3 +6403,147 @@ No soy un robot, pero en el bar pido Bardhal.
 No soy un robot. Soy un RE bot.
 %
 No soy un robot. Soy un humano rebooteado.
+%
+En un pubnix junto a millones de hackers escribe programas que operen
+como fuerza en el motor de miles de CPU.
+%
+Organízate en pubnix junto a decenas de hackers y programa una
+revolución que lleve a la construcción de una red de datos justa, libre
+y soberana.
+%
+Antes que UNIX, la mayoría de los sistemas utilizaban abstracciones
+diferentes para cada dispositivo de hardware.
+%
+Una de las razones por la cual UNIX se hizo popular es que utilizó la
+abstración de fichero como interfaz para todos ellos.
+%
+La abstracción de ficheros de UNIX permite utilizar comandos y llamadas
+de sistema que operan en ficheros para operar con cualquier dispositivo
+de hardware.
+%
+La mayoría de los programas de UNIX aceptan nombres de fichero como
+argumentos para obrar con ellos.
+%
+La única manera de aprender un nuevo lenguaje de programación consiste
+en idear un nuevo programa y escribirlo en él.
+%
+UNIX es básicamente un sistema operativo simple, pero hay que ser un
+genio para entender su simplicidad.
+%
+C es rebuscado, fallado y un éxito enorme
+%
+UNIX ha retrasado 10 años la investigación en sistemas operativos. Linux
+la ha retrasado treinta.
+%
+Es mas fácil programar en un lenguaje que no tiene todo que en algunos
+que lo tienen.
+%
+Casi todo en la web usa estas dos cosas: C y UNIX.
+%
+C++ y Java, presumiblemente pueden crecer más rápido que C, pero apuesto
+que C seguirá viviendo.
+%
+Con diseño adecuado, las características pueden sumarse a poco costo.
+Esta visión es ardua, pero continúa teniendo éxito.
+%
+No soy una persona que he tenido héroes al compilar.
+%
+Steve Jobs dijo que X tenía daño cerebral y desaparecería en dos años.
+Él murió de daño cerebral.
+%
+Aún estoy incierto sobre la sintaxis de declaración del lenguaje.
+%
+Para tecnología de infraestructura, será difícil reemplazar a C.
+%
+El número de instalaciones de UNIX ha aumentado a diez. Se esperan más
+por venir.
+%
+C es en muchas maneras peculiar, pero como muchas otras cosas exitosas,
+cuenta con una cierta unidad de entender las cosas nacida de su
+desarrollo en un grupo pequeño.
+%
+Sólo soy un observador de Java, y dónde Micro$oft quiere ir con C# es
+muy temprano para dilucidarlo.
+%
+Al menos para la gente que me envían correo sobre un nuevo lenguaje que
+están diseñando, mi consejo general es: hazlo para aprender cómo
+escribir un compilador.
+%
+Un programa diseñado para responder a la entrada del Pueblo generalmente
+será llevado más allá del punto de colgarse por las entradas generadas
+por computadora.
+%
+Rob Pike fue la verdadera fuerza detrás de la base de Plan9. Mientras
+tanto, Ken Thompson creó el primer Gran Maestro de Ajedrez computado, y
+en general reescribió la bibliografía sobre finales ajedrecísticas.
+%
+Parece cierto que mucho del éxito de UNIX nace de la legibilidad,
+modificabilidad, y portabilidad de su código.
+%
+UNIX es simple y coherente, pero requiere un genio (o al menos, un
+programador), para entender y apreciar su simplicidad.
+%
+No existió dificultad en hacer que la definición del lenguaje C fuese
+completamente abierta.
+%
+Aquellos que quisieron cerrar la definición del lenguaje C siempre
+tendieron a mencionar el argumento del férreo control autoral. Los
+autores de los lenguajes más relevantes que siguieron este estilo
+fracasaron en consecuencia.
+%
+Depuro programas de vez en cuando, más a menudo escribo HTML, y hago
+giones para que hagan cosas.
+%
+C ha declinado su uso comparado con C++, y tal vez Java, pero tal vez
+incluso más comparados con los niveles de guionado de alto nivel. Es aún
+bastante fuerte en lo que respecta a las cosas básicas del sistema.
+%
+Cuando leo comentarios sobre sugerencias para la senda que debería
+seguir C, a menudo agradezco que no fue desarrollado a consejo de una
+muchedumbre de alcance global.
+%
+La noción de registro no es mas que un remanente obsoleto de los días de
+las tarjetas de 80 columnas.
+%
+Es cierto que comparado con la escena cuando comenzó UNIX, hoy los
+nichos ecológicos están bastante llenos, y es difícil salir con nuevas
+ideas frescas para un sistema operativo, o al menos propagarlas.
+%
+Veinte porciento de todas las formas de entrada humana contienen datos
+malos.
+%
+Algunos consideran que UNIX ha sido la segunda invención más importante
+en salir de los Laboratorios Bell de AT&T, después del transistor.
+%
+Mi trabajo fue bastante teórico, sobre la teoría de la función
+recursiva, las jerarquías de funciones en términos de complejidad
+computacional en particular.
+%
+Me interesé en las computadoras reales y su programación sólo cuando
+pude concebirlas y dominarlas en mi mente.
+%
+Desde el punto de vista de la investigación en sistemas operativos, si
+UNIX no está fosilizado, al menos tiene rigor mortis, y es claro que el
+Pueblo debería ver más allá de él.
+%
+El tipo de programación que C provee probablemente seguirá siendo
+obsolutamente similar, su uso declinará lentamente, pero relativmante.
+%
+JavaScript o sus variantes, o XML, continuarán volviéndose más centrales
+en la masa de programadores pierda la capacidad e interés de programar
+el metal desnudo.
+%
+Una de las cosas obvias que salieron mal con Multics como un producto
+comercial era simplemente su exceso de ingeniería. Tenía un simple
+exceso de ella.
+%
+La filosofía GNU verdadera es más extrema de lo que puede importarme,
+pero ciertamente ofreció un cimiento para la escena actual, a la vez de
+proveer software verdadero.
+%
+Cualquier trabajo de edición de software o de envío de correo puede
+hacerse en Plan 9.
+%
+C ya había sido implementado en varias máquinas y sistemas operativos
+distintos, y UNIX ya se distribuía en la PDP-11. Lo novedoso fue la
+portabilidad del sistema.
