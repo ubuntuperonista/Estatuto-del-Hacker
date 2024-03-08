@@ -6547,3 +6547,19 @@ hacerse en Plan 9.
 C ya había sido implementado en varias máquinas y sistemas operativos
 distintos, y UNIX ya se distribuía en la PDP-11. Lo novedoso fue la
 portabilidad del sistema.
+%
+Normalmente UNIX divide el disco en secciones mas pequeñas llamadas
+particiones.
+%
+En cada partición de disco, UNIX guarda estructuras de datos para
+implementar ficheros, y el programa que implementa dicha abstracción
+dentro del kernel suele llamarse Sistema de Archivos.
+%
+Como ilustra nuestro Escudo Partidario, al establecer una conexión a una
+red de datos debe mediar un apretón de manos.
+%
+Conecta a redes de datos en cuyo protocolo medie un apretón de manos, y
+evita aquellas donde te quieran dar un apretón de huevos.
+%
+El botón que presionas para abrir la puerta de un ascensor cuenta con
+mayor potencia de cómputo que ambas sondas Voyager.
