@@ -4,6 +4,7 @@
 echo "Descargando todo..."
 wget -O /tmp/doctrina https://caja.texto-plano.xyz/peron/fortune-phrases/doctrina2
 wget -O /tmp/rms https://caja.texto-plano.xyz/peron/fortune-phrases/rms2
+wget -O /tmp/excusas https://caja.texto-plano.xyz/peron/fortune-phrases/excusas2
 wget -O /tmp/pintadas https://caja.texto-plano.xyz/peron/fortune-phrases/pintadas
 wget -O /tmp/17oct.cow https://caja.texto-plano.xyz/peron/fortune-phrases/cows/17oct_ascii.cow
 wget -O /tmp/pocho.cow https://caja.texto-plano.xyz/peron/fortune-phrases/cows/pocho.cow
@@ -31,6 +32,8 @@ mv -f /tmp/*.cow /usr/share/cowsay/cows/
 echo "Moviendo fortunes..."
 mv -f /tmp/doctrina /usr/share/games/fortunes/es
 mv -f /tmp/rms /usr/share/games/fortunes/es
+mv -f /tmp/excusas /usr/share/games/fortunes/es
+
 
 echo "OK!"
 echo 'Actualizando Doctrinas...'
