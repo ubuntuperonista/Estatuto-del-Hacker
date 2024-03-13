@@ -3438,7 +3438,7 @@ UNIX es el /dev/drum, sus Hackers la manguera.
 %
 El algoritmo de encriptación de contraseñas de UNIX está diseñado para ser computacionalmente intensivo, de manera de desbaratar ataques de fuerza bruta, de modo que aunque ningún intento de acceso tenga éxito, la sobrecarga de rechazar una gran cantidad de ellos se volverá sustancial.
 %
-Un handle es un nombre de pantalla. Un login es un nombre de acceso. Un usuario puede ser mas que los dos, pero no nunca menos que uno.
+Un handle es un nombre de pantalla. Un login es un nombre de acceso. Un usuario puede ser mas que los dos, pero nunca menos que uno.
 %
 Un niño privilegiado de guion podrá hacer travesuras con scripts y programas escritos por otros, a menudo sin comprender el exploit.
 %
