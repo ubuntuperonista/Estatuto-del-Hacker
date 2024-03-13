@@ -2395,7 +2395,7 @@ Un byte mas allá de COBOL está la inmortalidad.
 %
 Los medios de almacenamiento se desgastan.
 %
-Conseguir que una computadora se comunique con el mundo exterior no es una tarea fácil, pero hacer que lo haga un programador es más difícil.
+Conseguir que una computadora se comunique con el mundo exterior no es una tarea fácil, pero hacer que lo haga un programador es más difícil aún.
 %
 La mayoría del esfuerzo computacional está dado en convertir el resultado maquinal para que lo entienda un tonto cualquiera.
 %
@@ -2819,7 +2819,7 @@ Llena tu RAM hasta el borde y desbordará.
 %
 Continúa quitando líneas a tu programa hasta que deje de hacer lo único que debía hacer, y vuelve a la versión inmediatamente anterior a la falla total.
 %
-El programador es mejor cuando los usuarios apenas sabe que existe. Cuando modifiquen su programa, ellos dirán: lo hicimos nosotros mismos.
+El programador habrá implementado mejor su idea cuando sus usuarios apenas sepan de su existencia. Cuando otros modifiquen su programa, ellos dirán: "lo hicimos nosotros mismos".
 %
 Usar software libre es sabiduría. Dar código fuente a los demás es iluminación.
 %
@@ -3376,7 +3376,7 @@ Cuando fue desarrollado, no existió un acrónimo original para el lenguaje Basi
 %
 BASIC ha seguido la espiral descendente que atraviesa todo lenguaje de programación deliberadamente diseñado como juguete educativo, y al que alguien ha tomado demasiado en serio.
 %
-Un neófito puede escribir fácilmente programas cortos de BASIC (del orden de las 10 o 20 líneas), pero escribir cualquier cosa más larga que eso es muy dificultoso.
+Un neófito puede escribir fácilmente programas de BASIC cortos (del orden de las 10 o 20 líneas), pero escribir cualquier cosa más larga que eso es muy dificultoso.
 %
 El uso de BASIC termina inculcando en los programadores bisoños malos hábitos en lo que respecta a escritura de sus programas.
 %
@@ -3891,3 +3891,175 @@ Como ilustra nuestro Escudo Partidario, al establecer una conexión a una red de
 Conecta a redes de datos en cuyo protocolo medie un apretón de manos, y evita aquellas donde te quieran dar un apretón de huevos.
 %
 El botón que presionas para abrir la puerta de un ascensor cuenta con mayor potencia de cómputo que ambas sondas Voyager.
+%
+El propósito de cualquier aplicación de software es permitir a un grupo de personas llevar a cabo un conjunto de tareas específicas.
+%
+Puede que los usuarios daltónicos no sean capaces de usar su aplicación si confía en el coloreado de datos para distinguir distintos tipos de información.
+%
+Puede que los usuarios con discapacidades auditivas no sean capaces de usar su aplicación si confía en los sonidos para indicar información crítica.
+%
+Los usuarios con movilidad limitada pueden no ser capaces de usar su aplicación si no proporciona equivalentes de teclado para los comandos.
+%
+Su software deberá ser capaz de ser utilizado con interfases de voz, lectores de pantalla, dispositivos de entrada alternativos, y otras tecnologías de asistencia.
+%
+Con un poco de esfuerzo extra, es posible que su aplicación sea tan útil a los usuarios que utuilizan tecnologías asistivas como los que no lo hacen.
+%
+Diseña tu software para que pueda funcionar en distintos ambientes e idiomas.
+%
+Localización es el proceso de traducir los mensajes, etiquetas y otros elementos de interfaz a otro idioma.
+%
+GNOME tiene excelente soporte tanto para internacionalización (también referido como i18n) y localización (también referido como l10n).
+%
+Una de las ventajas más importantes de las conferencias por computadora es ampliar su círculo de compañer@s.
+%
+El género, edad, origen nacional y la apariencia física no son evidentes en el ciberespacio a menos que una persona quiera hacer públicas tales características.
+%
+Las personas cuyas discapacidades físicas les dificultan formar nuevas amistades descubren que las comunidades virtuales las tratan como siempre quisieron ser tratadas.
+%
+Una persona con capacidades diferentes en línea sólo es considerada como un ser pensante y transmisor de ideas y sentimientos.
+%
+Una de las propiedades sorprendentes de la telemática es que es una actividad social.
+%
+Las comunicaciones mediadas por computadora son una forma de conocer gente, ya sea que sientas o no la necesidad de afiliarte a ellos a nivel comunitario.
+%
+Las comunicaciones mediadas por computadora son una forma de establecer contacto con los demás y de mantener distancia con ellos.
+%
+En las comunidades virtuales, puedes conocer personas y luego elegir encontrarte con ellas virtualmente.
+%
+La afiliación puede ser mucho más efímera en el ciberespacio porque puedes llegar a conocer a personas que quizás nunca conocerías en el plano físico.
+%
+El ataque más insidioso a nuestro derecho a un grado razonable de privacidad en las redes podría provenir no de una dictadura política sino del mercado.
+%
+Las tecnologías actuales permiten más sutilezas a la vigilancia tecnológica de las que Orwell podría haber previsto.
+%
+Si los manipuladores totalitarios de Pueblos y tecnologías realmente logran dominar en el futuro, no comenzarán con policía secreta derribando puertas, sino permitiéndo vender por intermedio de aplicaciones que dominan, comerciando información sobre sus transacciones, e ilegalizando medidas que podría utilizar para protegerse.
+%
+En lugar de escuchas telefónicas, la represión ciber-oligárquica incluirá programas informáticos que vinculen códigos QR, tarjetas inteligentes, números de DNI y todos los demás indicadores electrónicos que dejamos en nuestro camino a través de la sociedad de la información.
+%
+El arma más poderosa de las ciber-oligarqu{ias será la ausencia de leyes que permitan que los usos indebidos de la tecnología de la información erosionen lo que queda de los derechos de los ciudadanos a la privacidad.
+%
+Actualmente se ha instalado un sistemas de televisión interactiva que permite a tecno-esclavos ponerse grilletes mediante la cargan de vídeos, en lugar de hacerlo en máquinas de su propiedad.
+%
+Con las capacidades de comunicación digital de alta velocidad de las futuras redes de fibra óptica, habrá aún más formas de transferir información sobre usted desde su hogar a las bases de datos de otros, con y sin su consentimiento.
+%
+Los expedientes informativos sobre individuos son minas de oro para quienes saben cómo ganar dinero con el conocimiento de sus usos y organizaciones políticas a las que sustentan.
+%
+Las agencias de publicidad, los vendedores por correo directo y los consultores políticos ya saben qué hacer con su código postal, su número de DNI y algunos otros datos.
+%
+Agentes profesionales que niegan la privacidad han comenzado a darse cuenta de que una porción significativa de la población permitiría libremente que otra persona recopile, use e incluso venda información personal, a cambio de pagos o subsidios.
+%
+Algunas personas podrían permitirse el lujo de pagar "servicios de información mejorados". Otros podrían utilizar esos servicios a cambio de un poco de seguimiento de la información. Pero nada de eso se podrá si el poder está en el Pueblo Organizado.
+%
+Nadie se tomaría la molestia de apoderarse de nuestros derechos de privacidad si su venta se penara con prisión efectiva.
+%
+Me gustaría que la gente supiera qué es lo que están regalando a cambio de conveniencia, reembolsos u horas en línea.
+%
+Sin protecciones adecuadas, la misma información que puede fluir lateralmente, de compañero a compañero, puede verticalizarse tanto a los ciber-oligarcas como a las Unidades Básicas.
+%
+El tipo de protección más importante contra la invasión de la privacidad del Pueblo asistida por la tecnología es un conjunto de principios que pueden ayudar a preservar la autonomía individual en la era digital.
+%
+Las leyes, políticas y normas de protección de la privacidad electrónica son las diversas formas - articuladas y acordadas - que se aplican en una sociedad democrática.
+%
+La alta tecnología suele ser muy buena para hacer que las leyes sean discutibles.
+%
+Si se diseñan inteligentemente y se implementan de manera equitativa, la combinación de principios, leyes, políticas y tecnologías, ofrecerá un escenario esperanzador para que el Pueblo aproveche las ventajas de la Red sin ser víctimas de las ciber-oligarquías.
+%
+No debe existir ningún registro de datos personales cuya existencia misma sea secreta.
+%
+Debe existir una manera para que una persona sepa qué información sobre ella se encuentra en un registro y cómo se utiliza.
+%
+Debe haber una manera para que una persona impida que la información que se obtuvo para un propósito sea utilizada o puesta a disposición para otros propósitos sin su consentimiento.
+%
+Debe haber una manera para que una persona corrija o modifique un registro de información identificable sobre sí misma.
+%
+Cualquier organización que cree, mantenga, utilice o difunda registros de datos personales identificables debe garantizar la confiabilidad de los datos para el uso previsto y debe tomar precauciones para evitar el uso indebido de tales datos.
+%
+Las redes altamente interconectadas son relativamente inseguras, y constituyen un entorno difícil para hacer cumplir reglas basadas en principios éticos.
+%
+Si el dinero o el poder derivados del espionaje en la red resultan significativos, y los tecnicismos de la red dificultan rastrear a los ciber-oligarcas y perpetradores, ninguna ley protegerá adecuadamente al Pueblo.
+%
+Las capacidades de las tecnologías de recopilación y clasificación de información son hoy en día formidables.
+%
+El Pueblo debe imponer limitaciones verificables a las tecnologías que pueden recolectar y cribar cantidades abrumadoras de información individual trivial pero colectivamente reveladora.
+%
+Una subcultura de pioneros del software informático conocida como cypherpunks ha estado trabajando para hacer posible el encriptado popular.
+%
+El cifrado es la ciencia de codificar y decodificar mensajes.
+%
+Las computadoras y las teorías matemáticas son hoy las armas más importantes en la guerra entre creadores y descifradores de códigos.
+%
+Las complejidades matemáticas del cifrado han comenzado a difundirse de los especialistas al Pueblo.
+%
+El cifrado de llave pública permite al Pueblo codificar mensajes que sus destinatarios pueden leer pero que no son legibles ni siquiera para los descifradores de códigos más potentes computacionalmente.
+%
+El encriptado popular hace posible dos armas antipanópticas extremadamente poderosas conocidas como cripto-valor y la firma digital.
+%
+Con la firma digital en el mundo en línea de identidad fluida, es posible establecer certeza sobre el remitente de un mensaje.
+%
+La firma digital tiene implicaciones importantes para la propiedad intelectual y las publicaciones en línea, así como para la seguridad personal.
+%
+Con el cripto-valor, es posible construir una economía electrónica en la que el vendedor pueda verificar el crédito del comprador y transferir la cantidad correcta de valor, sin que el vendedor sepa quién es el comprador.
+%
+El cifrado de llave pública tal como existe hoy en día es irrompible para todos los ordenadores, excepto para los más potentes, como los de la Agencia de Seguridad Nacional estadounidense.
+%
+El debate político y los desafíos legales han girado en torno a los derechos de los ciudadanos a utilizar un cifrado matemáticamente irrompible.
+%
+Las técnicas de cifrado digital por llave pública deben usarse para hacer que la información personal (registros médicos y legales) sean mucho menos vulnerables al abuso.
+%
+La tecnología que hace posibles las comunidades virtuales tiene la posibilidad de brindar una enorme influencia intelectual, social, comercial y política al Pueblo, y a un costo relativamente bajo.
+%
+Siempre existen grandes probabilidades de que las grandes potencias y las oligarquías encuentren una manera de controlar el acceso a las comunidades virtuales.
+%
+La influencia social potencial proviene del poder que obtiene el Pueblo cuando conoce cómo conectar dos tecnologías previamente independientes, maduras y altamente descentralizadas.
+%
+La Red todavía está fuera de control en aspectos fundamentales, pero es posible que no siga así por mucho tiempo mas.
+%
+Un hacker del Pueblo puede ser vínculo de unión de tecnologías vastas, poderosas y costosamente desarrolladas, que le den acceso instantáneo a un púlpito intimidante de las ciber-oligarquías.
+%
+Lo que hacemos actualmente es importante pues aún es posible que los Hackers se aseguren de que esta nueva esfera del discurso humano vital permanezca abierta a Pueblos del Mundo antes de que las tecno-oligarquías se apoderen de ella.
+%
+La mayoría de las personas que reciben noticias a través de los medios convencionales desconocen la enorme variedad de nuevas culturas que han  evolucionado en las redes informáticas del mundo.
+%
+Los jugadores más adictos del Minitel en Francia o de los Multi-User Dungeons (MUD) en las redes internacionales, pasan mas de ochenta horas a la semana fingiendo ser otra persona, viviendo una vida que no existe fuera de una computadora.
+%
+Activistas y reformadores educativos están utilizando los Pubnix como herramienta política.
+%
+No existe una subcultura en línea única y monolítica; es más bien un ecosistema de subculturas, algunas frívolas, otras serias.
+%
+La vanguardia del discurso político ha de migrar a las comunidades computarizadas mediadas por el Pueblo.
+%
+Puede utilizar comunidades virtuales para encontrar una cita, vender una cortadora de césped, publicar una novela o iniciar una revolución.
+%
+Las personas en comunidades virtuales usan apenas palabras en las pantallas para sus intercambios, y en el futuro ni eso.
+%
+Llegará el tiempo en que la revolución estallará con emojis.
+%
+Las personas en comunidades virtuales hacen casi todo lo que hacen en la vida real, pero dejando atrás sus cuerpos.
+%
+Para los miles millones de personas que se han visto atraídas por la riqueza y la vitalidad de las culturas vinculadas por la computadora, esta es atractiva, e incluso adictiva. 
+%
+Incúlca la Justicia Social a través de los hechos, en las redes a través de la palabra, incluso si tienes que sintetizarla a través de emojis.
+%
+El Internet Relay Chat (IRC) es un medio que combina las características del discurso hablado, escribiendo.
+%
+No olvides recurrir al emoticón de discurso por la Justicia Social: \o/.
+%
+Divulga la Justicia Social a millones a través de USENET, una colección de cientos de debates diferentes que viajan por todo el mundo gracias al correo electrónico.
+%
+"La Red" es un término informal para las redes informáticas que utilizan la tecnología de comunicación mediada por ordenador para vincular a los Pueblos.
+%
+Con tiempo y sentimiento humanista suficiente, podrás formar entretejidos de relaciones personales en el ciberespacio.
+%
+El lugar conceptual donde las personas que utilizan la tecnología de comunicación mediada por computadora manifiestan palabras, relaciones humanas, datos, riqueza y poder es el ciberespacio.
+%
+Observar cómo cambia una determinada comunidad virtual a lo largo de un período de tiempo tiene algo de la emoción intelectual de la antropología hecha por uno mismo.
+%
+Empresas de telecomunicaciones, redes de televisión, empresas de informática, empresas de cable y periódicos están compitiendo por una posición en la naciente "industria de servicios de información interactiva para el hogar". Esta debe pertenecer al Pueblo.
+%
+La industria de servicios de información interactiva para el hogar debe ser nacionalizada: debe pertenecer al Pueblo.
+%
+Existe un vocabulario para las comunicaciones mediadas por el cómputo, que emerge de billones de interacciones individuales en línea.
+%
+El vocabulario de las comunicaciones mediadas por el cómputo refleja las formas en que las personalidades humanas están cambiando en la era de la saturación de los medios.
+%
+Atiende con mensajes de Justicia Social irrenunciable a toda sensibilidad estética que esté estrechamente sintonizada con el vocabulario de los cortes rápidos, las imágenes visualmente deslumbrantes y los efectos especiales.
