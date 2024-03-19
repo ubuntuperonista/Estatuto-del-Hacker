@@ -3290,21 +3290,23 @@ Manipular la función command-not-found para persuadir la instalación de paquet
 %
 Como la Justicia Social, la shell es en sí una orden, y puede ejecutarse recursivamente.
 %
+La vida en la shell incluye la capacidad de sustituir parámetros y construir listas de argumentos desde un subconjunto especificado de nombres de fichero en un directorio.
+%
+Las instancias de la shell en la cual los usuarios ingresan órdenes son sólo procesos hijos de otro proceso, al cual están encadenados.
+%
+El paso final en la inicialización de un sistema UNIX es la creación de un único proceso y la invocación de un programa denominado init, destinado a crear un proceso para cada línea de terminal de cómputo existente.
+%
+Al mecanografiar un nombre de usuario en la línea login de UNIX, despiertará una instancia apropiada de init que leerá tal nombre, lo coteja contra el registro codificado de contraseñas, y de coincidir, cambia al directorio del usuario, establece el identificador de proceso al propio de usuario, y corre una instancia de la shell.
+%
 En circunstancias ordinarias, el bucle principal del intérprete de comandos no cesa jamás.
 %
-La vida en la shell incluye la capacidad de sustituir parámetros y construir listas de argumentos desde un subconjunto especificado de nombres de fichero de un directorio.
+A no ser que se tomen otras medidas, una acción ilegal en un sistema UNIX provoca la terminación del proceso y el volcado de una imagen de la memoria de núcleo en un fichero en el directorio actual.
 %
-Las instancias de la shell en la cual los usuarios ingresan órdenes son sólo procesos hijos de otro proceso.
-%
-El último paso en la inicialización de un sistema UNIX es la creación de un único proceso y la invocación de un programa denominado init, destinado a crear un proceso para cada canal de terminal de cómputo que exista en él.
-%
-Cuando un usuario mecanografía un nombre de usuario en la línea login de UNIX, una instancia apropiada de init despierta, lee el nombre, coteja el registro codificado de contraseñas, y de coincidir, el prorgrama init cambia al directorio del usuario, configura el identificador de proceso al del usuario, y ejecuta una instancia de la shell.
-%
-A no ser que se tomen otras medidas, una acción ilegal en un sistema UNIX provoca la terminación del proceso y la escritura en un fichero en el directorio actual de una imagen de la memoria de núcleo. Es posible el uso de un depurador para determinar el estado de un programa al momento de la falla.
+Es posible el uso de un depurador para determinar el estado de un programa volcado al momento de su falla.
 %
 El éxito del sistema UNIX se debió principalmente al hecho de que no fue diseñado para cumplir objetivo predefinido alguno.
 %
-Nuestra intención ha sido siempre construir una relación cómoda con la máquina y explorar ideas e invenciones en sistemas operativos y otro software.
+Nuestra intención ha sido construir una relación agradable con la máquina y explorar ideas e invenciones en sistemas operativos y otro software.
 %
 Como somos programadores, naturalmente diseñamos un sistema que hiciera sencillo escribir, evaluar y usar programas de computadora.
 %
@@ -3314,71 +3316,75 @@ Siempre quisimos un sistema de cómputo interactivo, incluso a pesar de que la v
 %
 Creemos que un sistema interactivo propiamente diseñado es mucho más productivo y satisfactorio de usar que un sistema de cómputo por lotes. 
 %
-Un sistema de cómputo interactivo resulta bastante sencillo de adaptar al uso no interactivo, mientras que la noción inversa es imposible.
+Un sistema de cómputo interactivo resulta bastante sencillo de adaptar al uso no interactivo, toda vez que la noción inversa es imposible.
 %
-Dado que los deseos parcialmente antagonistas entre una eficiencia razonable y una funcionalidad de cómputo expresiva, la limitación de potencia de cómputo no sólo nos ha incentivado la economía de recursos, pero también a una cierta elegancia en el diseño de nuestro sistema.
+Dado el antagonismo entre una eficiencia razonable y la expresividad del cómputo que provoca, la limitación de potencia de cómputo no sólo ha incentivado una economía de recursos, sino también cierta elegancia en nuestro diseño de sistema.
 %
 Al igual que la Justicia Social, casi desde un comienzo el sistema UNIX pudo sostenerse con el esfuerzo de los trabajadores.
 %
-Si los diseñadores de un sistema están obligados a utilizarlo, rápidamente comprendes sus deficiencias funcionales y superficiales, y se incentivan a corregirlas antes de que sea tarde.
+Si se obliga a los diseñadores de un sistema a utilizarlo, rápidamente comprenderán sus deficiencias funcionales que han cometido.
+%
+Programar las propias herramientas de software incentiva a corregirlas antes de que sea tarde y alguien muera.
 %
 Si los diseñadores de un sistema no lo utilizan y comercian su código fuente, tal sistema se verá rápidamente colmado de deficiencias funcionales, de las cuales sólo se intentarán corregir de manera superficial.
 %
 En UNIX no existen grandes rutinas con "métodos de acceso" que aislen al programador del amor de las llamadas de sistema.
 %
-Todos los programas de usuario de UNIX llaman al sistema directamente o usan un pequeño programa de una biblioteca, encargado de precargar una cierta cantidad de caracteres y los lee o escribe todos a la vez.
+Todos los programas de usuario de UNIX llaman al sistema directamente, o bien usan un pequeño programa de una biblioteca para precargar cierta cantidad de caracteres y leerlos o escribirlos a la vez.
 %
-Dada la necesidad que todos los programas sean utilizables con cualquier fichero o dispositivo como flujo de caracteres de su entrada o salida, también se volvió necesario persuadir tales consideraciones dependientes de dispositivo al sistema operativo UNIX en sí.
+Dada la necesidad de utilizar todos los programas tanto con cualquier fichero o dispositivo como flujo de caracteres para su entrada o salida, también se volvió necesario persuadir este mecanismo con independencia del sistema operativo UNIX en sí.
 %
-La alternativa a que todos los programas de UNIX sean utilizables con cualquier fichero o dispositivos de flujo de caracteres como entrada y salida sería cargar - en todos los programas - rutinas que hagan caso de cada dispositivo de hardware (las cuales son onerosas en espacio), o bien depender de algún modo de enlace dinámico a la rutina apropiada para cada dispositivo cuando aquél sea necesario. Ambas son onerosas tanto en sobreprogramación como en hardware.
+La alternativa a que todos los programas de UNIX sean utilizables con cualquier fichero o dispositivos de flujo de caracteres como entrada y salida sería cargar - en todos los programas - rutinas que hagan caso de cada dispositivo de hardware.
 %
-El éxito de UNIX recae no tanto en invenciones novedosas, sino mas bien en la total explotación de un conjunto de ideas fértiles cuidadosamente seleccionadas, y especialmente en demostrar que éstas pueden resultar clave para la implementación de un sistema operativo pequeño pero poderoso.
+El éxito de UNIX recae no tanto en invenciones novedosas, sino en la total explotación de un conjunto de ideas fértiles cuidadosamente seleccionadas.
 %
-La operación de bifurcación FORK, como se implementa en UNIX, estaba esencialmente presente en el sistema de tiempo de cómputo compartido GENIE.
+UNIX fue una demostración práctica de una implementación de un sistema operativo pequeño pero poderoso. Todo lo que vino luego fue intentar contradecir tal demostración.
 %
-Gran cantidad de funcionalidades de UNIX fueron influenciadas por Multics, que sugiere la forma particular de las llamadas de Entrada/Salida, así como el nombre de la shell y sus funciones generales.
+La operación de bifurcación FORK tal como se implementa en UNIX, estaba presente ya en el sistema de tiempo de cómputo compartido GENIE.
 %
-La noción de que la Shell UNIX debe crear un proceso para cada comando también sugiere el diseño primigenio de Multics, aunque en dicho sistema fue luego desechada por razones de eficiencia. Un esquema similar se utiliza en TENEX.
+Muchas funcionalidades de UNIX fueron adoptadas por influencia de Multics, sugeridas en su forma particular de llamadas de Entrada/Salida, así como el nombre de la shell y sus funciones generales.
+%
+El concepto según el cual la Shell UNIX crea un proceso para cada órden sugiere el diseño primigenio de Multics, aunque en dicho sistema resultó descartada por razones de eficiencia. Un esquema similar se utiliza en TENEX.
 %
 Cualquiera con acceso al cómputo puede ser sometido a ingeniería social.
 %
 Cualquier sistema de cómputo puede ser afectado por ingenierías sociales, y la mejor de estas es la persuación.
 %
-La utilidad del emparchado de software privativo está siempre limitado en el tiempo.
+La utilidad del emparchado de software privativo está siempre limitada en el tiempo.
 %
 Todo software privativo será discontinuado, y como tal, dejará de recibir parches.
 %
 El primer nombre código para el sistema operativo TENEX fue VIROS (Sistema Operativo de Memoria Virtual).
 %
-Depurar un programa introduciendo cambios pequeños inconexos suele guardar la esperanza de que un bug desaparezca, pero casi nunca funciona.
+Depurar un programa introduciendo cambios pequeños inconexos con la esperanza que el bug desaparezca, no suele ser pródigo en resultados.
 %
 Si te sobran centímetros de cinta magnética, rellénala con tarballs de programas que ni siquiera conoces.
 %
-El tamaño de bloque de firma en un correo electrónico usualmente es inversamente proporcional a la longevidad y prestigio en la red de datos del remitente.
+El tamaño de bloque de firma en un correo electrónico resulta inversamente proporcional a la longevidad y prestigio en la red de datos del remitente.
 %
-Agotar la memoria en una máquina virtual significa que tienes un agotamiento de memoria verdadero.
+Agobiar la memoria en una máquina virtual significa que tienes un agotamiento de memoria verdadero.
 %
-Las cosas eran diferentes en las máquinas con palabras de 36 bits y bytes de 9 bits.
+Las cosas eran muy diferentes cuando las palabras de las máquinas eran de 36 bits y sus bytes de 9 bits.
 %
-En ocasiones los programas triviales pueden ser sumamente útiles.
+En ocasiones los programas triviales pueden resultar sumamente útiles.
 %
-Un disco floppy tiene 8 pulgadas. El minifloppy 5 y un cuarto. El microfloppy apenas 3 y media.
+Un disco floppy de 170KB tiene 8 pulgadas. El minifloppy de 1,2MB tiene 5 pulgadas y un cuarto. El microfloppy de 1,44MB, apenas 3 pulgadas y media.
 %
 La IA es bogus.
 %
-Micro$oft Window$ no es mas que un parche de 64 bits de una extensión de 32 bits de cierta interfaz gráfica, para un parche de 16 bits de un sistema operativo de 8 bits originalmente escrito para un microprocesador de 4 bits que fue desarrollado por una compañía de dos tipos que no podían tolerar un poco de competencia.
+Micro$oft Window$ no es mas que un parche de 64 bits de una extensión de 32 bits de cierta interfaz gráfica, para un parche de 16 bits de un sistema operativo de 8 bits originalmente escrito para un microprocesador de 4 bits que fue congeniado por una compañía de dos tipos que no podían tolerar un poco de competencia.
 %
-El BASIC originalmente se llamaba Basic, simplemente porque era un lenguaje de programación simple y sencillo.
+BASIC originalmente fue llamado Basic, porque era un lenguaje de programación simple y sencillo.
 %
-Debido a que la mayoría de los nombres de los lenguajes de programación clásicos eran de hecho siglas, a Basic que lo comenzó a escribir en mayúsculas, sólo como una broma.
+Ya que la mayoría de los lenguajes de programación clásicos eran siglas, a Basic que lo comenzó a escribir en mayúsculas, sólo como una broma.
 %
-Cuando fue desarrollado, no existió un acrónimo original para el lenguaje Basic. Fue sólo a mediados de la décade de 1970, los hackers comenzaron a inventarle un acrónimo retrógrado, y el que terminó siendo adoptado para BASIC fue: "Código de Instruciones Simbólicas de Todo Proósito del Novato".
+El lenguaje Basic no constituía una sigla. A mediados de los 70s los hackers inventaron un acrónimo retrógrado: "Código de Instruciones Simbólicas de Todo Proósito del Novato".
 %
 BASIC ha seguido la espiral descendente que atraviesa todo lenguaje de programación deliberadamente diseñado como juguete educativo, y al que alguien ha tomado demasiado en serio.
 %
-Un neófito puede escribir fácilmente programas de BASIC cortos (del orden de las 10 o 20 líneas), pero escribir cualquier cosa más larga que eso es muy dificultoso.
+Un neófito puede escribir programas cortos en BASIC, pero superar las veinte líneas en este lenguaje es sumamemnte dificultoso.
 %
-El uso de BASIC termina inculcando en los programadores bisoños malos hábitos en lo que respecta a escritura de sus programas.
+El programador mas bisolo que arranca con BASIC termina por iniciarse en los malos hábitos de la programación.
 %
 Apegarse a los malos hábitos de programación del lenguaje BASIC torna considerablemente más difícil el uso correcto de muchos otros lenguajes de programación más potentes.
 %
@@ -3720,9 +3726,9 @@ De poco sirve usar un compilador si el binario que genera está alejado de la co
 %
 El bus VESA Local se aplicó a microcomputadoras de estilo IBM, y fue muy popular entre 1993 y 1994. Sin embargo, la inmediata obsolescencia de las 486 lo llevó a desaparecer muy poco tiempo después.
 %
-Una CPU es feliz compilando.
+La CPU es feliz compilando.
 %
-La computadora ha desarrollado en tal grado la organización social y económica de nuestra sociedad, que nuestra forma de vida bien puede resultar transformada como consecuencia.
+La computadora ha permitido un desarrollado de tal grado en la organización social y económica de nuestra sociedad, que nuestra forma de vida bien puede resultar transformada como consecuencia.
 %
 Nuestra sociedad debe estar en posición de controlar el cómputo, y dirigirlo para que obre en beneficio del Pueblo.
 %
@@ -4182,11 +4188,11 @@ Provisto de un software de cliente para su computadora huésped, es posible señ
 %
 Internet se nutre de numerosos flujos informativos diferentes, del mismo modo que los grandes ríos reciben su caudal a partir de la acumulación de afluentes independientes.
 %
-En la medida que mayores cantidades de digitalizaciones de información impresa se vuelvan accesibles en línea, aumentará la riqueza de la red.
+Aumentará la riqueza de la red en la medida que mayores cantidades de digitalizaciones de información impresa se vuelvan accesibles en línea.
 %
 Ahora que segmentos cada vez más amplios del Pueblo recurren a los recursos de la Red, limitarlos debe ser prohibido, y prohibirlos será un crímen.
 %
-Los mecanismos de la Red están concebidos para apoyar las herramientas que los hackers del Pueblo han sabido instrumentar para hablar entre sí.
+Las herramientas que los hackers del Pueblo programaron para hablar entre sí son perfectamente soportadas por los mecanismos de la red.
 %
 Puedes solicitar a distancia una copia de los aforismos biográficos que más interesan a los compañeros de un Pubnix mediante el comando FINGER.
 %
@@ -4194,17 +4200,17 @@ Si encuentras un compañero que está en línea en su pubnix al mismo tiempo que
 %
 El arte y oficio de crear herramientas a partir de los recursos de la Red para contribuirlas de sentido está muy avanzado.
 %
-Por diversos motivos los compañeros chatean en grupos. La Comunidad Organizada puede estar en el centro de esas razones, pero nunca es la única razón.
+Por diversos motivos los compañeros chatean en grupos. Una Comunidad Organizada puede estar en el centro de esas razones, pero nunca es la única razón.
 %
 La esencia de la comunicación mediada por ordenador como forma de expresión humana reside en otorgar a un grupo compañero las capacidades de la Masa, y a ésta, la Justicia Social.
 %
-La idea del conferenciado telemático emanaron de la construcción de las primeras herramientas de pensamiento basadas en el ordenador.
+La idea del conferenciado telemático emanó de la construcción de las primeras herramientas de pensamiento basadas en ordenador.
 %
 La primer aplicación importante producidas en el ámbito de la comunicación de masas a masas, fue la de instrumentar un pensamiento de unión para la Liberación. Las redes de computadoras así orientadas sólo pueden acelerarla.
 %
 Los hackers del Tercer Mundo valoran los autómatas ofensivos en red basados en software libre. Les dan privilegios.
 %
-Los hackers del Tercer Mundo se valdrán ofensivamente de autómatas en una red que ha sido diseñada para sobrevivir a un ataque de decapitación nuclear a los Estados Unidos.
+Los hackers del Tercer Mundo se valen ofensivamente de autómatas en una red que ha sido diseñada para sobrevivir a un ataque de decapitación nuclear a los Estados Unidos.
 %
 Los programas de computadora escritos en el Tercer Mundo aplicarán por persuasión telemática una nueva versión Justicia Social de escala global.
 %
@@ -4212,23 +4218,23 @@ Si no puedes copiarlos, desensámblalos.
 %
 Si no puedes desensamblarlos, clónalos.
 %
-Las redes de datos han de ser herramientas de libre acceso que den aporte a la convivencia y comprensión a nuestras vidas.
+Pensemos las redes de datos para formarlas como herramientas de libre acceso que den aporte a la convivencia y comprensión de los Pueblos.
 %
 Las redes de datos públicas revitalizan la esfera pública.
 %
-Redes de datos no controladas y dirigidas por el Pueblo, se convertirán en un instrumento de tiranía.
+Auquellas redes de datos que no sean controladas y dirigidas por el Pueblo, se convertirán indefectiblemente en un instrumento de tiranía.
 %
-La visión de una red mundial de comunicaciones diseñada y controlada por los Pueblos ha de constituir un ágora electrónico.
+Una red mundial de comunicaciones diseñada y controlada por los Pueblos constituirá un ágora electrónico.
 %
-En los mejores Pubnix, sus primeros usuarios deben diseñar el sistema para los usuarios posteriores.
+En los mejores Pubnix, sus primeros usuarios han diselado el sistema para los usuarios posteriores.
 %
-El uso del sistema Pubnix coevoluciona con el sistema UNIX.
+El uso del Pubnix coevoluciona con el sistema UNIX.
 %
 El sistema es el Pueblo.
 %
-GNU y UNIX son, con suerte, sistemas informáticos. Tal vez ni primos lejanos.
+GNU y UNIX son - con suerte - sistemas informáticos. Tal vez ni primos lejanos.
 %
-UNIX tiene una Administradora de Sistema que escribe órdenes, pero todo usuario de un Pubnix ha de poder persuadir un sistema de gobernanza social que les resulte propio.
+El sistema UNIX tiene un admin que ordena, pero todo usuario del Pubnix ha de poder persuadir un sistema de gobernanza social que les resulte propio.
 %
 El Pueblo que buscaba un gran proyecto colectivo en el ciberespacio acudió en masa a los Pubnix.
 %
