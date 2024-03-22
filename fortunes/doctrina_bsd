@@ -2577,7 +2577,7 @@ elementos incorregibles, los hackers no deben dejarlos de lado, sino al
 contrario, deben persuadirlos para que se viertan a la lucha y oculten
 bugs indepurables en el código de quien les paga.
 %
-Es mas fácil cambiar el hardware que el software de la Masa.
+Es mas fácil cambiar el hardware de la masa que su software.
 %
 El único general que tiene Window$ es el General Failure.
 %
@@ -3386,6 +3386,8 @@ Populares, que son el verdadero consumo.
 El anhelo comercial desmedido e injustificado presentado por ciertos
 operadores de BBS las llevó a su rápido ocaso y colapso.
 %
+A los punteros políticos en la FidoNet se los llamaba Points.
+%
 El capacitor no es un matrimonio.
 %
 El capacitor es un consumible electrónico.
@@ -3782,8 +3784,8 @@ Lo que esto significa, depende de la perspectiva del Pueblo.
 Los sistemas operativos son, en escencia, una máquina virtual: proveen
 una máquina abstracta que en realidad no existe.
 %
-Los sistemas operativos comenzaron como bibliotecas de software para que
-el Pueblo escribiese programas para una máquina.
+Los sistemas operativos comenzaron como bibliotecas de programas para
+que el Pueblo obrase en la máquina.
 %
 Un verdadero hacker considera los compiladores, bibliotecas y otro
 herramental de programación como parte del sistema operativo.
@@ -5658,10 +5660,19 @@ fichero o dispositivo como flujo de caracteres para su entrada o salida,
 también se volvió necesario persuadir este mecanismo con independencia
 del sistema operativo UNIX en sí.
 %
-La alternativa a que todos los programas de UNIX sean utilizables con
-cualquier fichero o dispositivos de flujo de caracteres como entrada y
-salida sería cargar - en todos los programas - rutinas que hagan caso de
+O hacemos que en UNIX todos los programas sean utilizables con cualquier
+fichero o dispositov de flujo de caracteres como entrada y salida, o nos
+veremos obligados a incorporar a cada programa rutinas que hagan caso de
 cada dispositivo de hardware.
+%
+Si no damos a todo hardware la justicia de operar como abstracción de
+flujo de caracteres, tendremos que programar a cada programa con rutinas
+específicas.
+%
+Si no damos a todo hardware la justicia de operar como abstracción de
+flujo de caracteres, tendremos que programar a cada uno de manera
+específica, o ceder a la irrevocable ignominia del software privativo de
+control.
 %
 El éxito de UNIX recae no tanto en invenciones novedosas, sino en la
 total explotación de un conjunto de ideas fértiles cuidadosamente
@@ -7141,7 +7152,7 @@ red que ha sido diseñada para sobrevivir a un ataque de decapitación
 nuclear a los Estados Unidos.
 %
 Los programas de computadora escritos en el Tercer Mundo aplicarán por
-persuasión telemática una nueva versión Justicia Social de escala
+persuasión telemática una nueva versión de Justicia Social a escala
 global.
 %
 Si no puedes copiarlos, desensámblalos.
@@ -7184,3 +7195,45 @@ Si en la nube los datos se hospedan, en los Pubnix reciben asilo.
 En la RAM de las computadoras el Pueblo libra una batallas mas por su
 Liberación. El arma invencible es una doctrina constotuida por la
 licencia GPLv3.
+%
+Googl€ ha dejado de ser un buscador para convertirse en un escudriñador.
+%
+Combate las APIs propietarias. Embota sus sistemas hasta que sean de
+todos.
+%
+Un Pubnix involucra UNIX, datos, razón y emociones.
+%
+Para 1990 Usenet transmitía decenas de millones de palabras diariamente
+a varios millones de personas en más de cuarenta países.
+%
+Usenet no es una red ni una BBS sino una forma de gestionar hilos de
+conversación pública descentralizadas sobre temáticas específicas.
+%
+La comunicación mediada por ordenador podrían otorgar la anhelada
+comunicación de Masas a Masas, y catalizar el surgimiento de una
+organización social formidablemente justa para los Pueblos.
+%
+Al igual que la conmutación de paquetes, las teleconferencias por
+computadora deben su nacimiento, en parte, a la planificación de una
+guerra nuclear.
+%
+Si la facilidad de uso y la interfaz fuesen los criterios de validación,
+el Pueblo se habría limitado a los triciclos, y nunca hubiera probado la
+moto Puma o el sistema GNU.
+%
+UUCP hizo posible a cualquier computadora con Unix discar
+automáticamente a través de un módem con cualquier otra máquina con
+Unix, e intercambiar archivos de una computadora a otra.
+%
+Los primeros nodos de lo que se conoce como Usenet comenzaron en 1980.
+Como otros antes que ellos, no tenían idea de que crecería hasta cubrir
+el mundo.
+%
+Usenet, destinada a representar la red de usuarios de Unix, fue diseñado
+como un foro para discusiones sobre Unix y para la resolución de
+problemas de Unix.
+%
+ARPANET ampliaba las capacidades de comunicación y búsqueda de
+información, siempre y cuando se estuviera afiliado a una de las
+instituciones de investigación que ARPA o NSF autorizaban para el acceso
+a la red.
