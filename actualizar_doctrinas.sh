@@ -21,6 +21,7 @@ wget -O /tmp/vax.cow https://caja.texto-plano.xyz/peron/fortune-phrases/cows/vax
 wget -O /tmp/vax3900.cow https://caja.texto-plano.xyz/peron/fortune-phrases/cows/vax3900.cow
 wget -O /tmp/gaucho.cow https://caja.texto-plano.xyz/peron/fortune-phrases/cows/gaucho.cow
 wget -O /tmp/luser.cow https://caja.texto-plano.xyz/peron/fortune-phrases/cows/luser.cow
+wget -O /tmp/obrero.cow https://caja.texto-plano.xyz/peron/fortune-phrases/cows/obrero.cow
 wget -O /tmp/altair.cow https://caja.texto-plano.xyz/peron/fortune-phrases/cows/altair.cow
 wget -O /tmp/vt05.cow https://caja.texto-plano.xyz/peron/fortune-phrases/cows/vt05.cow
 wget -O /tmp/vt52.cow https://caja.texto-plano.xyz/peron/fortune-phrases/cows/vt52.cow
