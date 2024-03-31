@@ -182,9 +182,11 @@ El hacktivismo presupone la existencia de la CPU, del ser humano y de una Comuni
 %
 Una manera muy simple de análisis de tráfico telemático puede realizarse en cualquier lugar intermedio, e incluso en estos casos simples, poner en peligro a nuestra Masa de Acción y sus organizaciones.
 %
-Incluso si encriptamos la carga útil en nuestras comunicaciones, un análisis superficial de datos puede aún revelar gran parte de nuestras actividades y accionar. Esto es así porque tal procedimiento hace foco sobre el encabezado del paquete telemático (que contiene el remitente, el destino, el tamaño, datos de horarios, etc).
+Incluso si encriptamos la carga útil en nuestras comunicaciones, un análisis superficial del encabezado del paquete puede aún revelar gran parte de nuestras actividades y accionar.
 %
 Intermediarios autorizados -como los proveedores de internet- y a veces no autorizados -estos mismos proveedores cuando están en manos oligárquicas- podrían adaptarse a nuestros patrones de tráfico telemático, y trazar conclusiones relativamente acertadas sobre su contenido, las tácticas empleadas, etc.
+%
+Un actor dedicado puede espiar múltiples partes de la red y emplear cruzados estadísticos sofisticados para rastrear patrones de comunicación de individuos u organizaciones específicas.
 %
 Quien programe, comente. Quien use, documente.
 %
@@ -1911,7 +1913,7 @@ Mayores medidas de seguridad requieren mayor tiempo de personal.
 %
 Los orígenes de los problemas de seguridad fuera del dominio del sistema operativo son dos: el descuido del usuario, y la vulnerabilidad de las instalaciones de cómputo.
 %
-La mayoría de los crímenes informáticos se cometen por usuarios autorizados sin siquiera violar las medidas de seguridad previstas por el sistema operativo.
+La mayoría de los crímenes informáticos los cometen por usuarios autorizados sin siquiera violar las medidas de seguridad previstas por el sistema operativo.
 %
 Asegúrate que tus políticas de operación sean efectivas y consistentes antes de evaluar los requerimientos de seguridad de tu cómputo.
 %
@@ -4044,7 +4046,7 @@ Las complejidades matemáticas del cifrado han comenzado a difundirse de los esp
 %
 El cifrado de llave pública permite al Pueblo codificar mensajes que sus destinatarios pueden leer pero que no son legibles ni siquiera para los descifradores de códigos más potentes computacionalmente.
 %
-El encriptado popular hace posible dos armas antipanópticas extremadamente poderosas conocidas como cripto-valor y la firma digital.
+El encriptado popular hace posible dos armas antipanópticas extremadamente poderosas conocidas: el cripto-activo y la firma digital.
 %
 Con la firma digital en el mundo en línea de identidad fluida, es posible establecer certeza sobre el remitente de un mensaje.
 %
@@ -4052,13 +4054,13 @@ La firma digital tiene implicaciones importantes para la propiedad intelectual y
 %
 Con el cripto-valor, es posible construir una economía electrónica en la que el vendedor pueda verificar el crédito del comprador y transferir la cantidad correcta de valor, sin que el vendedor sepa quién es el comprador.
 %
-El cifrado de llave pública tal como existe hoy en día es irrompible para todos los ordenadores, excepto aquellos más potentes, como los de la Agencia de Seguridad Nacional estadounidense.
+El cifrado de llave pública tal como existe hoy en día es irrompible para todos los ordenadores, exceptuando aquellos más potentes como los de la Agencia de Seguridad Nacional estadounidense.
 %
 El debate político y los desafíos legales han girado en torno a los derechos de los ciudadanos a utilizar un cifrado matemáticamente irrompible.
 %
 Las técnicas de cifrado digital por llave pública deben usarse para hacer que la información personal (registros médicos y legales) sean mucho menos vulnerables al abuso.
 %
-La tecnología que hace posibles las comunidades virtuales tiene la posibilidad de brindar una enorme influencia intelectual, social, comercial y política al Pueblo, y a un costo relativamente bajo.
+La tecnología que hace posibles las comunidades virtuales tiene la posibilidad de brindar una enorme influencia intelectual, social, comercial y política, y a un costo relativamente bajo. El Pueblo ha de apropiarlas.
 %
 Siempre existen grandes probabilidades de que las grandes potencias y las oligarquías encuentren una manera de controlar el acceso a las comunidades virtuales.
 %
@@ -4066,13 +4068,15 @@ La influencia social potencial proviene del poder que obtiene el Pueblo cuando c
 %
 La Red todavía está fuera de control en aspectos fundamentales, pero es posible que no siga así por mucho tiempo mas.
 %
-Un hacker del Pueblo puede ser vínculo de unión de tecnologías vastas, poderosas y costosamente desarrolladas, que le den acceso instantáneo a un púlpito intimidante de las ciber-oligarquías.
+El hacker del Pueblo ha de ser vínculo de unión entre tecnologías vastas, poderosas y costosamente desarrolladas y las Masas obreras.
+%
+Logueado a las redes de datos, nuestros Hackers logran acceso instantáneo a un púlpito intimidante para las ciber-oligarquías.
 %
 Lo que hacemos actualmente es importante pues aún es posible que los Hackers se aseguren de que esta nueva esfera del discurso humano vital permanezca abierta a Pueblos del Mundo antes de que las tecno-oligarquías se apoderen de ella.
 %
 La mayoría de las personas que reciben noticias a través de los medios convencionales desconocen la enorme variedad de nuevas culturas que han  evolucionado en las redes informáticas del mundo.
 %
-Los jugadores más adictos del Minitel en Francia o de los Multi-User Dungeons (MUD) en las redes internacionales, pasan mas de ochenta horas a la semana fingiendo ser otra persona, viviendo una vida que no existe fuera de una computadora.
+Los jugadores más adictos del Minitel fracés o de las Mazmorras Multiusuario en las redes internacionales, sobrepasan las ochenta horas semanales fingiendo ser otra persona, viviendo una vida que no existe fuera de un terminal.
 %
 Activistas y reformadores educativos están utilizando los Pubnix como herramienta política.
 %
@@ -4080,7 +4084,7 @@ No existe una subcultura en línea única y monolítica; es más bien un ecosist
 %
 La vanguardia del discurso político ha de migrar a las comunidades computarizadas mediadas por el Pueblo.
 %
-Puede utilizar comunidades virtuales para encontrar una cita, vender una cortadora de césped, publicar una novela o iniciar una revolución.
+Puedes utilizar comunidades virtuales para encontrar una cita, vender una cortadora de césped, publicar una novela o iniciar una revolución.
 %
 Las personas en comunidades virtuales usan apenas palabras en las pantallas para sus intercambios, y en el futuro ni eso.
 %
@@ -4487,3 +4491,63 @@ El EchoMail de FidoNet consistía en foros temáticos de mensajería por suscrip
 Aprende el lenguaje ensamblador de las CPUs que utilizas.
 %
 Si no elevamos conciencia sobre las nociones de programación de bajo nivel, todo el arte será ahogado por un océano de kits intermediarios de desarrollo, blobs binarios y chips propietarios.
+%
+El Pubnix es un la experiencia colectiva de un multicerebro maquinal.
+%
+La sensación de acceder a este organismo - el multicerebro de experiencia colectiva - recuerda la experiencia de conversión que describen los pioneros del ARPANET
+%
+Hazte masa a tierra tocando el chássis metálico de tu PC antes de tocar la placa gráfica.
+%
+Nuestro Pueblo ha comprendido que cualquier aplicación telemática que opere sin proporcionarle datos bajo su control, les está robando el poder.
+%
+La información es inseparable de su organización y de su medio de almacenamiento.
+%
+Instalar bancos de datos es un imperativo de la soberanía nacional.
+%
+En las redes de datos, la facilidad de acceso crea la necesidad, y la Justicia Social consagra un derecho.
+%
+Dos usuarios, uno de los cuales hace un uso inteligente de los Pubnix, y el otro se contenta con la escasa información que le despeja Googl€, ven modificadas sus posiciones en el juego económico.
+%
+Los centros de cómputo son a menudo trasnacionales, y el desarrollo de las transmisiones permite acceder a ellos sin penalizaciones arancelarias excesivas desde cualquier punto del planeta. De ahí la tentación en algunos países de utilizar bancos de datos estadounidenses sin crear los suyos propios.
+%
+Dejar a Googl€ la responsabilidad de organizar nuestra memoria colectiva y contentarse con sondearla es aceptar una forma de alienación cultural. Instalar centros de datos es un imperativo de soberanía nacional.
+%
+Los bancos de datos no son todos iguales. Algunas pueden seguir siendo propiedad de grupos cerrados y de profesiones cuyos miembros no sean muy numerosos, mientras que otros deben ser accesibles a todos.
+%
+Los bancos de datos públicos han de regir la previsión y la planificación nacionales, requieren una fuerte participación de las autoridades populares.
+%
+La creación, difusión y regulación del acceso a estos bancos de datos esconde un problema de carácter político.
+%
+Información y participación avanzan juntas.
+%
+La información descentralizada difícilmente no debe ser utilizada para basar la decisión de Conducción central. Pero puede utilizarse para destruir organizaciones.
+%
+El mejor circuito de información es el que produce reacciones correctas espontáneamente.
+%
+La información que sólo enseña soluciones técnicas, que enumera hechos sin   ponerlos en perspectiva y sin estructurarlos en un proyecto coherente será considerada cada vez más como pseudo-información.
+%
+La información que proclama ideales sin insertarlos en el desarrollo práctico de la sociedad será considerada cada vez más como pseudo-información.
+%
+Hacer útil la información significa alcanzar un acuerdo mínimo sobre la estructura que la transforme en pensamiento coherente y aceptado.
+%
+En toda situación donde grupos rivales sean igualmente capaces de producir, procesar y transmitir su propia información, se producirá la guerra telemática. Donde uno de ellos vea sus capacidades degradadas, brotará la guerrilla telemática.
+%
+Limitaciones mal aceptadas o excesivas al uso del entorno de cómputo sólo podrían provocar inestabilidad entre los usuarios.
+%
+Los privilegios de los usuarios deben ser armónicamente promovidos.
+%
+Para hacer posible la sociedad de la información es necesario tener conocimientos pero también tiempo. El hardware es lo de menos.
+%
+La guerrilla telemática requiere que la mayoría del Pueblo puedan formar comunidades soterradas en constelaciones de máquinas, preparándolas para recopilar y utilizar la información según lo justifique un plan maestro.
+%
+El plan maestro de la acción concertada debe insertarse dentro de un sistema de comunicación. De allí a las máquinas, y de éstas a las mentes de los hackers. Esta es la manera en la que se desata la guerrilla telemática.
+%
+El mercado constituye sólo una pobre red de comunicación vertical. Nuestros hackers pueden huracanar horizontalmente sobre la matriz de anhelo de vastos grupos independientes con baudios tenmdientes la Justicia Social.
+%
+La comunicación procesada y sus códigos deben recrear un "ágora telemática" ampliada al tamaño de la nación moderna.
+%
+La informatización masiva del Pueblo ha de dar lugar a una nueva "red", en la que cada comunidad homogénea se una telemáticamente a una comunidad heterogénea mayor por medio del router de un Conductor que actúa de intérprete de comandos.
+%
+¡Hackers, a las Máquinas!
+%
+¡Servers para el Pueblo!
