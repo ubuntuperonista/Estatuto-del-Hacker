@@ -285,16 +285,18 @@ en cualquier lugar intermedio, e incluso en estos casos simples, poner
 en peligro a nuestra Masa de Acción y sus organizaciones.
 %
 Incluso si encriptamos la carga útil en nuestras comunicaciones, un
-análisis superficial de datos puede aún revelar gran parte de nuestras
-actividades y accionar. Esto es así porque tal procedimiento hace foco
-sobre el encabezado del paquete telemático (que contiene el remitente,
-el destino, el tamaño, datos de horarios, etc).
+análisis superficial del encabezado del paquete puede aún revelar gran
+parte de nuestras actividades y accionar.
 %
 Intermediarios autorizados -como los proveedores de internet- y a veces
 no autorizados -estos mismos proveedores cuando están en manos
 oligárquicas- podrían adaptarse a nuestros patrones de tráfico
 telemático, y trazar conclusiones relativamente acertadas sobre su
 contenido, las tácticas empleadas, etc.
+%
+Un actor dedicado puede espiar múltiples partes de la red y emplear
+cruzados estadísticos sofisticados para rastrear patrones de
+comunicación de individuos u organizaciones específicas.
 %
 Quien programe, comente. Quien use, documente.
 %
@@ -852,9 +854,25 @@ La historia no es frondosa en ejemplos de caída de sistemas GNU, y en el
 particular de los BSD, estos están pre-programados - diremos - para
 operar precisamente en ese fino equilibrio previo a la caída. Sólo una
 impúdica conducción hará que esta bicicleta - a cuyo manillar tiran
-desde la RAM y desde el espacio de disco - dé por el suelo. La potencia
-de sus núcleos sólo oficiará de nivelador pedaleo, capaz de sustentarla
-mediante la acción pendular.
+desde la RAM y desde el espacio de disco - dé por el suelo.
+%
+La potencia de cómputo avanzada sólo se desplegará con el multihilo
+simultáneo, el cual oficiará de nivelador capaz de sustentar un pedaleo
+de acción pendular entre los núcleos que componen su CPU.
+%
+Los sistemas operativos BSD no son clones, sino derivados de código
+abierto del sistema operativo AT&T’s Research UNIX, el cual es a su vez
+ancestro del UNIX System V.
+%
+AT&T UNIX no es código abierto y que en sentido estricto del Derecho de
+autor, BSD no es en absoluto UNIX.
+%
+A finales de los setentas, muchos preferían obtener licencias de UNIX en
+lugar de desarrollar sistemas operativos por sí mismas.
+%
+Ninguna persona o empresa es dueña de BSD. Es creado y distribuido por
+una comunidad de colaboradores altamente cualificados y comprometidos a
+lo largo y ancho del mundo.
 %
 Un kernel no puede ser programado por imberbes y estúpidos. Para eso se
 necesitan hackers.
@@ -1812,7 +1830,7 @@ empresas.
 %
 Los proveedores independientes de correo electrónico ofrecen una
 interfaz web sobre conexión encriptada, y cifran todos los mensajes
-enviados entre ellos; un email de aktivix a un compañero de riseup
+enviados entre ellos; un email de Aktivix a un compañero de Riseup
 resultará encriptado en la medida que se redacta, y cuando viaja entre
 postas telemáticas.
 %
@@ -1987,9 +2005,18 @@ Las redes sociales pueden difundir la opinión, y eso puede tener mucha
 fuerza. Pero como opinión, no tiene una fuerza activa para la lucha
 telemática violenta.
 %
+La telemática está cavando la tumba de la prensa escrita.
+%
+La telemática, a diferencia de la electricidad, no porta una carga
+potencial, sino información, es decir, poder.
+%
 En la lucha telemática integral han de emplearse todos los sistemas y
 todos los métodos: es obra de la previsión, de la organización, y de la
 realización.
+%
+Dominar la red de datos es un objetivo escencial de nuestro Movimiento.
+Esto requiere que su marco sea concebido en el espíritu de un servicio
+de alcance público.
 %
 El hacking no puede ser ético, el programador en lucha debe desensamblar
 el hardware del enemigo y reprogramarlo para que haga lo que nosotros
@@ -3471,7 +3498,7 @@ Los orígenes de los problemas de seguridad fuera del dominio del sistema
 operativo son dos: el descuido del usuario, y la vulnerabilidad de las
 instalaciones de cómputo.
 %
-La mayoría de los crímenes informáticos se cometen por usuarios
+La mayoría de los crímenes informáticos los cometen por usuarios
 autorizados sin siquiera violar las medidas de seguridad previstas por
 el sistema operativo.
 %
@@ -4363,6 +4390,8 @@ en señales de audio que adopta la red telefónica.
 Cuando se envía una condición de ENCENDIDO al módem, se transmite una
 señal de 1270 ciclos. Cuando se envía una condición de APAGADO al MÓDEM,
 se transmite una señal de audio de 1070 ciclos.
+%
+Toma tu módem y utilizalo como arma para la liberación del Pueblo.
 %
 Toda distribución de kernel Linux viene surtida con paquetes de
 aplicaciones. No creerán que pelado nace el mono...
@@ -6821,7 +6850,7 @@ destinatarios pueden leer pero que no son legibles ni siquiera para los
 descifradores de códigos más potentes computacionalmente.
 %
 El encriptado popular hace posible dos armas antipanópticas
-extremadamente poderosas conocidas como cripto-valor y la firma digital.
+extremadamente poderosas conocidas: el cripto-activo y la firma digital.
 %
 Con la firma digital en el mundo en línea de identidad fluida, es
 posible establecer certeza sobre el remitente de un mensaje.
@@ -6836,8 +6865,8 @@ cantidad correcta de valor, sin que el vendedor sepa quién es el
 comprador.
 %
 El cifrado de llave pública tal como existe hoy en día es irrompible
-para todos los ordenadores, excepto aquellos más potentes, como los de
-la Agencia de Seguridad Nacional estadounidense.
+para todos los ordenadores, exceptuando aquellos más potentes como los
+de la Agencia de Seguridad Nacional estadounidense.
 %
 El debate político y los desafíos legales han girado en torno a los
 derechos de los ciudadanos a utilizar un cifrado matemáticamente
@@ -6849,7 +6878,8 @@ mucho menos vulnerables al abuso.
 %
 La tecnología que hace posibles las comunidades virtuales tiene la
 posibilidad de brindar una enorme influencia intelectual, social,
-comercial y política al Pueblo, y a un costo relativamente bajo.
+comercial y política, y a un costo relativamente bajo. El Pueblo ha de
+apropiarlas.
 %
 Siempre existen grandes probabilidades de que las grandes potencias y
 las oligarquías encuentren una manera de controlar el acceso a las
@@ -6862,9 +6892,11 @@ maduras y altamente descentralizadas.
 La Red todavía está fuera de control en aspectos fundamentales, pero es
 posible que no siga así por mucho tiempo mas.
 %
-Un hacker del Pueblo puede ser vínculo de unión de tecnologías vastas,
-poderosas y costosamente desarrolladas, que le den acceso instantáneo a
-un púlpito intimidante de las ciber-oligarquías.
+El hacker del Pueblo ha de ser vínculo de unión entre tecnologías
+vastas, poderosas y costosamente desarrolladas y las Masas obreras.
+%
+Logueado a las redes de datos, nuestros Hackers logran acceso
+instantáneo a un púlpito intimidante para las ciber-oligarquías.
 %
 Lo que hacemos actualmente es importante pues aún es posible que los
 Hackers se aseguren de que esta nueva esfera del discurso humano vital
@@ -6875,13 +6907,35 @@ La mayoría de las personas que reciben noticias a través de los medios
 convencionales desconocen la enorme variedad de nuevas culturas que han
 evolucionado en las redes informáticas del mundo.
 %
-Los jugadores más adictos del Minitel en Francia o de los Multi-User
-Dungeons (MUD) en las redes internacionales, pasan mas de ochenta horas
-a la semana fingiendo ser otra persona, viviendo una vida que no existe
-fuera de una computadora.
+Los terminales Minitel distribuidos por el gobierno francés, se conectan
+directamente al sistema telefónico, sin requerir de ordenador o módem.
+Todo lo integran.
+%
+Los jugadores más adictos del Minitel fracés o de las Mazmorras
+Multiusuario en las redes internacionales, sobrepasan las ochenta horas
+semanales fingiendo ser otra persona, viviendo una vida inocua fuera de
+su terminal.
+%
+Un usuario verdaderamente obsesivo puede destinar la mayor parte de su
+vida a inocuas conversaciones en línea.
 %
 Activistas y reformadores educativos están utilizando los Pubnix como
 herramienta política.
+%
+Es posible utilizar las redes de datos para alimentar información de
+adoctrinamiento a unos pocos individuos. Esta programación servirá para
+que dichos elementos la propalen al Pueblo que permanece fuera de línea.
+%
+Las redes de datos públicas, hábilmente surcadas por cuadros militantes,
+sirven para dirigir cierto tipo de información efímera muy velozmente.
+%
+Todo sistema computacional de acceso público puede servir para realizar
+experimentos sociales. El más obvio es estudiar la forma en la cual el
+Pueblo utiliza sus servicios para lograr la felicidad, pero esto sólo ha
+de hacerse con su concurso y consentimiento inequívoco.
+%
+El objetivo de todo programa de software ha de ser - por sobre todas las
+cosas - la felicidad del Pueblo.
 %
 No existe una subcultura en línea única y monolítica; es más bien un
 ecosistema de subculturas, algunas frívolas, otras serias.
@@ -6889,8 +6943,8 @@ ecosistema de subculturas, algunas frívolas, otras serias.
 La vanguardia del discurso político ha de migrar a las comunidades
 computarizadas mediadas por el Pueblo.
 %
-Puede utilizar comunidades virtuales para encontrar una cita, vender una
-cortadora de césped, publicar una novela o iniciar una revolución.
+Puedes utilizar comunidades virtuales para encontrar una cita, vender
+una cortadora de césped, publicar una novela o iniciar una revolución.
 %
 Las personas en comunidades virtuales usan apenas palabras en las
 pantallas para sus intercambios, y en el futuro ni eso.
@@ -7523,3 +7577,230 @@ Aprende el lenguaje ensamblador de las CPUs que utilizas.
 Si no elevamos conciencia sobre las nociones de programación de bajo
 nivel, todo el arte será ahogado por un océano de kits intermediarios de
 desarrollo, blobs binarios y chips propietarios.
+%
+El Pubnix es un la experiencia colectiva de un multicerebro maquinal.
+%
+La sensación de acceder a este organismo - el multicerebro de
+experiencia colectiva - recuerda la experiencia de conversión que
+describen los pioneros del ARPANET
+%
+Hazte masa a tierra tocando el chássis metálico de tu PC antes de tocar
+la placa gráfica.
+%
+Nuestro Pueblo ha comprendido que cualquier aplicación telemática que
+opere sin proporcionarle datos bajo su control, les está robando el
+poder.
+%
+La información es inseparable de su organización y de su medio de
+almacenamiento.
+%
+Instalar bancos de datos es un imperativo de la soberanía nacional.
+%
+En las redes de datos, la facilidad de acceso crea la necesidad, y la
+Justicia Social consagra un derecho.
+%
+Dos usuarios, uno de los cuales hace un uso inteligente de los Pubnix, y
+el otro se contenta con la escasa información que le despeja Googl€, ven
+modificadas sus posiciones en el juego económico.
+%
+Los centros de cómputo son a menudo trasnacionales, y el desarrollo de
+las transmisiones permite acceder a ellos sin penalizaciones
+arancelarias excesivas desde cualquier punto del planeta. De ahí la
+tentación en algunos países de utilizar bancos de datos estadounidenses
+sin crear los suyos propios.
+%
+Dejar a Googl€ la responsabilidad de organizar nuestra memoria colectiva
+y contentarse con sondearla es aceptar una forma de alienación cultural.
+Instalar centros de datos es un imperativo de soberanía nacional.
+%
+Los bancos de datos no son todos iguales. Algunas pueden seguir siendo
+propiedad de grupos cerrados y de profesiones cuyos miembros no sean muy
+numerosos, mientras que otros deben ser accesibles a todos.
+%
+Los bancos de datos públicos han de regir la previsión y la
+planificación nacionales, requieren una fuerte participación de las
+autoridades populares.
+%
+La creación, difusión y regulación del acceso a estos bancos de datos
+esconde un problema de carácter político.
+%
+Información y participación avanzan juntas.
+%
+La información descentralizada difícilmente no debe ser utilizada para
+basar la decisión de Conducción central. Pero puede utilizarse para
+destruir organizaciones.
+%
+El mejor circuito de información es el que produce reacciones correctas
+espontáneamente.
+%
+La información que sólo enseña soluciones técnicas, que enumera hechos
+sin ponerlos en perspectiva y sin estructurarlos en un proyecto
+coherente será considerada cada vez más como pseudo-información.
+%
+La información que proclama ideales sin insertarlos en el desarrollo
+práctico de la sociedad será considerada cada vez más como
+pseudo-información.
+%
+Hacer útil la información significa alcanzar un acuerdo mínimo sobre la
+estructura que la transforme en pensamiento coherente y aceptado.
+%
+En toda situación donde grupos rivales sean igualmente capaces de
+producir, procesar y transmitir su propia información, se producirá la
+guerra telemática. Donde uno de ellos vea sus capacidades degradadas,
+brotará la guerrilla telemática.
+%
+Limitaciones mal aceptadas o excesivas al uso del entorno de cómputo
+sólo podrían provocar inestabilidad entre los usuarios.
+%
+Los privilegios de los usuarios deben ser armónicamente promovidos.
+%
+Para hacer posible la sociedad de la información es necesario tener
+conocimientos pero también tiempo. El hardware es lo de menos.
+%
+La guerrilla telemática requiere que la mayoría del Pueblo puedan formar
+comunidades soterradas en constelaciones de máquinas, preparándolas para
+recopilar y utilizar la información según lo justifique un plan maestro.
+%
+El plan maestro de la acción concertada debe insertarse dentro de un
+sistema de comunicación. De allí a las máquinas, y de éstas a las mentes
+de los hackers. Esta es la manera en la que se desata la guerrilla
+telemática.
+%
+El mercado constituye sólo una pobre red de comunicación vertical.
+Nuestros hackers pueden huracanar horizontalmente sobre la matriz de
+anhelo de vastos grupos independientes con baudios tenmdientes la
+Justicia Social.
+%
+La comunicación procesada y sus códigos deben recrear un "ágora
+telemática" ampliada al tamaño de la nación moderna.
+%
+La informatización masiva del Pueblo ha de dar lugar a una nueva "red",
+en la que cada comunidad homogénea se una telemáticamente a una
+comunidad heterogénea mayor por medio del router de un Conductor que
+actúa de intérprete de comandos.
+%
+Cohabita en los Pubnix. Conurbaniza la World Wide Web.
+%
+¡Hackers, a las Máquinas!
+%
+¡Servers para el Pueblo!
+%
+Irrumpir en diez sistemas no es tan efectivo como formatear uno.
+%
+De no compartirse, la infromación se compraría y vendería.
+%
+Usa las redes de datos en beneficio del Pueblo.
+%
+Si los paquetes del Pueblo no tienen libre circulación por una red de
+datos, los hackers son inocentes: su rebelión está justificada.
+%
+Concentrad vuestro ataque telemático sobre los enemigos del Pueblo.
+%
+La Revolución del Baudio solo puede darse por la uni{on de hackers y
+usuarios.
+%
+La fibra óptica es la Pacha Mama siempre revolucionaria: sólo hemos de
+seguir su senda y responder a su eterno llamado por la Liberación.
+%
+Los programadores crearon GNU. Ninguna compañía de Capital.
+%
+El código nunca envejece, pues es un ideal. Sólo lo hacen las
+arquitectruas que le dan sustento.
+%
+Si seguimos operando a 14.400 baudios, es probable que la próxima
+Revolución se de inicio por fax, desde una playa.
+%
+El control de las oligarquías puede ser contestado directamente con el
+amplio uso popular de redes de datos de fibra óptica.
+%
+La fibra óptica utiliza pulsos de luz para transmitir información a
+través de líneas de fibra, en lugar de utilizar pulsos electrónicos para
+tranmsitir información por líneas de cobre.
+%
+Las redes de fibra óptica de alta velocidad, las comunicaciones
+inalámbricas y las compresión de video potenciarán las tareas de
+encuadramiento político por el Justicialismo.
+%
+Las redes de fibra óptica constituyen la más ancha alameda de la
+información.
+%
+En años recientes se ha vuelto aparente que la fibras óptica está
+velozmente reemplazando al cable de núcleo de cobre como medio apropiado
+para la transmisión de señales de comunicación.
+%
+De la misma manera que las oligarquías han esclavizado a sociedades a
+través de una red de caminos maquinadas para otorgarle una ilusión de
+libertad, una sociedad de consumo en línea sólo podrá transitar su vida
+sobre la ilusión que de los troncales de fibra óptica.
+%
+La sociedad del automóvil no se construyó únicamente sobre el desarrollo
+de los vehículos a motor, también requirió una red de caminos. La
+sociedad de la información requiere de los tendidos de fibra óptica.
+%
+Los costos de las telecomunicaciones a través de llamadas de larga
+distancia por módem son prohibitivos. Los gobernos del mundo han de
+apoyar redes de paquetes conmutados, y unificarlas.
+%
+Tiene sentido que las comunicaciones mediadas por cómputo permitan la
+conexión de masas a masas, superando así algunos conflictos propios de
+las nacionalidades.
+%
+Una de las respuestas a la diversidad es la traducción. En la
+informática la diversidad del hardware puede responderse con la misma
+técnica: la emulación.
+%
+El portado es una de las respuesta informática a la diversidad de
+hardware. Otra es la emulación.
+%
+Como las computadoras puede simular las operaciones de cualquier
+máquina, es factible escribir un programa que incite a la máquina de la
+oligarquía a comportarse como una máquina del Pueblo.
+%
+Toda computadora puede emular a otra. Las penalizaciones de velocidad e
+implementación son - a lo sumo - cosas del hombre.
+%
+Cada computadora contribuye una porción de sus recursos a emular otra
+máquina.
+%
+Los datos y programas en un ambiente de red pueden compartirse, y por lo
+tanto enriquecer los bienes computacionales colectivos.
+%
+El primer sistema de chat lo constituyó un hack de un usuario subyugando
+un banco de datos para poder comunicarse a tiempo real.
+%
+Una sociedad sin GNU - computacionalmente incierta - daría lugar de
+incontables conflictos descentralizados, en el cual sus valores se
+volverían objeto de numerosas rivalidades producto de su causalidad
+incierta. Sólo puede preveerse un ambientes de trasmisión de flujo
+tendiente a la infinitud.
+%
+Una computarización social masiva tendrá lugar en un futuro, en el cual
+fluyirá a través del tejido social como la electricidad. El debate habrá
+de enfocarse en la unidad que permite la interconexión diversa.
+%
+La lid telemática no es entre los Pueblos: la lucha se produce entre
+quienes dicen haber creado las redes de datos y aquellos quienes quieran
+controlarlas.
+%
+Las oligarquías ven a las redes de comunicación electrónica como parte
+de una red completa de ilusión hiperrealista con la cual subyugar los
+anhelos de liberación del Pueblo.
+%
+El Pueblo subvirtió el ámbito telemático oligárquico, conformándolo en
+un órgano de adoctrinamiento para su propia Liberación y un arma para la
+Justicia Social.
+%
+No es extraño que en aquella red de datos que no ha sido concebida por
+el Pueblo para el Pueblo, sea necesario un aparato que oficie de reja y
+cortafuego para evitarnos socializar con él.
+%
+La lucha en las redes de datos es meramente táctica. La lucha
+estratégica se da dentro de la máquina.
+%
+La shell es el arma de cuyo caño brota la liberación.
+%
+Aunque el hacker duerma, sus servicios al Pueblo suman uptime.
+%
+Toda vez que inicies un sistema, pon el flag de la Justicia Social en 1.
+Si el sistema es ajeno, evalúa el estado flag en todos los ciclos de
+máquina y conmutalo si la prueba devuelve falso.
