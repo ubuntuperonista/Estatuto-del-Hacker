@@ -359,6 +359,8 @@ La libertad se defiende en el campo, en el taller, en la calle, en casa y en la 
 %
 Deben seguir adelante con su organización y defender su software libre. La libertad individual es la base de la libertad colectiva, y esta construye el cimiento de la libertad del software.
 %
+El software privativo es un efecto de la injusticia social.
+%
 Contra sofismas y dictaduras de quienes paradójicamente se proclaman liberales y propugnan el software privativo, decimos la verdad.
 %
 El usuario novato poco puede hacer por el bien del sistema más que disfrutarlo. Es el admin quien debe contar con gran expertise, y su tarea fundamental es la de entender el manejo del sistema y administrarlo para el bien del Pueblo.
@@ -489,11 +491,11 @@ La potencia de cómputo avanzada sólo se desplegará con el multihilo simultán
 %
 Los sistemas operativos BSD no son clones, sino derivados de código abierto del sistema operativo AT&T’s Research UNIX, el cual es a su vez ancestro del UNIX System V.
 %
-AT&T UNIX no es código abierto y que en sentido estricto del Derecho de autor, BSD no es en absoluto UNIX.
+AT&T UNIX no es código abierto y, en sentido estricto del Derecho de autor, BSD no es UNIX en absoluto.
 %
-A finales de los setentas, muchos preferían obtener licencias de UNIX en lugar de desarrollar sistemas operativos por sí mismas.
+No faltarán los que prefieran obtener licencias de uso de UNIX en lugar de desarrollar sistemas operativos por sí mismos.
 %
-Ninguna persona o empresa es dueña de BSD. Es creado y distribuido por una comunidad de colaboradores altamente cualificados y comprometidos a lo largo y ancho del mundo. 
+Ninguna persona o empresa es dueña de BSD. Es creado y distribuido por una comunidad de colaboradores altamente cualificados y comprometidos a lo largo y ancho del mundo.
 %
 Un kernel no puede ser programado por imberbes y estúpidos. Para eso se necesitan hackers.
 %
@@ -1780,15 +1782,15 @@ Su terminal puede ser una consola del sistema, un terminal en modo de caracteres
 %
 Cuando la microcomputadora aumentó el rendimiento en términos de velocidad y potencia, al mismo tiempo que disminuyó los costos, entró en la esfera de acción del sistema UNIX.
 %
-A principios de la década de 1980, las versiones BSD y AT&T de UNIX se portaron en casi todas las computadoras capaces de admitirlas.
+Como reguero de pólvora, las versiones BSD y AT&T de UNIX se portaron en casi todas las computadoras capaces de admitirlas.
 %
 Las máquinas basadas en 8088 eran casi lo suficientemente potentes como para admitir el sistema UNIX, pero solo unas pocas versiones pudieron ejecutarse en estos ordenadores.
 %
-Las versiones de BSD dominaron como plataforma para experimentar con conceptos de red, de modo que ahora lo mejor en redes de área local está disponible para sistemas UNIX
+Las versiones de BSD dominaron como plataforma experimental de conceptos de red, de modo que lo mejor para enlaces locales estuvo disponible en los sistemas UNIX casi inmediatamente.
 %
 El mayor experimento de red de área amplia, ARPANET, se orientó inicialmente hacia los sistemas TENEX.
 %
-El sistema UNIX ganó el debido reconocimiento en la primera mitad de la década de 1970, con el desarrollo de minicomputadoras más potentes que el DEC PDP-11 original, tales como la PDP-11/45 y la PDP-11/70.
+El sistema UNIX se ganó el debido reconocimiento en la primera mitad de la década de 1970, con el desarrollo de minicomputadoras potentes, como la DEC PDP-11/45 y la PDP-11/70.
 %
 La versión original de UNIX estaba escrita en ensamblador, pero dado que el grupo de investigación también estaba desarrollando el lenguaje C en esos años, inmediatamente fue reescrita con este nuevo lenguaje.
 %
@@ -1798,13 +1800,13 @@ Las versiones recientes de UNIX están estructuradas para un uso sencillo y func
 %
 UNIX es un sistema multitarea de tiempo compartido que puede afrontar fácilmente varias tareas en paralelo.
 %
-En un sistema UNIX, la programadora puede escribir un archivo, enviarlo a una impresora y enviar correo a otra computadora simultáneamente, gracias a su funcionalidad de multitarea.
+En un sistema UNIX, la programadora puede escribir un archivo, enviarlo a una impresora y cursar correo a otra computadora simultáneamente, gracias a su funcionalidad de multitarea.
 %
 Al ser un sistema multiusuaria, UNIX permite que varias de ellas realizar muchas tareas simultáneamente, dando a cada una la impresión de ser la única operaria de la máquina.
 %
 En escencia, el scheduler se encarga de hacer infiel la CPU con sus usuarios.
 %
-Cerrar sesión en el sistema evita que personas no autorizadas utilicen su terminal, especialmente si el terminal se encuentra en un lugar público.
+Cerrar sesión en el sistema evita que personas no autorizadas utilicen su terminal, especialmente si este se encuentra en un lugar público.
 %
 Los dos factores más importantes que garantizan la seguridad del sistema UNIX son mantener seguras sus contraseñas y cerrar la sesión cada vez que abandone el terminal.
 %
@@ -2094,7 +2096,7 @@ Los sistemas abiertos y amenos suelen ser inseguros.
 %
 Quienes no tengan una memoria de Masa estarán condenados a trabajar cien veces más de lo necesario sólo para volver a lograr lo que ya tenían asegurado...
 %
-Escribir un programa más o menos complejo requiere muchos metros de cinta de papel perforada.
+Escribir un programa más o menos complejo requiere muchos metros de cinta de papel perforado.
 %
 La lenta performance de lectura de la cinta de papel perforada hizo que esta tecnología fuese superada eventualmente por las cintas magnéticas.
 %
@@ -2221,6 +2223,10 @@ En la Guerra Telemática, la seguridad de los hackers la garantizan los Pubnix, 
 Los Pubnix garantizan salvoconductos para el desarrollo de herramental de lucha telemática, evadiendo su rastreo, destrucción o eventual inutilización.
 %
 La lid telemática consiste fundamentalmente en una guerra de movilidad por transmisión.
+%
+La lid telemática no es conducida por ingenieros de sistemas, sino por los hackers del Pueblo. No puede existir ni habrá hacking ético, sólo habrá la máxima destrucción de los medios de los ciber-oligarcas, hasta que sus paquetes abandonen nuestras redes. Y cuando ello suceda, pasaremos con los nuestros por sus firewalls.
+%
+La lid telemática no es entre los Pueblos: la lucha se produce entre quienes dicen haber creado las redes de datos y aquellos quienes quieran controlarlas.
 %
 A nuestro frente están las GAFAM, tentáculos de los tecno-oligarcas que siempre han oprimido al Pueblo.
 %
@@ -4035,7 +4041,7 @@ La alta tecnología suele ser muy buena para hacer que las leyes sean discutible
 %
 Si se diseñan inteligentemente y se implementan de manera equitativa, la combinación de principios, leyes, políticas y tecnologías, ofrecerá un escenario esperanzador para que el Pueblo aproveche las ventajas de la Red sin ser víctimas de las ciber-oligarquías.
 %
-No debe existir ningún registro de datos personales cuya existencia misma sea secreta.
+No debe existir registro de datos personales alguno cuya existencia misma constituya un secreto.
 %
 Debe existir una manera para que una persona sepa qué información sobre ella se encuentra en un registro y cómo se utiliza.
 %
@@ -4205,7 +4211,7 @@ Debido a que la tecnología de conmutación de paquetes y redes se creó con fon
 %
 La primer política de "uso aceptable" limitaba la ARPANET a los investigadores de DARPA; lo que se ampliaría para incluir a otros científicos financiados por la milicia, y finalmente incluyó a comunidades académicas.
 %
-La Fundación Nacional de la Ciencia experimetntó una red de alta velocidad para conectar los centros de supercomputadoras de los EE.UU. a principios de los 80s.
+La Fundación Nacional de la Ciencia experimentó una red de alta velocidad para conectar los centros de supercomputadoras de los EE.UU. a principios de los 80s.
 %
 La red de supercómputo científico NSFNET entró en funcionamiento en 1986 y se convirtió en la columna vertebral de la Internet, con una velocidad de 1 Megabit por segundo.
 %
@@ -4509,11 +4515,11 @@ Si al darse la mano gritan, ¿cómo será cuando los módems hagan el amor?
 %
 Los compañeros pusieron a disposición de forma totalmente gratuita, sus ordenadores, que permanecían conectados a la línea telefónica a través del módem, listos para responder a la llamada del Pueblo.
 %
-La red FidoNet comentzó como n esfuerzo de unión entre compañeros a través de sus máquinas, para ver si podía compartir correo electrónico entre ellos, y sólo por diversión.
+La red FidoNet comenzó como un esfuerzo entre compañeros por medio de sus máquinas, para ver si podía compartir correo electrónico entre ellos, y sólo por diversión.
 %
-Cada noche cada BBS se conectaba con su nodo FidoNet de referencia, es decir, otra BBS cercana, e intercambiaban datos.
+La FidoNet era un asunto nocturno: era entonces cuando se enlazaba al nodo de referencia, es decir, otra BBS cercana para intercambiaban datos.
 %
-En FidoNet los mensajes públicos se distribuían atravezando toda la red noto por nodo, mientras que los privados llegaban únicamente al BBS de destino.
+En FidoNet los mensajes públicos se distribuían atravesando toda la red noto por nodo, mientras que los privados llegaban únicamente al BBS de destino.
 %
 Con FidoNet, si todo iba bien, un mensaje llegaba al destinatario al día siguiente y el remitente respondía dos días después.
 %
@@ -4587,7 +4593,7 @@ Cohabita en los Pubnix. Conurbaniza la World Wide Web.
 %
 Irrumpir en diez sistemas no es tan efectivo como formatear uno.
 %
-De no compartirse, la infromación se compraría y vendería.
+De no compartirse, la información se compraría y vendería.
 %
 Usa las redes de datos en beneficio del Pueblo.
 %
@@ -4642,8 +4648,6 @@ Una sociedad sin GNU - computacionalmente incierta - daría lugar de incontables
 %
 Una computarización social masiva tendrá lugar en un futuro, en el cual fluyirá a través del tejido social como la electricidad. El debate habrá de enfocarse en la unidad que permite la interconexión diversa.
 %
-La lid telemática no es entre los Pueblos: la lucha se produce entre quienes dicen haber creado las redes de datos y aquellos quienes quieran controlarlas.
-%
 Las oligarquías ven a las redes de comunicación electrónica como parte de una red completa de ilusión hiperrealista con la cual subyugar los anhelos de liberación del Pueblo.
 %
 El Pueblo subvirtió el ámbito telemático oligárquico, conformándolo en un órgano de adoctrinamiento para su propia Liberación y un arma para la Justicia Social.
@@ -4652,8 +4656,104 @@ No es extraño que en aquella red de datos que no ha sido concebida por el Puebl
 %
 La lucha en las redes de datos es meramente táctica. La lucha estratégica se da dentro de la máquina.
 %
-La shell es el arma de cuyo caño brota la liberación.
+La shell es un arma de cuyo caño brota la liberación.
 %
 Aunque el hacker duerma, sus servicios al Pueblo suman uptime.
 %
+Escribe tu propio compilador, y agrégale el flag de la Justicia Social.
+%
 Toda vez que inicies un sistema, pon el flag de la Justicia Social en 1. Si el sistema es ajeno, evalúa el estado flag en todos los ciclos de máquina y conmutalo si la prueba devuelve falso.
+%
+Sólo un imberbe instala 12 gigabytes de software para correr un ejecutable de 32 kilobytes.
+%
+El encuadramiento en SLI de dos o mas placas de video suele ser problemático en la generación de calor y demanda eléctrica, y por demás no es pródigo en resultados.
+%
+Si dejamos el diseño del hardware al Capital, este se empeñará en la venta de cómputo para imberbes, quienes no dudarían en someterlo a sobrevoltajes nomás para ver cómo se quema.
+%
+Al igual que la doctrina, el aspecto más importante del compilador es el de la generación. El programa ejecutable debe desarrollar exactamente las acciones descriptas en el código fuente.
+%
+Los mejores virus informáticos son aquellos que se compilan a sí mismos.
+%
+El compilador - que oficia de traductor de las secuencias de órdenes a su forma ejecutable - es capaz, bajo ciertas circunstancias, de compilarse a sí mismo.
+%
+Un compilador que se compila a sí mismo, es llamado compilador autocontenido. Dicho esto, podremos considerar que nuestro Movimiento dispone de similares características.
+%
+Ante una API privativa, implementa una API punitiva.
+%
+Todo sistema informático es incapaz de dejar de consentir el acceso.
+%
+Nuestra misión no la podemos cumplir en la corta vida de un hombre. Los hombres pasan y los kernels suelen ser eternos.
+%
+Buscando esa eternidad para nuestro GNU y la perennidad para nuestro kernel, es necesario que lo organicemos con una doctrina perfectamente establecidas y con Licencias que den a este movimiento la materialización orgánica que él necesita. 
+%
+Hemos compilado en las masas de programadores una doctrina que fija nuestra posición, determina nuestras ilusiones y fija los objetivos que queremos alcanzar: que en cada máquina corra un sistema operativo libre.
+%
+En los Pubnix hay quienes piensan y quienes sienten la aglutinación que llega de una mística común en la máquina, que se ha de alcanzar tanto al que compila en la CPU como al corre programas en ella.
+%
+Sin la acción en los nodos de la red, los movimientos de aglutinación colectiva en los Pubnix son irrealizables. Pero esta acción sólo requiere de corazón y módem.
+%
+Es necesario dar consistencia racional orgánica a GNU, que hoy solamente está unido licenciatariamente, para que resista al tiempo y a la lucha. Esto puede lograrse con una mancomunión federada de hombres que lo corren en sus máquinas.
+%
+Instalado GNU nosotros hemos realizado una reforma casi integral de los distintos sectores del disco.
+%
+Todos los hackers pusieron su código a disposición de esta naciente comunidad de programadores. Lo compilaron y ejecutaron, pero quedaron todos desposeídos porque esa larga guerra UNIX fue consumiendo todo lo que los hackers tenían.
+%
+En la guerra UNIX, cada uno puso cuanto tenía, incluso código y binarios, y era de esperar que obtenido el triunfo, el beneficio habría de repartirse también poseyendo cada programador en la medida en que había perdido. Pero en la pirinola salió "Gana Torvalds".
+%
+Donde hay una Shell, hay una senda para la Liberación.
+%
+El router es más fuerte que la espada.
+%
+Ni la justicia social ni la libertad, motores de nuestro tiempo, son comprensibles en una comunidad montada sobre software privativo.
+%
+Nuestra comunidad, a la que debemos aspirar, es aquella donde la libertad y la responsabilidad sean causa y efecto, en que exista una alegría de compilar, fundada en la persuasión de compartir el código dignamente.
+%
+Los ciber-oligarcas desean que abandonemos la comunión del software y el hardware y nos entremguemos al imperio pleno de la EULA, a la disociación de los hackers, y al formateo final.
+%
+El amor entre el código y el compilador habría conseguido mejores frutos y en menos tiempo, si algunos desalmados no hubiesen querido imponerle Acuerdos de Licencia de Usuario Final.
+%
+El hombre muere; sólo su software pueden quedar.
+%
+Los ciberoligarcas no harían nada con hardware viejo o con muerto; los hackers lo harían todo.
+%
+El software ha de responder a la realidad social de la hora presente para que sus normas contribuyan a mantener un equilibrio de intereses que, lógica y racionalmente, se deriva del concepto de justicia.
+%
+El contenido de todo código fuente se forma de una serie de deseos, aspiraciones y propósitos que se producen siempre dentro de una situación socialmente determinada.
+%
+La misión y el poder del software se limita a corregir los estados de la memoria, tal como se les han ofrecido.
+%
+Algunos dicen que en la IA existe un cierto grado omnisciente, pero pretender sentido a una CPU con 640 núcleos y 8 millones de terabytes de memoria sólo cabe en la cabeza de algún loco y yo, afortunadamente, no lo soy todavía.
+%
+Nuestras compilaciones son para los de abajo: es constructiva. Nuestras compilaciones son trabajo de nuestra CPU y fruto de esa labor es la felicidad del Pueblo.
+%
+La grandeza de UNIX depende de su minimalismo.
+%
+Las modificaciones a un programa deben realizarse con una absoluta congruencia en los fines y con una absoluta armonía en los medios.
+%
+Si las modificaciones del software no obedecen a la congruencia armónica, a menudo suelen provocar acontecimientos que perjudican la estabilidad del sistema entero.
+%
+Las modificaciones del software no han de ser tan distantes que quiten al programa su perfectibilidad, ni deben ser tan frecuentes que le resten estabilidad.
+%
+En el ambiente de cómputo donde las diferencias desaparecen, nace una camaradería superior a todas las otras, que da forma al software superior, aquel compilado en una CPU conquistada con grandeza minimalista, que es lo único que los hombres deben conquistar en la máquina.
+%
+Que el código fuente de cada cual pueda disfrutar de las bellezas de nuestra CPU, que es de todos, de pobres y ricos por igual.
+%
+Las masas de programadores, orgánicamente constituidas, deben tener un ser armónico, sin el cual no llegan a ser masas de hackers.
+%
+A los programadores hay que infundirles el conocimiento de cómo se compila, modifica y compila en paralelo en pos del Pueblo. Ese es el primer paso para convertirlos en hackers.
+%
+No llevéis pendrives, ni rígido ni diskette alguno en vuestros cintos, ni alforja para el viaje, ni dos netbooks, ni adaptador wifi, ni tampoco cable ethernet, porque el que compila merece su espacio en la nube.
+%
+El código fuente no se proclama. Se compila.
+%
+Cada hacker debe dar de sí lo que tenga. El que tenga CPU potente, sus núcleos; quien domine lenguajes, pondrá su código fuente; y el que tenga discos rígidos, el contingente de su espacio de almacenamiento.
+%
+Debemos evitar que las desviaciones del interés personal degeneren en egoísmo expoliador de los derechos de los demás, y en ímpetu avasallador de las cuatro libertades del software: de ejecutar el código, de estudiarlo, modificarlo, y distribuir las versiones modificadas.
+%
+La CPU tiene una misión creadora: compilar.
+%
+Programar es crear, es producir grandes obras. Simplemente copiar y ejecutar es andar entre las cosas que están hechas por otros.
+%
+Al software primero hay que conocerlo, luego hay que comprenderlo; y pobre del que se detenga allí, porque también es preciso sentirlo.
+%
+Al operar GNU correrá programas libres; que se compilan, modifican, y aunque no quieran tener bugs, los tienen. Software que es fin en sí mismos, no sólo medios; programas que han de tener las cuastro libertades y no otras; programas que buscan la felicidad de la Comunidad Organizada.
