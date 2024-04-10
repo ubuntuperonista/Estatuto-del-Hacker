@@ -33,6 +33,8 @@ sudo cp /tmp/Estatuto-del-Hacker/cows/*.cow /usr/share/cowsay/cows/ ;
 cd /usr/share/games/fortunes/es/ ;
 sudo strfile /usr/share/games/fortunes/es/doctrina ;
 sudo strfile /usr/share/games/fortunes/es/rms ;
+sudo cp /tmp/Estatuto-del-Hacker/doctrina.sh /usr/local/bin/doctrina ;
+sudo chmod +x /usr/local/bin/doctrina ;
 sudo cp /tmp/Estatuto-del-Hacker/actualizar_doctrinas.sh /usr/local/sbin/actualizar_doctrinas ;
 sudo chmod +x /usr/local/sbin/actualizar_doctrinas
 </code>
