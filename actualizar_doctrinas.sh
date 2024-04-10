@@ -3,6 +3,7 @@
 # Requiere fortune, fortunes-es o fortune-mud
 echo "Descargando todo..."
 wget -O /tmp/doctrina https://caja.texto-plano.xyz/peron/fortune-phrases/doctrina2
+wget -O /tmp/doctrina.sh https://caja.texto-plano.xyz/peron/fortune-phrases/doctrina.sh
 wget -O /tmp/rms https://caja.texto-plano.xyz/peron/fortune-phrases/rms2
 wget -O /tmp/excusas https://caja.texto-plano.xyz/peron/fortune-phrases/excusas2
 wget -O /tmp/pintadas https://caja.texto-plano.xyz/peron/fortune-phrases/pintadas
@@ -35,6 +36,9 @@ echo "Moviendo fortunes..."
 mv -f /tmp/doctrina /usr/share/games/fortunes/es
 mv -f /tmp/rms /usr/share/games/fortunes/es
 mv -f /tmp/excusas /usr/share/games/fortunes/es
+
+echo "Moviento programa"
+mv -f /tmp/doctrina.sh /usr/local/bin/doctrina
 
 
 echo "OK!"
