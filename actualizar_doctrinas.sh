@@ -5,6 +5,7 @@ echo "Descargando todo..."
 wget -O /tmp/doctrina https://caja.texto-plano.xyz/peron/fortune-phrases/doctrina2
 wget -O /tmp/doctrina.sh https://caja.texto-plano.xyz/peron/fortune-phrases/doctrina.sh
 wget -O /tmp/rms https://caja.texto-plano.xyz/peron/fortune-phrases/rms2
+wget -O /tmp/rms.sh https://caja.texto-plano.xyz/peron/fortune-phrases/rms.sh
 wget -O /tmp/excusas https://caja.texto-plano.xyz/peron/fortune-phrases/excusas2
 wget -O /tmp/pintadas https://caja.texto-plano.xyz/peron/fortune-phrases/pintadas
 wget -O /tmp/17oct.cow https://caja.texto-plano.xyz/peron/fortune-phrases/cows/17oct_ascii.cow
@@ -37,9 +38,11 @@ mv -f /tmp/doctrina /usr/share/games/fortunes/es
 mv -f /tmp/rms /usr/share/games/fortunes/es
 mv -f /tmp/excusas /usr/share/games/fortunes/es
 
-echo "Moviento programa"
+echo "Moviendo programas..."
 mv -f /tmp/doctrina.sh /usr/local/bin/doctrina
+mv -f /tmp/rms.sh /usr/local/bin/rms
 chmod +x /usr/local/bin/doctrina
+chmod +x /usr/local/bin/rms
 
 echo "OK!"
 echo 'Actualizando Doctrinas...'
@@ -48,7 +51,7 @@ strfile doctrina
 strfile rms
 strfile pintadas
 echo 'Doctrinas actualizadas'
-echo "Te devuelvo al directorio"
-cd -
+echo "Te devuelvo a $HOME/"
+cd ~
 #Dispara una fortune adoctrinante de demostración
 /usr/games/fortune -s doctrina | /usr/games/cowsay -f 17oct
