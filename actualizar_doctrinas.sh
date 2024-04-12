@@ -41,7 +41,6 @@ echo "Moviento programa"
 mv -f /tmp/doctrina.sh /usr/local/bin/doctrina
 chmod +x /usr/local/bin/doctrina
 
-
 echo "OK!"
 echo 'Actualizando Doctrinas...'
 cd /usr/share/games/fortunes/es/
