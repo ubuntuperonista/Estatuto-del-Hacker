@@ -39,6 +39,7 @@ mv -f /tmp/excusas /usr/share/games/fortunes/es
 
 echo "Moviento programa"
 mv -f /tmp/doctrina.sh /usr/local/bin/doctrina
+chmod +x /usr/local/bin/doctrina
 
 
 echo "OK!"
