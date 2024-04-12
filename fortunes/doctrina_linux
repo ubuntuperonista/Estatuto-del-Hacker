@@ -505,7 +505,7 @@ La acción ineludible de todo Justicialista ha de ser compartir todo su software
 %
 La esencia del software es trascendental, pues puede ejecutarse en cualquier tiempo, y por tanto es imperecedera.
 %
-La Altair 8800 inspiró a muchos de nerds peronistas para desarrollar y compartir masivamente software casero y libre, y a algunos nerds gorilas en la idea criminal de ocultar los códigos fuentes y comercializar binarios compilados.
+La Altair 8800 inspiró a muchos nerds peronistas al desarrollo, compartiendo masivamente software casero y libre, y a ciertos nerds gorilas en ocultar el código fuente y someter binarios compilados al comercio.
 %
 En un inicio los equipos computacionales de electrónica "a tubo" tenían el tamaño y peso de una locomotora, pero con el pasar del tiempo el tamaño se fue reduciendo. Con el advenimiento de la transistorización, surgieron las primeras "minicomputadoras".
 %
@@ -589,7 +589,7 @@ Una ignota camarilla no ha hecho más que usurpar el sentido del software, pero 
 %
 Estos insensatos intentan enfrentar a nuestro Movimiento. Pero mientras ellos tienen el volante y la ventana, nosotros tenemos el acelerador, el freno, el embrague y la palanca. Pudiendo compilar mantenemos el control.
 %
-Si analizamos el panorama de los sistemas de cómputo, podremos ver perfectamente como el dominio de las masas populares - en las que los programadores constituyen el centro de gravedad - ha ido produciendo en los distrintos entornos, la desaparición de aquellas aplicaciones que únicamente operaban con 16 bits. Siguieron el camino de los dinosaurios.
+Si oteamos el panorama del cómputo, veremos perfectamente como el dominio de las masas populares - en las que los programadores constituyen el pilar - han ido produciendo la desaparición de aquellas aplicaciones que únicamente operaban con 16 bits. Siguieron el camino de los dinosaurios.
 %
 Los grandes lenguajes de programación visuales que antes concentraban cientos de miles de usuarios, en los últimos tiempos apenas llegan a reunir cifras muy inferiores. Las masas de programadores saben perfectamente bien cual es la situación dentro del sistema, y no necesitan ir a buscar inspiración fuera de él.
 %
@@ -1249,7 +1249,7 @@ Anima a tus compañer@s a usar software libre.
 %
 La verdadera privacidad y seguridad dependen del software libre.
 %
-Jamás llames red social a un clúster de cómputo ajeno que lucra con tus datos sobre las infraestructuras públicas de transmisión. Es una organización antisocial, y como tal disolutiva y criminal.
+Jamás llames red social a un clúster de cómputo ajeno que lucra con tus datos sobre las infraestructuras públicas de transmisión. Es una organización antisocial, y como tal, disolutiva y criminal.
 %
 Si escribes código para las comunidades, depúralo y coméntalo. Si lo haces para el CEO de una compañía de capital, ofúscalo y renuncia.
 %
@@ -1766,9 +1766,9 @@ Aumentar la prioridad del proceso generalmente resulta en una ejecución más r�
 %
 Si bien el sistema UNIX no establece un límite en la cantidad de procesos en segundo plano, el rendimiento del sistema tiende a degradarse ante el exceso de procesos.
 %
-En un sistema multiusuario es posible que otras personas además de usted estén utilizando el sistema desde diferentes terminales conectados a la máquina.
+Es posible que otras personas además de usted estén utilizando el sistema multiusuario desde diferentes terminales conectados a la máquina.
 %
-L@s usuari@s de una máquina constituyen un grupo de individu@s que tienen intereses comunes, como por ejemplo, la comunicación, el intercambio de archivos y la Liberación.
+Los usuarios de una máquina constituyen un grupo de individuos que tienen intereses comunes, como por ejemplo, la comunicación, el intercambio de ficheros, y la Liberación.
 %
 En UNIX existe un delicado contraste entre la libertad de recorrer el sistema otorgada a l@s usuari@s y las restricciones dictadas por consideraciones de seguridad.
 %
@@ -3356,7 +3356,7 @@ La nanomáquinas pesonales son una mala idea. Sólo la programación con softwar
 %
 Una red de bio-nanomáquinas personales obliga a un fuerte particionamiento de recursos, haciendo difícil para una individuo obtener algo más que un muy escaso porcentaje de memoria y potencia de procesamiento.
 %
-La filosofía básica del bio-nanocómputo reactivo gira alrededor de la idea de permitir a los usuarios individuales lograr acceso a recusos de biocómputo ajenos en todo caso que sea necesario.
+La filosofía básica del bio-nanocómputo reactivo gira alrededor de la idea de permitir a los usuarios individuales lograr acceso a recursos de biocómputo ajenos en todo caso que sea necesario.
 %
 Existe un continuo ciclo en el cual los procesos de bio-cómputo se tornan más y mas potentes. En algún momento una porción cierta de este habrá de ceder sus puntos de interacción invividual dando lugar a un sistema colaborativo más modular.
 %
@@ -3796,7 +3796,7 @@ Siento que su dignidad es atacada por el contenido de la EULA del software que t
 %
 En la guerra telemática, la CPU no es decisiva. Los hackers lo son.
 %
-El desarrollo de la guerra telemática se decide por los hackers, no por dos o tres nuevas arquitecturas de cómputo.
+El desarrollo de la guerra telemática se decide por sus hackers, no por dos o tres nuevas arquitecturas de cómputo.
 %
 En la guerra telemática, los hackers se organizan en banda, pero los Ejércitos pueden organizar divisiones enteras que algunos pretenden imposibles de rodear. Esos ingenuos desconocen sin embargo el ataque de denegación de servicio tifón de baudios.
 %
@@ -4640,7 +4640,7 @@ La fibra óptica es la Pacha Mama siempre revolucionaria: sólo hemos de seguir 
 %
 Los programadores crearon GNU. Ninguna compañía de Capital.
 %
-El código nunca envejece, pues es un ideal. Sólo lo hacen las arquitectruas que le dan sustento.
+El código nunca envejece, pues es un ideal. Sólo lo hacen las arquitecturas que le dan sustento.
 %
 Si seguimos operando a 14.400 baudios, es probable que la próxima Revolución se de inicio por fax, desde una playa.
 %
@@ -4664,7 +4664,7 @@ Tiene sentido que las comunicaciones mediadas por cómputo permitan la conexión
 %
 Una de las respuestas a la diversidad es la traducción. En la informática la diversidad del hardware puede responderse con la misma técnica: la emulación.
 %
-El portado es una de las respuesta informática a la diversidad de hardware.
+El portado es una de las respuestas informáticas a la diversidad de hardware.
 Otra es la emulación.
 %
 Como las computadoras puede simular las operaciones de cualquier máquina, es factible escribir un programa que incite a la máquina de la oligarquía a comportarse como una máquina del Pueblo.
