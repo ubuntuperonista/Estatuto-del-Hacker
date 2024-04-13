@@ -263,12 +263,21 @@ Un hacker usa la CPU función del Pueblo.
 %
 De la calidad del kernel depende la calidad de las aplicaciones.
 %
+Al operar GNU correrá programas libres; que se compilan, modifican, y
+aunque no quieran tener bugs, los tienen.
+%
+El software de GNU es un fin en sí mismo, no sólo medio. Son programas
+de computadora cuyos usuarios han de tener las cuatro libertades y no
+otras; programas que buscan la felicidad de la Comunidad Organizada.
+%
 Yo divido la acción de GNU en dos vertientes: la acción administrativa
 (para la cual tiene un pequeño conjunto de aplicaciones en /usr/sbin), y
 la acción de lucha, que sucede en /usr/bin.
 %
 UNIX existía antes que GNU, pero fue GNU quien les dio el lugar que los
 hackers merecían por justo derecho.
+%
+En esta red de datos, lo mejor que tenemos es GNU.
 %
 Me hacen gracia los que se dicen hackers usando Window$. No hay hackers
 fuertes en un sistema operativo débil.
@@ -348,8 +357,6 @@ recepción de paquetes informáticos, dependiendo de su urgencia,
 velocidad y volúmenes de bits a transportar. Esta es la manera en la que
 se puede organizar - desde un punto de vista racional y técnico - el
 manejo paquetizado de la información.
-%
-En esta red de datos, lo mejor que tenemos es GNU.
 %
 El FTP es un protocolo simple y popular, y si bien es posible utilizar
 unas medidas de seguridad limitadas con él (en forma de sesiones únicas
@@ -854,17 +861,19 @@ denominaban "desensillar hasta que aclare".
 %
 La historia no es frondosa en ejemplos de caída de sistemas GNU, y en el
 particular de los BSD, estos están pre-programados - diremos - para
-operar precisamente en ese fino equilibrio previo a la caída. Sólo una
-impúdica conducción hará que esta bicicleta - a cuyo manillar tiran
-desde la RAM y desde el espacio de disco - dé por el suelo.
+operar precisamente en ese fino equilibrio previo a la caída.
+%
+Es difícil hacer caer a GNU. Sólo una impúdica conducción hará que esta
+bicicleta - a cuyo manubrio tironean la RAM por un lado y el disco por
+otro - dé por el suelo.
 %
 La potencia de cómputo avanzada sólo se desplegará con el multihilo
 simultáneo, el cual oficiará de nivelador capaz de sustentar un pedaleo
 de acción pendular entre los núcleos que componen su CPU.
 %
 Los sistemas operativos BSD no son clones, sino derivados de código
-abierto del sistema operativo AT&T’s Research UNIX, el cual es a su vez
-ancestro del UNIX System V.
+abierto del UNIX de Investigación de AT&T, a su vez ancestro del UNIX
+System V.
 %
 AT&T UNIX no es código abierto y, en sentido estricto del Derecho de
 autor, BSD no es UNIX en absoluto.
@@ -1509,8 +1518,8 @@ Pueblo.
 Si desea ser útil, todo hacker debe portar un pendrive booteable con
 GNU.
 %
-Un disco rígido equivale a las semillas, los cartuchos, y el papel. Al
-agregarle GNU se convertirá en arado, fusil y panfletos.
+Un disco rígido equivale a las semillas, cartuchos y papel. Por alquimia
+de GNU se convertirá en arado, fusil y panfletos.
 %
 Un SysAdmin prevarico puede provocar una actitud de resistencia de los
 usuarios a correr software privativo. Ellos desencadenarán un brote de
@@ -1520,6 +1529,11 @@ expandirlo en la LAN.
 Los hackers pueden atacar inorgánicamente sobre la infraestructura
 centralizada del enemigo. Esto se llama Denegación de Servicio.
 %
+La Denegación de Servicio no es otra cosa que sabotaje telemático. Su
+ejecución puede darse aislada o en banda, centralizada o
+descentralizada, difuminada o escalada, según lo imponga la táctica de
+un concierto estratégico.
+%
 La creación de virus informáticos cobró condición de necesidad, pues la
 lucha contra un sistema oligárquico injusto así lo exigía.
 %
@@ -1527,6 +1541,12 @@ Desarrollar virus informáticos en ensamblador, además de permitir
 descubrir las vulnerabilidades del sistema operativo oligárquico para
 atacarlo, permitía a su vez consagrar un sistema propio que fuese libre
 y absolutamente inmune a dichas noxas.
+%
+El uso de virus informáticos como vector de defensa Popular guarda la
+misma efectividad que el uso del armamento biológico: acotar su campo de
+acción implica costos de estudio incongruentes con una necesaria
+economía de escala. Sólo podrían responder a una máxima: "ataca a
+Window$".
 %
 El lenguaje de la verdad es BASIC.
 %
@@ -4896,7 +4916,13 @@ quehacer comunitario.
 Una comunidad, en control de su potencia de cómputo, puede desarrollar
 software en libertad para hoy y para el mañana.
 %
-Los verdaderos programadores no documentan. Si fue difícil de programar,
+Los Verdaderos Programadores eran jóvenes heterodoxos quienes a finales
+de los 60s y 70s, crearon el tipo de tecnología computada utilizada en
+los 80s y 90s.
+%
+Los Verdaderos Programadores no usan Pascal. Programan en ensamblador.
+%
+Los Verdaderos Programadores no documentan. Si fue difícil de programar,
 debe ser difícil de entender.
 %
 La asociación telemática que permiten los productos informáticos como
@@ -7710,22 +7736,27 @@ espontáneamente.
 %
 La información que sólo enseña soluciones técnicas, que enumera hechos
 sin ponerlos en perspectiva y sin estructurarlos en un proyecto
-coherente será considerada cada vez más como pseudo-información.
+coherente, será considerada cada vez más como pseudo-información.
 %
-La información que proclama ideales sin insertarlos en el desarrollo
-práctico de la sociedad será considerada cada vez más como
+La información que proclama ideales, sin insertarlos en el desarrollo
+práctico de la sociedad, será considerada cada vez más como
 pseudo-información.
 %
-Hacer útil la información significa alcanzar un acuerdo mínimo sobre la
-estructura que la transforme en pensamiento coherente y aceptado.
+Hacer útil la información significa arribar a un acuerdo mínimo acerca
+de la estructura que permite la transforamción coherente de un
+pensamiento aceptado.
 %
 En toda situación donde grupos rivales sean igualmente capaces de
 producir, procesar y transmitir su propia información, se producirá la
 guerra telemática. Donde uno de ellos vea sus capacidades degradadas,
 brotará la guerrilla telemática.
 %
-Limitaciones mal aceptadas o excesivas al uso del entorno de cómputo
-sólo podrían provocar inestabilidad entre los usuarios.
+Las limitaciones excesivas o mal aceptadas al uso del entorno de cómputo
+sólo podrían provocar inestabilidad del componente humano del sistema.
+Esto es mucho peor que un bug de programación.
+%
+Un bug es un problema mundano, y a veces hasta deseable para hacer
+amigos.
 %
 Los privilegios de los usuarios deben ser armónicamente promovidos.
 %
@@ -7740,6 +7771,9 @@ El plan maestro de la acción concertada debe insertarse dentro de un
 sistema de comunicación. De allí a las máquinas, y de éstas a las mentes
 de los hackers. Esta es la manera en la que se desata la guerrilla
 telemática.
+%
+En la lid telemática, la acción defensiva por antonomasia la constituye
+el sabotaje.
 %
 El mercado constituye sólo una pobre red de comunicación vertical.
 Nuestros hackers pueden huracanar horizontalmente sobre la matriz de
@@ -8042,12 +8076,6 @@ ejecutar es andar entre las cosas que están hechas por otros.
 Al software primero hay que conocerlo, luego hay que comprenderlo; y
 pobre del que se detenga allí, porque también es preciso sentirlo.
 %
-Al operar GNU correrá programas libres; que se compilan, modifican, y
-aunque no quieran tener bugs, los tienen. Software que es fin en sí
-mismos, no sólo medios; programas que han de tener las cuastro
-libertades y no otras; programas que buscan la felicidad de la Comunidad
-Organizada.
-%
 El hacker pesca con línea, no con redes.
 %
 Existe una delicada línea entre hackear y hacer de imbécil en las redes.
@@ -8064,15 +8092,15 @@ Hemos de advocar de forma ineludible el empleo de tecnologías de total
 encriptación punto a punto, y preferentemente en latifundio del usuario.
 %
 El Sistema de Teléfono Móvil Avanzado (AMPS) fue una tecnología de
-primera generación, donde la voz se modulaba en una portadora de
+primera generación, donde se modulaba la voz en una portadora de
 frecuencia tal como lo hacía un viejo walkie-talkie. Dividía el espectro
-en canales separados, de los cuales un único "canal de control" era
+en bandas separadas, de las cuales un único "canal de control" era
 realmente digitalizado.
 %
 La mayor desventaja de los teléfonos celulares AMPS hacía a su
 transmisión modulada analógicamente: toda llamada en curso podía ser
-demodulada y monitoreada con cualquier receptor de radio FM capaz de
-sintonizar sus bandas, como el indio gritando al viento.
+demodulada y monitoreada con un receptor de radio FM capaz de sintonizar
+sus bandas. Era como el indio gritando al viento.
 %
 El 5G de alcance social ha dejado al 4G demoliberal probando la dieta de
 polvo.
@@ -8087,7 +8115,7 @@ Cuando Window$ está lento, lo formatean. Cuando está rápido, también.
 Cuando una mujer libera su software bajo GPLv3, estoy predispuesto a
 pensar bien de ella.
 %
-Cuanto más podido esté el código, mas bugs tendrá revoloteando.
+Cuanto más podrido esté el código, mas bugs tendrá revoloteando.
 %
 Elige Abortar, Reintentar y Fracasar.
 %
@@ -8096,6 +8124,8 @@ El buen software, corre igual en RAM, HDD o SSD.
 Quien a Github va y viene, nada gana y nada tiene.
 %
 Quien todo lo descarga, todo lo pierde.
+%
+No es amigo quien descarga, sino quien lo da a descargar.
 %
 No puedes descargarlo todo ¿Dónde lo meterías?
 %
@@ -8120,11 +8150,15 @@ No existe programador que no pueda tener bugs.
 %
 Hay que compilar para programar, no programar para compilar.
 %
-No es más bueno el que mas depura, sino el que menos programa.
+No es más bueno el que mas depura, sino el que programa con menos líneas
+de código.
 %
-El ransomware van y viene. La BIOS con backdoors siempre está en placa.
+El ransomware va y viene. La BIOS con backdoors permanecen.
 %
 Ante la duda, la que tiene GPLv3.
+%
+Siempre es mas bueno el programa que para hacer lo mismo, usa menos
+líneas de código C.
 %
 El ciberespacio es la frontera poblada por unos pocos tecnólogos
 resistentes que pueden tolerar la austeridad de sus salvajes interfaces
@@ -8133,7 +8167,7 @@ barricadas propietarias, sus ambigüedades culturales y legales y la
 falta general de mapas o metáforas útiles.
 %
 La primer red de datos puede ser una Red Nacional basada en tecnología
-ISDN existente, accesible gratuitamente para cualquier persona con una
+ISDN existente, accesible gratuitamente a cualquier persona con una
 conexión telefónica.
 %
 Los viejos conceptos de propiedad, expresión, identidad, movimiento y
@@ -8142,44 +8176,45 @@ sucintamente en el ciberespacio.
 %
 La soberanía sobre el ciberespacio no ha sido bien definida. Las grandes
 compañías reclaman ya iguales latifundios de un territorio cuyos
-habitantes son independientes y solitarios, a veces hasta el punto de la
-sociopatía.
+habitantes son independientes y solitarios, y a veces hasta rayanos con
+la sociopatía.
 %
 El ciberespacio es el caldo de cultivo perfecto tanto para forajidos
 como para vigilantes telemáticos.
 %
-Cada día millones de personas utilizan cajeros automáticos y tarjetas de
-crédito, realizan llamadas telefónicas, hacen reservas de viajes y
-acceden a información de variedad ilimitada... y lo hacen sin percibir
-de forma alguna las maquinaciones ciertas detrás del Capital.
+Millones de personas utilizan cajeros automáticos y tarjetas de crédito,
+realizan llamadas telefónicas, hacen reservas de viajes y acceden a
+información de variedad ilimitada... y cada día lo hacen sin percibir de
+forma alguna las maquinaciones ciertas detrás del Capital.
 %
-Estos señores esperarán que las expresiones financieras, legales e
-incluso físicas dependan cada vez más de sus ciber-latifundios, pero
+Los CEOs de las GAFAM esperarán que las expresiones financieras, legales
+e incluso físicas dependan cada vez más de sus ciber-latifundios, y
 pretenderán que el Pueblo guarde de ello una conciencia muy vaga.
 %
-El hombre ha confiado las funciones básicas de una existencia de la que
+El hombre ha confiado las funciones básicas de una existencia, de la que
 le hacen decir moderna, a ciber-latifundios que no puede nombrar,
 utilizando software que nunca ha poseído o siquiera oído hablar.
 %
 En la medida que la tecnología de las comunicaciones y la información
-continúen bailando a ritmos mas vertiginosos que el 2x4 de la sociedad,
-comenzarán a producirse salsas inevitables que constituirán la conga
-entre el ciberespacio y el mundo físico.
+continúen bailando ritmos más vertiginosos que el 2x4 de la sociedad, se
+producirá la inevitable conga entre el ciberespacio y el mundo físico.
 %
 Las economías modernas están cada vez más divididas entre quienes se
-sienten cómodos y dominan la tecnología digital y quienes no la
-entienden ni confían en ella.
+sienten cómodos y dominan la tecnología digital, y quienes no la
+comprenden y desconfían de ella.
 %
-En la medida que los dirigentes siguen siendo relativamente ignorantes
-sobre las máquinas y sus usos, sin saberlo, abdicarán de la mayor parte
-de su autoridad en favor de tecnócratas corporativos, cuya labor no
-incluye la justicia social ni la responsabilidad general.
+En la medida que los dirigentes se mantengan relativamente ignorantes de
+la máquina y sus usos, abdicarán de la mayor parte de su autoridad sin
+saberlo, y lo harán en favor de tecnócratas corporativos.
 %
-Fomenta el desarrollo de nuevas herramientas que proporcionen a los
-usuarios no técnicos un acceso completo y fácil a las telecomunicaciones
-por ordenador.
+La labor de los tecnócratas corporativos no incluye la justicia social
+ni la responsabilidad general que caracteriza a los hackers.
 %
-Las interfaces de usuario deberían ser propiedad común de todos.
+Fomenta el desarrollo de herramientas nuevas que proporcionen a los
+usuarios no técnicos un acceso simple y completo a las
+telecomunicaciones por ordenador.
+%
+Las interfases de usuario deberían ser propiedad común de todos.
 %
 La mayoría de los programas necesitan una interfaz y, por lo general, no
 hay otra forma de diseñarla que basarla en las ideas vistas o utilizadas
@@ -8188,14 +8223,14 @@ por otros.
 Señores, yo pido que sofrenen sus expresiones: si la inversión justifica
 la propiedad, son los usuarios quienes deberían ser los propietarios del
 software: son ellos quienes realizan una gran inversión al capacitarse
-en su uso.
+en su utilización.
 %
-No dejes de pensar en barricar con software libre tu router y cualquier
-dispositivo telemático que asocies.
+Considera barricar con software libre tu router y cualquier dispositivo
+telemático que asocies al mismo.
 %
-Ataca vehículos con conexión a la autopista de los datos: jamás
-provocarás un accidente tan peligroso como la sumisión de la información
-que te pertenece a un gigante de la automovilística.
+Ataca telemáticamente aquellos vehículos con conexión a la autopista de
+los datos: jamás provocarás un accidente tan peligroso como la sumisión
+de información que pertenece a todos a un gigante de la automovilística.
 %
 Elimina todas las aplicaciones y cuentas que no necesitas, desconoces o
 estés utilizando en un dispositivo móvil (incluyéndo vehículos). Si no
@@ -8210,7 +8245,7 @@ que te rodean (a los que podrías guardar afecto).
 %
 Defiéndete atacando telemáticamente a las ciber-oligarquías.
 %
-Compartimenta tu uso en línea usando logins diversos, por ejemplo, una
+Compartimenta tu telemática empleando logins diversos, por ejemplo, uno
 para el trabajo, otro para amistades y asuntos personales, un correo
 electrónico específico para compras en línea y otro para documentación y
 gestiones administrativas.
@@ -8218,26 +8253,29 @@ gestiones administrativas.
 Jamás asocies tus múltiples identidades digitales entre sí, mucho menos
 en una agenda de contactos.
 %
-Sólo obteniendo el acceso a tu dispositivo con poderes de administrador
-podrás tomar el control de las configuraciones más complejas, y remover
-software espía.
+Sólo será con la obtención del acceso con poderes de administrador de tu
+dispositivo que podrás tomar el control de sus configuraciones más
+complejas, y remover software espía.
 %
-Junto con el uso de un bloqueador especializado, responde a la violencia
-de la publicidad digital no solicitada con una violencia digital aún
-mayor: invierte tiempo y no dinero en el uso de clientes sanitizados.
+Junto con el tímido empleo de un bloqueador especializado, responde a la
+violencia de los anuncios digitales no solicitada con una violencia
+digital telemática mayor.
 %
-Alejarse de los dispositivos o salir de línea temporalmente puede servir
-como mero autocuidado y medida de protección cortoplacista. La solución
-definitiva pasará siempre con enfrentar a las ciber-oligarquías en
-banda, llevando a sus centros de datos una guerra telemática a formateo
-total.
+Invierte tiempo y no dinero en la instalación y uso de navegadores
+sanitizados de anuncios publicitarios.
 %
-Desconectar una computadora o dispositivo no detiene nunca las
-violencias digitales de las ciber-oligarquías.
+Puedes alejarte de los dispositivos o salir de línea temporalmente como
+mero autocuidado, pero es una medida de protección cortoplacista. La
+solución definitiva es enfrentar a las ciber-oligarquías, llevando a sus
+centros de datos una guerra telemática a formateo total.
 %
-Las marcas de agua y las etiquetas de contenido no consiguen identificar
-de forma eficaz el contenido generado por Inteligencia Artificial. Hasta
-contar dedos suele ser más efectivo.
+Jamás detendrás las violencias digitales de las ciber-oligarquías con la
+mera desconexión de un celular.
+%
+Las marcas de agua o el etiquetado de contenido no se demuestran
+suficientes para identificar de manera eficaz el contenido generado por
+Inteligencia Artificial. Resulta mas efectivo contar dedos o tachar todo
+texto redactado en infinitivo puro.
 %
 Ocúltate entre las masas en línea. Ataca los núcleos del poder
 informático privado con la indiferencia primero, con el módem después.
@@ -8254,3 +8292,28 @@ junto a nosotros la aniquilación de las oligarquías que han oprimido al
 Pueblo.
 %
 Comparte todo tu código fuente al Pueblo. Libéralo bajo GPLv3.
+%
+Los SysOps de las redes de conmutación de paquetes X.25 optaban por la
+amenaza leguleya rayana con las admoniciones de un antiguo sacerdote
+egipcio para disuadir las irrupciones telemáticas.
+%
+Las conferencias de Hackers no son reuniones del submundo criminal.
+%
+Las conferencias de hackers son eventos inocentes que celebran lo mejor
+del ingenio. Es más una kermesse de cerebritos mas que una reunión de
+saboteadores.
+%
+El código cifrado con llaves digitales en memoria ROM es considerado un
+valioso secreto por las ciber-oligarquías.
+%
+Aunque se almacene en un circuito integrado de sólo lectura, el código
+ROM es un software de computadora que se puede distribuir en disco o
+transmitido por las redes de datos.
+%
+La distribución de código ROM es uno de los principales métodos para
+liberar al Pueblo.
+%
+El desencriptado y distribución de código en memoria ROM constituye uno
+de los principales medios ofensivos con que cuentan los Pueblos en la
+guerra telemática. Sólo vulnera las economías cautivas de las
+ciber-oligarquías.
