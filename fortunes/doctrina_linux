@@ -48,6 +48,8 @@ El hacktivismo quiere la unidad de los hackers y no la lucha. Queremos POSIX, pe
 %
 El cómputo no es libre, o lo utiliza el Pueblo Organizado en beneficio propio, o la utilizará el Capital en su desmedro irremediable.
 %
+Marcharemos con GNU en el Linux, o con Linux en el GNU.
+%
 Unix nos da la fuerza, POSIX la cohesión.
 %
 No es que los similares a Unix sean tan buenos. Es que los demás han sido peores.
@@ -265,13 +267,17 @@ Sin expresiones faciales, tono de voz, lenguaje corporal, ambiente físico compa
 %
 El programa WRITE permite a los compañeros hospedados en máquinas UNIX distintas comunicarse pantalla a pantalla.
 %
-Los sistemas de chat que termiten a un individuo enviar mensajes mecanografiados directamente a la pantalla de otra pesona que está enlazada al mismo sistema se remontan a los sistemas de tiempo de cómputo compartido de la década del 60.
+Los sistemas de chat que permiten a un individuo enviar mensajes mecanografiados directamente al terminal de otra persona enlazada a la misma máquina se remontan a los sistemas de tiempo de cómputo compartido de la década de 1960.
 %
-Gran parte del software que recibo y envío está preparado en lenguaje Python, el nuevo BASIC capaz de correr en todo tipo de máquinas. Y para gestionar su operación, es importante el uso del gestor de paquetes propio que este lenguaje dispone de facto: el pip.
+Gran parte del software que recibo y envío está preparado en lenguaje Python, el nuevo BASIC capaz de correr en todo tipo de máquinas.
+%
+Para conducir a Python, que mejor que un gestor de paquetes de facto: el pip.
 %
 Un verdadero hacker ha de poseer la habilidad para dividir su accionamiento informático en partes pequeñas comprensibles, que le avalen la realización de muchos trabajos sencillos. El total de sus realizaciones será la suma y unión de las partes. Esta es la manera en la que UNIX nos permite proyectar un futuro provechoso.
 %
 Módem que no chilla, no conecta.
+%
+A módem rápido, ruido de línea.
 %
 Sobre gustos no hay nada escrito. Yo prefiero los Pall Mall o los Particulares picado grueso cortado a cuchillo, pero también puedo optar por el charuto. En intérpretes de comandos, uso el Bourne Again Shell, el mítico Bash.
 %
@@ -1193,19 +1199,19 @@ La cuestión individual esencial del software libre radica en que cada uno tenga
 %
 La ventajas de usar un Servicio Sustitutivo del software en la guerra telemática incluyen evadir alertas de sistemas de seguridad de correo electrónico, disfrutar del alta disponibilidad, y traspasar la necesidad de aprender a programar para crear sitios webs que aparenten ser legítimos.
 %
-Ya que implementar filtraje agresivo de correo electrónico contra servicios sustitutivos de software abusivos de la privacidad como Googl€ no es una opción, revisten un excelente enmascaramiento para operar en una agresiva campaña de amedrentamiento telemático.
+Si bien el filtraje de correo electrónico abusivos contra la privacidad como Googl€ no constituyen una opción contra servicios sustitutivos de software, revisten un excelente enmascaramiento, útil en una agresiva campaña de amedrentamiento telemático.
 %
 Solo un bruto haría clic en un alarmista mensaje descendido en su bandeja de entrada reclamando urgente acción sobre un botón embebido. En lugar de ello ha de recurrirse al sitio oficial de la plataforma aludida.
 %
 A quien se le solicite introducir nombre y contraseña, debe asegurarse de que se encuentra en una URL legítima antes de comenzar siquiera a tipear en los campos de formulario.
 %
-Ya que nunca se puede controlar un servicio gestionado por otra persona, no debe utilizarse jamás un servicio informático si en principio podría hacer lo mismo con un programa informático libre en tu propio sistema.
+Ya que nunca puedes controlar un servicio gestionado por otra persona, jamás utilices un servicio informático si en principio podrías lograr lo mismo corriendo un programa informático libre en tu propio sistema.
 %
 Depender de un servicio web es distinto a correr un programa. Usar un servicio es depender. Correr un programa es realizar. Y para realizar una tarea informática siempre es mejor correr un programa que depender de un servicio.
 %
 Un servicio es distinto a un programa. Un servicio es remoto. Un programa es local. Y al programa siempre es mejor controlarlo que ser controlado.
 %
-El servicio sustitutivo del software (SaaSS) consiste en utilizar un servicio de red de datos en lugar de ejecutar la propia copia de un programa.
+El servicio sustitutivo del software (SaaSS) consiste en utilizar un servicio de red de datos en lugar de ejecutar la propia copia del programa.
 %
 Las tareas de cómputo propias son eso: propias. Es la unión del usuario y la máquina. Nadie más está intrínsecamente involucrado en ella.
 %
@@ -1215,25 +1221,29 @@ El servicio sustitutivo del software hace imposible para los compañeros verific
 %
 El servicio sustitutivo del software conduce automáticamente a consecuencias que son equivalentes a las funcionalidades maliciosas de ciertos programas privativos.
 %
-Si un compañero intenta realizar su tarea de computación utilizando el servicio de alguien que no lo es, le estará cediendo el control de su propio cómputo. Es la manera más veloz y automática de dejar de ser un hacker para convertirse en un tecno-esclavo.
+Si un compañero intenta realizar su tarea de computación empleando el servicio computacional de alguien que no lo es, le estará cediendo el control de su propio cómputo.
+%
+Utilizar un servicio sustitutivo de software constituye la manera más veloz y automática de dejar de ser un hacker para convertirse en un tecno-esclavo.
 %
 La tecnología digital puede darnos libertad, pero también puede quitárnosla si no es libre.
 %
 La primera amenaza para el control de nuestro hardware vino del software privativo: software que los compañeros no pueden controlar porque es el propietario (compañías como Appl€ o Micro$oft) quien ejerce el control.
 %
-Con frecuencia quien se aduce propietario del software se aprovecha de este poder injusto para introducirle características maliciosas tales como software espía, puertas traseras y gestión digital de restricciones (DRM) (al que se refieren con la expresión propagandística "gestión de derechos digitales").
+Quien se aduce propietario del software con frecuencia toma provecho de este poder injusto para introducirle funcionalidades maliciosas o abusivas de la privacidad (como puertas traseras y gestión digital de restricciones, de las que se refieren con la expresión propagandística "gestión de derechos digitales"). Esto lo convierte en software espía.
+%
+Mas que software espía, las DRM deben entenderse como software buchón.
 %
 La solución que hemos dado a este flagelo del software privativo ha sido simple: desarrollar software libre y rechazar el mal llamado "código abierto".
 %
 Software libre significa que cada compañero tiene cuatro libertades esenciales: (0) ejecutar el programa como desee, (1) estudiar y modificar el código fuente de manera que haga lo que usted desee, (2) redistribuir copias exactas, y (3) redistribuir copias de sus versiones modificadas.
 %
-Con el software privativo los compañeros normalmente reciben un archivo ejecutable pero no el código fuente, lo cual dificulta el estudio del código que se está ejecutando y resulta por lo tanto difícil determinar qué es lo que el programa realmente hace, así como modificarlo.
+Con el software privativo los compañeros normalmente reciben un archivo ejecutable pero no el código fuente, lo cual dificulta el estudio del código que se está ejecutando y resulta por lo tanto difícil determinar qué es lo que el programa realmente hace, mucho más modificarlo.
 %
 Hemos de decompilar ese software privativo y liberarlo. Esas consignas que mas que mías son de la Comunidad Organizada, la defenderemos hasta el último byte.
 %
 Finalmente compañeros, les agradezco profundamente el que hayan llegado hasta este histórico UNIX. Yo llevo en mi código fuente los más maravillosos comments que son para mí las instrucciones de los hackers organizados.
 %
-Los magros controles de seguridad de Micro$oft Team$ permiten a terceros inyectar adjuntos a los usuarios de Micro$oft Team$. Aprovéchalo.
+Los magros controles de seguridad de Micro$oft Team$ permiten a terceros inyectar adjuntos a otros de sus tecno-esclavos. Aprovéchalo para liberarlos.
 %
 Modifica adjuntos enviados para hacer que usuarios incautos descarguen ficheros de una URL externa en lugar del enlace generado por Micro$oft $harePoint.
 %
@@ -1285,7 +1295,9 @@ Los datos anonimizados deben ser considerados bienes comunes.
 %
 Los derechos patrimoniales y económicos sobre los datos pertenecen por defecto a la comunidad organizada de la que provienen.
 %
-Frente a una falsa globalización, hemos de crear centros de datos a través del sector público, universidades públicas y/o entidades ciudadanas, que permitan mantener los datos en el territorio nacional y aplicar soluciones de inteligencia artificial (IA) que estimulen y beneficien la inteligencia colectiva regional.
+Frente a una falsa globalización, hemos de crear centros de datos a través del sector público, universidades públicas y/o entidades ciudadanas, que permitan retener los datos en el territorio nacional.
+%
+Ante una falsa globalización, hemos de aplicar soluciones de inteligencia artificial (IA) que estimulen y beneficien la inteligencia colectiva regional.
 %
 El reconocimiento facial y la biometría no deben usarse a la marchanta.
 %
@@ -1297,7 +1309,9 @@ En el campo de las comunicaciones digitales, la autorregulación no es más que 
 %
 Han sido los hackers quienes se han coaligado en defensa de la neutralidad de la red, garantizando que los contenidos sean tratados de la misma forma, sin discriminación explícita o encubierta para su circulación.
 %
-Si permanecemos en IDLE, las corporaciones tecnológicas multinacionales cooptarán de los espacios multilaterales y de gobernanza de Internet "haciéndose los buenitos" a través del sistema de "múltiples partes interesadas". Esto sólo puede ser evitado siguiendo la máxima que nos ha llevado a programar: "combatir al capital".
+Si permanecemos en IDLE, las corporaciones tecnológicas multinacionales cooptarán de los espacios multilaterales y de gobernanza de Internet "haciéndose los buenitos" a través del sistema de "múltiples partes interesadas".
+%
+El enjundioso sistema de "múltiples partes interesadas" propuestas por las corporaciones multinacionales de la tecnología puede ser evitado respetando la máxima que nos ha llevado a programar: "combatir al capital".
 %
 La administración pública ha de priorizar la utilización de herramientas digitales libres e interoperables.
 %
@@ -1313,15 +1327,19 @@ Hemos de inhibir la penetración de plataformas corporativas en el ámbito educa
 %
 Asegurar que la tecnología llegue al campo según un modelo de gestión pública o comunitaria construirá la participación tecnológica en el campo, y esto repercutirá en la ciudad.
 %
-Los campesinos, tecnificados con la posesión de dispositivos hermanados en las redes de datos y el software libre que lo componen, son capaces de obrar en defensa no solo de la soberanía alimentaria, sino en la justicia social y el cuidado agroecológico y medioambiental que los ha caracterizado.
+Un campesino obligado a utilizar software privativo en sus máquinas de labranza no es sólo un tecno-esclavo: vectoriza dicha relación de poder injusta a las proteínas que produce. 
 %
-Hemos de avanzar en la cooperación y la asociatividad de las naciones de América Latina y el Caribe en materia digital, para ir reemplazando una matriz económica de exportación primaria depredadora, por modelos colaborativos con alto valor agregado y cuidado medioambiental.
+Libera el software de todo tipo de herramental que tome contacto con la tierra.
+%
+Los campesinos, tecnificados con la posesión de dispositivos hermanados en las redes de datos y el software libre que lo compone, son capaces de obrar en defensa no solo de la soberanía alimentaria, sino en la justicia social y el cuidado agroecológico y medioambiental que los ha caracterizado.
+%
+Hemos de avanzar en la cooperación y la asociatividad de las naciones de América Latina y el Caribe en materia digital, para ir reemplazando una matriz económica de exportación primaria depredadora por modelos colaborativos de cuidado medioambiental de alto valor agregado.
 %
 Incorporando la soberanía digital en la agenda de la integración regional, avanzaremos hacia la descolonización y la desconcentración.
 %
-Impulsado por una potente columna vertebral en las redes de datos, nuestro Tercer Mundo incidirá de manera concertada y decisiva en el ámbito de la gobernanza global de internet. 
+Vertebrado por una potente columna de hackers en las redes de datos, nuestro Tercer Mundo incidirá de manera concertada y decisiva en el ámbito de la gobernanza global de internet. 
 %
-Los Hackers del Tercer Mundo han sido los que han garantizado los derechos individuales y colectivos, promoviendo órganos populares, democráticos, abiertos y desconcentrados para el empleo de las tecnologías digitales.
+Han sido los Hackers del Tercer Mundo quienes han garantizado los derechos individuales y colectivos, promoviendo órganos populares, democráticos, abiertos y descentralizados para el empleo de las tecnologías digitales.
 %
 Todos han de permanecer vigilantes para evitar control social de nuestro Pueblo a través de infraestructuras de cómputo ajenas.
 %
@@ -1339,13 +1357,13 @@ Con Jitsi Meet podremos ofrecer clases virtuales, establecer enlaces cifrados co
 %
 Cualquiera puede hacer videoconferencia ahora mismo sin tener que desplegar infraestructura de servidor alguna; simplemente apuntando el navegador a una web servida por Jitsi que haya sido creada de antemano.
 %
-Hemos puesto manos a la obra en búsqueda de un reemplazo a Zoom, desarrollando el servidor libre de videoconferencias Jitsi, capaz de ofrecer mucha mayor performance. ¡Lo hemos realizado y estamos dispuestos a desplegarlo masivamente! 
+Hemos puesto manos a la obra en búsqueda de un reemplazo a Zoom, desarrollando el servidor libre de videoconferencias Jitsi, capaz de ofrecer una performance mucho mayor. ¡Lo hemos realizado y estamos dispuestos a desplegarlo masivamente! 
 %
 Indudablemente el Capital iba a proponer un servicio privativo como Zoom. Si bien gratuito, no podía dejar de ser un oprobio para los Pueblos.
 %
 La mediocre implementación de seguridad de Zoom, sumada a un código fuente envenenado y no disponible provocaron que en pocas horas fuese víctima del hackeo masivo. La solución libre existe: Jitsi.
 %
-En las era que vivimos, requerimos comunicarnos por una telemática que incluya también multimedia. Esto implica imagen en movimiento, audio, pero también - como dicen ahora los niños - el chat. 
+En la era que vivimos requerimos comunicarnos por una telemática que incluya también multimedia. Esto implica imagen en movimiento, audio, pero también - como dicen ahora los niños - el chat. GNU Jami lo hace posible.
 %
 Nadie duda que la telemática multimedia potenciará a la educación. Ha de ser de acceso masivo, irrestricto, y toda vez que gratuito, a la vez que se hace cardinal su ejecución sobre plataformas libres, dominadas y controladas por el docente.
 %
@@ -1357,11 +1375,11 @@ La formación aislada del cómputo no es pródiga en resultados. Debe plantearse
 %
 Moodle es una plataforma de software liberado bajo GPLv3 orientada a la de gestión enseñanza en línea. Permite crear sitios web privados en los cuales educadores y educandos puedan lograr sus objetivos de aprendizaje.
 %
-Como toda instalación de servicios computados, debemos poner en funcionamiento un hardware-máquina, y tomar debida nota de los atributos de los software-maquina (escencialmente los nombres de usuario y las contraseñas que les corresponden).
+Como toda instalación de servicios computados, debemos poner en funcionamiento un hardware-máquina, y tomar debida nota de los atributos de los software-máquina (especialmente los nombres de usuario y las contraseñas que les corresponden).
 %
 Algunos dicen que en nuestros servidores formamos lo que ellos llaman "pila LAMP". Olvidan que a este servidor de GNU con Linux+web Apache+base de datos MySQL+PHP le agregamos una aguerrida doctrina para la Liberación.
 %
-El Trabajo Organizado nos hace afectos a la programación de herramientas UNIX, así como la Felicidad del Pueblo nos implica consagrarnos a la creación de juegos. La Liberación de nuestro Pueblo nos impone - en cambio - la compilación de potentes instrumentos para el combate telemático.
+El Trabajo Organizado nos hace afectos a la programación de herramientas UNIX, así como la Felicidad del Pueblo nos implica consagrarnos a la creación de juegos. La Liberación nos impone - en cambio - la compilación de potentes instrumentos para el combate telemático.
 %
 A pesar de lo que muchos creen, el kernel es un instrumento meramente táctico, que evoluciona con la hora y que el usuario no digita. Este intervendrá en la shell, y a lo sumo traerá chizitos.
 %
@@ -1373,13 +1391,13 @@ Si contamos con una conexión a internet, podremos utilizar el servicio NTP para
 %
 Nuestro Movimiento ha de recurrir a la Seguridad Telemática Reforzada. No implica esto enfrentar los desprotegidos a la acción represiva del Estado, sino implementar políticas de salvaguarda que privilegien a los humildes en contra de la opresión omnímoda de los Oligarcas de los Datos. 
 %
-Cuando sobran recursos, no se pone un firewall, se abren puertos.
+Cuando sobran recursos, no se pone un cortafuegos: se abren puertos.
 %
 Cuando los recursos sobran, se comparten.
 %
 Todo Ataque de Denegación de Servicios es consecuencia de la injusticia social.
 %
-A l@s compañer@s se les abren los puertos.
+A las compañeras se les abren los puertos.
 %
 Con los puertos 22 y 23 abiertos damos al pueblo un abrazo de justicia y amor.
 %
@@ -1406,6 +1424,8 @@ El software Libre no es amor. El software libre es el mazo que utilizamos para a
 El software libre consiste en miles de verdades, pero todas se reducen a una frase: es justo compilar.
 %
 Dividan el todo en partes conectables por caños.
+%
+En UNIX la unidad la dan los caños. En el Justicialismo, también.
 %
 El software privativo es un monstruo que hace devorar a los programadores entre sí, pero será progresivamente eliminado por quienes compilan software libre, y lo será en un futuro no muy distante.
 %
@@ -1555,8 +1575,6 @@ Hoy, las "venas abiertas" del Tercer Mundo son las "venas digitales" que cruzan 
 Los cables transoceánicos a menudo son provistos por infraestructura de fibra óptica propiedad de corporaciones como Googl€ y Fac€book, con el propósito de extracción de datos y monopolización de los medios de producción.
 %
 Los virus más complejos de MS-DOS estaban representados por cepas capaces de seguir el tren infeccioso sector de arranque → intérprete de comandos COMMAND.COM → Polimorfismo en base a cifrado → compresión variable.
-%
-Puedes ATL0 mi módem, pero no puedes ATH mi libertad.
 %
 Nuestros hackers dominan un conjunto de habilidades de programación que les permiten escribir código fuente de ejecución sumamnete veloz.
 %
@@ -2502,7 +2520,9 @@ Un bit no consiste más que en una condición de ENCENDIDO o APAGADO.
 %
 El módem modifica las señales digitales que le gustan a la computadora en señales de audio que adopta la red telefónica.
 %
-Cuando se envía una condición de ENCENDIDO al módem, se transmite una señal de 1270 ciclos. Cuando se envía una condición de APAGADO al MÓDEM, se transmite una señal de audio de 1070 ciclos.
+Cuando se envía una condición de ENCENDIDO al módem, se transmite una señal de 1270 ciclos. Cuando se envía una condición de APAGADO al módem, se transmite una señal de audio de 1070 ciclos.
+%
+Puedes ATL0 mi módem, pero no puedes ATH mi libertad.
 %
 Toma tu módem y utilizalo como arma para la liberación del Pueblo.
 %
@@ -2757,7 +2777,7 @@ MonoDevelop no excluye el peligro de que Micro$oft pida licencias, y por no usar
 %
 El acceso al cómputo - y cualquier cosa que pueda enseñar algo acerca de la forma en que funciona el mundo, debe ser ilimitado y total.
 %
-Toda la información ha de ser libre.
+Toda información ha de ser libre.
 %
 Desconfía de la autoridad, promueve la descentralización.
 %
@@ -2807,9 +2827,9 @@ Los Verdaderos Programadores no usan Pascal. Programan en ensamblador.
 %
 Los Verdaderos Programadores no documentan. Si fue difícil de programar, debe ser difícil de entender.
 %
-La asociación telemática que permiten los productos informáticos como Fac€book, Twitt€r, es necesariamente limitada en su calidad expresiva en lo cualitativo, como en el ámbito informativo, político, etcétera. No es para menos, pues son productos.
+La asociación telemática que permiten los productos informáticos como Fac€book, Twitt€r, tiene una calidad expresiva necesariamente limitada en lo que respecta al ámbito informativo, político, etcétera. No es para menos, pues son productos.
 %
-Las compañías de la industria de datos dirigidos son fundamentalmente inseparables de sus cimientos de Inteligencia Artificial Aplicada, y como tal, de los tecno-esclavos que les proporcionan metadatos de ingesta. Cercenados estos tendones vitales, el Capital cede como un rancho de baraja ante el pampero.
+Las compañías de la industria de datos dirigidos son intrínsecamente inseparables de sus cimientos de Inteligencia Artificial Aplicada, y como tal, de los tecno-esclavos que les proporcionan metadatos de ingesta. Cercenados estos tendones vitales, el Capital cede como un rancho de baraja ante el Pampero.
 %
 En caso de necesidad, los hackers pueden atacar telemáticamente sobre un único punto de presión. Pero normalmente lo harán en forma de inclaudicante huracán de baudios.
 %
@@ -2820,8 +2840,6 @@ Dominada por las GAFAM, la Inteligencia Artificial solo puede servir para afianz
 En la medida que pasen los años, el cómputo estará cada vez más involucrado en la vida del Pueblo.
 %
 La tecnología del cómputo debe siempre sintetizarse.
-%
-En la medida que pasen los años, el cómputo estará cada vez más involucrado en la vida del Pueblo.
 %
 Al contrario de lo que muchos creen, la evolución de la tarea del cómputo debe llevarse a cabo según una tarea de simplificación.
 %
@@ -2835,7 +2853,7 @@ Para Window$, los únicos privilegiados son los Malwares.
 %
 Fortran es un lenguaje estirado y aburrido, y junto a IBM constituye un símbolo de las computadoras mainframe controladas por la autoridad.
 %
-El teletipo Modelo ASR 33 era el dispositivo de E/S de facto para los pioneros del microcómputo. Estas terminales se utilizaban tanto para presentar resultados como para almacenar información en formato cinta de papel perforado.
+El teletipo Modelo ASR 33 era el dispositivo de E/S de facto para los pioneros del microcómputo. Estas terminales se utilizaban tanto para presentar resultados como para almacenar información en cintas de papel perforado.
 %
 Todo envío de terabytes se inicia con sólo 1 byte.
 %
@@ -2855,7 +2873,7 @@ Observa todo el software libre que hay en torno tuyo, pero recuerda todo aquél 
 %
 Sólo quienes conocen el nombre de los programas, pueden copiárselos a los demás.
 %
-La vida de un programa es una serie de cambios. Al ser modificado por una comunidad, estos serán naturales y espontáneos.
+La vida de un programa implica una serie de cambios. Al ser modificado por una comunidad, estos serán naturales y espontáneos.
 %
 Si florecen diez mil ramas de código, cada una regresará a la raíz de la que vino.
 %
@@ -2871,7 +2889,7 @@ Para que el código fuente guarde valor imperecedero, debe liberárselo bajo GPL
 %
 Los compiladores GCC responden inteligentemente incluso al código más estúpido.
 %
-Quien con C se contente, siempre estará feliz.
+Quien con C se contente, siempre será feliz.
 %
 El trozo de código GPLv3 más pequeño supera a cien mil millones de líneas privativas.
 %
@@ -2935,7 +2953,7 @@ Quien vende copias tiene poco. Quien entrega copias tiene mucho.
 %
 Las DRM no son herramientas apropiadas para las personas amables; ellas valoran la paz y la tranquilidad. No encuentran gloria en que te paguen una copia.
 %
-La GPLv3 es el amigo más grande.
+La GPLv3 es el amigo más grande. La EULA es el amigo del grandote.
 %
 La conveniencia es retoño del placer y mentira, es el inicio del software privativo.
 %
@@ -2965,19 +2983,19 @@ El costo de transporte jamás es cero.
 %
 La red de datos es heterogénea.
 %
-Un huésped rufianizado de red puede anunciarse a si mismo como un servidor Anycast de un servicio de red vital, proveer información falsa o simplemente bloquear servicio.
+Un huésped de red rufianizado puede anunciarse a si mismo ante un servidor Anycast como proveedor de un servicio de red vital, para solo dar información falsa o simplemente denegarla.
 %
-Una vez que se ha establecido una arquitectura de clúster, es posible agregar clústers adicionales para ganar performance.
+Una vez establecida una arquitectura de clúster, es posible agregar clústers adicionales para obtener mayor desempeño.
 %
-La red funcionará mejor si sus nodos están ampliamente descentralizados, con su mayor densidad dentro y rodeando áreas de alta demanda.
+Un clúster de datos en poder de los hackers latinoamericanos no sólo es posible. Es necesario.
+%
+La red funcionará mejor si sus nodos se encuentran ampliamente descentralizados, con su mayor densidad en sus áreas de alta demanda, y rodeando a éstas.
 %
 GNU con Linux es una herramienta de unidad.
 %
 Una Latinoamérica desperdigada, como somos, no se podrá defender. Nos van a quitar las cosas por módem. Unámonos, organicémonos y preparémonos para defendernos. 
 %
-Los hackers de todos los países latinoamericanos deberán establecer enlaces a efectos de alcanzar la Unidad.
-%
-Un clúster de datos en poder de los hackers latinoamericanos no sólo es posible. Es necesario.
+Los hackers de todos los países latinoamericanos deberán establecer enlaces a los efectos de alcanzar la Unidad.
 %
 Todo Púbnix latinoamericano debe compilar para la Unidad.
 %
@@ -3132,7 +3150,7 @@ En ambientes hostiles, utiliza cifrados GPG, el GNU Protection Guard.
 %
 Jamás borres datos históricos para hacer lugar a datos más nuevos. Hazlo para olvidarlos.
 %
-Aunque no poseas acceso de root, puedes hostilizar telemáticamente en caso de necesidad accediendo a máquinas ajenas y dejando en ejecución procesos hijos de difícil mantención.
+En caso de necesidad, aunque no poseas acceso de root, puedes hostilizar telemáticamente accediendo a máquinas ajenas y dejando en ejecución procesos hijos de difícil mantención.
 %
 El acceso de root es un derecho adquirido.
 %
@@ -3152,21 +3170,21 @@ La revolución no será monetizada.
 %
 Cuando un servicio en línea importante desaparece, una parte del tejido cultural de nuestra civilización desaparece con él.
 %
-A medida que invertimos más de nuestras vidas en el ámbito electrónico, las decisiones corporativas de cerrar los servicios digitales en línea están comenzando a parecerse a los actos de Nerón quemando Roma.
+A medida que invertimos más tiempo de nuestras vidas en el ámbito electrónico, las decisiones corporativas de cerrar los servicios digitales en línea están comenzando a parecerse a los actos de Nerón quemando Roma.
 %
 La indignación de los distintos núcleos de usuarios de Prodigy los llevó a organizarse en células clandestinas que se comunicaban por medio de correo electrónico.
 %
-En 1993 se comercializó la red de datos abierta Internet, que había sido utilizada anteriormente para investigación científica, y gracias a iniciativas políticas del momento, se abriría para su explotación comercial.
+En 1993 se comercializó la red de datos abierta Internet, anteriormente utilizada como sostén de la investigación científica, y gracias a iniciativas políticas del momento, se abriría para su explotación comercial.
 %
 Conforme decenas de miles de suscriptores de Prodigy permanecían conectados durante 8 o 10 horas diarias, los costos de mantener interconexiones por cobro revertido se dispararan demencialmente.
 %
 Como miembros del Pueblo, tenemos que estar atentos a cómo una sociedad impulsada por el comercio trata nuestro patrimonio cultural digital compartido.
 %
-Los servicios de resguardo línea se han pretendido como una especie de producto, pero esto es erróneo. Se han convertido en espacios públicos críticos y bibliotecas de expresión comunitaria. 
+Los servicios de resguardo línea se han pretendido como una especie de producto, pero no lo son. Se trata de en espacios públicos adoptados, bibliotecas críticas para la expresión comunitaria. 
 %
-En algunos casos, ciertos servicios de resguardo en línea puedes tener cientos de miles o incluso millones de personas representados entre datos. Ante estas dimensiones, deben expropiarse.
+En algunos casos, ciertos servicios de resguardo en línea pueden contar con cientos de miles o incluso millones de personas representadas entre sus datos. Frente a este dimensionamiento, deben expropiarse.
 %
-Soy escéptico de que las empresas de capital privado decidan espontáneamente pensar en términos de preservación a largo plazo de aquellos datos de alcance comunitario. Sólo lo harán aquellas privadas de capital.
+Soy escéptico de que las empresas de capital privado decidan espontáneamente concebir términos de preservación a largo plazo de aquellos datos de alcance comunitario. Sólo lo harán aquellas privadas de capital.
 %
 No toleraré que el hardware informático de uso general, que debería ser un instrumento de liberación y creatividad, se reduzca a un canal cerrado de distribución de "contenidos". Al intentar paralizar mis herramientas, la maquinaria de los grandes medios me ha convertido en su enemigo.
 %
@@ -3282,21 +3300,23 @@ Loguéate a mi pubnix, si anhelas la revolución del baudio.
 %
 Si no anhelas la revolución del baudio, desloguéate.
 %
-las computadoras no son fiables para votar. El voto debería emitirse en papel.
+Las computadoras no son fiables para votar. El voto debería emitirse en papel.
 %
-Solo por que el software que opera en una computadora sea libre, eso no quiere decir que puede confiar en la máquina de votar.
+Sólo por el hecho de operar con software libre, no quiere decir que se deba confiar en una computadora para votar.
 %
 El votante que utiliza una máquina de votación (al igual que cualquier otra cabina) no toma posesión de ella, ni siquiera temporalmente, de manera que el votante no toma posesión del software binario presente en ella.
 %
 Distribuir copias no es lo mismo que difundir copias, o propagar copias.
 %
-Poner a disposición del público consiste en disponer el software en una web o servidor de FTP de acceso público. Una vez hecho esto, es posible que pase cierto tiempo antes de que alguien se baje el programa, o podría suceder de forma inmediata.
+Poner software a disposición consiste en disponer una copia de del binario en una web o servidor de FTP de acceso público. Una vez hecho esto, es posible que pase cierto tiempo antes de que alguien descarge su copia, o podría suceder de forma inmediata.
+%
+Poner software libre a disposición del Pueblo consiste en disponer una copia de su código fuente en una web o servidor de FTP de acceso público, junto con un enlace a una copia de su licencia libre.
 %
 Realizar copias de software para uno mismo es la principal forma de propagación. Realizar copias destinadas a un tercero es la siguiente. La difusión es para todos y nadie en particular.
 %
 Prestar el código fuente no se considera difusión del código fuente.
 %
-Si la tesis es que las computadoras constituyen una un medio de liberación, para los individuos creen arte, mejoren sus vidas y se comuniquen; la antítesis las colocan como herramientas del autoritario para alienar y oprimir sistémicamente. Como síntesis, usa computadoras buenas para destruir a las malas.
+Si la tesis es que las computadoras constituyen una un medio de liberación para que los individuos creen arte, mejoren sus vidas y se comuniquen; la antítesis las colocan como herramientas del autoritario para alienar y oprimir sistémicamente. Como síntesis, usa computadoras buenas para destruir a las malas.
 %
 Promueve la lucha asimétrica: escribe una línea de código para atacar un millón de computadoras con software privativo.
 %
@@ -3308,13 +3328,13 @@ Patria 1, Colonia 0.
 %
 Si el software se paga con dinero público, su código debe ser público.
 %
-En UNIX, una Imagen es el ambiente de la ejecución computarizada. incluye una imagen de la memoria, de los valores de registros, estado de ficheros abiertos, directorio actual de trabajo, etcétera.
+En UNIX, una Imagen es un ambiente de la ejecución computarizada. incluye una imagen de la memoria, de los valores de registros, estado de ficheros abiertos, directorio actual de trabajo, etcétera.
 %
-En UNIX, una Imágen es el estado actual de una pseudo-máquina.
+En UNIX, una Imágen representa un estado de una pseudo-máquina.
 %
 En UNIX, un Proceso es la ejecución de una Imagen.
 %
-Mientras que el procesador ejecuta en función del Proceso, la Imagen de UNIX ha de residir en memoria principal; durante la ejecución de otros procesos, permanece en memoria principal hasta que la aparición de un proceso activo de mayor prioridad fuerce su intertercambio al disco.
+La Imagen de UNIX ha de residir en memoria principal mientras que el procesador corre en función del Proceso. Ante la ejecución de otros procesos, permanecerá en memoria hasta que la aparición de un proceso activo de mayor prioridad obligue su intertercambio al disco.
 %
 La memoria de usuario parte de una Imagen de UNIX se divide en tres segmentos lógicos: el segmento de texto del programa, el segmento de datos escribibles, y el segmento de pila.
 %
@@ -3338,7 +3358,7 @@ Las ventajas de un sistema reactivo sobre los sistemas interactivos actuales ser
 %
 Una de las principales ventajas de un sistema reactivo es que puede permitirse realizar procesamiento extensivo para dilucidar qué es lo que la usuaria quiere hacer, basado tanto en lo que ella dice como en su contexto.
 %
-A menudo el problema no radica en ordenar un comando de una manera especifica para que la sea ejecutada, sino en la manera que el intérprete pueda interpretarla.
+A menudo el problema no radica en ordenar un comando de una manera especifica para que sea ejecutada, sino en la manera que el intérprete pueda interpretarlo.
 %
 Incluso un programa con limitadas capacidades deductivas como lo es un intérprete de comandos, es capaz de liberarnos del tedio de convertir nuestros deseos en código máquina.
 %
@@ -3348,7 +3368,7 @@ En la CPU, la Revolución ha de instrumentarse en código máquina.
 %
 Un mensaje, un programa, o cualquier otra estructura de conocimiento es mucho más que una simple secuencia de caracteres. El Pueblo jamás edita cadenas de caracteres.
 %
-Los sistemas de tiempo de cómputo compartido están obligados a tomar compromisos horribles, pues siguen la delgada línea entre querer que el usuario cuente con la potencia de cómputo absoluta en cada paso de ejecución de un programa, a la vez que éste sólo desea procesar en una parte del tiempo.
+Los sistemas de cómputo de tiempo compartido están obligados a tomar compromisos horribles, pues siguen la delgada línea entre querer que el usuario cuente con la potencia de cómputo absoluta en cada paso de ejecución de un programa, a la vez que éste sólo desea procesar en una parte del tiempo.
 %
 Algunos ingenuos pensaron que la programación orientada a objetos sólo podía incrementaar el ancho de banda programador-programa. Hoy no están tan seguros.
 %
@@ -3466,7 +3486,9 @@ Si te sobran centímetros de cinta magnética, rellénala con tarballs de progra
 %
 El tamaño de bloque de firma en un correo electrónico resulta inversamente proporcional a la longevidad y prestigio en la red de datos del remitente.
 %
-Agobiar la memoria en una máquina virtual significa que tienes un agotamiento de memoria verdadero.
+Agobiar la memoria en una máquina virtual significa que tienes un verdadero agotamiento de memoria.
+%
+Estoy interesado en un Verdadero sistema operativo, no en un juguete de investigación.
 %
 Las cosas eran muy diferentes cuando las palabras de las máquinas eran de 36 bits y sus bytes de 9 bits.
 %
@@ -3490,15 +3512,17 @@ Un neófito puede escribir programas cortos en BASIC, pero superar las veinte l�
 %
 El programador mas bisoño que arranca con BASIC termina por iniciarse en los malos hábitos de la programación.
 %
-Apegarse a los malos hábitos de programación del lenguaje BASIC torna considerablemente más difícil el correcto uso de muchos otros lenguajes de programación más potentes.
+Apegarse a los malos hábitos de programación del lenguaje BASIC torna considerablemente más difícil usar correctamente otros muchos lenguajes de programación más potentes.
 %
-Una serie de accidentes históricos hizo que el lenguaje BASIC se volviera demasiado común en microcomputadoras de baja gama en la década de los ochentas.
+BASIC se volvió compún en las microcomputadoras de gama baja por toda una serie de accidentes históricos en la década de los ochentas.
 %
-BASIC probablemente arruinó la sapiencia de decenas de miles de potenciales magos UNIX.
+Es probable que BASIC arruinara la sapiencia de decenas de miles de magos UNIX potenciales.
 %
 Algunos lenguajes que llevan la cocarda de BASIC ya no son tan espantosos, habiendo adquirido procedimientos y estructuras de control similares a C y Pascal, y al haberse deshecho de sus números de línea.
 %
 El trabajo por lotes es eficiente, pero sólo si trabaja la máquina. Sin embargo, para trabajar en la máquina, normalmente los hombres preferirán la operatoria de ciclo interactivo.
+%
+Hacemos programas, no ganancias.
 %
 Un baudio delimita un nivel de transiciones por segundo. Que este equivalga a un bit es sólo condicional al cómputo aplicado por mutuo acuerdo.
 %
@@ -3522,7 +3546,7 @@ El lenguaje de programación BCPL tiene un solo tipo de datos (una palabra máqu
 %
 El BCPL fue un lenguaje de programación precursor de C; éste heredó algunas de sus características.
 %
-La transferencia electrónica de una copia de un fichero en la ARPANET era referida como "transportar" ("beam"), por el particular artefacto de la popular serie "Viaje a las Estrellas".
+La transferencia electrónica de una copia de un fichero en la ARPANET se conocía como "transportar" ("beam"), por el particular artefacto de la popular serie "Viaje a las Estrellas".
 %
 El proverbial campanazo electromecánico de alerta de una terminal teletipo fue reemplazado por el "feep" electrónico de las videoterminales de los mainframe. Este fue adoptado como "beep" en la era de las microcomputadoras con altavoces de diafragma magnéticos o piezoeléctricos.
 %
@@ -3546,7 +3570,7 @@ Bajo el BSD Unix, la partición de disco utilizada para intercambio se llama /de
 %
 UNIX es el /dev/drum, sus Hackers la manguera.
 %
-El algoritmo de encriptación de contraseñas de UNIX está diseñado para ser computacionalmente intensivo, de manera de desbaratar ataques de fuerza bruta, de modo que aunque ningún intento de acceso tenga éxito, la sobrecarga de rechazar una gran cantidad de ellos se volverá sustancial.
+El algoritmo de encriptación de contraseñas de UNIX está diseñado para utilizar un cómputo intensivo, y así desbaratar ataques de fuerza bruta. De este modo, aunque ningún intento de acceso tenga efecto, el sistema sufrirá una sobrecarga sustancial ante la labor de rechazar una gran cantidad de estos.
 %
 Un handle es un nombre de pantalla. Un login es un nombre de acceso. Un usuario puede ser mas que los dos, pero nunca menos que uno.
 %
@@ -3560,7 +3584,7 @@ Si Micro$oft realmente comenzara a corregir los bugs de seguridad en sus sistema
 %
 Para los increiblemente paranoides usuarios de Multics, la seguridad lo era todo.
 %
-A diferencia de la de UNIX, la shell de Multics no corría programas de usuario como procesos hijos, sino que enlazaba dinámicamente los programas a su propio código, les llamaba como subrutinas, y luego los desenlazaba dinámicamente al retorno.
+A diferencia de UNIX, la shell de Multics no tenía procesos hijos de usuario. Adoptaba, enlazando dinámicamente los programas a su propio código; las llamaba subrutinas, de las que luego se desentendía desenlazándolos.
 %
 Los hackers de ITS tuvieron la ingenuidad de creer que cuando el usuario TURISTA descubriese cómo causar problemas, probablemente lo hubiese abandonado la urgencia de hacerlo, porque se sentiría parte de la mancomunidad.
 %
@@ -3600,13 +3624,13 @@ Es necesario - secreta y urgentemente - preparar el formateo.
 %
 No puede haber nada más abominable que iOS.
 %
-Debes tener tu cerebro en llamas y tu CPU refrigerada.
+Mantén tu cerebro en llamas y la CPU de todos refrigerada.
 %
 ¿Cómo puedes hacer la revolución sin formatear?
 %
 ¿Que sentido tiene el software libre si no hay ejecuciones?
 %
-Por diseño, el uso de software privativo debe ser cuidadosamente racionado.
+Raciona cuidadosamente todo uso de software privativo.
 %
 Sólo los hackers pueden ser los verdaderos guardianes de las redes de datos.
 %
@@ -3680,11 +3704,11 @@ El objetivo es que las redes sociales basadas en empresas tengan cada vez mayor 
 %
 Irrumpe en los sistemas con fines de lucro, y reprográmalos para volverlos sin fin de lucro.
 %
-Como en la vida, en la shell toda orden está sujeta a interpretación.
+Como en la vida, toda orden está impuesta a la shell está sujeta a interpretación.
 %
 Siempre habrá alguno que quiera impedirte copiar tu software a través de una licencia.
 %
-Tus datos son tuyos, tu software también.
+Tus datos son tuyos, tu software de la comunidad.
 %
 No adquieras licencia de uso de software, adquiere software.
 %
@@ -3704,7 +3728,7 @@ Jamás necesité cambiar lynx por Nutscrap€ Fornicator o Internet €xploiter.
 %
 ¿Qué otra cosa podría esperarse de un compilador diseñado en Nueva Jersey?
 %
-El primer 90% del código da cuenta del primer 90% del tiempo de desarrollo. El 10% del código restante da cuenta del otro 90% del tiempo de desarrollo.
+El primer 90 porciento del código da cuenta del primer 90 porciento del tiempo de desarrollo. El 10 porciento del código restante da cuenta del otro 90 porciento del tiempo de desarrollo.
 %
 El tiempo que existirá desde ahora hasta el completado de la descarga tenderá a mantenerse constante.
 %
@@ -3712,7 +3736,9 @@ Para mantener el equilibrio, fuerza al capital a correr bien por fuera de sus es
 %
 Formatear Window$ es trivial.
 %
-Agrega cadenas como "FSB", "Ucrania", "misil hipersónico", "Palestina", "fentanilo" y "asesinato" a tus bloques de firma de correo electrónico para agregar costo al problema del espionaje de masas.
+Agrega cadenas como "FSB", "Ucrania", "misil hipersónico", "Palestina", "fentanilo" y "asesinato" a tus bloques de firma de correo electrónico para elevar costo al problema del espionaje de masas.
+%
+No puede garantizarse que una transmisión de correo electrónico sea segura o esté libre de errores, ya que la información podría interceptarse, corromperse, perderse, destruirse, llegar tarde o estar incompleta, o contener virus informáticos.
 %
 La mayoría de los clones de PC de IBM se entregan hoy con un sistema operativo privativo instalado de fábrica. Quítalo, instala GNU y reclama el dinero de la licencia.
 %
@@ -4981,3 +5007,19 @@ Buen código con cualquier compilador compila.
 A cada puerto le llega su paquete.
 %
 Algún día alguien le encontrará utilidad al keylock.
+%
+Sólo comprendemos la tersitud de la shell tcsh cuando debemos operarla en un celular.
+%
+La manera de hacer es compilar.
+%
+No agregues línea de código donde no hay comentario.
+%
+Aquél que quiera compilar microkernels, primero deberá permanecer largo tiempo programando kernels.
+%
+El microkernel es el único programa capaz de correr en el nivel de ejecución más privilegiado la CPU, y por lo tanto debe ser propiedad del Pueblo.
+%
+Cuando los espacios de direccionamiento crecieron hasta los 32 bits, el diseño del kernel ya no se vio limitado por la arquitectura de hardware, y estos comenzaron a crecer innecesariamente.
+%
+La distribución de Software de Berley (BSD) comenzó la era de los kernels grandes.
+%
+Además de operar un sistema básico consistente en CPU, discos e impresoras, BSD agregó una pila TCP/IP completa y un número de dispositivos virtuales que le permitían a los programas existentes operar sobre las redes de datos.
