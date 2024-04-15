@@ -17,6 +17,7 @@ wget -O /tmp/vaca2.cow https://caja.texto-plano.xyz/peron/fortune-phrases/cows/v
 wget -O /tmp/fido.cow https://caja.texto-plano.xyz/peron/fortune-phrases/cows/fido.cow
 wget -O /tmp/3b2.cow https://caja.texto-plano.xyz/peron/fortune-phrases/cows/3b2.cow
 wget -O /tmp/3b2_400.cow https://caja.texto-plano.xyz/peron/fortune-phrases/cows/3b2_400.cow
+wget -O /tmp/pdp10.cow https://caja.texto-plano.xyz/peron/fortune-phrases/cows/pdp10.cow
 wget -O /tmp/pdp11_70.cow https://caja.texto-plano.xyz/peron/fortune-phrases/cows/pdp11_70.cow
 wget -O /tmp/pdp11_84.cow https://caja.texto-plano.xyz/peron/fortune-phrases/cows/pdp11_84.cow
 wget -O /tmp/rms.cow https://caja.texto-plano.xyz/peron/fortune-phrases/cows/rms.cow
