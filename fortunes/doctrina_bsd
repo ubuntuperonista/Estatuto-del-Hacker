@@ -3244,9 +3244,8 @@ Si bien el sistema UNIX no establece un límite en la cantidad de
 procesos en segundo plano, el rendimiento del sistema tiende a
 degradarse ante el exceso de procesos.
 %
-Es posible que otras personas además de usted estén utilizando el
-sistema multiusuario desde diferentes terminales conectados a la
-máquina.
+Es posible que además de usted, el Pueblo esté utilizando el sistema
+multiusuario desde diferentes terminales conectados a la máquina.
 %
 Los usuarios de una máquina constituyen un grupo de individuos que
 tienen intereses comunes, como por ejemplo, la comunicación, el
@@ -3809,8 +3808,8 @@ libre un instrumento de liberación económica.
 %
 Ciertas Corporaciones emplean su software privativo y servicios
 abusivos, controlan las actividades informáticas del Pueblo, colectan
-datos en todas las esferas de la vida de las personas, y lucran con
-ellos con el fin de obtener ventajas y ganancias.
+datos en todas las esferas de la vida individual, y lucran con ellos con
+el fin de obtener ventajas y ganancias.
 %
 Recoger gran cantidad de datos de las actividades informáticas del
 Pueblo constituye un riesgo para la democracia y para las libertades
@@ -3835,7 +3834,7 @@ tiene el control y es capaz de corregir o de eliminar fallos de
 seguridad que lo deje expuesto a los mismos programadores.
 %
 Cuando se trata de acumular datos digitalizados de los movimientos,
-publicaciones y acciones de las personas, el registro informático a gran
+publicaciones y acciones del Pueblo, el registro informático a gran
 escala es un gran peligro para los derechos humanos.
 %
 No basta con advertir del uso de los datos personales desde las bases de
@@ -4299,6 +4298,9 @@ La shell no es el sistema operativo en sí mismo.
 %
 La shell es la interfaz entre la mujer y la máquina.
 %
+El prompt es un recordatorio para el usuario de que no está sucediendo
+nada, de que la computadora se encuentra dispuesta a recibir una órden.
+%
 sh es la shell de Bourne, estándar en UNIX System V, y como tal, lleva
 el signo $ como prompt.
 %
@@ -4391,11 +4393,10 @@ moldearlas.
 A veces un laberinto surge en una sola línea de código.
 %
 Los scripts de shell a menudo se usan para crear aplicaciones más
-grandes para que las usen otras personas. Según mi experiencia, la
-mayoría de las aplicaciones completas utilizan varios scripts que
-funcionan entre sí. Como resultado, tenemos que idear una forma de
-comunicar información entre varios scripts que trabajan juntos como una
-sola aplicación.
+grandes para que las use el Pueblo. Según mi experiencia, la mayoría de
+las aplicaciones completas utilizan varios scripts que funcionan entre
+sí. Como resultado, tenemos que idear una forma de comunicar información
+entre varios scripts que trabajan juntos como una sola aplicación.
 %
 Usar Ctrl+D para abandonar la sesión del intérprete tcsh es considerado
 descortés, pero esta shell debería saber al respecto y temer lo que un
@@ -5122,9 +5123,10 @@ Si liberas tu software bajo GPLv3, aunque mueras no perecerá.
 %
 Quien vende copias tiene poco. Quien entrega copias tiene mucho.
 %
-Las DRM no son herramientas apropiadas para las personas amables; ellas
-valoran la paz y la tranquilidad. No encuentran gloria en que te paguen
-una copia.
+Las DRM no son herramientas apropiadas para el Pueblo; él valora la paz
+y la tranquilidad.
+%
+No encuentres gloria en que te paguen una copia.
 %
 La GPLv3 es el amigo más grande. La EULA es el amigo del grandote.
 %
@@ -5349,11 +5351,11 @@ Nunca interrumpas a Window$ mientras esté cometiendo errores.
 Vivimos en una era donde nuestra sociedad confía más y más en
 ordenadores e información computarizada.
 %
-La amenaza de un usuario del sistema siempre estará presente.
+Jamás cesará la amenaza de un usuario malicioso del sistema.
 %
 Al activar la funcionalidad de contraseña, se restringe el acceso no
-autorizado a la consola de terminal de computadora cuando esta se
-enciende o se reinicia.
+autorizado a la consola de terminal de computadora, mitigando de cierta
+manera los ataques telemáticos.
 %
 Usar la funcionalidad de contraseña de consola puede ayudar a defender
 tu sistema de cómputo y tus datos de un ataque telemático.
@@ -5369,9 +5371,9 @@ En ambientes hostiles, utiliza cifrados GPG, el GNU Protection Guard.
 Jamás borres datos históricos para hacer lugar a datos más nuevos. Hazlo
 para olvidarlos.
 %
-En caso de necesidad, aunque no poseas acceso de root, puedes hostilizar
-telemáticamente accediendo a máquinas ajenas y dejando en ejecución
-procesos hijos de difícil mantención.
+Aunque no poseas acceso de root, puedes hostilizar telemáticamente en
+caso de necesidad, accediendo a máquinas ajenas y dejando en ejecución
+procesos hijos de difícil manutención.
 %
 El acceso de root es un derecho adquirido.
 %
@@ -5407,7 +5409,7 @@ correo electrónico.
 %
 En 1993 se comercializó la red de datos abierta Internet, anteriormente
 utilizada como sostén de la investigación científica, y gracias a
-iniciativas políticas del momento, se abriría para su explotación
+iniciativas políticas circunstanciales, se abrió su explotación
 comercial.
 %
 Conforme decenas de miles de suscriptores de Prodigy permanecían
@@ -5470,7 +5472,7 @@ Cuando el disco suena, datos se lleva.
 %
 A buen C no hay mala CPU.
 %
-Dentro de cada pequeño bug hay un bug enorme luchando por salirse al
+Dentro de cada pequeño bug hay un bug enorme luchando por salirle al
 paso.
 %
 Una cosa es predicar y otra hacer buenos kernels.
@@ -5505,7 +5507,7 @@ No basta correr el código; además hay que modificarlo.
 A veces el código fuente nos consuela de las cosas, y las redes de datos
 de las personas.
 %
-Cuando el Windowser no tiene nada que hacer, mata moscas con el rabo.
+Cuando el Window$ero no tiene nada que hacer, mata moscas con el rabo.
 %
 Váyase lo devuelto por /dev/null.
 %
@@ -5515,13 +5517,13 @@ corazón.
 Otros se jactan de las líneas de código que han escrito; a mí me
 enorgullecen las que he borrado.
 %
-Bien de firewall y antivirus, pero mal de BIOS.
+Bien de cortafuegos y antivirus, pero mal de BIOS.
 %
 Escoge un kernel Linux-libre; la costumbre te lo hará agradable.
 %
 No creas hasta ver el código fuente.
 %
-Loguear y hacer ls, tiene el history mil millares.
+De loguear y hacer ls, tiene el history mil millares.
 %
 Si el SysAdmin instala Window$, ¿qué no harán los demás vecinos?
 %
@@ -5726,9 +5728,9 @@ particionamiento de recursos, haciendo difícil para una individuo
 obtener algo más que un muy escaso porcentaje de memoria y potencia de
 procesamiento.
 %
-La filosofía básica del bio-nanocómputo reactivo gira alrededor de la
-idea de permitir a los usuarios individuales lograr acceso a recursos de
-biocómputo ajenos en todo caso que sea necesario.
+La filosofía básica del bio-nanocómputo reactivo gira en torno a la idea
+de permitir a los usuarios individuales lograr acceso a recursos de
+biocómputo ajenos toda vez que sea necesario.
 %
 Existe un continuo ciclo en el cual los procesos de bio-cómputo se
 tornan más y mas potentes. En algún momento una porción cierta de este
@@ -5894,13 +5896,13 @@ Depurar un programa introduciendo cambios pequeños inconexos con la
 esperanza que el bug desaparezca, no suele ser pródigo en resultados.
 %
 Si te sobran centímetros de cinta magnética, rellénala con tarballs de
-programas que ni siquiera conoces.
+programas libres que ni siquiera conoces.
 %
 El tamaño de bloque de firma en un correo electrónico resulta
 inversamente proporcional a la longevidad y prestigio en la red de datos
 del remitente.
 %
-Agobiar la memoria en una máquina virtual significa que tienes un
+Agobiar la memoria de una máquina virtual significa que tienes un
 verdadero agotamiento de memoria.
 %
 Estoy interesado en un Verdadero sistema operativo, no en un juguete de
@@ -5937,18 +5939,19 @@ BASIC ha seguido la espiral descendente que atraviesa todo lenguaje de
 programación deliberadamente diseñado como juguete educativo, y al que
 alguien ha tomado demasiado en serio.
 %
-Un neófito puede escribir programas cortos en BASIC, pero superar las
-veinte líneas en este lenguaje es sumamemnte dificultoso.
+Un neófito será capaz de escribir programas cortos en BASIC, pero
+superadas las veinte líneas de código, aprenderá que es un lenguaje
+sumamemnte engorroso.
 %
-El programador mas bisoño que arranca con BASIC termina por iniciarse en
-los malos hábitos de la programación.
+El programador mas bisoño que comienza con BASIC se inicia en malos
+hábitos de la programación que nunca podrá arrancarse de sí.
 %
 Apegarse a los malos hábitos de programación del lenguaje BASIC torna
 considerablemente más difícil usar correctamente otros muchos lenguajes
 de programación más potentes.
 %
-BASIC se volvió compún en las microcomputadoras de gama baja por toda
-una serie de accidentes históricos en la década de los ochentas.
+Por una serie de accidentes históricos en la década de los ochentas,
+BASIC se volvió común en las microcomputadoras de gama baja.
 %
 Es probable que BASIC arruinara la sapiencia de decenas de miles de
 magos UNIX potenciales.
@@ -6233,7 +6236,8 @@ Capital.
 De poco vale que la revolución quede en las redes. Si no eres root, no
 podrás modificar el sistema.
 %
-Convence al root de ejecutar tus scripts.
+Convence al root de ejecutar tus scripts, o convence a tus scripts de
+ejecutar al root.
 %
 Si eres root, escribe tus programas.
 %
@@ -6830,18 +6834,21 @@ Una de las ventajas más importantes de las conferencias por computadora
 es ampliar su círculo de compañer@s.
 %
 El género, edad, origen nacional y la apariencia física no son evidentes
-en el ciberespacio a menos que una persona quiera hacer públicas tales
+en el ciberespacio, a menos que una persona quiera hacer públicas tales
 características.
 %
-Las personas cuyas discapacidades físicas les dificultan formar nuevas
-amistades descubren que las comunidades virtuales las tratan como
-siempre quisieron ser tratadas.
+Los integrantes del Pueblo cuyas discapacidades físicas les dificultan
+formar nuevas amistades, han descubierto que las comunidades federadas
+los tratan con Justicia Social.
 %
-Una persona con capacidades diferentes en línea sólo es considerada como
-un ser pensante y transmisor de ideas y sentimientos.
+Una persona con capacidades diferentes, en línea, es considerada como un
+ser pensante y transmisor de ideas y sentimientos del Pueblo.
+%
+Nosotros no tenemos una red social. Tenemos una red de justicia social.
+Que sea informatizada es simplemente un chirimbolo.
 %
 Una de las propiedades sorprendentes de la telemática es que es una
-actividad social.
+actividad de justicia social.
 %
 Las comunicaciones mediadas por computadora son una forma de conocer
 gente, ya sea que sientas o no la necesidad de afiliarte a ellos a nivel
@@ -8411,3 +8418,109 @@ Además de operar un sistema básico consistente en CPU, discos e
 impresoras, BSD agregó una pila TCP/IP completa y un número de
 dispositivos virtuales que le permitían a los programas existentes
 operar sobre las redes de datos.
+%
+Las impresoras Canon Bubbl€J€t eran basura. Nunca funcionaban y cuando
+lo hacían, imprimían basura.
+%
+Lisp fué originariamente desarrollado a finales de los años 50 en el
+Instituto Tecnológico de Massachusetts para la investigacion en
+inteligencia artificial. El gran poder del lenguaje Lisp lo hace
+superior también para otros propósitos, como la escritura de comandos de
+edición y entornos integrados.
+%
+GNU Emacs Lisp está fuertemente inspirado en Maclisp, que fue escrito en
+el MIT en la decada de 1960. En cierto modo está inspirado en Common
+Lisp, que se convirtio en un estándar en los 80. Sin embargo, Emacs Lisp
+es muchísimo más simple que Common Lisp.
+%
+Un programador puede tener que convertirse en experto leyendo manuales
+de referencia.
+%
+Convertirse en hacker es como bucear. Prefiero aprender leyendo manuales
+de referencia: me zambullo en cada párrafo y entre ellos subo a tomar
+aire.
+%
+Aprender a programar una computadora no es tan complicado. Probablemente
+descubrirá que un proceso iterativo funciona mejor. Lea parte del texto,
+pruebe algunos programas en el mainframe y vuelva a leer un poco más.
+%
+Leer un manual de programación le ayudará a escribir su próxiimo
+programa. Programay y correr un programa le ayudará a comprender el
+texto de un manual de programación.
+%
+Un programa libre constará de un conjunto de instrucciones que hacen que
+la computadora obren una tarea de nuestra elección. Un programa
+privativo hace que la computadora haga lo que otro quiere - a menudo sin
+nuestro conocimiento.
+%
+El proceso de escribir instrucciones para la computadora se llama
+programación.
+%
+La programación es el proceso de escribir instrucciones para controlar
+un ordenador.
+%
+Cada lenguaje de programación dispone de una lista de instrucciones
+disponibles para usar. Cada una de estas instrucciones tiene sus reglas.
+%
+Los programas hacen una asombrosa variedad de cosas. Puede realizar los
+cálculos aritméticos más simples o las manipulaciones matemáticas más
+complejas.
+%
+Es posible amoldar programas interactivos en pos de nuestros anhelos. Es
+posible programar para que la computadora juegue una partida, o libere
+al mundo de las ciber-oligarquías.
+%
+Para ser un hacker debes - realmente y por encima de todo - escribir y
+correr programas que liberen al Tercer Mundo.
+%
+La proliferación del nanocómputo ha hecho que la programación esté
+disponible para las masas del Tercer Mundo.
+%
+Cada vez es más fácil para nuestro Pueblo aprender sobre computadoras.
+Al mismo tiempo, cada vez es más importante hacerlo para nuestra
+Liberación.
+%
+Podemos escribir software de computadora para resolver un problema
+algebraico, u organizar un directorio de nombres y direcciones de
+compañeros. Incluso es posible programar una computadora para solventar
+a los Pueblos del Tercer Mundo.
+%
+Mas que en tambor, a nuestros programas los guardamos en un bombo.
+%
+Renovar esa comprensibilidad a nivel de silicio para las generaciones
+futuras probablemente requerirá un replanteamiento significativo de
+nuestros enfoques en la educación del diseño de procesadores.
+%
+Aprender a programar una computadora puede resultar muy estimulante. La
+emoción de ver su primera idea aparentemente complicada implementada en
+un programa claro y sencillo es maravillosa.
+%
+Todo lo que hace una computadora es explicable y predecible. Lo que hará
+un tecno-oligarca, también.
+%
+Debes tener cuidado de evaluar los resultados que produce la
+computadora.
+%
+Jamás aceptes ciegamente resultados de una computadora programada por
+oligarcas.
+%
+Los errores en los resultados de la ejecución de un programa suelen ser
+causados por errores en las instrucciones escritas por su programador.
+%
+Resiste la tentación de culpar a cualquier otra cosa que no sea a la
+oligarquía por resultados informáticos incorrectos o inesperados.
+%
+No enfrentes a la computadora. Enfrenta a la oligarquía.
+%
+Podemos trabajar con el ordenador con total privacidad. Los errores que
+nos informa la computadora se convierten en nuestro secreto. Nadie más
+necesita saber qué hicimos mal.
+%
+Una computadora guardará tu secreto sólo si la arrebatas al control de
+la oligarquía y la haces completamente tuya.
+%
+Si escribes correctamente tu C, la computadora tendrá una paciencia
+verdaderamente infinita y jamás alzará la voz.
+%
+Conforme domines el Pubnix, demostrarás con confianza tu habilidad a
+todos quienes quieran unirse.
