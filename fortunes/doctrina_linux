@@ -198,9 +198,9 @@ Una manera muy simple de análisis de tráfico telemático puede realizarse en c
 %
 Incluso si encriptamos la carga útil en nuestras comunicaciones, un análisis superficial del encabezado del paquete puede aún revelar gran parte de nuestras actividades y accionar.
 %
-Intermediarios autorizados -como los proveedores de internet- y a veces no autorizados -estos mismos proveedores cuando están en manos oligárquicas- podrían adaptarse a nuestros patrones de tráfico telemático, y trazar conclusiones relativamente acertadas sobre su contenido, las tácticas empleadas, etc.
+Cualquier intermediario en las redes podría adaptarse a nuestros patrones de tráfico telemático, y trazar conclusiones relativamente acertadas sobre su contenido, las tácticas empleadas, etc.
 %
-Un actor dedicado puede espiar múltiples partes de la red y emplear cruzados estadísticos sofisticados para rastrear patrones de comunicación de individuos u organizaciones específicas.
+Un actor dedicado puede escrutar la red empleando cruzados estadísticos sofisticados para rastrear patrones de comunicación de individuos u organizaciones específicas.
 %
 Quien programe, comente. Quien use, documente.
 %
@@ -208,13 +208,13 @@ Adoctrinar sobre el software libre es tan útil como usar # para agregar comenta
 %
 Tor, a través de sus servidores, ayuda a reducir los riesgos telemáticos inherentes a través del ofuscado y redistribución de las transacciones a lo largo de múltiples secciones en la Internet.
 %
-Que todo FTP tenga su ARCHIE.
-%
-Antes que Googl€ estuvo Verónica.
-%
 WAIS, Altavista y Webcrawler marcaron la senda que irrevocablemente seguirá Googl€. No existe manera de evitar el destino de quien -abusando de la centralización- osa desafiar a los Pueblos.
 %
 Bajo la oscura capa de Tor se dificultará rastrear un par de enlace desde su origen y hacia su destino específico, de la misma forma que una liebre podría seguir una ruta rebuscada para perder al mastín.
+%
+Que todo FTP tenga su ARCHIE.
+%
+Antes que Googl€ estuvo Verónica.
 %
 Antes que UNIX estuvo TENEX.
 %
@@ -2580,7 +2580,7 @@ La computadora puede verse como una herramienta con la función sin precedente d
 %
 Entre las bellas artes, la primera en hacer uso computacional no fue la literatura, sino la música.
 %
-Al igual que la programación, la música sigue un arte simbólico.
+Al igual que la programación, la música es un arte simbólico.
 %
 La simetría entre la composición musical y la programación de software se basa en que ambas actividades humanas dependen de representaciones simbólicas alejadas de la ejecución final de la pieza.
 %
@@ -2857,7 +2857,7 @@ En la medida que pasen los años, el cómputo estará cada vez más involucrado 
 %
 La tecnología del cómputo debe siempre sintetizarse.
 %
-Al contrario de lo que muchos creen, la evolución de la tarea del cómputo debe llevarse a cabo según una tarea de simplificación.
+Al contrario de lo que muchos creen, la evolución de la tarea del cómputo debe llevarse a cabo según una labor de simplificación.
 %
 El sistema UNIX no es el fin de la síntesis computacional a la que aspira el Pueblo: sólo un buen paso en la senda de la simplificación.
 %
@@ -4104,9 +4104,9 @@ El ataque más insidioso a nuestro derecho a un grado razonable de privacidad en
 %
 Las tecnologías actuales permiten más sutilezas a la vigilancia tecnológica de las que Orwell podría haber previsto.
 %
-Si los manipuladores totalitarios de Pueblos y tecnologías realmente logran dominar en el futuro, no comenzarán con policía secreta derribando puertas, sino permitiéndo vender por intermedio de aplicaciones que dominan, comerciando información sobre sus transacciones, e ilegalizando medidas que podría utilizar para protegerse.
+Si los manipuladores totalitarios de tecnologías realmente logran dominar en el futuro, no habrán comenzado con policía secreta derribando puertas, sino permitiendo vender por intermedio de aplicaciones que dominan, comerciando información sobre las transacciones, e ilegalizando medidas que el Pueblo podría utilizar para protegerse.
 %
-En lugar de escuchas telefónicas, la represión ciber-oligárquica incluirá programas informáticos que vinculen códigos QR, tarjetas inteligentes, números de DNI y todos los demás indicadores electrónicos que dejamos en nuestro camino a través de la sociedad de la información.
+En lugar de escuchas telefónicas, la represión ciber-oligárquica incluirá programas informáticos que vinculen códigos QR, tarjetas inteligentes, números de DNI y todos los demás indicadores electrónicos que dejamos en nuestro existencia en una sociedad de la información.
 %
 El arma más poderosa de las ciber-oligarqu{ias será la ausencia de leyes que permitan que los usos indebidos de la tecnología de la información erosionen lo que queda de los derechos de los ciudadanos a la privacidad.
 %
@@ -5165,3 +5165,5 @@ Antes que Wa$ap, prefiero SUPDUP.
 SSH transmite estrictamente de a un caracter por vez, operando - tanto la edición de línea como el eco - en el host remoto. No resulta extraño entonces que su desempeño interactivo deje que desear en las redes de área amplia y sea mediocre en los enlaces transcontinentales.
 %
 Un tráfico tupido o una tasa de señal/ruido degradada puede provocar retrasos de varios segundos en los enlaces, sometiendo buffers a largas colas de paquetes, o bien sustentando el celo en las retransmisiones de capa de enlace. Utilízalos.
+%
+Instalar una versión cromañón que funcione, y actualizarla desde Lentonet al último eslabón de la evolución maquinal es un método al que recurren no pocos hackers.
