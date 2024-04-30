@@ -73,7 +73,7 @@ Por ejemplo:
 
 <code bash>clear && fortune doctrina | cowsay -f 17oct</code>
 
-<code>
+```
 _________________________________________
 / Los hackers unidos, triunfaremos        \
 \ ----------------------------------------/
@@ -87,13 +87,14 @@ _________________________________________
 oooooooooooooooooooooooooooooooooooooooooooooooo
     <o/ ~   \o\  ~o|  o/    o  _____   _o
      |  +o   |    |   |     |\|chori|   |\
-    /\  /z   /\   /\  /\   /\  o   o    /\</code>
+    /\  /z   /\   /\  /\   /\  o   o    /\
+```
 
 Para solicitar una frase corta al azar sin borrar la terminal:
 
 <code bash>fortune -s doctrina | cowsay -f pocho</code>
 
-<code>
+```
 _____________________________________
 / Quien programe, comente. Quien use, \
 \ documente.                          /
@@ -112,4 +113,5 @@ _____________________________________
  |   |       (.__-___,)      /    /
   \   |____----+   |________/    /
    \        \   \/   _/        /
-    \_____   \  /   /   ______/</code>
+    \_____   \  /   /   ______/
+```
