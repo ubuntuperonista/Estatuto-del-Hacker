@@ -25,7 +25,8 @@ Copie doctrina_linux y rms_linux (ficheros con frases de adoctrinamiento sin wor
 Copie los ficheros de los personajes .cow del directorio <file>Estatuto-del-Hacker/cows</file> en el directorio <file>/usr/share/cowsay/cows/</file> de su sistema GNU/Linux. 
 Use strfile para incorporar los ficheros .DAT. 
 
-<code bash>cd /tmp ;
+´´´
+cd /tmp ;
 git clone https://github.com/ubuntuperonista/Estatuto-del-Hacker/ ;
 sudo cp /tmp/Estatuto-del-Hacker/fortunes/doctrina_linux /usr/share/games/fortunes/es/doctrina ;
 sudo cp /tmp/Estatuto-del-Hacker/fortunes/rms_linux /usr/share/games/fortunes/es/rms ;
@@ -38,7 +39,7 @@ sudo cp /tmp/Estatuto-del-Hacker/rms.sh /usr/local/bin/rms ;
 sudo chmod +x /usr/local/bin/doctrina /usr/local/bin/rms ;
 sudo cp /tmp/Estatuto-del-Hacker/actualizar_doctrinas.sh /usr/local/sbin/actualizar_doctrinas ;
 sudo chmod +x /usr/local/sbin/actualizar_doctrinas
-</code>
+´´´
 
 ## Instrucciones para agregar Estatuto-del-Hacker en bsdcowsay 4 en BSD:
 
@@ -46,14 +47,16 @@ Copie <file>fortunes/doctrina_bsd</file> y <file>fortunes/rms_bsd</file> (ficher
 Copie los ficheros <file>.cow</file> de los personajes <file>Estatuto-del-Hacker/bsdcows</file> en la carpeta <file>/usr/local/share/cows</file> de su sistema BSD.
 Use strfile para incorporar los ficheros .DAT.
 
-<code bash>cd /tmp ;
+´´´
+cd /tmp ;
 git clone https://github.com/ubuntuperonista/Estatuto-del-Hacker/ ;
 sudo cp /tmp/Estatuto-del-Hacker/fortunes/doctrina_bsd /usr/share/games/fortune/doctrina ;
 sudo cp /tmp/Estatuto-del-Hacker/fortunes/rms_bsd /usr/share/games/fortune/rms ;
 sudo cp /tmp/Estatuto-del-Hacker/cows/*.cow /usr/local/share/cows/ ;
 cd /usr/share/games/fortune/ ;
 sudo strfile /usr/share/games/fortune/doctrina ;
-sudo strfile /usr/share/games/fortune/rms</code>
+sudo strfile /usr/share/games/fortune/rms
+´´´
   
 ## Uso
 
