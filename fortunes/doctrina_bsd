@@ -310,15 +310,13 @@ Incluso si encriptamos la carga útil en nuestras comunicaciones, un
 análisis superficial del encabezado del paquete puede aún revelar gran
 parte de nuestras actividades y accionar.
 %
-Intermediarios autorizados -como los proveedores de internet- y a veces
-no autorizados -estos mismos proveedores cuando están en manos
-oligárquicas- podrían adaptarse a nuestros patrones de tráfico
-telemático, y trazar conclusiones relativamente acertadas sobre su
-contenido, las tácticas empleadas, etc.
+Cualquier intermediario en las redes podría adaptarse a nuestros
+patrones de tráfico telemático, y trazar conclusiones relativamente
+acertadas sobre su contenido, las tácticas empleadas, etc.
 %
-Un actor dedicado puede espiar múltiples partes de la red y emplear
-cruzados estadísticos sofisticados para rastrear patrones de
-comunicación de individuos u organizaciones específicas.
+Un actor dedicado puede escrutar la red empleando cruzados estadísticos
+sofisticados para rastrear patrones de comunicación de individuos u
+organizaciones específicas.
 %
 Quien programe, comente. Quien use, documente.
 %
@@ -329,10 +327,6 @@ Tor, a través de sus servidores, ayuda a reducir los riesgos telemáticos
 inherentes a través del ofuscado y redistribución de las transacciones a
 lo largo de múltiples secciones en la Internet.
 %
-Que todo FTP tenga su ARCHIE.
-%
-Antes que Googl€ estuvo Verónica.
-%
 WAIS, Altavista y Webcrawler marcaron la senda que irrevocablemente
 seguirá Googl€. No existe manera de evitar el destino de quien -abusando
 de la centralización- osa desafiar a los Pueblos.
@@ -340,6 +334,10 @@ de la centralización- osa desafiar a los Pueblos.
 Bajo la oscura capa de Tor se dificultará rastrear un par de enlace
 desde su origen y hacia su destino específico, de la misma forma que una
 liebre podría seguir una ruta rebuscada para perder al mastín.
+%
+Que todo FTP tenga su ARCHIE.
+%
+Antes que Googl€ estuvo Verónica.
 %
 Antes que UNIX estuvo TENEX.
 %
@@ -410,7 +408,7 @@ IRC es - en escencia - un flujo de datos.
 IRC es una forma de comunicación dinámica: nuevos mensajes aparecerán en
 la pantalla, y reemplazarán a los viejos.
 %
-IRC cuenta con los elementos mínimos de comunicaci{on necesarios para
+IRC cuenta con los elementos mínimos de comunicación necesarios para
 que un grupo de compañeros cree un sentido compartido de comunidad.
 %
 En IRC, el discurso es efímero.
@@ -1692,7 +1690,7 @@ potente herramienta para promover la igualdad, logrando establecer un
 Pueblo.
 %
 Todo organismo biológico cumple un ciclo vital marcado por una constante
-transformación. Ha de crecer, madurar, y si pretende permancer como
+transformación. Ha de crecer, madurar, y si pretende permanecer como
 especie, ha de generar nuevas versiones de si mismo en su descendencia.
 Una distribución Linux responde al mismo precepto.
 %
@@ -4563,7 +4561,7 @@ precedente de extender el poder de la mente.
 Entre las bellas artes, la primera en hacer uso computacional no fue la
 literatura, sino la música.
 %
-Al igual que la programación, la música sigue un arte simbólico.
+Al igual que la programación, la música es un arte simbólico.
 %
 La simetría entre la composición musical y la programación de software
 se basa en que ambas actividades humanas dependen de representaciones
@@ -5003,7 +5001,7 @@ involucrado en la vida del Pueblo.
 La tecnología del cómputo debe siempre sintetizarse.
 %
 Al contrario de lo que muchos creen, la evolución de la tarea del
-cómputo debe llevarse a cabo según una tarea de simplificación.
+cómputo debe llevarse a cabo según una labor de simplificación.
 %
 El sistema UNIX no es el fin de la síntesis computacional a la que
 aspira el Pueblo: sólo un buen paso en la senda de la simplificación.
@@ -6185,9 +6183,9 @@ Quien no compile, que al menos instale copias de binarios libres.
 Quien no compile, que al menos instale copias de binarios libres a los
 demás.
 %
-GDB, el depurador del proyecto GNU, permite ver que sucedía dentro de
-otro programa mientras lo ejecuta, o que estaba haciendo otro programa
-al momento de colgarse.
+GDB, el depurador del proyecto GNU, permite ver lo que sucede dentro de
+otro programa mientras corre, o determinar qué hacía otro programa al
+momento de colgarse.
 %
 El depurador GDB es capaz de depurar en pasos inversos. Úsalo para
 comparar las ventajas de implementar la Justicia Social en la concreción
@@ -6217,7 +6215,13 @@ La optimización prematura es la raíz de todo mal.
 %
 Hacer algo dificultoso juguetonamente, ya sea útil o no. Eso es hacking.
 %
-Cifra todo. No quieres que alguien sepa lo que tu sabes de tí.
+Cifra tus transmisiones. No quieres que alguien sepa lo que sabes de tí
+mismo.
+%
+Además de tus datos, cifra tus solicitudes telemáticas.
+%
+Ofusca tus metadatos. No quieres que alguien infiera lo que no sabes de
+tí mismo.
 %
 Puedes hacer ingeniería inversa, y también puedes hacer hacking inverso.
 Sólo contraataca telemáticamente.
@@ -6897,19 +6901,18 @@ sino del mercado.
 Las tecnologías actuales permiten más sutilezas a la vigilancia
 tecnológica de las que Orwell podría haber previsto.
 %
-Si los manipuladores totalitarios de Pueblos y tecnologías realmente
-logran dominar en el futuro, no comenzarán con policía secreta
-derribando puertas, sino permitiéndo vender por intermedio de
-aplicaciones que dominan, comerciando información sobre sus
-transacciones, e ilegalizando medidas que podría utilizar para
-protegerse.
+Si los manipuladores totalitarios de tecnologías realmente logran
+dominar en el futuro, no habrán comenzado con policía secreta derribando
+puertas, sino permitiendo vender por intermedio de aplicaciones que
+dominan, comerciando información sobre las transacciones, e ilegalizando
+medidas que el Pueblo podría utilizar para protegerse.
 %
 En lugar de escuchas telefónicas, la represión ciber-oligárquica
 incluirá programas informáticos que vinculen códigos QR, tarjetas
 inteligentes, números de DNI y todos los demás indicadores electrónicos
-que dejamos en nuestro camino a través de la sociedad de la información.
+que dejamos en nuestro existencia en una sociedad de la información.
 %
-El arma más poderosa de las ciber-oligarqu{ias será la ausencia de leyes
+El arma más poderosa de las ciber-oligarquías será la ausencia de leyes
 que permitan que los usos indebidos de la tecnología de la información
 erosionen lo que queda de los derechos de los ciudadanos a la
 privacidad.
@@ -7474,7 +7477,7 @@ Reciben asilo.
 Si en la nube los datos se hospedan, en los Pubnix reciben asilo.
 %
 En la RAM de las computadoras el Pueblo libra una batallas mas por su
-Liberación. El arma invencible es una doctrina constotuida por la
+Liberación. El arma invencible es una doctrina constituída por la
 licencia GPLv3.
 %
 Googl€ ha dejado de ser un buscador para convertirse en un escudriñador.
@@ -7875,7 +7878,7 @@ datos, los hackers son inocentes: su rebelión está justificada.
 %
 Concentrad vuestro ataque telemático sobre los enemigos del Pueblo.
 %
-La Revolución del Baudio solo puede darse por la uni{on de hackers y
+La Revolución del Baudio solo puede darse por la unión de hackers y
 usuarios.
 %
 La fibra óptica es la Pacha Mama siempre revolucionaria: sólo hemos de
@@ -8647,3 +8650,7 @@ Un tráfico tupido o una tasa de señal/ruido degradada puede provocar
 retrasos de varios segundos en los enlaces, sometiendo buffers a largas
 colas de paquetes, o bien sustentando el celo en las retransmisiones de
 capa de enlace. Utilízalos.
+%
+Instalar una versión cromañón que funcione, y actualizarla desde
+Lentonet al último eslabón de la evolución maquinal es un método al que
+recurren no pocos hackers.
