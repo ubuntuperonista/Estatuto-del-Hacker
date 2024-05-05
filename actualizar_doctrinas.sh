@@ -2,6 +2,7 @@
 # Programa para bajar las fortunes de adoctrinamiento peronista directamente del repositorio original.
 # Requiere fortune, fortunes-es o fortune-mud
 echo "Descargando Fortunes para GNU..."
+cd /tmp ;
 wget -O /tmp/doctrina https://caja.texto-plano.xyz/peron/fortune-phrases/doctrina2
 wget -O /tmp/doctrina.sh https://caja.texto-plano.xyz/peron/fortune-phrases/doctrina.sh
 wget -O /tmp/rms https://caja.texto-plano.xyz/peron/fortune-phrases/rms2
