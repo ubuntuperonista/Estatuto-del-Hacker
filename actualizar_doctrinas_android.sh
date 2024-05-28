@@ -19,10 +19,10 @@ mv -f /data/data/com.termux/files/usr/tmp/doctrina2 /data/data/com.termux/files/
 mv -f /data/data/com.termux/files/usr/tmp/rms2 /data/data/com.termux/files/usr/share/games/fortunes/rms
 
 echo "Creando ejecutables..."
-echo "fortune doctrina" > /data/data/com.termux/files/usr/bin/doctrina
-echo "fortune rms" > /data/data/com.termux/files/usr/bin/rms
+echo "fortune /data/data/com.termux/files/usr/share/games/fortunes/doctrina" > /data/data/com.termux/files/usr/bin/doctrina
+echo "fortune /data/data/com.termux/files/usr/share/games/fortunes/rms" > /data/data/com.termux/files/usr/bin/rms
 chmod +x /data/data/com.termux/files/usr/bin/doctrina
 chmod +x /data/data/com.termux/files/usr/bin/rms
 
 #Dispara una fortune adoctrinante de demostración
-fortune -s doctrina | cowsay -f 17oct
+fortune -s /data/data/com.termux/files/usr/share/games/fortunes/doctrina | cowsay -f 17oct
