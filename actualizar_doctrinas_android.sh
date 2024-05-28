@@ -25,4 +25,4 @@ chmod +x /data/data/com.termux/files/usr/bin/doctrina
 chmod +x /data/data/com.termux/files/usr/bin/rms
 
 #Dispara una fortune adoctrinante de demostración
-fortune -s doctrina | /usr/games/cowsay -f 17oct
+fortune -s doctrina | cowsay -f 17oct
