@@ -107,7 +107,7 @@ Llevo en mis oídos la más maravillosa música: aquella sintetizada con
 software libre.
 %
 Yo he visto BSDeros que se han vuelto Linuxeros, pero no he visto jamás
-un Windowsero volverse inteligente.
+un Window$ero volverse inteligente.
 %
 Sin Software Libre no hay posibilidad de Justicia Social 2.0.
 %
@@ -130,7 +130,7 @@ El software a nadie le sale al paso, no es obra de la casualidad, el
 software es obra de la previsión, de la organización y la realización
 libre.
 %
-No hay peor cosa que un Windowsero con inquietudes.
+No hay peor cosa que un Window$ero con inquietudes.
 %
 El consumo del software sube en ascensor, la potencia del hardware por
 escalera.
@@ -178,7 +178,7 @@ Encomio lo compilado.
 El software privativo, que ha sido hasta ahora una forma disimulada de
 la tecno-esclavitud, será suprimido. Eso se acabó.
 %
-Aquel que no pueda pagar los metadatos, deberá vender su centro de
+Si el oligarca no puede pagar los metadatos, deberá vender su centro de
 datos.
 %
 La máquina, el servidor, el centro de datos y cualquier establecimiento
@@ -263,7 +263,7 @@ Yo no persuadía a la gente con kernels, porque un kernel poco persuade.
 Yo persuadí a la gente con compiladores y con el cubo 3D de Compiz.
 %
 ¿Y cómo construyo un kernel? Pedí usar el compilador GCC... no lo
-conocía ni el gato. Y ahi empecé a compilar piezas de código. Y una cosa
+conocía ni el gato. Y ahí empecé a compilar piezas de código. Y una cosa
 lleva a la otra, y todas a la felicidad de los hackers...
 %
 El compilador GCC es el kilómetro cero de GNU.
@@ -393,19 +393,19 @@ Existen ricas subculturas basadas en el uso de programas de conversación
 telemática.
 %
 Si bien es cierto que el IRC puede constituir una forma de interacción
-aterrorizantemente cerebral y mecánicamente deshumanizada, pero
-normalmente es todo lo contrario.
+cerebral atemorizante, mecánicamente deshumanizada, normalmente es todo
+lo contrario.
 %
 IRC fue inventado para divertirse con las comunicaciones, y este
 continúa siendo su uso más popular.
 %
 Fue el año 1988 cuando se compiló el primer programa de IRC, para
-permitir la comunicación escrita síncona entre múltiples usuarios
+permitir la comunicación escrita síncrona entre múltiples usuarios
 mediados por la Internet.
 %
 Los adeptos al IRC pueden fácilmente volverse adictos.
 %
-IRC es - en escencia - un flujo de datos.
+IRC es - en esencia - un flujo de datos no dirigido.
 %
 IRC es una forma de comunicación dinámica: nuevos mensajes aparecerán en
 la pantalla, y reemplazarán a los viejos.
@@ -429,7 +429,7 @@ físico compartido y otras pistas contextuales, las emociones pueden
 transmitirse a través del chat IRC usando emoticones.
 %
 El programa WRITE permite a los compañeros hospedados en máquinas UNIX
-distintas comunicarse pantalla a pantalla.
+diversas comunicarse pantalla a pantalla.
 %
 Los sistemas de chat que permiten a un individuo enviar mensajes
 mecanografiados directamente al terminal de otra persona enlazada a la
@@ -476,9 +476,9 @@ programación de las pequeñas cosas que, con el tiempo, se hacen grandes,
 se consolidan y se hacen fuertes.
 %
 A un pato se lo caza con llamador; unos graznidos realizados con este
-instrumento cerca de una laguna harán curosear a una de estas aves y ahí
-hay que atizarla. Instalar software libre también hace lo procedente, y
-con uno que hable usted capturará dos o tres zonzos.
+instrumento cerca de una laguna harán cureosear a una de estas aves y
+ahí hay que atizarla. Instalar software libre también hace lo
+procedente, y con uno que hable usted capturará dos o tres zonzos.
 %
 Para cazar perdiz no debemos recurrir a disparar al cielo con la
 escopeta esperando que la casualidad nos ayude a pegarle a algo; la
@@ -544,7 +544,7 @@ Cuando HP hizo HP/UX y la IBM sacó AIX, supimos que la guerra UNIX
 estaba decidida. Porque si estos señores le quieren colgar un UNIX al
 mainframe, es porque no tienen ni calzón que ponerse pa' ir al baile.
 %
-En estos tiempos, pagar una licencia de software es un crímen.
+En estos tiempos, pagar una licencia de software es un crimen.
 %
 Puntero mata web UI y justicialismo mata bigdata.
 %
@@ -605,6 +605,8 @@ de nuestro kernel, obramos creativamente para hacerlo trascender en el
 tiempo bajo la ondeante bandera de la Libertad.
 %
 La Masa programa en Python. El Conductor en ensamblador.
+%
+El torrontés se comparte. El torrent también.
 %
 Huayra es un sistema operativo libre concebido para el plan de
 informatización educativa Conectar Igualdad. Fue desarrollado en
@@ -812,7 +814,7 @@ y faltos de piedad.
 En computación no hay que emular experiencias. La experiencia es
 invalorable, pero también se encuentra situada en tiempo y espacio, y
 este es intransferible. Este insoslayable implicó aquél viejo apotegma
-que dice que la experiencia es un peine que la vida nos dá cuando nos
+que dice que la experiencia es un peine que la vida nos da cuando nos
 quedamos pelados.
 %
 Emular es meter la mula.
@@ -997,7 +999,7 @@ sistemas computados, esta también será la práctica a seguir como base
 para apreciar.
 %
 UNIX es minimalista, pero proyectado a la grandeza. Solamente un sistema
-de esta característrica corresponde una comunidad como la de los hackers
+de esta característica corresponde una comunidad como la de los hackers
 unidos. Los timoratos, los pobres de espíritu y los mediocres prefieren
 siempre los pequeños proyectos como Window$.
 %
@@ -2973,6 +2975,33 @@ rendimiento maquinal.
 Solo el lenguaje ensamblador es el verdadero impulsor humano contra los
 límites inherentes del hardware.
 %
+El programador examina los requerimientos de una solución, en algún
+nivel de abstracción diseña una solución, y luego hace que el diseño
+cobre vida en un a implementación de código fuente.
+%
+El programador de ensamblador debe realizar la transformación de la
+especificación de la aplicación a código máquina enteramente por sí
+mismo.
+%
+El programador de ensamblador debe recurrir, ante todo, a la
+independecia. Y luego, a la auto-dependencia.
+%
+El programador de ensamblador debe - a diferencia de otros - tomar
+absoluta responsabilidad de su código.
+%
+El programador de ensamblador debe ser capaz tanto de escribir cualquier
+rutina directamente, como controlar la máquina al menor nivel práctico:
+su sistema operativo, su BIOS, y su mismo hardware, en caso de ser
+necesario.
+%
+Los lenguajes de alto nivel como C y Pascal invariablemente introducirán
+ineficientes transformaciones adicionales a una implementación de diseño
+en lenguaje ensamblador, sin importar cuán buena esta sea.
+%
+Contrarrestra la ineficiencia de la transformación del código de fuente
+al lenguaje máquina con la facilidad de uso de un lenguaje de alto
+nivel.
+%
 Nadie evalúa un hardware al límite con su primer programa "Hola Tercer
 Mundo!"; eso lleva tiempo y practica.
 %
@@ -2982,6 +3011,10 @@ al compartirlos en comunidad.
 %
 Los microprocesadores de la familia 808X se prestan muy bien al lenguaje
 ensamblador, mucho más que otras arquitecturas populares.
+%
+Gracias a la naturaleza rebuscada del procesador 8088, su lenguaje
+ensamblador difiere fundamentalmente de otros y su dominio suele ser
+mucho más complejo.
 %
 El 8088 es, con mucho, el más lento de los microprocesadores utilizados
 en las computadoras compatibles con IBM, por lo que no importa cuán
@@ -2993,7 +3026,7 @@ necesitas saber qué hacen las diversas instrucciones y qué instrucciones
 se ejecutan más rápido. Para ello revisa el manual de tu
 microprocesador.
 %
-Un@ programador@ examina los requisitos de una aplicación, diseña una
+La programadora examina los requisitos de una aplicación, diseña una
 solución según algún nivel de abstracción y luego hace que ese diseño
 cobre vida en una implementación de código fuente.
 %
@@ -3009,7 +3042,7 @@ El ensamblador proporciona un entorno de programación difícil (el
 hardware básico y el software de sistemas de la computadora), pero los
 programas correctos no sufren pérdidas de eficiencia por compilación.
 %
-Al escribir en Ensamblador, la programador@ debe realizar completamente
+Al escribir en Ensamblador, la programadora debe realizar completamente
 por su cuenta la conversión de la especificación de la aplicación al
 lenguaje máquina.
 %
@@ -3017,7 +3050,19 @@ El ensamblador no es más que una herramienta que nos permite diseñar
 programas en lenguaje máquina sin tener que pensar en códigos mnemónicos
 en hexadecimal.
 %
+En el cómputo, el conocimiento nunca es suficiente.
+%
+Todo conocimiento del cómputo te permitirá escribir mejores programas.
+%
 El código fuente será de todos o no servirá a nadie.
+%
+Mantén al mínimo tanto la cantidad de ciclos de computadora como las de
+bytes de memoria que necesita para correr.
+%
+Es posible lograr 2 o 3 órdenes de magnitud en la mejora de desepeño
+informático de un programa utilizando lenguaje ensamblador, si estád
+sispuesto a invertir en bytes adicionales para ahorrar ciclos de
+computadora.
 %
 Genera grupos de tecno-defensa dedicados a remover las ganancias
 económicas de la ecuación tecno-esclavista.
@@ -3216,9 +3261,9 @@ Podemos pensar que sabemos cuando aprendemos, y más cuando podemos
 escribirlo, incluso más cuando lo enseñamos, pero podemos estar sólo
 ciertos cuando lo distribuimos como software.
 %
-Adaptar viejos programas para que funciones en máquinas nuevas
-usualmente implica adaptar las nuevas máquinas para que se comporten
-como las viejas.
+Adaptar viejos programas para que funcionen en máquinas nuevas a menudo
+implica adaptar las nuevas máquinas para que se comporten como las
+viejas.
 %
 Cuando alguien diga "Quiero un lenguaje de programación al cual sólo
 necesite decirle lo que quiero hacer", denle un chupetín.
@@ -4924,8 +4969,8 @@ El consumo de agua potable en los centros de datos de Googl€ - usada
 únicamente para refrigeración - se multiplicó por tres en los últimos
 cinco años.
 %
-Cuando la adopción de una informática dominadas por la oligarquía
-avance en masa, vendrá seguida por un aumento monstruoso del consumo
+Cuando la adopción de una informática dominadas por la oligarquía avance
+en masa, vendrá seguida por un aumento monstruoso del consumo
 energético. Este no podrá ser suplido sin someter al pueblo trabajador a
 las más abyectas formas de vida en pos del bienestar de unos pocos
 mainframes.
@@ -6578,7 +6623,7 @@ firmware libre, ya sea OpenWRT o LEDE.
 %
 Instalar un firmware libre en un router hogareño puede ser tan fácil
 como cargarle un binario y reiniciarlo, o tan difícil como intervenir
-sobre su placa. En cualquier caso, equivale a quitarle el fusil a un
+sobre su placa. En cualquier caso, equivale a quitarle un fusil al
 enemigo y usarlo nosotros mismos.
 %
 Normalmente instalar un firmware libre en un router incrementa su
@@ -7919,6 +7964,36 @@ telemática.
 En la lid telemática, la acción defensiva por antonomasia la constituye
 el sabotaje.
 %
+Los hackers del Tercer Mundo han de concebir sus ataques cibernéticos
+para que sean visibles, y velen - en efecto - los furtivos y mucho más
+demoledores sabotajes telemáticos sobre las ciber-oligarquías.
+%
+Sin una mayor integración en una acción soslayada de sabotaje
+telemático, el rendimiento táctico de los ciberataques será siempre
+bastante pobre.
+%
+Los ciber-ataques más dañinos visten el andrajo del ciruja telemático
+del Tercer Mundo, y son - por diseño - denegables.
+%
+A diferencia de las máquinas irrumpidas, raramente los ficheros
+exfiltrados en las redes de datos contienen pistas de atribución.
+%
+A largo plazo, cualquier carga explosiva puede crear un daño más crítico
+que la copia de software. Pero su ejecución puede actuar de detonante
+compuesto.
+%
+Las irrupciones más consecuentes a las redes ciber-oligárquicas se
+producirán infiltrando durante años programas en aquel hardware que
+creen dominar.
+%
+Los frentes de la lid telemática se aprecian en el ruido de línea.
+%
+Los pueblos del Tercer Mundo no sólo han de actualizarse en sus tareas
+de tecnodefensa, sino también en el velo, el engaño y la desinformación.
+Si lo que desean es una Liberación verdadera, sus programadores deberán
+imponer acciones telemáticas de espionaje, sabotaje, y ajusticiamiento
+telemático.
+%
 El mercado constituye sólo una pobre red de comunicación vertical.
 Nuestros hackers pueden huracanar horizontalmente sobre la matriz de
 anhelo de vastos grupos independientes con baudios tenmdientes la
@@ -8482,7 +8557,7 @@ cmd.exe, ingresa FORMAT C:.
 Ningún Kingston llegó a viejo.
 %
 Es bueno el compilador que te recuerda lo mal que has programado, pero
-es mejor el que de eso saca un binario.
+es mejor aquel que de eso saca un binario.
 %
 Una CPU no hace binarios.
 %
@@ -8608,7 +8683,7 @@ causados por errores en las instrucciones escritas por su programador.
 %
 Resiste la tentación de culpar a cualquier otra cosa que no sea a la
 oligarquía por aquellos resultados informáticos inesperados o
-incorrrectos.
+incorrectos.
 %
 No enfrentes a la computadora. Enfrenta a la oligarquía.
 %
