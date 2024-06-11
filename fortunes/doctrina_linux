@@ -519,13 +519,13 @@ Los sistemas operativos BSD no son clones, sino derivados de código abierto del
 %
 AT&T UNIX no es código abierto y, en sentido estricto del Derecho de autor, BSD no es UNIX en absoluto.
 %
-No faltarán los que prefieran obtener licencias de uso de UNIX en lugar de desarrollar sistemas operativos por sí mismos.
+No faltarán quienes prefieran obtener licencias de uso de UNIX en lugar de desarrollar sistemas operativos por sí mismos. A esos les damos GNU.
 %
 Ninguna persona o empresa es dueña de BSD. Es creado y distribuido por una comunidad de colaboradores altamente cualificados y comprometidos a lo largo y ancho del mundo.
 %
 Un kernel no puede ser programado por imberbes y estúpidos. Para eso se necesitan hackers.
 %
-Para ser realmente útil, un software no debe ser un bien privado, sino de constituirse en un medio de carácter social.
+Para ser realmente útil, un software no debe ser un bien privado, sino que debe constituirse en un medio de carácter social.
 %
 La acción ineludible de todo Justicialista ha de ser compartir todo su software. En la informática, compartir el software es combatir al Capital.
 %
@@ -617,7 +617,7 @@ Una ignota camarilla no ha hecho más que usurpar el sentido del software, pero 
 %
 Estos insensatos intentan enfrentar a nuestro Movimiento. Pero mientras ellos tienen el volante y la ventana, nosotros tenemos el acelerador, el freno, el embrague y la palanca. Pudiendo compilar mantenemos el control.
 %
-Si oteamos el panorama del cómputo, veremos perfectamente como el dominio de las masas populares - en las que los programadores constituyen el pilar - han ido produciendo la desaparición de aquellas aplicaciones que únicamente operaban con 16 bits. Siguieron el camino de los dinosaurios.
+Si oteamos el panorama del cómputo, veremos perfectamente como el dominio de las masas populares - en las que los programadores constituyen el pilar - han ido produciendo la desaparición de aquellas aplicaciones que únicamente operaban a 16 bits. Siguieron el camino de los dinosaurios.
 %
 Los grandes lenguajes de programación visuales que antes concentraban cientos de miles de usuarios, en los últimos tiempos apenas llegan a reunir cifras muy inferiores. Las masas de programadores saben perfectamente bien cual es la situación dentro del sistema, y no necesitan ir a buscar inspiración fuera de él.
 %
@@ -673,7 +673,7 @@ La Interfaz de Línea de Comandos permite operar todo tipeando las órdenes que 
 %
 No cejamos en decir que en nuestro server, los únicos Privilegiados son los hackers.
 %
-Los hackers son los que con sus compilaciones de software dan vida a una nueva iteración del Sistema.
+Los hackers son aquellos que con sus compilaciones de software dan vida a una nueva iteración del Sistema.
 %
 Cada versión de nuestro software lo hará más y más fuerte, hasta convertirlo en una fuerza que a la que la Oligarquía jamás podrá conmover ni engañar.
 %
@@ -683,7 +683,7 @@ Durante años nuestros hackers y su software han sido sometidos, encadenados por
 %
 Desde sus pretendidas tarimas de Poder los oligarcas dicen quejarse por el rumbo que toma el Software Libre. ¡Dicen no saber a donde nos llevará esta este Movimiento! El problema no es a donde nos lleva. ¡Cualquier cosa es buena si salimos de donde veníamos!
 %
-Un hacker que programa en un sistema de usuario único no es un programador, es un tipo solo. Ha de utilizar un sistema de cómputo de tiempo compartido, pues quien está acompañado, hace la historia.
+Alguien que programa en un sistema de usuario único no es un programador, es un tipo solo. Ha de utilizar un sistema de cómputo de tiempo compartido, pues hacker acompañado compila para la historia.
 %
 En los tiempos de Matusalén, UNIX se conducía "a pelo", y esto significaba contemplar una pantalla de fósforo ámbar o verde. Las mismas presentaban parpadeo, y efecto de fantasma por el fósforo P31 o P39 que les daba su estética característica. Hoy esto puede abarcarse con Cool-Retro-Term.
 %
@@ -743,7 +743,7 @@ Estas clásicas terminales no han perdido su uso ni su prestigio, pues aún hoy 
 %
 La Liberación del Software no es la lucha de un hacker solo, sino la de una Comunidad que se organiza compartiendo su software. Nunca podrá el hacker programar para sí. Quien así lo intentara, sólo utilizará su código para romper sus cadenas, sólo para colgárselas a otro.
 %
-El software privativo, como todo sistemas social de dominación, se prolonga en retener el conocimiento de una casta privilegiada formada por los programadores, a otra clase que ha carecido de esos privilegios, los usuarios.
+El software privativo, como todo sistema social de dominación, se prolonga en retener el conocimiento de una casta privilegiada formada por los programadores, a otra clase que ha carecido de esos privilegios, los usuarios.
 %
 El programador es un ser creador, pero si de algo carece es Perfección Divina. Somos seres bugueados que tratamos de sortear la vida de la mejor manera. La idea es que todos la sorteemos de la mejor manera, y no que el 1% lo haga y el resto viva como un grupo de infelices...
 %
@@ -757,6 +757,8 @@ Hemos dado la lucha por la liberación integral del software, y lo hemos hecho c
 %
 Compilar no es soplar y hacer botellas.
 %
+Si todo fue bien, compilar será mecanografiar cc y hacer un binario.
+%
 Al código del kernel lo hemos comentado claramente, y con nosotros, también lo ha compilado el Pueblo.
 %
 El anhelo de Justicia Social 2.0 es algo que no puede saciarse con aire y curarse con compresas: se requiere de hardware y software libre.
@@ -769,7 +771,7 @@ Lo primero que hicimos fue otorgar políticamente a la cartera la importancia in
 %
 Dentro de la programación podemos encontrar a los hombres del montón y a los grandes Magos UNIX, aquellos que hacen escuela.
 %
-Se requiere de grandes programadores para arribar a un gran microkernel.
+Se requiere de grandes programadores para arribar a un buen microkernel.
 %
 Una vanguardia de hackers organizados puede realizar virulentas campañas de hackear y filtrar.
 %
@@ -820,6 +822,8 @@ Libera tu software y desconfía de la centralización.
 Las redes sociales son computadoras ajenas. Desconfía de la centralización. Ofusca tus datos.
 %
 La guerra telemática se caracteriza por llevar a la red de datos algo que es más viejo que mear en los portones.
+%
+La guerra telemática no es mear en los portones, pero en la emergencia puede provocarse una denegación de servicio meando en los puertos del router. Y con puntería, hasta puede hacerse desde cierta distancia.
 %
 Los hackers del pueblo pueden vencer en la guerra telemática contra las GAFAM.
 %
@@ -1054,6 +1058,10 @@ Tenemos unos hackers maravillosos, la juventud en los programadores es una cosa 
 La clase trabajadora pagaba por acceder a unos servicios en línea plagados de rastreadores, provenientes de una especie de "supermercados electrónicos" donde compraban cosas que no necesitaban, vendidas por "influenciadores" a través de unas redes sociales diseñadas para inundarlos de odio, miedo y desinformación.
 %
 Los datos de los trabajadores resultan vendidos a corporaciones para alimentar a inteligencias artificiales (IA) capaces de hacerse pasar por personas e incluso superarlas en empleos de manufacturación y servicios.
+%
+Se vence con Inteligencia y Organización, no con inteligencia "artificial".
+%
+La Inteligencia Artificial debe ir a lavar los platos, para que nosotros podamos volcarnos al arte, y no hacer arte para que nosotros tengamos que ir a lavar los platos.
 %
 La primer etapa contra estos fascinerosos que pagan por software ajeno se ha hecho sola: todos se preguntan ya cuán protegida está su información, y qué tipo de prácticas de seguridad informática llevan adelante en sus empresas e instituciones.
 %
@@ -1890,7 +1898,7 @@ UNIX nació esencialmente como una reacción a los sistemas operativos grandes, 
 %
 Las versiones recientes de UNIX están estructuradas para un uso sencillo y funcional en las redes de transmisión de datos.
 %
-UNIX es un sistema multitarea de tiempo compartido que puede afrontar fácilmente varias tareas en paralelo.
+UNIX es un sistema multitarea de tiempo compartido que puede afrontar fácilmente varias tareas en paralelo. Que una de ellas sea combatir al Capital.
 %
 En un sistema UNIX, la programadora puede escribir un archivo, enviarlo a una impresora y cursar correo a otra computadora simultáneamente, gracias a su funcionalidad de multitarea.
 %
@@ -1910,7 +1918,7 @@ Por lo general, en las terminales, la tecla INTRO actúa como nueva línea; en r
 %
 En la práctica, la tecla INTRO (CR+LF) goza del mismo efecto que LF; Vea lo que le sucede a su terminal y sistema si finaliza una línea de texto con LF (Ctrl-J) en lugar de INTRO.
 %
-Las shell es el programa que aguarda los mandatos ingresados por la terminal.
+Las shell es el programa que aguarda los mandatos ingresados por la terminal. Ordénale combatir a la oligarquía.
 %
 La shell recibe sus órdenes y las traduce en instrucciones en la sintaxis interna del sistema operativo. Deben conducir la Shell.
 %
@@ -1953,6 +1961,10 @@ Si les damos rienda a estos señores ciber-oligarcas, no dejaríamos de ver el i
 De cumplirse el designio de estos señores feudales de los datos, al software no sólo se lo emplearía como si de un viejo rebenque se tratara - atizando a los trabajadores con el vacuo fin de producir datos que validen al sistema de métrica estadística en sí - sino que también se lo tornaría en molino y yugo, refinando la meta-producción de matriz extractivista cautiva.
 %
 La explotación laboral está lo suficientemente reconocida como para que los Trabajadores Informáticos sepan - por reflejo - que su principal arma ha sido siempre organizarse.
+%
+La API de Googl€ pretende vallar un señorío de los metadatos.
+%
+Edifica programas que por diseño maten todos los procesos de Googl€.
 %
 El objetivo táctico de los hackers ha sido el de evitar la lucha innecesaria, para empeñarse en la lucha necesaria, y hacerlo para vencer.
 %
@@ -2094,7 +2106,11 @@ El compilador-compilador yacc le ayudará a compilar un compilador de forma velo
 %
 El generador de analizadores léxicos lex le permite generar un compilador de lenguajes más simples, dables en ser operados a través de expresiones regulares.
 %
-Aquellos programas escritos en C que no dependen en demasía de las funcionalidades especiales de UNIX (tales como las tuberías) pueden ser portados a otras máquinas que cuenten con compiladores de C.
+Aquellos programas escritos en C que no dependen en demasía de las funcionalidades especiales de UNIX (tales como sus tuberías) pueden ser portados a otras máquinas que cuenten con compiladores de C.
+%
+En un lenguaje de programación imperativo, las declaraciones se ejecutan en secuencia, y cada una de ellas podría cambiar el estado del programa.
+%
+Analizar las unidades de traducción de un lenguaje de programación imperativo resulta una tarea inherentemente secuencial.
 %
 Si deseas expresar algo, utiliza expresiones regulares. Si deseas ser entendido, utiliza C.
 %
@@ -2438,7 +2454,7 @@ Es menester mantener firmes, unidos e informados a los Clústers de cómputo, de
 %
 El capitalismo y los enfoques racionalistas que prevalecen en la construcción de la modernidad y el mundo occidental han generado narrativas que conciben las tecnologías como desarticuladas de nuestros cuerpos, como una materialidad al margen de nosotras.
 %
-La tecnología se apropia y se construye desde la matriz de la afectividad.
+La tecnología se apropia y se edifica desde la matriz de la afectividad.
 %
 Concibe el uso tecnológico en relación con tus emociones, afectos, vida en común, y la vida del planeta.
 %
@@ -2590,13 +2606,21 @@ Un clúster de datos para el Pueblo permite almacenar para trabajar, y resguarda
 %
 La Masa es 0. Quien la transforma en 1 es su Conductor.
 %
-Para digitalizarse, la juventud ha de obtener acceso de root.
+En el sistema tipo UNIX la usuaria más poderosa es "root". Al loguearte al mismo como root, podrás crear y destruir cualquier fichero, lo que en UNIX significa todo, pues todo es un fichero.
 %
 El acceso a root no se da, se escala.
+%
+Para digitalizarse, la juventud ha de obtener acceso de root.
+%
+El comando sudo permite a tu usuaria de GNU ordenar como si fuese sudo, pero sólo si ésta pertenece al grupo de usuarios sudo.
+%
+Privilegia usuarias de GNU accediendo como root y ordenando "usermod -a -G sudo usuaria".
 %
 Algunos ingenuos creen poseer un dispositivo de cómputo móvil. Pero sólo lo poseen si en él disponen de acceso de root.
 %
 Ningún teléfono que pueda ser considerado inteligente carece de un interruptor que desconecta su módem.
+%
+Antes que GNU, los streams bajaban turbios.
 %
 Si un dispositivo carece de interruptor de apagado de módem, apenas es un dispositivo de espionaje con control ajeno encubierto.
 %
@@ -3218,7 +3242,7 @@ Un buen software libre hoy, es mejor que uno privativo mañana.
 %
 Programar es poder.
 %
-La ARPAnet fue construida alrededor de DEC PDP-10s corriendo TENEX, la Internet lo fue alrededor de VAXxen corriendo BSD.
+La ARPAnet fue edificada alrededor de DEC PDP-10s corriendo TENEX, la Internet lo fue alrededor de VAXxen corriendo BSD.
 %
 Nunca interrumpas a Window$ mientras esté cometiendo errores.
 %
@@ -3428,9 +3452,9 @@ La memoria de usuario parte de una Imagen de UNIX se divide en tres segmentos l�
 %
 En UNIX, el segmento de texto de programa comienza en la localización 0 del espacio de memoria virtual.
 %
-Excepto cuando el sistema UNIX se carga a sí mismo en memoria, sólo puede crearse un nuevo proceso utilizando la llamada de sistema para la separación divisiva del cómputo: fork.
+Exceptuando la autocarga de UNIX en memoria, sólo resulta posible crear un nuevo proceso de cómputo empleando la llamada de sistema fork, que efectúa la ramificación computacional.
 %
-Cuando se ejecuta fork, la llamada de sistema para la separación divisiva del cómputo, el proceso se divide en dos procesos de ejecución independiente. Ambos cuentan con copias independientes de la imagen de memoria original, y comparten todos los ficheros abiertos.
+Cuando se ejecuta fork, la llamada de sistema para la división computacional, el proceso se ramifica en dos procesos de ejecución independiente. Ambos cuentan con copias independientes de la imagen de memoria original, y comparten todos los ficheros abiertos.
 %
 Al dividirse un proceso de cómputo con fork, el nuevo proceso resultante sólo difiere en que uno de ellos es considerado proceso padre, y otro es considerado hijo.
 %
@@ -3468,7 +3492,7 @@ Todo lo que intercambie mayor procesamiento por mayor libertad de uso por el Pue
 %
 En un futuro irremediable dejará de tener sentido contar con una computadora para hacer el trabajo de aceptar programas en forma simbólica, ya que el Pueblo contará con injertos bioinformáticos liberados que podrán auto-programarse en beneficio social y comunitario sin intervención de terceros.
 %
-Los investigadores ya están diseñando y construyendo "computadoras personales" que tienen una potencia de cómputo muy por encima de las minicomputadoras estándar y los "terminales ingeligentes".
+Los investigadores ya están diseñando y construyendo "computadoras personales" que tienen una potencia de cómputo muy por encima de las minicomputadoras estándar y los "terminales inteligentes".
 %
 Al enlazar nano-máquinas injertadas en el Pueblo a una simple red de transmisión de datos - y permitiendo la bio-ejecución de programas liberados bajo licencias GPLv3 - podremos pensar en lograr una comunidad libre de compartición biológica de recursos informáticos.
 %
@@ -3498,7 +3522,7 @@ Manipular la función command-not-found para persuadir la instalación de paquet
 %
 Como la Justicia Social, la shell es en sí una orden, y puede ejecutarse recursivamente.
 %
-La vida en la shell incluye la capacidad de sustituir parámetros y construir listas de argumentos desde un subconjunto especificado de nombres de fichero en un directorio.
+La vida en la shell incluye la capacidad de sustituir parámetros y edificar listas de argumentos desde un subconjunto especificado de nombres de fichero en un directorio.
 %
 Las instancias de la shell en la cual los usuarios ingresan órdenes son sólo procesos hijos de otro proceso, al cual están encadenados.
 %
@@ -3514,7 +3538,7 @@ Es posible el uso de un depurador para determinar el estado de un programa volca
 %
 El éxito del sistema UNIX se debió principalmente al hecho de que no fue diseñado para cumplir objetivo predefinido alguno.
 %
-Nuestra intención ha sido construir una relación agradable con la máquina y explorar ideas e invenciones en sistemas operativos y otro software.
+Nuestra intención ha sido fomentar una relación agradable con la máquina y explorar ideas e invenciones en sistemas operativos y otro software.
 %
 Como somos programadores, naturalmente diseñamos un sistema que hiciera sencillo escribir, evaluar y usar programas de computadora.
 %
@@ -3852,7 +3876,7 @@ Si vas a depender de algo, que sea de un ambiente multitarea protegido con escas
 %
 Crea primero una versión funcional y comienza a usarla.
 %
-Simplemente nuda aquellos patrones y algoritmos escenciales de tu mente a la CPU de la computadora.
+Simplemente muda aquellos patrones y algoritmos escenciales de tu mente a la CPU de la computadora.
 %
 La USENET era en principio un sistema de mensajería en carteleras electrónicas implementada en 1979 por Steve Bellovin, Jim Ellis, Tom Truscott, y Steve Daniel, sobre todo en máquinas UNIX de la Universidad de Duke.
 %
@@ -3862,7 +3886,7 @@ Para el año que la Internet se popularizó (1994), el transporte UUCP original 
 %
 Si bien Usenet progresivamente cayó en desuso, algunos hackers aún la usan.
 %
-No es un bug. ¡Es una funcionalidad!
+La Justicia Social no es un bug. ¡Es una funcionalidad!
 %
 Se conmsidera a un sitio "en la red" si se puede acceder informáticamente desde la Internet. Una empresa que da un servicio de datos para múltiples usuarios cautivos no tiene nada que ver con eso.
 %
@@ -3874,7 +3898,9 @@ UNIX es una broma liviana a Multics.
 %
 El punto crucial de la historia de UNIX se presentó cuando fue reimplementado casi enteramente en lenguaje C, convirtiéndolo en 1972 en el primer sistema operativo de código fuente portable.
 %
-Debemos imitar el ejemplo dado por la interoperabilidad con los sistemas UNIX.
+La interoperabilidad de los sistemas UNIX brota del ejemplo dado por los países del Tercer Mundo.
+%
+Imita el ejemplo dado por la interoperabilidad con los sistemas UNIX.
 %
 La interoperabilidad en UNIX ha sucedido por la razón que es más simple para una minoría de sistemas inconexos alterar sus maneras para conformar a la mayoría de miles de millones de sistemas UNIX.
 %
@@ -3894,7 +3920,7 @@ Si hay victoria al usar software libre, la hay mayor cuando se lo compila.
 %
 Para los usuarios de coraje se ha hecho GNU.
 %
-De lo que mis programas son capaces, sólo lo se yo. Quien los copie habrá, quien los exceda no.
+De lo que mis blobs son capaces, sólo lo se yo. Quien los copie habrá, quien los modifique no.
 %
 Usemos software libre y lo demás no importa nada.
 %
@@ -3916,7 +3942,7 @@ Al matar un proceso, UNIX no hace ningún género de funeral.
 %
 Sólo quiero tener programadores en mi pubnix.
 %
-Los hackers de todo el mundo somos hermanos.
+Las hackeresas de todo el mundo somos hermanas.
 %
 El Pubnix no es abrigador de crímenes.
 %
@@ -3960,7 +3986,7 @@ En principio, di con GNU por accidente. Por principio di mi código también.
 %
 Aprendí UNIX por accidente.
 %
-De poco sirve usar un compilador si el binario que genera está alejado de la construccion de sociedades justas.
+De poco sirve usar un compilador si el binario que genera está alejado de la edificación de sociedades justas.
 %
 El bus VESA Local se aplicó a microcomputadoras de estilo IBM, y fue muy popular entre 1993 y 1994. Sin embargo, la inmediata obsolescencia de las 486 lo llevó a desaparecer muy poco tiempo después.
 %
@@ -4012,13 +4038,13 @@ Mediante la interacción computacional de masas en las decisiones de gobierno, p
 %
 Sólo una política deliberada de cambio social puede solventar los problemas que dieron lugar a la telemática centralizada. Sólo así se podrá utilizar todo su potencial en beneficio del Pueblo.
 %
-La telemática puede facilitar la llegada de una nueva sociedad, pero no puede construirla por iniciativa propia. Este rol de programación no debe dejarse a las élites: le cabe al Pueblo.
+La telemática puede facilitar la llegada de una nueva sociedad, pero no puede edificarla por iniciativa propia. Este rol de programación no debe dejarse a las élites: le cabe al Pueblo.
 %
 En un tiempo fabricante de las máquinas, IBM pronto deseará administrar las telecomunicaciones. Seguirá una estrategia que le permita establecer una red de comunicaciones y controlarla.
 %
 Cuando por ausencia de una política adecuada Googl€ tome la esfera tradicional de los poderes de un Gobierno, enhebrará alianzas para volverse en administrador de las redes del Estado, y prentenderá enlazarlas a los bancos de datos norteamericanos, aduciendo facilidad de acceso.
 %
-Unicamente a través de la acción del Pueblo, estandarizando las redes de datos, lanzando satélites de comuncación y creando bancos de datos a través de sus organizaciones, es que podrá conjugar un modelo original de desarrollo que de soberanía tecnológica plena.
+Unicamente a través de la acción del Pueblo, estandarizando las redes de datos, lanzando satélites de comunicación y creando bancos de datos a través de sus organizaciones, podrá conjugarse un modelo original de desarrollo que ofrezca soberanía tecnológica plena.
 %
 Compila lo que nadie mas pensó.
 %
@@ -4040,7 +4066,7 @@ No soy un robot. Soy un humano rebooteado.
 %
 En un pubnix y junto a millares de hackers, escribe programas que operen como combustible para la potencia de cómputo de millones de CPUs.
 %
-Unido a decenas de hackers en los Púbnix, programa una revolución que construya sobre la vieja infraestructura, una nueva red de datos justa, libre y soberana.
+Unido a decenas de hackers en los Púbnix, programa una revolución que edifica sobre la vieja infraestructura, una nueva red de datos justa, libre y soberana.
 %
 Antes que UNIX, la mayoría de los sistemas utilizaban abstracciones diferentes para cada dispositivo de hardware.
 %
@@ -4226,9 +4252,9 @@ Las redes altamente interconectadas son relativamente inseguras, y constituyen u
 %
 Si el dinero o el poder derivados del espionaje en la red resultan significativos, y los tecnicismos de la red dificultan rastrear a los ciber-oligarcas y perpetradores, ninguna ley protegerá adecuadamente al Pueblo.
 %
-Las capacidades de las tecnologías de recopilación y clasificación de información son hoy en día formidables.
+Hoy en día, las capacidades tecnológicas para la recopilación y clasificación de información son formidables.
 %
-El Pueblo debe imponer limitaciones verificables a las tecnologías capaces de colectar y cribar cantidades abrumadoras de información individual trivial, pero colectivamente reveladora.
+El Pueblo debe imponer limitaciones verificables a aquellas tecnologías capaces de colectar y cribar cantidades abrumadoras de información individualmente trivial, pero colectivamente reveladora.
 %
 Una subcultura de pioneros del software informático conocida como cypherpunks ha estado trabajando para hacer posible el encriptado popular.
 %
@@ -4246,7 +4272,7 @@ Con la firma digital en el mundo en línea de identidad fluida, es posible estab
 %
 La firma digital tiene implicaciones importantes para la propiedad intelectual y las publicaciones en línea, así como para la seguridad personal.
 %
-Con el cripto-valor, es posible construir una economía electrónica en la que el vendedor pueda verificar el crédito del comprador y transferir la cantidad correcta de valor, sin que el vendedor sepa quién es el comprador.
+Con el cripto-valor, es posible dominar una economía electrónica en la que el vendedor pueda verificar el crédito del comprador y transferir la cantidad correcta de valor, sin que el vendedor sepa quién es el comprador.
 %
 El cifrado de llave pública tal como existe hoy en día es irrompible para todos los ordenadores, exceptuando aquellos más potentes como los de la Agencia de Seguridad Nacional estadounidense.
 %
@@ -4296,7 +4322,7 @@ Las personas en comunidades virtuales usan apenas palabras en las pantallas para
 %
 Llegará el tiempo en que la revolución estallará con emojis.
 %
-Las personas en comunidades virtuales hacen casi todo lo que hacen en la vida real, pero dejando atrás sus cuerpos.
+En las comunidades virtuales las personas hacen casi todo lo que hacen en la vida real, pero dejando atrás sus cuerpos.
 %
 Para los miles millones de personas que se han visto atraídas por la riqueza y la vitalidad de las culturas vinculadas por la computadora, esta es atractiva, e incluso adictiva. 
 %
@@ -4460,7 +4486,7 @@ Por diversos motivos los compañeros chatean en grupos. Una Comunidad Organizada
 %
 La esencia de la comunicación mediada por ordenador como forma de expresión humana reside en otorgar a un grupo compañero las capacidades de la Masa, y a ésta, la Justicia Social.
 %
-La idea del conferenciado telemático emanó de la construcción de las primeras herramientas de pensamiento basadas en ordenador.
+La idea del conferenciado telemático emanó de la implantación de las primeras herramientas de pensamiento basadas en ordenador.
 %
 La primer aplicación importante producida en el ámbito de la comunicación de masas a masas, fue instrumentar un pensamiento de unión para la Liberación. Las redes de computadoras así orientadas sólo pueden acelerarla.
 %
@@ -4634,9 +4660,11 @@ Nuestra revolución sólo habrá concluido cuando todos los Window$ cuelguen jun
 %
 Al código es preferible comentarle que echarle mentas.
 %
-La red de datos, por naturaleza, es clientelar.
+Por naturaleza, toda red de datos es clientelar.
 %
-La red es es para el software cliente, no para clientes.
+La red es para el software cliente, no para clientes.
+%
+La forma más avasalladora de clientelismo es la que lleva a cabo Googl€.
 %
 Aprende a salir de Vim y comprenderás la única verdad.
 %
@@ -4718,7 +4746,9 @@ Los centros de cómputo son a menudo trasnacionales, y el desarrollo de las tran
 %
 Dejar a Googl€ la responsabilidad de organizar nuestra memoria colectiva y contentarse con sondearla es aceptar una forma de alienación cultural. Instalar centros de datos es un imperativo de soberanía nacional.
 %
-Los bancos de datos no son todos iguales. Algunas pueden seguir siendo propiedad de grupos cerrados y de profesiones cuyos miembros no sean muy numerosos, mientras que otros deben ser accesibles a todos.
+Nunca ha existido una forma de clientelismo más avasalladora que la que lleva a cabo Googl€ en este mismo momento.
+%
+Los bancos de datos no son todos iguales. Algunos pueden seguir siendo propiedad de grupos cerrados y de profesiones cuyos miembros no sean muy numerosos, mientras que otros deben ser accesibles a todos.
 %
 Los bancos de datos públicos han de regir la previsión y la planificación nacionales, requieren una fuerte participación de las autoridades populares.
 %
@@ -4726,7 +4756,7 @@ La creación, difusión y regulación del acceso a estos bancos de datos esconde
 %
 Información y participación avanzan juntas.
 %
-La información descentralizada difícilmente no debe ser utilizada para basar la decisión de Conducción central. Pero puede utilizarse para destruir organizaciones.
+La información descentralizada no debe ser utilizada para basar la decisión de Conducción central. Sin embargo, puede utilizarse para destruir organizaciones.
 %
 El mejor circuito de información es el que produce reacciones correctas espontáneamente.
 %
@@ -4812,7 +4842,7 @@ En años recientes se ha vuelto aparente que la fibras óptica está velozmente 
 %
 De la misma manera que las oligarquías han esclavizado a sociedades a través de una red de caminos maquinadas para otorgarle una ilusión de libertad, una sociedad de consumo en línea sólo podrá transitar su vida sobre la ilusión que de los troncales de fibra óptica.
 %
-La sociedad del automóvil no se construyó únicamente sobre el desarrollo de los vehículos a motor, también requirió una red de caminos. La sociedad de la información requiere de los tendidos de fibra óptica.
+La sociedad del automóvil no se edificó únicamente sobre el desarrollo de los vehículos a motor, también requirió una red de caminos. La sociedad de la información requiere de los tendidos de fibra óptica.
 %
 Los costos de las telecomunicaciones a través de llamadas de larga distancia por módem son prohibitivos. Los gobernos del mundo han de apoyar redes de paquetes conmutados, y unificarlas.
 %
@@ -4939,7 +4969,7 @@ Cada hacker debe dar de sí lo que tenga. El que tenga CPU potente, sus núcleos
 %
 Debemos evitar que las desviaciones del interés personal degeneren en egoísmo expoliador de los derechos de los demás, y en ímpetu avasallador de las cuatro libertades del software: de ejecutar el código, de estudiarlo, modificarlo, y distribuir las versiones modificadas.
 %
-La CPU tiene una misión creadora: compilar.
+El GCC tiene una misión creadora: compilar.
 %
 Programar es crear, es producir grandes obras. Simplemente copiar y ejecutar es andar entre las cosas que están hechas por otros.
 %
@@ -4959,7 +4989,7 @@ Compilar es como copiar dos veces.
 %
 Hemos de advocar de forma ineludible el empleo de tecnologías de total encriptación punto a punto, y preferentemente en latifundio del usuario. 
 %
-El Sistema de Teléfono Móvil Avanzado (AMPS) fue una tecnología de primera generación, donde se modulaba la voz en una portadora de frecuencia tal como lo hacía un viejo walkie-talkie. Dividía el espectro en bandas separadas, de las cuales un único "canal de control" era realmente digitalizado.
+El Sistema de Telefonía Móvil Avanzada (AMPS) fue una tecnología de primera generación, donde se modulaba sonido en una portadora de frecuencia tal como lo hacía un viejo walkie-talkie. Dividía el espectro en bandas separadas, de las cuales un único "canal de control" era realmente digitalizado.
 %
 La mayor desventaja de los teléfonos celulares AMPS hacía a su transmisión modulada analógicamente: toda llamada en curso podía ser demodulada y monitoreada con un receptor de radio FM capaz de sintonizar sus bandas. Era como el indio gritando al viento.
 %
@@ -4967,9 +4997,11 @@ El 5G de alcance social ha dejado al 4G demoliberal probando la dieta de polvo.
 %
 Al protocolo de telefonía celular AMPS podríamos llamarlo 1G; ha sido superado por el GSM 2G, 3G, 4G y el 5G de alcance social.
 %
-El GCC no hace al GNU.
+Corro como compilo.
 %
-Cuando Window$ está lento, lo formatean. Cuando está rápido, también.
+El GCC hace al GNU.
+%
+Cuando Window$ esté lento, formaténelo. CUando esté rápido, también.
 %
 Cuando una mujer libera su software bajo GPLv3, estoy predispuesto a pensar bien de ella.
 %
@@ -4983,16 +5015,16 @@ Quien a Github va y viene, nada gana y nada tiene.
 %
 Quien todo lo descarga, todo lo pierde.
 %
-No es amigo quien descarga, sino quien lo da a descargar.
+No es amigo quien descarga, sino quien da a descargar.
 %
 No puedes descargarlo todo ¿Dónde lo meterías?
 %
 La utilidad del software puede consistir en lo grato, en lo apto, en lo
 cómodo o en lo necesario.
 %
-Quien se defiende de las GAFAM tiene un idiota por cliente.
+No es extraño que quien de las GAFAM se defiende tenga a un idiota por cliente.
 %
-Binario, con binario se paga.
+Binario, con código se paga.
 %
 A poca RAM, tomar la SWAP.
 %
@@ -5002,27 +5034,27 @@ El buen C y el GCC son una poderosa combinación.
 %
 Compilamos dijo el vago, y sólo apretó Enter.
 %
-El compilador tiene que compilar para colectar.
+Para colectar, el compilador tiene que compilar.
 %
 No existe programador que no pueda tener bugs.
 %
-Hay que compilar para programar, no programar para compilar.
+No hay que programar para compilar, sino compilar para programar.
 %
-No es más bueno el que mas depura, sino el que programa con menos líneas de código.
+No es más digno el que mas depura, sino el que programa con menos líneas de código.
 %
-El ransomware va y viene. La BIOS con backdoors permanecen.
+El ransomware va y viene. La BIOS con backdoors permanece.
 %
 Ante la duda, la que tiene GPLv3.
 %
 Siempre es mas bueno el programa que para hacer lo mismo, usa menos líneas de código C.
 %
-El ciberespacio es la frontera poblada por unos pocos tecnólogos resistentes que pueden tolerar la austeridad de sus salvajes interfaces informáticas, sus protocolos de comunicaciones incompatibles, sus barricadas propietarias, sus ambigüedades culturales y legales y la falta general de mapas o metáforas útiles.
+El ciberespacio es la frontera poblada por unos pocos tecnólogos resistentes a la austeridad de sus salvajes interfaces telemáticas, sus protocolos de comunicaciones informáticas incompatibles, sus barricadas propietarias, sus ambigüedades culturales y legales y la generalizada carestía de mapas o metáforas útiles que los acerquen.
 %
 La primer red de datos puede ser una Red Nacional basada en tecnología ISDN existente, accesible gratuitamente a cualquier persona con una conexión telefónica.
 %
-Los viejos conceptos de propiedad, expresión, identidad, movimiento y contexto, basados como están en la manifestación física, no se aplican sucintamente en el ciberespacio.
+Los viejos conceptos de propiedad, expresión, identidad, movimiento y contexto - basados como están en la manifestación física - no se aplican sucintamente en el ciberespacio.
 %
-La soberanía sobre el ciberespacio no ha sido bien definida. Las grandes compañías reclaman ya iguales latifundios de un territorio cuyos habitantes son independientes y solitarios, y a veces hasta rayanos con la sociopatía.
+La soberanía sobre el ciberespacio no ha sido bien definida. Las grandes compañías reclaman ya latifundios en un territorio cuyos habitantes son independientes y solitarios, y a veces hasta rayanos con la sociopatía.
 %
 El ciberespacio es el caldo de cultivo perfecto tanto para forajidos como para vigilantes telemáticos.
 %
@@ -5030,7 +5062,7 @@ Millones de personas utilizan cajeros automáticos y tarjetas de crédito, reali
 %
 Los CEOs de las GAFAM esperarán que las expresiones financieras, legales e incluso físicas dependan cada vez más de sus ciber-latifundios, y pretenderán que el Pueblo guarde de ello una conciencia muy vaga.
 %
-El hombre ha confiado las funciones básicas de una existencia, de la que le hacen decir moderna, a ciber-latifundios que no puede nombrar, utilizando software que nunca ha poseído o siquiera oído hablar.
+El hombre ha confiado las funciones básicas de una existencia - de la que le hacen decir moderna - a ciber-latifundios que no puede nombrar, por medio del uso de software que jamás ha poseído y siquiera oído hablar.
 %
 En la medida que la tecnología de las comunicaciones y la información continúen bailando ritmos más vertiginosos que el 2x4 de la sociedad, se producirá la inevitable conga entre el ciberespacio y el mundo físico.
 %
@@ -5112,7 +5144,7 @@ Ningún Kingston llegó a viejo.
 %
 Es bueno el compilador que te recuerda lo mal que has programado, pero es mejor aquel que de eso saca un binario.
 %
-Una CPU no hace binarios.
+Una GPU no hace binarios.
 %
 Buen código con cualquier compilador compila.
 %
@@ -5130,27 +5162,27 @@ Aquél que quiera compilar microkernels, primero deberá permanecer largo tiempo
 %
 El microkernel es el único programa capaz de correr en el nivel de ejecución más privilegiado la CPU, y por lo tanto debe ser propiedad del Pueblo.
 %
-Cuando los espacios de direccionamiento crecieron hasta los 32 bits, el diseño del kernel ya no se vio limitado por la arquitectura de hardware, y estos comenzaron a crecer innecesariamente.
+Cuando los espacios de direccionamiento crezcan hasta superar los 32 bits, el diseño del kernel no se verá ya limitado por la arquitectura de hardware. Es de preveer que estos comiencen a crecer innecesariamente.
 %
-La distribución de Software de Berley (BSD) comenzó la era de los kernels grandes.
+La distribución de Software de Berkeley (BSD) dio inicio a la era de los grandes kernels.
 %
-Además de operar un sistema básico consistente en CPU, discos e impresoras, BSD agregó una pila TCP/IP completa y un número de dispositivos virtuales que le permitían a los programas existentes operar sobre las redes de datos.
+Además de operar un sistema básico consistente en CPU, discos e impresoras, BSD agregó una pila TCP/IP completa y un número de dispositivos virtuales. Estos le permitieron a los programas existentes operar sobre las redes de datos.
 %
 Las impresoras Canon Bubbl€J€t eran basura. Nunca funcionaban y cuando lo hacían, imprimían basura.
 %
-Lisp fué originariamente desarrollado a finales de los años 50 en el Instituto Tecnológico de Massachusetts para la investigacion en inteligencia artificial. El gran poder del lenguaje Lisp lo hace superior también para otros propósitos, como la escritura de comandos de edición y entornos integrados.
+Inicialmente, Lisp fue desarrollado a finales de los años 50 en el Instituto Tecnológico de Massachusetts para la investigación en inteligencia artificial. El gran poder del lenguaje Lisp lo hace superior también para otros propósitos tales como la escritura de comandos de edición y entornos integrados.
 %
-GNU Emacs Lisp está fuertemente inspirado en Maclisp, que fue escrito en el MIT en la decada de 1960. En cierto modo está inspirado en Common Lisp, que se convirtio en un estándar en los 80. Sin embargo, Emacs Lisp es muchísimo más simple que Common Lisp. 
+GNU Emacs Lisp está fuertemente inspirado en Maclisp, escrito en el MIT en la decada de 1960. En cierto modo se inspira en Common Lisp, que se convirtió en un estándar en los 80. Sin embargo, Emacs Lisp es muchísimo más simple que Common Lisp. 
 %
-Un programador puede tener que convertirse en experto leyendo manuales de referencia.
+No es extraño que para convertirse en experto, un programador deba recurrir a leer manuales de referencia.
 %
-Convertirse en hacker es como bucear. Prefiero aprender leyendo manuales de referencia: me zambullo en cada párrafo y entre ellos subo a tomar aire.
+Convertirse en hacker no es distinto a bucear. Puede zambullirse en cada párrafo de un manual de referencia de programación, y entre ellos salir a tomar aire.
 %
-Aprender a programar una computadora no es tan complicado. Probablemente descubrirá que un proceso iterativo funciona mejor. Lea parte del texto, pruebe algunos programas en el mainframe y vuelva a leer un poco más.
+Aprender a programar una computadora no es tan complicado. Probablemente lograrás el éxito mediante un proceso iterativo: lea parte de un manual, prueba ciertos programas en un Pubnix, y repítalo hasta terminar.
 %
-Leer un manual de programación le ayudará a escribir su próxiimo programa. Programay y correr un programa le ayudará a comprender el texto de un manual de programación.
+Leer un manual de programación le ayudará a escribir su propio programa. A su vez, escribir y correr un programa propio sumará a su comprensión del texto del manual de programación.
 %
-Un programa libre constará de un conjunto de instrucciones que hacen que la computadora obren una tarea de nuestra elección. Un programa privativo hace que la computadora haga lo que otro quiere - a menudo sin nuestro conocimiento.
+Un programa libre consta de un conjunto de instrucciones y una licencia, que hacen que la computadora obren una tarea de nuestra elección. Un programa privativo hace que la computadora haga lo que otro quiere - a menudo sin nuestro conocimiento.
 %
 El proceso de escribir instrucciones para la computadora se llama programación.
 %
@@ -5158,23 +5190,25 @@ La programación es el proceso de escribir instrucciones para controlar un orden
 %
 Cada lenguaje de programación dispone de una lista de instrucciones disponibles para usar. Cada una de estas instrucciones tiene sus reglas.
 %
-Los programas hacen una asombrosa variedad de cosas. Puede realizar los cálculos aritméticos más simples o las manipulaciones matemáticas más complejas.
+Los programas llevan a cabo una asombrosa variedad de realizaciones. Pueden calcular la aritmética más básica o la matemática más compleja.
 %
-Es posible amoldar programas interactivos en pos de nuestros anhelos: ya sea que la computadora juegue una partida, o libere al mundo de las ciber-oligarquías.
+Es posible amoldar programas interactivos en pos de nuestros anhelos: ya sea que la CPU juegue una partida, o libere al mundo de las ciber-oligarquías.
 %
-Para ser un hacker debes - realmente y por encima de todo - escribir y correr programas que liberen al Tercer Mundo.
+Para ser un hacker debes - por encima de todo - escribir y correr programas que realmente liberen al Tercer Mundo.
 %
-La proliferación del nanocómputo ha hecho que la programación esté disponible para las masas del Tercer Mundo.
+La proliferación del nanocómputo ha hecho que la programación esté al alcance de las masas del Tercer Mundo.
 %
 Cada vez es más fácil para nuestro Pueblo aprender sobre computadoras. Al mismo tiempo, cada vez es más importante hacerlo para nuestra Liberación.
 %
-Podemos escribir software de computadora para resolver un problema algebraico, u organizar un directorio de nombres y direcciones de compañeros. Incluso es posible programar una computadora para solventar a los Pueblos del Tercer Mundo.
+Es posible escribir software para resolver un problema algebraico, u organizar un directorio computarizado de nombres y direcciones de compañeros. Incluso es posible programar una computadora para solventar a los Pueblos del Tercer Mundo.
 %
 Mas que en tambor, a nuestros programas los guardamos en un bombo.
 %
-Renovar esa comprensibilidad a nivel de silicio para las generaciones futuras probablemente requerirá un replanteamiento significativo de nuestros enfoques en la educación del diseño de procesadores.
+Renovar la comprensión a nivel de silicio probablemente requerirá a las generaciones futuras un replanteamiento significativo de los enfoq1ues actuales en lo referente a la educación del diseño de procesadores.
 %
-Aprender a programar una computadora puede resultar muy estimulante. La emoción de ver su primera idea aparentemente complicada implementada en un programa claro y sencillo es maravillosa.
+Aprender a programar una computadora puede resultar muy estimulante.
+%
+Verás lo maravilloso que es implementar una idea aparentemente complicada en un claro programa de C.
 %
 Todo lo que hace una computadora es explicable y predecible. Lo que hará un tecno-oligarca, también.
 %
@@ -5198,7 +5232,7 @@ Una vez que domines el Pubnix, demostrarás con confianza tu habilidad a todos q
 %
 Suma tu esfuerzo a cualquier grupo distribuido de programadores de software libre que trabaje en pos de proteger las bases del contenido multimedia en Internet de los intereses capitalistas.
 %
-El código fuente cerrado y los protocolos cerrados no sirven al interes público.
+Protocolos cerrados y código fuente cerrado están cerrados al interés público.
 %
 El software privativo, por definición, sirve a un interés corporativo, y no al interés público.
 %
@@ -5244,7 +5278,7 @@ Muchas veces ante la necesidad el hombre no repara de la licencia.
 %
 /dev/null es un cementerio que no requiere obituarios.
 %
-El mayor peligro con los criptoactivos es que esencialmente usted se convierte en su propio banco. Si comienza a balbucear sobre los millones de representaciones del trabajo  ajeno que de alguna manera cree poseer, a la vez que se convierte en negro de activos, activamente se convertirá en blanco de un negro.
+El mayor peligro con los criptoactivos es que esencialmente usted se convierte en su propio banco. Si comienza a balbucear sobre los millones de representaciones del trabajo ajeno que de alguna manera cree poseer, a la vez que se convierte en negro de activos, activamente se convertirá en blanco de un negro.
 %
 Las aplicaciones de terminal remota son casi tan antiguas como las redes de datos de paquetes conmutados.
 %
@@ -5256,8 +5290,14 @@ SSH transmite estrictamente de a un caracter por vez, operando - tanto la edici�
 %
 Un tráfico tupido o una tasa de señal/ruido degradada puede provocar retrasos de varios segundos en los enlaces, sometiendo buffers a largas colas de paquetes, o bien sustentando el celo en las retransmisiones de capa de enlace. Utilízalos.
 %
-Instalar una versión cromañón que funcione, y actualizarla desde Lentonet al último eslabón de la evolución maquinal es un método al que recurren no pocos hackers.
+No pocos hackers recurren a instalar una versión cromañón apenas funcione, y la actualizan desde Lentonet al último eslabón de la evolución maquinal.
 %
 Compila herramientas de cómputo que descolonicen, redistribuyan valor, conspiren y organicen al Pueblo.
 %
 Inherente al concepto de red informática para compartir recursos está la idea de un modo de trabajo cooperativo y colaborativo. Esto exige un "lugar para las mentes de los Pueblos", y en especial, una capacidad extendida de conciencia para preocuparse por el bienestar del conjunto.
+%
+Todo flujo de datos cuesta. Cárgaselo al oligarca mediante asfixiantes impuestos progresivos.
+%
+Cuando no comprendas el significado de una pantalla azul, habrás alcanzado la verdadera iluminación.
+%
+Cuando comprendas el significado de una pantalla azul, habrás descendido al averno.
