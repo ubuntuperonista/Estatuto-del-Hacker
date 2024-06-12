@@ -12,7 +12,7 @@ tar xzf $PREFIX/tmp/cows.tar.gz
 
 echo "Moviendo ficheros .cow..."
 mv $PREFIX/tmp/cows/*.cow /data/data/com.termux/files/share/cowsay/cows/
-rm -r /data/data/com.termux/files/usr/tmp/cows/
+rm -r $PREFIX/tmp/cows
 
 echo "Moviendo fortunes..."
 mv $PREFIX/tmp/doctrina2 $PREFIX/share/games/fortunes/doctrina
