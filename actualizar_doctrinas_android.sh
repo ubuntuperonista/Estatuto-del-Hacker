@@ -11,7 +11,7 @@ wget https://caja.texto-plano.xyz/peron/fortune-phrases/cows/cows.tar.gz
 tar xzf $PREFIX/tmp/cows.tar.gz
 
 echo "Moviendo ficheros .cow..."
-mv $PREFIX/tmp/cows/*.cow /data/data/com.termux/files/share/cowsay/cows/
+mv $PREFIX/tmp/cows/*.cow $PREFIX/share/cowsay/cows/
 rm -r $PREFIX/tmp/cows
 
 echo "Moviendo fortunes..."
