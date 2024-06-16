@@ -1,0 +1,15 @@
+# provisto por ~peron <peron@texto-plano.xyz>
+$the_cow = <<"EOC";
+  $thoughts
+   $thoughts  \\
+ ,--__[o]__--,
+ ,|1\\_!-!_/1|,
+ !! ":|v|:" !!  
+| | [_;V;_] | |
+ []  || ||  []
+    [ ] [ ]
+    | | | |
+    ; | | ;
+    / | | \\
+    ""   ""
+EOC
