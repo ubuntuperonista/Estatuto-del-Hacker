@@ -2570,7 +2570,7 @@ Un parser es un traductor mecánico de cadenas de texto a símbolos identificabl
 %
 El número mágico se usa en los sistemas UNIX para identificar el tipo de fichero.
 %
-Un byte mas allá de COBOL se encuentra la inmortalidad.
+Un byte mas allá de COBOL encontrarás la inmortalidad.
 %
 Programa para divertirte y para combatir al Capital.
 %
@@ -3264,6 +3264,8 @@ Jamás borres datos históricos para hacer lugar a datos más nuevos. Hazlo para
 %
 Aunque no poseas acceso de root, puedes hostilizar telemáticamente en caso de necesidad, accediendo a máquinas ajenas y dejando en ejecución procesos hijos de difícil manutención.
 %
+Los procesos mueren para que otros hereden su RAM.
+%
 El acceso de root es un derecho adquirido.
 %
 El acceso de root sólo vale si se utiliza para privilegiar al Pueblo.
@@ -3747,6 +3749,16 @@ Raciona cuidadosamente todo uso de RAM.
 Sólo los hackers pueden ser los verdaderos guardianes de las redes de datos.
 %
 Las tres llaves del éxito: compilar, compilar, compilar.
+%
+Quien compila un programa compila cientos, si tiene CPU y tiempo.
+%
+No hay nada peor que un Window$ hartado de RAM.
+%
+A buen GNU no hay disco duro.
+%
+La RAM es el alimento del programa. La GPL, del hacker.
+%
+Depurando es como se programa.
 %
 Cuando el tiempo de formatear Window$ llegue, no faltará el bruto que quiera cobrarnos los discos.
 %
@@ -4600,7 +4612,7 @@ Utiliza las comunicaciones mediadas por computadora para lograr la reconciliaci�
 %
 La buena tecnología se autopropaga.
 %
-Escribe un software de comunicación autopropagante si deseas germinar una red de datos controlada.
+Si deseas germinar una red de datos controlada, escribe un software de comunicación autopropagante.
 %
 Un gusano informático es sólo un software de comunicación autopropagante destinado a germinar una red de comunicaciones dominada.
 %
@@ -4676,13 +4688,15 @@ El usuario aprende el programa, el hacker lo comprende.
 %
 Para desloguearse, lo primero es loguearse.
 %
-Elige un login que recuerdes, y una contraseña que olviden.
+Si ves la pantalla de logueo, loguéate. Si da ocupado, redisca.
 %
 Elige un login que olviden, y una contraseña que recuerdes.
 %
 En USENET, el pasado ni siquiera es pasado.
 %
-No es suficiente con programarlo a prueba de estúpidos. Prográmalo a prueba de listos.
+No es suficiente con programar a prueba de estúpidos. Prográma a prueba de listos.
+%
+Los procesos se van, las ramificaciones quedan.
 %
 Emplaza un gusano informático en forma de comando ls, y habrá alguien que lo haga correr.
 %
@@ -4770,6 +4784,8 @@ En toda situación donde grupos rivales sean igualmente capaces de producir, pro
 %
 Las limitaciones excesivas o mal aceptadas al uso del entorno de cómputo sólo podrían provocar inestabilidad del componente humano del sistema. Esto es mucho peor que un bug de programación.
 %
+Bug que compila es una funcionalidad.
+%
 Un bug es un problema mundano, y a veces hasta deseable para hacer amigos.
 %
 Los privilegios de los usuarios deben ser armónicamente promovidos.
@@ -4828,7 +4844,17 @@ La fibra óptica es la Pacha Mama siempre revolucionaria: sólo hemos de seguir 
 %
 Los programadores crearon GNU. Ninguna compañía de Capital.
 %
+GNU no es tan malo como sus alternativos.
+%
+La API engaña, el frontend miente, el backend no deja ninguna duda.
+%
 El código nunca envejece, pues es un ideal. Sólo lo hacen las arquitecturas que le dan sustento.
+%
+Para decir las cosas mas importantes, 300 baudios son suficientes.
+%
+El admin imprudente, hace al usuario negligente.
+%
+Window$ bueno o malo, da de comer a Bill Gate$.
 %
 Si seguimos operando a 14.400 baudios, es probable que la próxima Revolución se de inicio por fax, desde una playa.
 %
