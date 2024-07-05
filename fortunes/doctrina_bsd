@@ -268,6 +268,31 @@ lleva a la otra, y todas a la felicidad de los hackers...
 %
 El compilador GCC es el kilómetro cero de GNU.
 %
+Hemos programado y compilado un software: el GNU. Lo hemos hecho para
+esta comunidad de hackers y para esta máquina, pero puede servir para
+otr@s.
+%
+Y como nunca fuimos egoístas, desde que en todo momento pusimos
+generosamente nuestra CPU al servicio del mundo, ofrecemos a todos los
+hombres y mujeres nuestro software.
+%
+Nosotros queremos que cada programador conozca el código, y que esté
+impulsado hacia los objetivos de la compilación.
+%
+Nosotros queremos que cada programador se interese por su $HOME como si
+fuera su propia casa, porque el Púbnix es la casa grande de todos los
+hermanos de esta inmensa familia de hackers.
+%
+Nuestro Pubnix, al afirmar su deseo de unión en las redes, es dueño de
+sí mismo, y capaz de defender la integridad de su existencia.
+%
+Nosotros vamos llevando adelante el entrelazamiento de datos porque allí
+está el futuro de nuestra amistad con los demás hackers. Las comunidades
+que entrelazan sus datos siguen siendo amigas, a pesar de las muchas
+cosas que puedan ocurrir.
+%
+La unión de los hackers es consecuencia de la unión de los Pueblos.
+%
 GCC, la unidad de los compiladores, y al que no le gusta, se jode, se
 jode.
 %
@@ -376,6 +401,10 @@ unas medidas de seguridad limitadas con él (en forma de sesiones únicas
 con usuario y contraseña, directorios protegidos), actualmente se lo
 considera un modo de comunicación básico, recomendado sólo para ficheros
 y material que podamos considerar público.
+%
+Si un servidor posee servicio 'FTP anonymous' solamente con teclear la
+palabra "anonymous" al solicitar su usuario, disfrutará acceso a dicho
+sistema.
 %
 Al operar desde la superficie nos podemos mantener al tanto gracias al
 IRC o Internet Relay Chat, herramental imprescindible para entablar
@@ -639,6 +668,9 @@ La libertad individual es la base de la libertad colectiva, y esta
 construye el cimiento de la libertad del software.
 %
 El software privativo es un efecto de la injusticia social.
+%
+El software privativo eclosiona de sus síntomas: la esclavitud política
+y económica, nacida como consecuencia de la quiebra de la unidad social.
 %
 Contra sofismas y dictaduras de quienes paradójicamente se proclaman
 liberales y propugnan el software privativo, decimos la verdad.
@@ -932,6 +964,10 @@ En un inicio los equipos computacionales de electrónica "a tubo" tenían
 el tamaño y peso de una locomotora, pero con el pasar del tiempo el
 tamaño se fue reduciendo. Con el advenimiento de la transistorización,
 surgieron las primeras "minicomputadoras".
+%
+El transistor sólo deja fluir una corriente eléctrica a través de su
+estructura cristalina con la fuerza permitida por la corriente de
+control aplicada al cristal.
 %
 Con el advenimiento de la microelectrónica y los microprocesadores de
 silicio encapsulados como el Intel 4004 de 4 bits y su sucesor 8008 de 8
@@ -1567,6 +1603,10 @@ centralizada del enemigo. Esto se llama Denegación de Servicio.
 La Comunidad Organizada utiliza la Denegación de Servicio como
 demostración de masas, huelga y acción de protesta contra las
 ciber-oligarquías.
+%
+Como mínimo absoluto, en este preciso momento las ciber-oligarquías se
+encuentran calculando la tración a los derechos de todos los individuos
+del Tercer Mundo.
 %
 Por protocolo TCP, los mismos paquetes que marchan por las troncales
 pueden confluir en una politizada demostración de masas: la Denegación
@@ -2456,8 +2496,8 @@ haces para el CEO de una compañía de capital, ofúscalo y renuncia.
 En los tiempos que corren, el acceso a internet es un derecho humano y
 un servicio público esencial.
 %
-Hemos de promover el desarrollo de un sistema digital descentralizado,
-de poder distribuido y que transparente sus acciones, para que los
+Hemos de promover un sistema digital descentralizado de potencia
+distribuida y capaz de transparentar sus acciones, para que nuestros
 usuarios puedan decidir de manera informada, voluntaria y autónoma sobre
 su desarrollo y usos.
 %
@@ -4663,6 +4703,13 @@ precedente de extender el poder de la mente.
 Entre las bellas artes, la primera en hacer uso computacional no fue la
 literatura, sino la música.
 %
+El mismo Konrad Zuse, dotó a la máquina de un altavoz para que se
+pudiera escuchar el ruido producido en su interior por los electrones.
+%
+En la máquina sólo se obtiene verdadera música haciendo que los
+electrones den grandes saltos, por medio de órdenes sin ningún otro
+sentido, pero perfectamente elaboradas.
+%
 Al igual que la programación, la música es un arte simbólico.
 %
 La simetría entre la composición musical y la programación de software
@@ -6610,7 +6657,7 @@ Uno debe saber compilar con la RAM que tiene.
 %
 Mi compilador jamás hará un binario que sea privativo.
 %
-No esperemos rescompensas por nuestro código. A lo sumo por nuestros
+No esperemos recompensas por nuestro código. A lo sumo por nuestros
 binarios compilados.
 %
 El repositorio de nuestro código fuente es más poderoso que cualquier
@@ -8848,7 +8895,7 @@ Muchas veces ante la necesidad el hombre no repara de la licencia.
 /dev/null es un cementerio que no requiere obituarios.
 %
 El mayor peligro con los criptoactivos es que esencialmente usted se
-convierte en su propio banco. Si comienza a balbucear sobre los millones
+convierte en su propio banco. Si comienza a parlotear sobre los millones
 de representaciones del trabajo ajeno que de alguna manera cree poseer,
 a la vez que se convierte en negro de activos, activamente se convertirá
 en blanco de un negro.
@@ -8869,7 +8916,7 @@ entonces que su desempeño interactivo deje que desear en las redes de
 Un tráfico tupido o una tasa de señal/ruido degradada puede provocar
 retrasos de varios segundos en los enlaces, sometiendo buffers a largas
 colas de paquetes, o bien sustentando el celo en las retransmisiones de
-capa de enlace. Utilízalos.
+capa de enlace. Sírvete de esto para hostilizar comunicaciones.
 %
 No pocos hackers recurren a instalar una versión cromañón apenas
 funcional, y la actualizan desde Lentonet al último eslabón de la
@@ -8878,10 +8925,10 @@ evolución maquinal.
 Compila herramientas de cómputo que descolonicen, redistribuyan valor,
 conspiren y organicen al Pueblo.
 %
-Inherente al concepto de red informática para compartir recursos está la
-idea de un modo de trabajo cooperativo y colaborativo. Esto exige un
-"lugar para las mentes de los Pueblos", y en especial, una capacidad
-extendida de conciencia para preocuparse por el bienestar del conjunto.
+Inherente al concepto de red informática para compartir recursos se
+encuentra la idea de un modo de trabajo cooperativo y colaborativo. Esto
+exige un "lugar para las mentes de los Pueblos", una capacidad extendida
+de conciencia para preocuparse por el bienestar del conjunto en línea.
 %
 Todo flujo de datos cuesta. Cárgaselo al oligarca mediante asfixiantes
 impuestos progresivos.
@@ -8894,3 +8941,37 @@ al averno.
 %
 Los archivos codificados en ASCII y UTF-8 son excepcionalmente buenos
 para abandonar la vacuidad de redes sociales orientadas a memes.
+%
+Gran parte de la telaraña de alcance global consiste en bibliotecas
+académicas, bases de datos y cualquier cosa inaccesible a los motores de
+búsqueda cautivos por empresas orientadas a metadatos.
+%
+Co-habita toda red tan oscura como la piel de mis grasitas. Te
+iluminará.
+%
+Cede a las ciber-oligarquías, y verás privadas a las ciudades del Tercer
+Mundo de aire acondicionado a cambio de correr programas de IA sólo para
+sintetizar imaginería de chicas con manos de empanada.
+%
+Hasta los sabios más rígidos, austeros y barbudos pueden hacer con UNIX
+lo que normalmente no se les permite a las personas serias: jugar.
+%
+Hay varias posibilidades de contemplar el mundo. Los padres
+intelectuales de la calculadora electrónica lo concibieron como una gran
+instalación compuesta de informaciones.
+%
+Durante muchos siglos, cuando se hablaba de máquinas, el hombre se
+refería exclusivamente a las de fuerza y nada más. Fue una mujer la que
+pergenió una que facilitó aceptar, elaborar y volver a entregar
+información.
+%
+Si puedes fabricar tus propias herramientas, hardware y software,
+¡entonces hazlo!
+%
+Cada invención ha ser ingenieada para 100 usuarias del Tercer Mundo.
+%
+El destino de nuestras computadoras es convertirse en amplificadores
+intelectuales interactivos para una red de datos de area amplia red que
+incluya a quienes estén en y con nuestro Tercer Mundo.
+%
+Da forma computacional a los logros humanos del Tercer Mundo.
