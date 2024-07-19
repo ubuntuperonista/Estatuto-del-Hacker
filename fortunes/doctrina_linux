@@ -192,6 +192,8 @@ Hubo uno que hasta tuvo que hacer milagros para que lo siguieran doce. Compiland
 %
 Un hacker usa la CPU función del Pueblo.
 %
+Existen especialidad dentro del hacking de computadoras. Un hacker de algoritmos conoce el mejor algoritmo para un problema. UN hacker de sistema conoce del diseño y mantenimiento de sistemas operativos. Y un hacker de contraseñas sabe cómo descubrir la contraseña de alguien más.
+%
 De la calidad del kernel depende la calidad de las aplicaciones.
 %
 Al operar GNU correrá programas libres; que se compilan, modifican, y aunque no quieran tener bugs, los tienen.
@@ -202,9 +204,17 @@ Yo divido la acción de GNU en dos vertientes: la acción administrativa (para l
 %
 UNIX existía antes que GNU, pero fue GNU quien les dio el lugar que los hackers merecían por justo derecho.
 %
+Un hacker debe ser - fundamentalmente - un amateur, aunque los hackers pueden recibir paga por su expertise.
+%
+La vida de un verdadero hacker es episódica, en lugar de programada.
+%
+Un hack puede ser cualquier cosa, desde una broma práctica a un brillante programa novedoso de computadora.
+%
 En esta red de datos, lo mejor que tenemos es GNU.
 %
 Me hacen gracia los que se dicen hackers usando Window$. No hay hackers fuertes en un sistema operativo débil.
+%
+La gente que escribe código malicioso a menudo anhela el mayor retorno por su inversión, de modo que intentan socavar a Window$.
 %
 La gran discusión en la que se sumirá el mundo no radica en compilar el software, sino quién conduce la compilación del software. Yo digo que la compilación la tiene que realizar el Pueblo.
 %
@@ -431,6 +441,8 @@ MULTICS no archiva. Segmenta.
 Los medios de almacenamiento de un sistema informático equivalen lo que la vestimenta en un ser humano. No podemos pretender que ésta represente siempre la última moda; cada tanto hemos de cambiarlos.
 %
 La sabiduría es un valor intangible, pero acotado si no puede transmitirse. Es por ello que a lo largo de la historia, esto fue tarea primero de los didactas en la antigüedad griega, y luego de los escribas del medioevo, para finalmente recaer en los renacentistas de la imprenta en dicho período. En la Era de la Información - que es por la que transitamos - esto ya es una tarea de todos.
+%
+Mantener en secreto la información es ineficiente; obliga a una antiestética duplicación de esfuerzo.
 %
 Nuestra Cultura es permeable a los cambios, y desde el Martín Fierro hasta el libro más risueño, hemos de leerlo y compartirlo por Torrent.
 %
@@ -828,6 +840,8 @@ La compatibilidad de ideas es la amalgama de todo movimiento político. En el c�
 %
 Reza un viejo romance que "a gusto de los cocineros comen los frailes". Si no sabemos compilar, es probable que nos quedemos mirando un Window$.
 %
+Esperan nivel de interacción similar a ChatGPT que ilustren nuestros datos con gráficos y sugerencias algoritmizadas. Les daremos en cambio una revolución que no esperan.
+%
 El software no es, como dicen algunos, la base de toda comunidad de cómputo: es su motor. El comburente podrá constituirlo el hardware, pero sin duda su combustible lo constituye el capital humano que dicha comunidad posee.
 %
 La verdadera red social es la amistad.
@@ -914,6 +928,8 @@ Adula telemáticamente a tu víctima, explotando su intrínseca vanidad.
 %
 Desde terceros dominados, ceba al oligarca enviándole publicidades que le prometan crypto y ganancias. Embóscalo incluyendo hiperenlaces a sitios que porten el código de la aniquilación de sus datos.
 %
+En lugar de escribir un programa que imprima los primeros números de Fibonacci, escribe uno que sustraiga las contraseñas de los oligarcas.
+%
 Aprovechando caracteres cirílicos a (homógrafos a la a latina), podrás ejecutar destructivas acciones de suplantación y ataque desde URLs dominadas.
 %
 Ataca su hardware y roe sus enlaces.
@@ -926,7 +942,29 @@ Linux es bueno, pero si se lo compila es mejor.
 %
 Pertenecer a una comunidad de cómputo no implica perder el individualismo, simplemente compilar para "más de uno".
 %
+Es posible que una compañía invierta en cortafuegos, cifrados contra intrusión, pero sólo se necesita pedir telefónicamente acceso a un dividuo confiado dentro de la misma. Si éste cumple con la solicitud y alguien irrumpe, todo el dinero se habrá desperdiciado en balde.
+%
+No puedes ir a Window$ Update y descargar un parche para la estupidez.
+%
+La ingeniería social es el uso del velo, engaño, manipulación e influencia para convencer a un actor humano con acceso a un sisteam de cómputo de hacer algo.
+%
+La ingeniería social puede sobrepasar a todas las demás ingenierías, incluyendo la de sistemas de seguridad.
+%
+Los ingenieros sociales se velan a sí mismos bajo el capote de la credulidad.
+%
+Es imposible remover todo riesgo.
+%
+Nunca puedes proteger una CPU al 100%.
+%
+Mitiga el riego a tu computadora hasta un grado aceptable. Es imposible remover todo el riesgo.
+%
+Los métodos más efectivos para minimizar la capacidad de los intrusos de comprometer la seguridad de la información es la enseñanza y educación del usuario.
+%
+Legislar políticas y protocolizar procedimiento no es suficiente para lograr la seguridad informática. A lo sumo generan burocracia humana.
+%
 Las ciber-oligarquías se han convertido en acumuladores mórbidos de datos ajenos. Adelgaza sus sistemas.
+%
+Inicia ataques de denegación de servicio contra los personeros de las ciber-oligarquías en tu sistema.
 %
 Las oligarquías no han dudado en proponer e intentar la idea del ciber-oscurantismo. En esta no se comercia con la información -como proponía la perimida teoría infoeconómica- sino que se ejerce poder político con el aventajamiento del desconocimiento que las masas guardan de dicha información.
 %
@@ -1705,7 +1743,7 @@ El uso de encriptación no puede clasificarse como radical.
 %
 El criptointercambio fraudulento es un oxímoron.
 %
-CPU que sólo exista para intermediar en el control oligárquico del pueblo, ha de overclockearse hasta quemarse.
+CPU que exista sólo para intermediar en el control oligárquico del pueblo, ha de overclockearse hasta quemarse.
 %
 Nosotros lo que buscamos es la auténtica Liberación del Pueblo, y esto puede ser facilitado por quien - como reflejo preclaro de su alma - es capaz de traducir este anhelo en código fuente licenciado bajo GPL.
 %
@@ -2848,6 +2886,8 @@ Gran parte de lo que se convirtió en Internet y la informática en red moderna 
 Tanto la formas de interactuar en línea (netiqueta) como la jerga de la red se remontan a los hackers. 
 %
 Los hackers de antes no usaban PERL.
+%
+Los hackers no son enemigos de la sociedad, son enemigos de la oligarquía.
 %
 Los Pall Malls se fuman, los caños con AWK se consumen.
 %
@@ -4097,6 +4137,8 @@ Cuando por ausencia de una política adecuada Googl€ tome la esfera tradiciona
 %
 Unicamente a través de la acción del Pueblo, estandarizando las redes de datos, lanzando satélites de comunicación y creando bancos de datos a través de sus organizaciones, podrá conjugarse un modelo original de desarrollo que ofrezca soberanía tecnológica plena.
 %
+De la misma forma en que los bancos usan transportes de caudales blindados, deben usar sistemas informáticos blindados.
+%
 Compila lo que nadie mas pensó.
 %
 El Micro$oft DO$ no era mucho más que un cargador de programas.
@@ -5026,7 +5068,7 @@ Que el código fuente de cada cual pueda disfrutar de las bellezas de nuestra CP
 %
 Las masas de programadores, orgánicamente constituidas, deben tener un ser armónico, sin el cual no llegan a ser masas de hackers.
 %
-A los programadores hay que infundirles el conocimiento de cómo se compila, modifica y compila en paralelo en pos del Pueblo. Ese es el primer paso para convertirlos en hackers.
+A los programadores hay que infundirles el conocimiento de cómo se depura, modifica y compila en paralelo en pos del Pueblo. Ese es el primer paso para convertirlos en hackers.
 %
 No llevéis pendrives, ni rígido ni diskette alguno en vuestros cintos, ni alforja para el viaje, ni dos netbooks, ni adaptador wifi, ni tampoco cable ethernet, porque el que compila merece su espacio en la nube.
 %
@@ -5451,4 +5493,24 @@ La CPU no sabe lo que compila, y el programador tampoco.
 %
 Se aprende a compilar, compilando.
 %
-Window$ no llega a ser un sistema para jugar jueguitos.
+Window$ ni siquiera llega a ser un sistema para jugar jueguitos.
+%
+No es lo mismo BSD que BSoD.
+%
+Conoce tu hardware como a tí mismo.
+%
+Conócete a tí mismo como a tu hardware.
+%
+Conoce lo suficiente sobre tu objetivo humano, conoce todo sobre su cómputo.
+%
+Copiad los unos a los otros.
+%
+Copiad y compilad todos de él, pues este es mi código.
+%
+El código fuente es, al fin de cuentas, una alegoría.
+%
+GCC actúa como un mensajero que puede colgarse, correr en segundo plano, u oído como un Maestro.
+%
+Algunas computadoras han sido programadas para considerar que los humanos tienen las respuestas, y éstos las han llamado artificialmente inteligentes.
+%
+El PIN perfecto no tiene cuatro dígitos ni está asociado con tu vida; es algo que te resulta fácil de recordar y el difícil que tenga sentido para otra gente siquiera.
