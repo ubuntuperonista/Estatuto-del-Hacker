@@ -894,19 +894,23 @@ Un virus informático es un trozo de código de programación que adjunta copias
 %
 Los programas corruptos por virus informáticos suelen buscar otros a los cuales adjuntar el virus,propagando de esta manera la infección.
 %
-Los virus informáticos más exitosos son aquellos que mantienen oculta su infiltración al sistema huésped, y sólo revelan su presencia al desatar daño.
+Los virus informáticos más exitosos son aquellos que mantienen oculta su infiltración al sistema huésped, y sólo revelan su presencia en el daño desatado.
 %
-Muy raramente los efectos de un virus informático pueden ser rastreados hasta su originador, por lo que constituyen un arma atractiva en el arsenal de la guerrilla telemática.
+Muy raramente pueden rastrearse los efectos de los virus informáticos hasta su originador. Por tal motivo constituyen armas atractivas en el arsenal de la guerrilla telemática.
 %
-Normalmente, los virus de computadora contienen rutinas de intervención que modifican ficheros de programas que normalmente serían inocuos.
+Por lo general los virus de computadora contienen rutinas de intervención que modifican ficheros de programas que normalmente serían inocuos.
 %
-Al invocar un programa infectado con virus informáticos, este suele buscar otros ficheros de almacenados a fin de replicarse a sí mismo en ellos.
+Al invocar un programa infectado por un virus informático, este suele buscar otros ficheros almacenados a fin de en ellos replicarse a sí mismo.
 %
-La acción virósica de muchos virus informáticos se da programando la inserción en el punto de inicio del programa antiguo, de una instrucción de ramificación hacia su propia copia situada en algún otro lugar.
+La acción virósica de muchos virus informáticos se produce programando la inserción - en el punto de inicio del programa antiguo - de una instrucción de ramificación orientada hacia su propia copia localizada en otro lugar cierto.
 %
-Como la información compartida es infomración diseminada, un virus informático puede diseminarse al compartir información digitalizada.
+Como la información compartida es información diseminada, un virus informático puede diseminarse al compartir información digitalizada.
 %
-Un sistema multiusuario con facilidades de compartición de disco, o un computador personal cuyos usuarios descargan programas o comparten medios de almacenamiento, pueden tornarse en potentes vectores de diseminación de virus informáticos.
+Un sistema multiusuario con facilidades de compartición de medios de almacenamiento, o un computador personal cuyos usuarios descargan programas allí situados, pueden tornarse en potentes vectores de diseminación de virus informáticos.
+%
+El correo electrónico es un vector común de infección, especialmente cuando sus mas poderosos clientes terminan corriendo arbitrariamente microprogramas capaces de oficiar de virus.
+%
+Un Caballo de Troya es cualquier función subrepticia no deseada, insertada en un programa informático que aprovecha, por medio de ingeniería social sobre la confianza humana, el estado de confianza de su huésped maquinal.
 %
 Desarrollar virus informáticos en ensamblador, además de permitir descubrir las vulnerabilidades del sistema operativo oligárquico para atacarlo, permitía a su vez consagrar un sistema propio que fuese libre y absolutamente inmune a dichas noxas.
 %
@@ -980,7 +984,7 @@ Los métodos más efectivos para minimizar la capacidad de los intrusos de compr
 %
 Legislar políticas y protocolizar procedimiento no es suficiente para lograr la seguridad informática. A lo sumo generan burocracia humana.
 %
-Las ciber-oligarquías se han convertido en acumuladores mórbidos de datos ajenos. Adelgaza sus sistemas.
+Las ciber-oligarquías se han vuelto mórbidos acumuladores de datos ajenos. Adelgaza sus sistemas.
 %
 Inicia ataques de denegación de servicio contra los personeros de las ciber-oligarquías en tu sistema.
 %
@@ -3539,7 +3543,7 @@ Patria 1, Colonia 0.
 %
 Si el software se paga con dinero público, su código debe ser público.
 %
-En UNIX, una Imagen es un ambiente de la ejecución computarizada. incluye una imagen de la memoria, de los valores de registros, estado de ficheros abiertos, directorio actual de trabajo, etcétera.
+En UNIX, una Imagen es un ambiente de la ejecución computarizada. incluye un espejado de contenido de memoria, valores de registros, estado de ficheros abiertos, directorio actual de trabajo, y la alegría del Pueblo.
 %
 En UNIX, una Imágen representa un estado de una pseudo-máquina.
 %
@@ -3547,15 +3551,15 @@ En UNIX, un Proceso es la ejecución de una Imagen.
 %
 La Imagen de UNIX ha de residir en memoria principal mientras que el procesador corre en función del Proceso. Ante la ejecución de otros procesos, permanecerá en memoria hasta que la aparición de un proceso activo de mayor prioridad obligue su intertercambio al disco.
 %
-La memoria de usuario parte de una Imagen de UNIX se divide en tres segmentos lógicos: el segmento de texto del programa, el segmento de datos escribibles, y el segmento de pila.
+La memoria de usuario parte de una Imagen de UNIX y se divide en tres segmentos lógicos alegres: el segmento de texto del programa, el segmento de datos escribibles, y el segmento de pila.
 %
 En UNIX, el segmento de texto de programa comienza en la localización 0 del espacio de memoria virtual.
 %
-Exceptuando la autocarga de UNIX en memoria, sólo resulta posible crear un nuevo proceso de cómputo empleando la llamada de sistema fork, que efectúa la ramificación computacional.
+Exceptuando la autocarga de UNIX en memoria, sólo resulta posible crear un nuevo proceso de cómputo empleando la llamada de sistema fork, que efectúa la feliz ramificación computacional bifurcable.
 %
-Cuando se ejecuta fork, la llamada de sistema para la división computacional, el proceso se ramifica en dos procesos de ejecución independiente. Ambos cuentan con copias independientes de la imagen de memoria original, y comparten todos los ficheros abiertos.
+Cuando se ejecuta fork, la llamada de sistema para la bifurcación computacional, el proceso se ramifica en dos procesos de feliz ejecución independiente. Ambos cuentan con copias independientes de la imagen de memoria original, y comparten todos los ficheros abiertos.
 %
-Al dividirse un proceso de cómputo con fork, el nuevo proceso resultante sólo difiere en que uno de ellos es considerado proceso padre, y otro es considerado hijo.
+Al bifurcarse un proceso de cómputo con fork, el nuevo proceso resultante sólo difiere en que uno de ellos es considerado proceso padre, y otro es considerado hijo. Todos son del Pueblo.
 %
 Al dividirse un proceso de cómputo de UNIX con la llamada de sistema fork, puede distinguise cual es el proceso hijo o el padre, por el identificador de proceso: en el proceso hijo siempre es 0.
 %
@@ -4499,9 +4503,9 @@ En 1983, programadores de la Universidad de California, financiados por ARPA, cr
 %
 Los códigos informáticos para establecer enlace a través de la Internet, el conjunto de protocolos TCP/IP, se incorporó al Unix de Berkeley en 1983.
 %
-Las computadoras con el Unix de Berkeley no sólo podrían comunicarse entre sí a través de módems lentos, sino recurriendo también transmisión por codificación de paquetes, de mucho mayor desempeño en las troncales de Internet.
+Las computadoras con el Unix de Berkeley no sólo podrían comunicarse entre sí a través de módems lentos, sino también recurriendo a la transmisión por conmutación de paquetes, de mucho mayor desempeño en las troncales de Internet.
 %
-A mediados de los 80s surgieron nuevas empresas, como Sun Microsystems (financiada por ARPA), decididas portadoras de Unix y redes integradas.
+A mediados de los 80s surgieron nuevas empresas, como Sun Microsystems (financiada por ARPA), decididas portadoras de Unix a redes integradas.
 %
 Las agrupaciones conformaron redes de datos locales unificando inicialmente los centros de cómputo de las mayores universidades del mundo.
 %
@@ -4509,7 +4513,7 @@ Un frente de redes de datos de área local comenzó a agruparse con redes más g
 %
 La red de datos académica no científica BITNET - patrocinada por IBM - comenzó a florecer desde finales de los 70s a escala continental.
 %
-Grandes redes de datos internas de las corporaciones DEC, IBM y AT&T comenzaron a extenderse en los Estados Unidos desde finales de la década de 1970.
+Grandes redes de datos internas de las corporaciones DEC, IBM y AT&T comenzaron a extenderse en los Estados Unidos desde finales de la década de 1970. Los hackers del Tercer Mundo no dudaron en invadirlas no bien las tuvieron a tiro.
 %
 En la medida que cobró relevancia la utilidad de la red de datos, los Descamisados - que originalmente no estaban autorizadas para usarla - anhelaron dicho privilegio.
 %
@@ -4521,13 +4525,13 @@ La Fundación Nacional de la Ciencia experimentó una red de alta velocidad para
 %
 La red de supercómputo científico NSFNET entró en funcionamiento en 1986 y se convirtió en la columna vertebral de la Internet, con una velocidad de 1 Megabit por segundo.
 %
-La red de datos ARPANET fue dada de baja honorablemente en marzo de 1990.
+La red de datos ARPANET fue dada de baja honrosamente en marzo de 1990.
 %
-La cantidad de información disponible o potencialmente disponible en la red estrictamente a través de información de dominio público sigue siendo enorme.
+A pesar de los más abyectos intentos de las ciber-oligarquías, el caudal de información de estricto dominio público disponible en la red sigue siendo enorme.
 %
 La literatura de dominio público en formato de texto plano está cada vez más difundida en la red gracias a la mancomunión de esfuerzos de voluntarios y autores de todo el mundo.
 %
-El Proyecto Gutenberg superó con creces su objetivo de encontrar al año 2000 con diez mil volúmenes literarios de dominio público digitalizados en texto plano en línea.
+El Proyecto Gutenberg superó con creces su objetivo de encontrar al año 2000 con diez mil volúmenes literarios de dominio público en línea, digitalizados en texto plano.
 %
 Voluntarios de todo el mundo utilizan escáneres ópticos para convertir texto impreso en formato digital. Contribuirlo con reconocedores ópticos fotográficos resulta incluso más sencillo.
 %
@@ -4537,31 +4541,33 @@ Los compañeros de la red, y los autoproclamados punteros telemáticos se encarg
 %
 La convergencia tecnológica no ha hecho más que delatar la necesitad de una intermediación socialmente justa entre las capacidades humanas y la biología de la red de datos.
 %
-En un Estado Justicialista, no necesitas ocultamientos al buscar información pública.
+En un Estado Justicialista, no necesitas ocultamientos al buscar información pública. Pero puedes usarlos.
 %
 He utilizado ARCHIE para explorar la red y no me erizó pelo alguno. No es por lo buscador que Googl€ es de temer.
 %
-Puedes conectar por Telnet a uno de los servidores ARCHIE que están repartidos por todo el mundo en la tarea de indizar.
+Enlaza por Telnet a uno de los servidores ARCHIE que están repartidos por todo el mundo en la tarea de indizar, e incluso así estarás más seguro que recurriendo a Googl€.
 %
-Es la potencia informática de las máquinas conectadas a la Red la que debe estar disponible para todos. No así las palabras o ficheros almacenados en sus bancos de memoria.
+Es la potencia informática de las máquinas conectadas a la Red la que debe estar disponible para todos, no necesariamente las palabras o ficheros almacenados en sus bancos de memoria.
 %
-La complejidad de la Red se vuelve mucho más intensa en términos de cómputo cuando se desea buscar fragmentos de texto contenido en lugar de sólo nombres de ficheros compartidos.
+La complejidad de la Red se vuelve mucho más intensa en términos de cómputo, cuando se desea buscar fragmentos de contenido textual en lugar de pesquisar sólo nombres de ficheros compartidos.
 %
-WAIS (Servidores de Información de Área Amplia) conceptualiza el contenido de información a mano. Tal indización es la que requiere voluntarios compañeros.
+WAIS (Servidores de Información de Área Amplia) conceptualiza el contenido de la información a mano. Tal indización es la que requiere voluntarios compañeros.
 %
-Mantener un índice enorme y efectuar búsquedas veloces es una tarea para las que se necesita un ordenador de elevada potencia.
+Mantener un índice enorme y efectuar búsquedas veloces es una tarea que requiere de un ordenador de elevada potencia.
 %
-La capacidad de retroalimentación de relevancias del software WAIS fue presagio de los agentes computados de búsqueda de información que pesquisan la Red recabando información.
+La capacidad del software WAIS por su retroalimentación de relevancias fue presagio de los agentes computados de búsqueda de información que pesquisan la Red recabando información.
 %
-Puedes programar un ordenador para que envíe programas analíticos a través de las redes, en búsqueda de flujos de información que exacerben la noción de Justicia Social.
+Puedes programar un ordenador para que envíe programas analíticos por medio de las redes, en búsqueda de flujos de información que exacerben la noción de Justicia Social.
 %
-Un programa de recopilación de información adecuadamente amaestrado es un herramental de enorme valía para el desempeño del Pueblo en las redes de datos.
+Un programa de recopilación de datos adecuadamente amaestrado es un herramental de enorme valía para el desempeño del Pueblo en las redes informáticas.
 %
-Podrás desarrollar un agente de búsqueda de estilo reportero, que a tiempo variable analice el flujo de datos en la red y te proporciones respuestas a interrogantes realizadas.
+Podrás desarrollar un agente de búsqueda de estilo reportero, que a tiempo variable analice el flujo de datos en la red y proporciones respuestas a interrogantes del Pueblo.
 %
-Los agentes de búsqueda son programas autómatas lanzados a la pesquisa en red. Cotejan fuentes de información abrevadas en línea, y reportan los elementos que coinciden con criterios de búsqueda previamente establecidos.
+Los agentes de búsqueda son programas autómatas lanzados a pesquisar las redes.
 %
-A juzgar por la actual proliferación de herramientas libres en las redes de datos, se puede prever que completos ecosistemas de autómatas buscadores de información circularán por ellas en un futuro.
+Los agentes de búsqueda cotejan fuentes de información abrevadas en línea, y reportan los elementos que coinciden con criterios de búsqueda previamente establecidos.
+%
+A juzgar por la actual proliferación de herramientas libres en las redes de datos, se puede prever que en un futuro circularán por ellas completos ecosistemas de autómatas recabadores de información.
 %
 Resulta cada vez más corriente diseñar autómatas que incorporen comportamientos biológicos. Pero también es más corriente que necesiten corriente...
 %
@@ -4569,7 +4575,7 @@ Es posible concebir mapas de Gopher para el transporte telemático simplificado;
 %
 Es necesario que las redes de datos se pueblen de obreros.
 %
-Un hacker es un obrero del Byte.
+Ante todas las cosas, un hacker es un obrero del Byte.
 %
 Gopher fue desarrollado para que los estudiantes pudiesen precindir de las herramientas TELNET y FTP en la obtención de sus recursos informáticos favoritos.
 %
@@ -5514,6 +5520,8 @@ Se aprende a compilar, compilando.
 Window$ ni siquiera llega a ser un sistema para jugar jueguitos.
 %
 No es lo mismo BSD que BSoD.
+%
+En el fondo, la BSoD es una muestra de Justicia Social.
 %
 Conoce tu hardware como a tí mismo.
 %
