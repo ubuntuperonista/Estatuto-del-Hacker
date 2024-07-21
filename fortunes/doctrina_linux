@@ -890,6 +890,24 @@ La Denegación de Servicio es otra forma de sabotaje telemático. Su ejecución 
 %
 La creación de virus informáticos cobró condición de necesidad, pues la lucha contra un sistema oligárquico injusto así lo exigía.
 %
+Un virus informático es un trozo de código de programación que adjunta copias de si mismo a otros programas, incorporándose a ellos de modo que - una vez modificados - los programas eventualmente sean capaces de cumplir aún su función pensada, mientras que subrepticiamente realicen otras.
+%
+Los programas corruptos por virus informáticos suelen buscar otros a los cuales adjuntar el virus,propagando de esta manera la infección.
+%
+Los virus informáticos más exitosos son aquellos que mantienen oculta su infiltración al sistema huésped, y sólo revelan su presencia al desatar daño.
+%
+Muy raramente los efectos de un virus informático pueden ser rastreados hasta su originador, por lo que constituyen un arma atractiva en el arsenal de la guerrilla telemática.
+%
+Normalmente, los virus de computadora contienen rutinas de intervención que modifican ficheros de programas que normalmente serían inocuos.
+%
+Al invocar un programa infectado con virus informáticos, este suele buscar otros ficheros de almacenados a fin de replicarse a sí mismo en ellos.
+%
+La acción virósica de muchos virus informáticos se da programando la inserción en el punto de inicio del programa antiguo, de una instrucción de ramificación hacia su propia copia situada en algún otro lugar.
+%
+Como la información compartida es infomración diseminada, un virus informático puede diseminarse al compartir información digitalizada.
+%
+Un sistema multiusuario con facilidades de compartición de disco, o un computador personal cuyos usuarios descargan programas o comparten medios de almacenamiento, pueden tornarse en potentes vectores de diseminación de virus informáticos.
+%
 Desarrollar virus informáticos en ensamblador, además de permitir descubrir las vulnerabilidades del sistema operativo oligárquico para atacarlo, permitía a su vez consagrar un sistema propio que fuese libre y absolutamente inmune a dichas noxas.
 %
 El uso de virus informáticos como vector de defensa Popular guarda la misma efectividad que el uso del armamento biológico: acotar su campo de acción implica costos de estudio incongruentes con una necesaria economía de escala. Sólo podrían responder a una máxima: "ataca a Window$".
