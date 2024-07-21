@@ -21,6 +21,7 @@ echo "Moviendo fortunes..."
 mv -f /tmp/doctrina /usr/share/games/fortunes/es
 mv -f /tmp/rms /usr/share/games/fortunes/es
 mv -f /tmp/excusas /usr/share/games/fortunes/es
+mv -f /tmp/pintadas /usr/share/games/fortunes/es
 
 echo "Moviendo programas..."
 mv -f /tmp/doctrina.sh /usr/local/bin/doctrina
@@ -33,6 +34,7 @@ echo 'Actualizando Doctrinas...'
 cd /usr/share/games/fortunes/es/
 strfile doctrina
 strfile rms
+strfile excusas
 strfile pintadas
 echo 'Doctrinas actualizadas'
 echo "Te devuelvo a $HOME/"
