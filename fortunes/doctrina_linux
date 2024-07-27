@@ -1733,6 +1733,8 @@ Gracias a la naturaleza rebuscada del procesador 8088, su lenguaje ensamblador d
 %
 El 8088 es, con mucho, el más lento de los microprocesadores utilizados en las computadoras compatibles con IBM, por lo que no importa cuán cuidadosamente se adapte el código a las sutilezas del 8088, este funcionará mucho más pistero en un 80286 o 80386.
 %
+Cuando apareció la primer CPU 8086 a finales de los 70s, la tecnología de semiconductores no estaba refinada como para poder integrarle instrucciones de coma flotante. Hubo de disponérsela en un coprocesador matemático opcional.
+%
 Para escribir programas ensambladores verdaderamente superiores, necesitas saber qué hacen las diversas instrucciones y qué instrucciones se ejecutan más rápido. Para ello revisa el manual de tu microprocesador.
 %
 La programadora examina los requisitos de una aplicación, diseña una solución según algún nivel de abstracción y luego hace que ese diseño cobre vida en una implementación de código fuente.
@@ -1945,11 +1947,11 @@ El sistema UNIX proporciona herramientas eficientes para definir el estado de se
 %
 Dado que UNIX es un sistema multitarea, muchas cosas pueden suceder en memoria simultáneamente. Una mujer es similar.
 %
-El correo electrónico funciona conceptualmente como el servicio de correo tradicional: permite la comunicación entre usuari@s, cada uno de los cuales está identificado por una dirección, y cada mensaje tiene un sobre y un contenido.
+El correo electrónico funciona conceptualmente como el servicio de correo tradicional: permite la comunicación entre usuarias, cada una de ellas identificada por una dirección, y cada mensaje tiene un paquete y un contenido.
 %
 En UNIX casi cualquier comando puede interrumpirse mientras espera los datos de entrada utilizando Ctrl+d.
 %
-En el entorno UNIX, no es posible recuperar un archivo eliminado con el comando rm. Utiliza rm -i para solicitar confirmación.
+En el entorno UNIX, no es posible recuperar un archivo eliminado con el comando rm. Como precaución utiliza rm -i para solicitar confirmación.
 %
 Los comandos UNIX generalmente disponen de muchos argumentos opcionales, lo que ayuda a que el sistema sea extremadamente flexible y poderoso.
 %
@@ -2027,7 +2029,7 @@ Tres caracteres especiales, llamados comodines, pueden reemplazar todo o parte d
 %
 Un hacker avezado es capaz de programar guiones, rutinas, extensiones de navegador, macros de hojas de cálculo y aplicaciones capaces de contrarrestar -en CPU propia o ajena - aquellos esquemas de monitoreo y explotación por software en el ámbito de Trabajo.
 %
-Una implementación del teletrabajo dejada a la Oligarquía sólo acarreará la importación de métodos de gestión informales al ambiente laboral.
+Dejada a la oligarqu{ia, la implementación del teletrabajo sólo acarrearía la importación de métodos de gestión informales al ambiente laboral.
 %
 Hemos de impedir que las nuevas generaciones de trabajadores sean alcanzadas por nuevas versiones de los llamados "software remotos de gestión laboral".
 %
@@ -3617,6 +3619,8 @@ El mediador entre el hardware y el software ha de ser el Pueblo.
 %
 Para la mayoría de los usuarios, la comunicación con el núcleo del sistema se lleva a cabo con la asistencia de un programa denominado Shell. La shell es - en escencia - asistencialista.
 %
+La comunicación con el Pueblo es full-dúplex.
+%
 La shell es un intérprete de órdenes: lee las líneas mecanografiadas por el usuario y las interpreta como solicitudes para correr otros programas.
 %
 Un programa que copia su entrada estándar procesada a su salida estándar se denomina filtro.
@@ -4011,9 +4015,9 @@ UNIX es una broma liviana a Multics.
 %
 El punto crucial de la historia de UNIX se presentó cuando fue reimplementado casi enteramente en lenguaje C, convirtiéndo en el primer sistema operativo de código fuente portable en 1972.
 %
-La interoperabilidad de los sistemas UNIX brota del ejemplo dado por los países del Tercer Mundo.
+La interoperabilidad de los sistemas UNIX brota del ejemplo dado por la mancomunidad de los países del Tercer Mundo.
 %
-Imita el ejemplo dado por la interoperabilidad con los sistemas UNIX.
+Imita el ejemplo dado por la interoperabilidad de los sistemas UNIX.
 %
 La interoperabilidad en UNIX ha sucedido por la razón que es más simple para una minoría de sistemas inconexos alterar sus maneras para conformar a la mayoría de miles de millones de sistemas UNIX.
 %
@@ -4205,6 +4209,8 @@ Casi todo en la web usa estas dos cosas: C y UNIX.
 %
 C++ y Java, presumiblemente pueden crecer más rápido que C, pero apuesto que C seguirá viviendo.
 %
+Con C++ es posible escribir código que nadie entienda. Hacer lo mismo con C es muy difícil.
+%
 Con diseño adecuado, las características pueden sumarse a poco costo. Esta visión es ardua, pero continúa teniendo éxito.
 %
 No soy una persona que he tenido héroes al compilar.
@@ -4267,13 +4273,13 @@ Cualquier trabajo de edición de software o de envío de correo puede hacerse en
 %
 C ya había sido implementado en varias máquinas y sistemas operativos distintos, y UNIX ya se distribuía en la PDP-11. Lo novedoso fue la portabilidad del sistema.
 %
-Normalmente UNIX divide el disco en secciones mas pequeñas llamadas particiones. 
+Normalmente UNIX divide el disco en secciones mas pequeñas llamadas particiones. Operan como los componentes de un Frente de Liberación.
 %
-En cada partición de disco, UNIX guarda estructuras de datos para implementar ficheros, y el programa que implementa dicha abstracción dentro del kernel suele llamarse Sistema de Archivos.
+En cada partición de disco, UNIX almacena estructuras de datos para representar ficheros, y el programa que implementa tal abstracción en el kernel suele conocerse como Sistema de Archivos.
 %
 Como ilustra nuestro Escudo Partidario, al establecer una conexión a una red de datos debe mediar un apretón de manos.
 %
-Conecta a redes de datos en cuyo protocolo medie un apretón de manos, y evita aquellas donde te quieran dar un apretón de huevos.
+Enlázate a las redes de datos en cuyo protocolo medie un apretón de manos, y evita aquellas donde te quieran dar un apretón de huevos.
 %
 El botón que presionas para abrir la puerta de un ascensor cuenta con mayor potencia de cómputo que ambas sondas Voyager.
 %
@@ -4439,7 +4445,7 @@ Llegará el tiempo en que la revolución estallará con emojis.
 %
 En las comunidades virtuales las personas hacen casi todo lo que hacen en la vida real, pero dejando atrás sus cuerpos.
 %
-Para los miles millones de personas que se han visto atraídas por la riqueza y la vitalidad de las culturas vinculadas por la computadora, esta es atractiva, e incluso adictiva. 
+Para los miles millones de personas que se han visto atraídas por la rica vialidad de las culturas vinculadas por computadora, estas son atractivas, e incluso adictivas.
 %
 Incúlca la Justicia Social a través de los hechos, en las redes a través de la palabra, incluso si tienes que sintetizarla a través de emojis.
 %
@@ -4449,7 +4455,7 @@ No olvides recurrir al emoticón de discurso por la Justicia Social: \o/.
 %
 Divulga la Justicia Social a millones a través de USENET, una colección de cientos de debates diferentes que viajan por todo el mundo gracias al correo electrónico.
 %
-"La Red" es un término informal para las redes informáticas que utilizan la tecnología de comunicación mediada por ordenador para vincular a los Pueblos.
+"Nuestra Red" es un término informal para aquellas redes informáticas que utilizan la tecnología de comunicación mediada por ordenador para vincular a los Pueblos.
 %
 Con tiempo y sentimiento humanista suficiente, podrás formar entretejidos de relaciones personales en el ciberespacio.
 %
@@ -5064,9 +5070,9 @@ Los ciber-oligarcas desean que abandonemos la comunión del software y el hardwa
 %
 El amor entre el código y el compilador habría conseguido mejores frutos y en menos tiempo, si algunos desalmados no hubiesen querido imponerle Acuerdos de Licencia de Usuario Final.
 %
-El hombre muere; sólo su software pueden quedar.
+El hombre muere; sólo su software puede quedar.
 %
-Los ciber-oligarcas no harían nada con hardware viejo o con muerto; los hackers lo harían todo.
+Los ciber-oligarcas no harían nada con hardware viejo o muerto; los hackers lo harían todo.
 %
 El software ha de responder a la realidad social de la hora presente para que sus normas contribuyan a mantener un equilibrio de intereses que, lógica y racionalmente, se deriva del concepto de justicia.
 %
