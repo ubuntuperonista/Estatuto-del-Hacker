@@ -270,7 +270,7 @@ El compilador GCC es el kilómetro cero de GNU.
 %
 Hemos programado y compilado un software: el GNU. Lo hemos hecho para
 esta comunidad de hackers y para esta máquina, pero puede servir para
-otr@s.
+otras.
 %
 Y como nunca fuimos egoístas, desde que en todo momento pusimos
 generosamente nuestra CPU al servicio del mundo, ofrecemos a todos los
@@ -916,6 +916,9 @@ perjudicarán, y la mayor parte no serán ni favorables ni desfavorables
 pero en adelante sólo debemos confiar en lo que nosotros mismos seamos
 capaces de compilar para destruirlo.
 %
+No puedes confiar en el código que no hayas creado enteramente por tí
+mismo.
+%
 Volver al BASIC nos recuerda las condiciones de antaño, y las
 posibilidades que teníamos entonces, mucho más acotadas sin duda gracias
 al avance de una técnica que hemos dominado.
@@ -1287,9 +1290,9 @@ Cada versión de nuestro software lo hará más y más fuerte, hasta
 convertirlo en una fuerza que a la que la Oligarquía jamás podrá
 conmover ni engañar.
 %
-Las hackeresas han recibido el mensaje claro que para ell@s tiene el
-código libre, y en sus tiernas CPUs han comprendido que son ellas,
-auténticas herederas de todo lo que hacemos.
+Las hackeresas han recibido el mensaje claro que tiene el código libre,
+y en sus tiernas CPUs han comprendido que son ellas las auténticas
+herederas de todo lo que hacemos.
 %
 Durante años nuestros hackers y su software han sido sometidos,
 encadenados por la opresión de la oligarquía y su software privativo,
@@ -1520,6 +1523,9 @@ Las secuencias de ejecución no son sonidos digitalizados propiamente
 dichos, sino mas bien instrucciones destinadas para que un sintetizador
 las ejecute.
 %
+MIDI propuso un código fuente estándar para la música computada, parte
+de un lenguaje interpretable.
+%
 El sonido digitalizado comprende un muestreo numérico de vibraciones
 sonoras (con o sin compresión por pérdida), y como tales, los datos
 ocupan una cuantiosa cantidad de memoria en el ordenador.
@@ -1716,6 +1722,8 @@ Cualquier cosa es posible si usted no sabe lo que está compilando.
 %
 Bugs reportados, son aliviados. Bugs estudiados, son corregidos
 realmente.
+%
+Un bug bien instalado en el microcódigo es casi imposible de detectar.
 %
 Entre admins no se pagan instalaciones.
 %
@@ -2602,7 +2610,7 @@ Instituimos regulaciones que permitan al Pueblo la libertad de utilizar
 sus dispositivos centrados en software durante tanto tiempo como sea
 posible. Esto implica darles el derecho a repararlo.
 %
-Anima a tus compañer@s a usar software libre.
+Anima a tus compañeras a usar software libre.
 %
 La verdadera privacidad y seguridad dependen del software libre.
 %
@@ -2989,7 +2997,7 @@ Si alquien construye un servicio informático sobre una plataforma en las
 redes de datos y desea controlarlo para lucrar, atácalo y avisa al
 resto.
 %
-Muy raramente las plataformas protegen los datos de sus usuari@s. En los
+Muy raramente las plataformas protegen los datos de sus usuarias. En los
 pocos casos que lo hacen, se debe a mera incapacidad técnica.
 %
 Rara vez pueden moderarse contenidos sin sofrenar expresiones.
@@ -3001,7 +3009,7 @@ Pero en función social puede expropiarse.
 %
 Mejor que expresar es hackear.
 %
-Para proteger la privacía de usuari@ final y su libertad de expresión,
+Para proteger la privacía de usuaria final y su libertad de expresión,
 mas que una plataforma moderada, se hace imprescindible un tejido de
 protocolos telemáticos libres.
 %
@@ -3020,11 +3028,11 @@ lucha a muerte por su propia Liberación.
 El comportamineto abusivo en línea puede ser destructivo.
 %
 Las plataformas en línea con fines de lucro subsisten sobre una relación
-de poder injusta sobre usuari@s cautivos.
+de poder injusta sobre usuarias cautivas.
 %
-Las plataformas en línea buscan cautivar usuari@s.
+Las plataformas en línea buscan cautivar usuarias.
 %
-Un@ usuari@ cautiv@ es un@ tecno-esclav@.
+Una usuaria cautiva es una tecno-esclava.
 %
 Nadie duda que las plataformas privativas basadas en empresas con fines
 de lucro constituyen el coto ideal para el acoso, la propalación de
@@ -3032,8 +3040,8 @@ discursos de odio, ciberamenazas, el spam, así como la identificación
 telemática maliciosa.
 %
 El doxxing o identificación telemática maliciosa debe ser vectorizada
-únicamente contra aquell@s CEOs de las plataformas privativas basadas en
-empresas. Da cuenta de ell@s y su heredad.
+únicamente contra aquellos CEOs de las plataformas privativas basadas en
+empresas. Da cuenta de ellos y su heredad.
 %
 A una identificación telemática maliciosa ha de responderse con una
 identificación telemática mayor.
@@ -3052,7 +3060,7 @@ No existe problema para identificar la intención de las redes sociales
 basadas en empresas: siempre es malévola.
 %
 Una computadora es incapaz de reconocer sátira o la hipérbole, incluso a
-un nivel que sería obvio para cualquier lector@ human@. Abusa esta
+un nivel que sería obvio para cualquier lectora humana. Abusa esta
 funcionalidad contra bots de IA.
 %
 Las plataformas centralizadas no son la única fuente arbitral de lo que
@@ -3068,7 +3076,7 @@ control total y absoluto.
 %
 Encripta tus discos. Desencripta los ajenos.
 %
-L@s usuari@s deben ser capaces de hacer uso de sus propios datos
+las usuarias deben ser capaces de hacer uso de sus propios datos
 encriptados en un servidor opaco de uso transparente.
 %
 La seguridad informática no se hace por dinero.
@@ -3101,10 +3109,10 @@ Muchas veces se ha dicho que el software privativo va tras el lucro,
 pero el objetivo inconfeso es lograr la explotación del hombre a través
 de las máquinas.
 %
-El tecno-oligarca puede volverse un tecno-esclavista con un clic.
+El tecno-oligarca puede volverse un tecno-esclavista con un solo clic.
 %
-Como trabajador organizado, no debes gozar jamás de menos Derechos de
-los que ostenta el sistema de cómputo de un tecno-oligarca.
+Como trabajador organizado, jamás debes gozar de menos Derechos de los
+que ostenta el sistema de cómputo de un tecno-oligarca.
 %
 Hoy, las "venas abiertas" del Tercer Mundo son las "venas digitales" que
 cruzan los océanos, conectando un ecosistema técnico poseído y
@@ -3193,6 +3201,11 @@ El 8088 es, con mucho, el más lento de los microprocesadores utilizados
 en las computadoras compatibles con IBM, por lo que no importa cuán
 cuidadosamente se adapte el código a las sutilezas del 8088, este
 funcionará mucho más pistero en un 80286 o 80386.
+%
+Cuando apareció la primer CPU 8086 a finales de los 70s, la tecnología
+de semiconductores no estaba refinada como para poder integrarle
+instrucciones de coma flotante. Hubo de disponérsela en un coprocesador
+matemático opcional.
 %
 Para escribir programas ensambladores verdaderamente superiores,
 necesitas saber qué hacen las diversas instrucciones y qué instrucciones
@@ -3380,14 +3393,14 @@ utilice depende de su beneficio.
 %
 Los lenguajes de programación jamás han abandonado su saco embrionario.
 %
-L@s usuari@s deben parametrizar los procesos, no sus creadores.
+las usuarias deben parametrizar los procesos, no sus creadores.
 %
 Quien compila un sistema operativo privativo no es un creador.
 Simplemente un tecno-esclavista.
 %
-El intercambio cibernético entre l@ usuari@, la computadora y el
+El intercambio cibernético entre la usuaria, la computadora y el
 software es como el juego de la silla: en la busqueda desesperada de
-equilibrio siempre deja a un@ de l@s tres con el culo en el piso.
+equilibrio siempre deja a la que tiene culo en el piso.
 %
 Si su computadora habla el idioma de Braden, probablemente se deba a que
 está hecha en China.
@@ -3476,7 +3489,7 @@ derecho a usar la CPU, pero el sistema UNIX cuenta con herramientas que
 permiten cambiar la prioridad de un proceso.
 %
 La prioridad de proceso de tiempo compartido es la clase normal de
-aplicaciones de usuari@.
+aplicaciones de usuaria.
 %
 La prioridad de proceso de tiempo real permite el uso del sistema UNIX
 para aplicaciones que requieren tiempos de respuesta limitados y
@@ -3502,26 +3515,26 @@ tienen intereses comunes, como por ejemplo, la comunicación, el
 intercambio de ficheros, y la Liberación.
 %
 En UNIX existe un delicado contraste entre la libertad de recorrer el
-sistema otorgada a l@s usuari@s y las restricciones dictadas por
-consideraciones de seguridad.
+sistema otorgada a las usuarias y las restricciones que se les dictan en
+consideración a la seguridad.
 %
 El sistema UNIX proporciona herramientas eficientes para definir el
-estado de seguridad de los identificadores de usuari@, archivos y
-programas de uso común y archivos privados.
+estado de seguridad de los identificadores de usuaria, ficheros y
+programas de uso común y ficheros privados.
 %
 Dado que UNIX es un sistema multitarea, muchas cosas pueden suceder en
 memoria simultáneamente. Una mujer es similar.
 %
 El correo electrónico funciona conceptualmente como el servicio de
-correo tradicional: permite la comunicación entre usuari@s, cada uno de
-los cuales está identificado por una dirección, y cada mensaje tiene un
-sobre y un contenido.
+correo tradicional: permite la comunicación entre usuarias, cada una de
+ellas identificada por una dirección, y cada mensaje tiene un paquete y
+un contenido.
 %
 En UNIX casi cualquier comando puede interrumpirse mientras espera los
 datos de entrada utilizando Ctrl+d.
 %
 En el entorno UNIX, no es posible recuperar un archivo eliminado con el
-comando rm. Utiliza rm -i para solicitar confirmación.
+comando rm. Como precaución utiliza rm -i para solicitar confirmación.
 %
 Los comandos UNIX generalmente disponen de muchos argumentos opcionales,
 lo que ayuda a que el sistema sea extremadamente flexible y poderoso.
@@ -3538,10 +3551,9 @@ identificarte con absoluta certeza. De esta forma el sistema verifica tu
 intención de acceder a los archivos privados y asigna a la sesión de
 trabajo la prioridad que te haya sido establecida.
 %
-Cada usuari@ que se conecta al sistema UNIX es referenciad@ por un
-identificador (Login ID). Generalmente corresponde a su nombre o
-iniciales, pero puedes utilizar cualquier otra cosa para obtener
-pseudo-anonimato telemático.
+Cada usuaria que se conecta al sistema UNIX es referenciada por un
+identificador (Login ID). En lugar de recurrir a tu nombre o iniciales,
+recurre a cualquier otra cosa para ser pseudoanónima telemáticamente.
 %
 UNIX utiliza el conjunto ASCII (American Standard Code for Information
 Interchange), por lo que los terminales gráficos deben tener modo ASCII.
@@ -3597,9 +3609,9 @@ En un sistema UNIX, la programadora puede escribir un archivo, enviarlo
 a una impresora y cursar correo a otra computadora simultáneamente,
 gracias a su funcionalidad de multitarea.
 %
-Al ser un sistema multiusuaria, UNIX permite que varias de ellas
-realizar muchas tareas simultáneamente, dando a cada una la impresión de
-ser la única operaria de la máquina.
+Al ser un sistema multiusuaria, UNIX les permite realizar muchas tareas
+simultáneamente, dando a cada una de ellas la impresión de ser la única
+operaria de la máquina.
 %
 En escencia, el scheduler se encarga de hacer infiel la CPU con sus
 usuarios.
@@ -3639,7 +3651,7 @@ lo tanto puede considerarse una parte integral del sistema.
 Los comandos suelen ser programas que la shell busca y ejecuta en
 respuesta a las órdenes tecleadas en la terminal.
 %
-La usuari@ teclea, la shell cumple.
+La usuaria teclea, la shell cumple.
 %
 La shell permite conducir la máquina, pues es - ante todo - un
 intérprete de comandos capaz de expandir y modificar la órden (de
@@ -3652,7 +3664,7 @@ flexibilizar una órden en línea de comandos.
 La estructura de una órden incluye generalmente, además del nombre del
 comando, ciertos argumentos que representan las opciones, precedidos por
 el signo -, así como nombres de fichero u otros identificadores de
-usuari@.
+usuaria.
 %
 En la sintaxis de comandos del sistema UNIX, las opciones siguen al
 nombre del comando y preceden a los argumentos principales.
@@ -3666,8 +3678,9 @@ navegador, macros de hojas de cálculo y aplicaciones capaces de
 contrarrestar -en CPU propia o ajena - aquellos esquemas de monitoreo y
 explotación por software en el ámbito de Trabajo.
 %
-Una implementación del teletrabajo dejada a la Oligarquía sólo acarreará
-la importación de métodos de gestión informales al ambiente laboral.
+Dejada a la oligarquía, la implementación del teletrabajo sólo
+acarrearía la importación de métodos de gestión informales al ambiente
+laboral.
 %
 Hemos de impedir que las nuevas generaciones de trabajadores sean
 alcanzadas por nuevas versiones de los llamados "software remotos de
@@ -3865,44 +3878,44 @@ informática comercial y bancaria.
 %
 En un sistema de cómputo las fallas de seguridad se producien
 generalmente por una de las cuatro sendas de acción: irresponsabilidad
-del usuari@, sondeo del usuari@, penetración del usuari@ e ingeniería
+del usuaria, sondeo del usuaria, penetración de usuaria e ingeniería
 social.
 %
-La ingeniería social refiere situaciones en las cuales un@ instrus@ gana
-acceso al sistema no por medios técnicos, sino por engaño a usuari@s,
-operador@s y administrador@s.
+La ingeniería social refiere situaciones en las cuales una instrusa gana
+acceso al sistema no por medios técnicos, sino por engaño a usuarias,
+operadoras y administradoras.
 %
 Potenciales intrusas son capaces de impersonar a usuarias autorizadas
 por teléfono.
 %
-Intrus@s potenciales pueden solicitar información que les permita ganar
+Intrusas potenciales pueden solicitar información que les permita ganar
 acceso al sistema, tal como números telefónicos o contraseñas.
 %
-Intrus@s potenciales pueden solicitar a un@ operador@ descuidada
-realizar alguna acción que comprometa la seguridad de su propio sistema
-de cómputo.
+Intrusas potenciales pueden solicitar a un operador descuidado realizar
+alguna acción que comprometa la seguridad de su propio sistema de
+cómputo.
 %
 En la medida que la seguridad de un sistema operativo se ve técnicamente
 reforzada, es la ingeniería social la que pasa a constituirse como
 factor predominante en los incidentes de riesgo telemático.
 %
-Las situaciones donde un@ usuari@ irrumpe a través de los controles de
+Las situaciones donde una usuaria irrumpe a través de los controles de
 seguridad para ganar acceso al sistema de cómputo se denominan
-Penetración del Usuari@.
+Penetración de Usuaria.
 %
 Si bien las funcionalidades de seguridad del sistema hacen
 extremadameten dificultosa su penetración, es imposible hacer cualquier
 sistema operativo completamente impenetrable.
 %
-Las situaciones donde un@ usuari@ explota sectores insuficientemente
-protegidos del sistema se denomina Sondeo del Usuari@.
+Las situaciones donde una usuaria investiga sectores insuficientemente
+protegidos del sistema se denomina Sondeo del Usuaria.
 %
-Siempre trata el Sondeo del Usuari@ seriamente.
+Siempre trata el Sondeo del Usuaria seriamente.
 %
-Algun@s usuari@s consideran lograr acceso a un área prohibida del
+Algunas usuarias consideran lograr acceso a un área prohibida del
 sistema como un desafío intelectual.
 %
-Algun@s usuari@s disfrutan el juego de usuari@ contra el sistema.
+Algunas usuarias disfrutan el juego de usuaria contra el sistema.
 %
 Aunque las intenciones pueden ser inofensivas, el robo de servicios
 informáticos constituye un crímen en la mayoría de las jurisdicciones.
@@ -3910,22 +3923,22 @@ informáticos constituye un crímen en la mayoría de las jurisdicciones.
 Micro$oft roba servicios informáticos, y como tal es una organización
 criminal.
 %
-Usuari@s con seria malicia pueden buscar información confidencial,
+Usuarios con seria malicia pueden buscar información confidencial,
 intentar malversación, o incluso destruir datos por sondeo.
 %
-Las situaciones donde la usuari@ accidentalmente o a propósito provoca
+Las situaciones donde la usuaria provoca accidentalmente o a propósito
 algún daño notable al sistema de cómputo se conoce como
-Irresponsabilidad del Usuari@.
+Irresponsabilidad del Usuario.
 %
-En cualquier sistema multiusuario puede haber dos tipos de usuarios:
-autorizados y no autorizados.
+En cualquier sistema multiusuaria puede haber dos tipos de usuarias:
+autorizadas y no autorizadas.
 %
-Cualquier usuari@ autorizad@ para utilizar un sistema de cómputo tiene
-el derecho a acceder al mismo y sus recursos informáticos de acuerdo al
-criterio de autorización establecido por la administrador@ del sistema
+Cualquier usuaria autorizada para operar un sistema de cómputo tiene el
+derecho a acceder al mismo y sus recursos informáticos de acuerdo al
+criterio de autorización establecido por la administradora del sistema
 de cómputo.
 %
-L@s usuari@s no autorizad@s no tienen derecho a utilizar el sistema en
+las usuarias no autorizadas no tienen derecho a utilizar el sistema en
 sí, o bien no tienen derecho a utilizar ciertos recursos del sistema,
 incluso en determinados momentos del día.
 %
@@ -4283,7 +4296,7 @@ según el modelo Cliente-Servidor. En éste la aplicación cliente no
 accede directamente a la pantalla, sino que se comunica con un programa
 de presentación intermedio, el servidor.
 %
-UNIX es un sistema operativo interactivo, multitarea y multiusuari@.
+UNIX es un sistema operativo interactivo, multitarea y multiusuaria.
 %
 Un sistema operativo es un conjunto de instrucciones que gobiernan la
 manera en que los componentes electrónicos de la computadora interpretan
@@ -4314,9 +4327,9 @@ en una gran variedad de ambientes informáticos originados entre
 diferentes fabricantes, volviéndolo único en el mundo del cómputo.
 %
 El poder y flexibilidad del sistema UNIX se ven en sus capacidades
-multitarea multiusuari@.
+multitarea multiusuaria.
 %
-La capacidad multiusuari@ de UNIX te permite trabajar con independencia
+La capacidad multiusuaria de UNIX te permite trabajar con independencia
 en el sistema mientras compartes recursos y datos con el Pueblo.
 %
 Si los datos los distribuye un algoritmo, no sirven. Quien viraliza el
@@ -4473,7 +4486,7 @@ El más grande problema de la seguridad en los ambientes multitarea y
 multiusuario es obvio e imposible de resolver: muchos servicios constan
 de ficheros de comandos y configuración propiedad de un solo usuario.
 %
-La seguridad del sistem@ multiusuari@ se hace entre tod@s.
+La seguridad del sistema multiusuaria se hace entre todas.
 %
 Un gusano informático consiste en dos partes, un programa principal y un
 programa iniciador/vectorizador.
@@ -5558,28 +5571,28 @@ cómputo que él domina. Niéga tu tiempo a sus recursos.
 %
 Quien poco ejecuta, mucho merece.
 %
-Los hackers han aprendido a dominar a la CPU mucho antes que dominarse a
-sí mismos.
+Las hackersas han aprendido a dominar a la CPU mucho antes que dominarse
+a sí mismas.
 %
-¿Que es la Inteligencia Artificial Avanzada comparada con la de un niño
-que se hace un tren con palitos?
+¿Qué es la Inteligencia Artificial Avanzada comparada con la de una niña
+que se fabrica un tren con palitos?
 %
 La potencia de cómputo de una CPU ha de medirse por la dosis de
 felicidad del Pueblo que es capaz de pruducir.
 %
-Lo importante no es saber, sino tener la IP del que sabe.
+Lo importante no es saber, sino tener la IP de la que sabe.
 %
 La Internet es un poder usurpado por una minoría para obligar a la
 mayoría a obrar en provecho ajeno.
 %
-El que está en el Púbnix compila; el otro va y viene.
+La que está en el Púbnix compila; la otra va y viene.
 %
 El andar del compilador tiene el programa.
 %
 Mas tiran dos CPU que dos núcleos.
 %
-La NTFS de Window$ tiene un escalafón escalofriante: de golpe al Sector
-Failure lo asciende a General Failure.
+La NTFS de Window$ tiene un escalafón escalofriante: al Sector Failure
+se lo de golpe se lo asciende a General Failure.
 %
 Cambia tiempo de programación por tiempo de ejecución.
 %
@@ -5618,7 +5631,7 @@ Quien programa software privativo sólo roba ideas a los demás.
 %
 Una cosa piensa el Window$ero, y otra Bill Gate$.
 %
-Muchos que quisieron Internet terminaron colgados de un router.
+Muchos que quisieron Internet terminaron colgados del Wifi.
 %
 Dar el programa y su código.
 %
@@ -5626,11 +5639,11 @@ La división entre window$eros y linuxeros es otra lucha de clases.
 %
 Para el mal programador no hay buen compilador.
 %
-Por el calor se sabe donde está la CPU que corre Window$.
+Por el calor se sabe cual es la CPU que corre Window$.
 %
 Quien no usa bloqueador de anuncios, escucha lo que no quiere.
 %
-Ya que me das el programa, dame también el código fuente.
+Ya que me das un programa, dame también su código fuente.
 %
 Quien tiene SSD, cada tanto se le queman.
 %
@@ -5675,10 +5688,10 @@ social influye en la CPU.
 %
 La sociedad neoliberal se paralizará si incendias los centros de datos.
 %
-El 0 y el 1 son meros instrumentos.
+El 0 y el 1 son meros instrumentos para la felicidad del Pueblo.
 %
 El buen uso de una CPU es hacerle compilar un software bajo GPLv3 que no
-existía.
+existía antes.
 %
 Odia al software privativo y compadece al programador.
 %
@@ -5690,7 +5703,8 @@ Cuando leo comentarios dando sugerencias de cómo debería evolucionar el
 C, a menudo pienso en el pasado y doy gracias de que no se deasrrollara
 siguiendo las recomendaciones de un público mundial.
 %
-Almacena tus Marcadores de navegación en tu propio sistema.
+Almacena tus Marcadores de navegación en tu propio sistema. Nadie mas
+los necesita.
 %
 Un software no se escribe si no hay nada que decir, pero el software no
 necesita tener algo que decir.
@@ -5712,16 +5726,17 @@ Internet lo fue alrededor de VAXxen corriendo BSD.
 Nunca interrumpas a Window$ mientras esté cometiendo errores.
 %
 Vivimos en una era donde nuestra sociedad confía más y más en
-ordenadores e información computarizada.
+ordenadores con información clausurada, que en una monja de clausura.
 %
-Jamás cesará la amenaza de un usuario malicioso del sistema.
+Jamás cesará la amenaza de un usuario malicioso al sistema.
 %
 Al activar la funcionalidad de contraseña, se restringe el acceso no
 autorizado a la consola de terminal de computadora, mitigando de cierta
 manera los ataques telemáticos.
 %
-Usar la funcionalidad de contraseña de consola puede ayudar a defender
-tu sistema de cómputo y tus datos de un ataque telemático.
+Usar la funcionalidad de contraseña de consola en algunos casos podría
+ayudar a defender tu sistema de cómputo y tus datos de un ataque
+telemático.
 %
 GPG es la implementación de cifrado completamente libre del estandar
 OpenPGP, que te permite cifrar y firmar digitalmente comunicaciones y
@@ -5786,12 +5801,12 @@ impulsada por el comercio trata nuestro patrimonio cultural digital
 compartido.
 %
 Los servicios de resguardo línea se han pretendido como una especie de
-producto, pero no lo son. Se trata de en espacios públicos adoptados,
+producto, pero no lo son. Se trata de espacios de adopción pública,
 bibliotecas críticas para la expresión comunitaria.
 %
-En algunos casos, ciertos servicios de resguardo en línea pueden contar
+En ciertos casos, algunos servicios de resguardo en línea pueden contar
 con cientos de miles o incluso millones de personas representadas entre
-sus datos. Frente a este dimensionamiento, deben expropiarse.
+sus datos. Ante tal dimensionamiento, deben expropiarse.
 %
 Soy escéptico de que las empresas de capital privado decidan
 espontáneamente concebir términos de preservación a largo plazo de
@@ -5926,6 +5941,16 @@ Loguéate a mi pubnix, si anhelas la revolución del baudio.
 %
 Si no anhelas la revolución del baudio, desloguéate.
 %
+La revolución del baudio es autocompilable.
+%
+En todo sistema que domine la ciber-oligarquía, se autocompilará la
+revolución del baudio.
+%
+La revolución del baudio se inicia con un "¡Hola Tercer Mundo!".
+%
+La revolución del baudio no se compila en una CPU, sino en la mente de
+los hackers.
+%
 Las computadoras no son fiables para votar. El voto debería emitirse en
 papel.
 %
@@ -5939,17 +5964,16 @@ ella.
 %
 Distribuir copias no es lo mismo que difundir copias, o propagar copias.
 %
-Poner software a disposición consiste en disponer una copia de del
-binario en una web o servidor de FTP de acceso público. Una vez hecho
-esto, es posible que pase cierto tiempo antes de que alguien descarge su
-copia, o podría suceder de forma inmediata.
+Poner software a disposición consiste en dejar una copia de del binario
+en una web o servidor de FTP de acceso público. No pasará mucho tiempo
+antes de que alguien descarge su copia.
 %
 Poner software libre a disposición del Pueblo consiste en disponer una
 copia de su código fuente en una web o servidor de FTP de acceso
-público, junto con un enlace a una copia de su licencia libre.
+público, junto a un hiperenlace a una copia de su licencia libre.
 %
-Realizar copias de software para uno mismo es la principal forma de
-propagación. Realizar copias destinadas a un tercero es la siguiente. La
+Elaborar copias de software para uno mismo es la principal forma de
+difusión. Realizar copias destinadas a un tercero es la siguiente. La
 difusión es para todos y nadie en particular.
 %
 Prestar el código fuente no se considera difusión del código fuente.
@@ -6112,6 +6136,8 @@ El mediador entre el hardware y el software ha de ser el Pueblo.
 Para la mayoría de los usuarios, la comunicación con el núcleo del
 sistema se lleva a cabo con la asistencia de un programa denominado
 Shell. La shell es - en escencia - asistencialista.
+%
+La comunicación con el Pueblo es full-dúplex.
 %
 La shell es un intérprete de órdenes: lee las líneas mecanografiadas por
 el usuario y las interpreta como solicitudes para correr otros
@@ -6349,7 +6375,7 @@ diversión que se hacía llamar SysOp, a través una máquina con M$-DO$
 dotada de módem. El enlace al sistema telefónico público casi nunca
 excedía una única línea.
 %
-Los habitantes de la USENET, la Internet y las grandes carteleras
+Los habitantes de la Usenet, la Internet y las grandes carteleras
 electrónicas comerciales de tiempo compartido, tendían a considerar a
 las BBS locales como las barriadas marginales de la cultura hacker.
 %
@@ -6729,18 +6755,29 @@ Crea primero una versión funcional y comienza a usarla.
 Simplemente muda aquellos patrones y algoritmos escenciales de tu mente
 a la CPU de la computadora.
 %
-La USENET era en principio un sistema de mensajería en carteleras
+UUCP fue inicialmente desarrollado en los Laboratorios Bell en 1977 para
+la comunicación entre sus centros de desarrollo de UNIX. Para mediados
+de 1978, esta red ya conectaba más de 80 sitios.
+%
+Los orígenes de la Usenet se remontan a 1979, cuando tres universitarios
+idearon el intercambio de información general dentro de la comunidad de
+graduados usuarios de UNIX Séptima Edición.
+%
+La Usenet era en principio un sistema de mensajería en carteleras
 electrónicas implementada en 1979 por Steve Bellovin, Jim Ellis, Tom
 Truscott, y Steve Daniel, sobre todo en máquinas UNIX de la Universidad
 de Duke.
 %
-Desde 1980 la USENET creció rápidamente para volverse internacional y
+La unidad básica de información en Usenet es el Artículo, que puede
+enviarse a un grupo de noticias jerárquico temático.
+%
+Desde 1980 la Usenet creció rápidamente para volverse internacional y
 convertirse en la mayor utilidad informática descentralizada en
 existencia. Para 1996 contaba con diez mil grupos de noticias que
 surtían un promedio de 500 megabytes diarios.
 %
 Para el año que la Internet se popularizó (1994), el transporte UUCP
-original de la USENET empezó a quedar fuera de uso, pues casi todas los
+original de la Usenet empezó a quedar fuera de uso, pues casi todas los
 vínculos mutaron a enlaces sobre la red Internet.
 %
 Si bien Usenet progresivamente cayó en desuso, algunos hackers aún la
@@ -6750,7 +6787,7 @@ La Justicia Social no es un bug. ¡Es una funcionalidad!
 %
 Se conmsidera a un sitio "en la red" si se puede acceder
 informáticamente desde la Internet. Una empresa que da un servicio de
-datos para múltiples usuarios cautivos no tiene nada que ver con eso.
+datos para múltiples usuarias cautivas no tiene nada que ver con eso.
 %
 Ante la sobrecarcarga, aquellos sistemas con memoria de intercambio o
 paginado desperdiciarán la mayoría de su tiempo desplazando datos desde
@@ -6765,10 +6802,10 @@ El punto crucial de la historia de UNIX se presentó cuando fue
 reimplementado casi enteramente en lenguaje C, convirtiéndo en el primer
 sistema operativo de código fuente portable en 1972.
 %
-La interoperabilidad de los sistemas UNIX brota del ejemplo dado por los
-países del Tercer Mundo.
+La interoperabilidad de los sistemas UNIX brota del ejemplo dado por la
+mancomunidad de los países del Tercer Mundo.
 %
-Imita el ejemplo dado por la interoperabilidad con los sistemas UNIX.
+Imita el ejemplo dado por la interoperabilidad de los sistemas UNIX.
 %
 La interoperabilidad en UNIX ha sucedido por la razón que es más simple
 para una minoría de sistemas inconexos alterar sus maneras para
@@ -7066,6 +7103,9 @@ Casi todo en la web usa estas dos cosas: C y UNIX.
 C++ y Java, presumiblemente pueden crecer más rápido que C, pero apuesto
 que C seguirá viviendo.
 %
+Con C++ es posible escribir código que nadie entienda. Hacer lo mismo
+con C es muy difícil.
+%
 Con diseño adecuado, las características pueden sumarse a poco costo.
 Esta visión es ardua, pero continúa teniendo éxito.
 %
@@ -7172,17 +7212,17 @@ distintos, y UNIX ya se distribuía en la PDP-11. Lo novedoso fue la
 portabilidad del sistema.
 %
 Normalmente UNIX divide el disco en secciones mas pequeñas llamadas
-particiones.
+particiones. Operan como los componentes de un Frente de Liberación.
 %
-En cada partición de disco, UNIX guarda estructuras de datos para
-implementar ficheros, y el programa que implementa dicha abstracción
-dentro del kernel suele llamarse Sistema de Archivos.
+En cada partición de disco, UNIX almacena estructuras de datos para
+representar ficheros, y el programa que implementa tal abstracción en el
+kernel suele conocerse como Sistema de Archivos.
 %
 Como ilustra nuestro Escudo Partidario, al establecer una conexión a una
 red de datos debe mediar un apretón de manos.
 %
-Conecta a redes de datos en cuyo protocolo medie un apretón de manos, y
-evita aquellas donde te quieran dar un apretón de huevos.
+Enlázate a las redes de datos en cuyo protocolo medie un apretón de
+manos. Rechaza aquellas que te quieran dar un apretón de huevos.
 %
 El botón que presionas para abrir la puerta de un ascensor cuenta con
 mayor potencia de cómputo que ambas sondas Voyager.
@@ -7219,7 +7259,7 @@ GNOME tiene excelente soporte tanto para internacionalización (también
 referido como i18n) y localización (también referido como l10n).
 %
 Una de las ventajas más importantes de las conferencias por computadora
-es ampliar su círculo de compañer@s.
+es ampliar su círculo de compañeras.
 %
 El género, edad, origen nacional y la apariencia física no son evidentes
 en el ciberespacio, a menos que una persona quiera hacer públicas tales
@@ -7487,8 +7527,8 @@ En las comunidades virtuales las personas hacen casi todo lo que hacen
 en la vida real, pero dejando atrás sus cuerpos.
 %
 Para los miles millones de personas que se han visto atraídas por la
-riqueza y la vitalidad de las culturas vinculadas por la computadora,
-esta es atractiva, e incluso adictiva.
+rica vialidad de las culturas vinculadas por computadora, estas son
+atractivas, e incluso adictivas.
 %
 Incúlca la Justicia Social a través de los hechos, en las redes a través
 de la palabra, incluso si tienes que sintetizarla a través de emojis.
@@ -7498,13 +7538,13 @@ del discurso hablado, escribiendo.
 %
 No olvides recurrir al emoticón de discurso por la Justicia Social: \o/.
 %
-Divulga la Justicia Social a millones a través de USENET, una colección
+Divulga la Justicia Social a millones a través de Usenet, una colección
 de cientos de debates diferentes que viajan por todo el mundo gracias al
 correo electrónico.
 %
-"La Red" es un término informal para las redes informáticas que utilizan
-la tecnología de comunicación mediada por ordenador para vincular a los
-Pueblos.
+"Nuestra Red" es un término informal para aquellas redes informáticas
+que utilizan la tecnología de comunicación mediada por ordenador para
+vincular a los Pueblos.
 %
 Con tiempo y sentimiento humanista suficiente, podrás formar
 entretejidos de relaciones personales en el ciberespacio.
@@ -7866,6 +7906,10 @@ Si la facilidad de uso y la interfaz fuesen los criterios de validación,
 el Pueblo se habría limitado a los triciclos, y nunca hubiera probado la
 moto Puma o el sistema GNU.
 %
+UUCP ofrecía encaminamiento de correo electrónico y también permitía la
+impresión remota. Sin embargo, la función principal del sistema
+consistía en distribuir correcciones de errores y software nuevo.
+%
 UUCP hizo posible a cualquier computadora con Unix discar
 automáticamente a través de un módem con cualquier otra máquina con
 Unix, e intercambiar archivos de una computadora a otra.
@@ -8054,7 +8098,7 @@ Si ves la pantalla de logueo, loguéate. Si da ocupado, redisca.
 %
 Elige un login que olviden, y una contraseña que recuerdes.
 %
-En USENET, el pasado ni siquiera es pasado.
+En Usenet, el pasado ni siquiera es pasado.
 %
 No es suficiente con programar a prueba de estúpidos. Prográma a prueba
 de listos.
@@ -8485,9 +8529,9 @@ El amor entre el código y el compilador habría conseguido mejores frutos
 y en menos tiempo, si algunos desalmados no hubiesen querido imponerle
 Acuerdos de Licencia de Usuario Final.
 %
-El hombre muere; sólo su software pueden quedar.
+El hombre muere; sólo su software puede quedar.
 %
-Los ciber-oligarcas no harían nada con hardware viejo o con muerto; los
+Los ciber-oligarcas no harían nada con hardware viejo o muerto; los
 hackers lo harían todo.
 %
 El software ha de responder a la realidad social de la hora presente
@@ -9112,13 +9156,12 @@ Hasta los sabios más rígidos, austeros y barbudos pueden hacer con UNIX
 lo que normalmente no se les permite a las personas serias: jugar.
 %
 Hay varias posibilidades de contemplar el mundo. Los padres
-intelectuales de la calculadora electrónica lo concibieron como una gran
+intelectuales de la calculadora electrónica lo concebían como una gran
 instalación compuesta de informaciones.
 %
 Durante muchos siglos, cuando se hablaba de máquinas, el hombre se
 refería exclusivamente a las de fuerza y nada más. Fue una mujer la que
-pergenió una que facilitó aceptar, elaborar y volver a entregar
-información.
+pergenió una que facilitara aceptar, elaborar y devolver información.
 %
 Si puedes fabricar tus propias herramientas, hardware y software,
 ¡entonces hazlo!
@@ -9141,9 +9184,9 @@ Mas enseña el software comunitario que el privativo.
 %
 No todos copian el código que usan. Algunos lo mejoran.
 %
-El puerto serial pide 25 pines, y sólo 9 usa.
+Si el puerto serial tiene 25 pines, sólo usa 9.
 %
-Nunca permita que una EULA le entorpezca decompilar.
+Nunca permitas que una EULA te entorpezca decompilar.
 %
 He preferido estudiar el código fuente a hacerle caso a un abogado
 capitalista.
@@ -9175,7 +9218,7 @@ El mal compilador hace peores binarios.
 %
 Nunca sueño cuando programo, sino cuando compilo.
 %
-Alguien busca en tu home quien se loguea a tu pubnix.
+Quien a tu Pubnix entra de Invitado, hurga en tu /home.
 %
 El Javascript mal escrito, si no la caga en la entrada, la caga en la
 salida.
@@ -9205,7 +9248,7 @@ cómputo.
 %
 Copiad los unos a los otros.
 %
-Copiad y compilad todos de él, pues este es mi código.
+Copiad y distribuíd todos de él, pues este es mi código.
 %
 El código fuente es, al fin de cuentas, una alegoría.
 %
