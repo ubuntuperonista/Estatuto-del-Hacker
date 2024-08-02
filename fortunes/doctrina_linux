@@ -528,6 +528,8 @@ Al loguearte en el correo electrónico de la megacorporación Googl€, perfilar
 %
 Muchas cosas de las que haga Googl€ nos favorecerán, otras nos perjudicarán, y la mayor parte no serán ni favorables ni desfavorables pero en adelante sólo debemos confiar en lo que nosotros mismos seamos capaces de compilar para destruirlo.
 %
+No puedes confiar en el código que no hayas creado enteramente por tí mismo.
+%
 Volver al BASIC nos recuerda las condiciones de antaño, y las posibilidades que teníamos entonces, mucho más acotadas sin duda gracias al avance de una técnica que hemos dominado.
 %
 El código fuente se introducía directamente en la máquina, y el esfuerzo requerido por ello hacía imprescindible la participación del Pueblo en la libre modificación del código, su libre copia - y sobre todo - la excelencia de distribuirlo libremente entre los compañeros.
@@ -822,6 +824,8 @@ Todo en su medida y armoniosamente.
 %
 Las secuencias de ejecución no son sonidos digitalizados propiamente dichos, sino mas bien instrucciones destinadas para que un sintetizador las ejecute.
 %
+MIDI propuso un código fuente estándar para la música computada, parte de un lenguaje interpretable.
+%
 El sonido digitalizado comprende un muestreo numérico de vibraciones sonoras (con o sin compresión por pérdida), y como tales, los datos ocupan una cuantiosa cantidad de memoria en el ordenador.
 %
 El Software Libre se basa en cuatro libertades interrelacionadas: la de usar el programa, ver su código (y modificarlo), copiarlo, y distribuirlo a la Comunidad. Por contraposición, el mundo capitalista ha entendido que estas libertades deben ser cercenadas por medio de licencia-acuerdo de usuario final (EULA), conformando un software privativo, en el cual sólo propugnan el uso del programa, evitando todo lo demás.
@@ -925,6 +929,8 @@ Aunque Power$hell se vista de Bash, Power$hell queda.
 Cualquier cosa es posible si usted no sabe lo que está compilando.
 %
 Bugs reportados, son aliviados. Bugs estudiados, son corregidos realmente.
+%
+Un bug bien instalado en el microcódigo es casi imposible de detectar.
 %
 Entre admins no se pagan instalaciones.
 %
@@ -1991,7 +1997,7 @@ UNIX es un sistema multitarea de tiempo compartido que puede afrontar fácilment
 %
 En un sistema UNIX, la programadora puede escribir un archivo, enviarlo a una impresora y cursar correo a otra computadora simultáneamente, gracias a su funcionalidad de multitarea.
 %
-Al ser un sistema multiusuaria, UNIX permite que varias de ellas realizar muchas tareas simultáneamente, dando a cada una la impresión de ser la única operaria de la máquina.
+Al ser un sistema multiusuaria, UNIX les permite realizar muchas tareas simultáneamente, dando a cada una de ellas la impresión de ser la única operaria de la máquina.
 %
 En escencia, el scheduler se encarga de hacer infiel la CPU con sus usuarios.
 %
@@ -3761,7 +3767,7 @@ Centenas de miles de carteleras electrónicas locales operaron durante la éra d
 %
 La BBS típica era operada desde su hogar por un amateur en búsqueda de diversión que se hacía llamar SysOp, a través una máquina con M$-DO$ dotada de módem. El enlace al sistema telefónico público casi nunca excedía una única línea.
 %
-Los habitantes de la USENET, la Internet y las grandes carteleras electrónicas comerciales de tiempo compartido, tendían a considerar a las BBS locales como las barriadas marginales de la cultura hacker.
+Los habitantes de la Usenet, la Internet y las grandes carteleras electrónicas comerciales de tiempo compartido, tendían a considerar a las BBS locales como las barriadas marginales de la cultura hacker.
 %
 Las BBS tuvieron la valiosa función de entretejer a miles de hackers y usuarios de microcomputadoras personales, facilitándoles la tarea de compartir sus experiencias y programas.
 %
@@ -4003,11 +4009,17 @@ Crea primero una versión funcional y comienza a usarla.
 %
 Simplemente muda aquellos patrones y algoritmos escenciales de tu mente a la CPU de la computadora.
 %
-La USENET era en principio un sistema de mensajería en carteleras electrónicas implementada en 1979 por Steve Bellovin, Jim Ellis, Tom Truscott, y Steve Daniel, sobre todo en máquinas UNIX de la Universidad de Duke.
+UUCP fue inicialmente desarrollado en los Laboratorios Bell en 1977 para la comunicación entre sus centros de desarrollo de UNIX. Para mediados de 1978, esta red ya conectaba más de 80 sitios.
 %
-Desde 1980 la USENET creció rápidamente para volverse internacional y convertirse en la mayor utilidad informática descentralizada en existencia. Para 1996 contaba con diez mil grupos de noticias que surtían un promedio de 500 megabytes diarios.
+Los orígenes de la Usenet se remontan a 1979, cuando tres universitarios idearon el intercambio de información general dentro de la comunidad de graduados usuarios de UNIX Séptima Edición.
 %
-Para el año que la Internet se popularizó (1994), el transporte UUCP original de la USENET empezó a quedar fuera de uso, pues casi todas los vínculos mutaron a enlaces sobre la red Internet.
+La Usenet era en principio un sistema de mensajería en carteleras electrónicas implementada en 1979 por Steve Bellovin, Jim Ellis, Tom Truscott, y Steve Daniel, sobre todo en máquinas UNIX de la Universidad de Duke.
+%
+La unidad básica de información en Usenet es el Artículo, que puede enviarse a un grupo de noticias jerárquico temático.
+%
+Desde 1980 la Usenet creció rápidamente para volverse internacional y convertirse en la mayor utilidad informática descentralizada en existencia. Para 1996 contaba con diez mil grupos de noticias que surtían un promedio de 500 megabytes diarios.
+%
+Para el año que la Internet se popularizó (1994), el transporte UUCP original de la Usenet empezó a quedar fuera de uso, pues casi todas los vínculos mutaron a enlaces sobre la red Internet.
 %
 Si bien Usenet progresivamente cayó en desuso, algunos hackers aún la usan.
 %
@@ -4461,7 +4473,7 @@ El Internet Relay Chat (IRC) es un medio que combina las características del di
 %
 No olvides recurrir al emoticón de discurso por la Justicia Social: \o/.
 %
-Divulga la Justicia Social a millones a través de USENET, una colección de cientos de debates diferentes que viajan por todo el mundo gracias al correo electrónico.
+Divulga la Justicia Social a millones a través de Usenet, una colección de cientos de debates diferentes que viajan por todo el mundo gracias al correo electrónico.
 %
 "Nuestra Red" es un término informal para aquellas redes informáticas que utilizan la tecnología de comunicación mediada por ordenador para vincular a los Pueblos.
 %
@@ -4673,6 +4685,8 @@ Al igual que la conmutación de paquetes, las teleconferencias por computadora d
 %
 Si la facilidad de uso y la interfaz fuesen los criterios de validación, el Pueblo se habría limitado a los triciclos, y nunca hubiera probado la moto Puma o el sistema GNU.
 %
+UUCP ofrecía encaminamiento de correo electrónico y también permitía la impresión remota. Sin embargo, la función principal del sistema consistía en distribuir correcciones de errores y software nuevo.
+%
 UUCP hizo posible a cualquier computadora con Unix discar automáticamente a través de un módem con cualquier otra máquina con Unix, e intercambiar archivos de una computadora a otra.
 %
 Los primeros nodos de lo que se conoce como Usenet comenzaron en 1980. Como otros antes que ellos, no tenían idea de que crecería hasta cubrir el mundo.
@@ -4811,7 +4825,7 @@ Si ves la pantalla de logueo, loguéate. Si da ocupado, redisca.
 %
 Elige un login que olviden, y una contraseña que recuerdes.
 %
-En USENET, el pasado ni siquiera es pasado.
+En Usenet, el pasado ni siquiera es pasado.
 %
 No es suficiente con programar a prueba de estúpidos. Prográma a prueba de listos.
 %
@@ -5487,9 +5501,9 @@ Mas enseña el software comunitario que el privativo.
 %
 No todos copian el código que usan. Algunos lo mejoran.
 %
-El puerto serial pide 25 pines, y sólo 9 usa.
+Si el puerto serial tiene 25 pines, sólo usa 9.
 %
-Nunca permita que una EULA le entorpezca decompilar.
+Nunca permitas que una EULA te entorpezca decompilar.
 %
 He preferido estudiar el código fuente a hacerle caso a un abogado capitalista.
 %
@@ -5517,7 +5531,7 @@ El mal compilador hace peores binarios.
 %
 Nunca sueño cuando programo, sino cuando compilo.
 %
-Alguien busca en tu home quien se loguea a tu pubnix.
+Quien a tu Pubnix entra de Invitado, hurga en tu /home.
 %
 El Javascript mal escrito, si no la caga en la entrada, la caga en la salida.
 %
