@@ -1633,7 +1633,7 @@ Disóciate de plataformas privativas. Abraza las federadas.
 %
 Jamás alimentes tecno-esclavos. Adoctrínalos y hazlos perecer en una lucha a muerte por su propia Liberación.
 %
-El comportamineto abusivo en línea puede ser destructivo.
+El comportamiento abusivo en línea puede ser destructivo.
 %
 Las plataformas en línea con fines de lucro subsisten sobre una relación de poder injusta sobre usuarias cautivas.
 %
@@ -2485,9 +2485,9 @@ El Mago UNIX navega su clandestinidad entre el bus de entrada/salida y el kernel
 %
 Los Gusanos escritos en el XEROX PARC estaban diseñados para viajar de máquina en máquina y hacer tareas útiles en un ambiente de redes de datos distribuidas.
 %
-Un virus informático es un trozo de código que se agrega a sí mismo a otros programas, incluyendo sistemas operativos. 
+Un virus informático es un trozo de código que se agrega a sí mismo a otros programas, incluyendo sistemas operativos.
 %
-Un virus informático no puede ejecutarse independientemente; requiere que su "huésped" sea ejecutado para activarse.
+Un virus informático no puede ejecutarse independientemente; es menester que su "huésped" sea ejecutado para activarse.
 %
 Un gusano es un programa informático que puede ejecutarse por sí mismo y puede propagar una versión completamente funcional de sí en otras máquinas.
 %
@@ -2507,7 +2507,7 @@ Para toquetear SENDMAIL hay que ser un mago UNIX.
 %
 Desarrollar un conjunto de programas cooperativos se alinea con la filosofía UNIX.
 %
-El más grande problema de la seguridad en los ambientes multitarea y multiusuario es obvio e imposible de resolver: muchos servicios constan de ficheros de comandos y configuración propiedad de un solo usuario.
+El más grande desafío a la seguridad en los ambientes multitarea y multiusuario es obvio e imposible de resolver: muchos servicios constan de ficheros de comandos y configuración propiedad de un único usuario.
 %
 La seguridad del sistema multiusuaria se hace entre todas.
 %
@@ -2517,11 +2517,11 @@ La seguridad de las contraseñas la provee en gran parte el prohibitivo esfuerzo
 %
 En la medida que los ordenadores se vuelven más poderosos, el costo de intentar todas las combinaciones de caracteres posibles para una contraseña disminuye.
 %
-Dividir la tarea computacional de intentar todas las combinaciones de caracteres posibles entre múltiples procesadores disminuye aún más el tiempo necesario para desencriptar contraseñas.
+Dividir la tarea de comprobar todas las combinaciones de caracteres posibles entre múltiples procesadores computacionales disminuye aún más el tiempo necesario para desencriptar contraseñas.
 %
-Actualmente es factible para cualquier ordenador pre-encriptar y almacenar todas las palabras del diccionario, construcciones alternas de tales palabras, y una gran colección de nombres propios para una comparación de contraseñas posterior.
+Actualmente es factible para cualquier ordenador pre-encriptar y almacenar para una comparación de contraseñas posterior todas las palabras del diccionario y sus construcciones alternas, así como una gran colección de nombres propios.
 %
-En toda acción de guerra telemática, los medios que se emplean son la potencia de cómputo, y la transmisión. Quien no tenga la potencia de la CPU propia no tiene otro remedio que multiplicar su acción por transmisión, hackeando la CPU de otro.
+En toda acción de guerra telemática, los medios que se emplean son la potencia de cómputo, y la transmisión. Quien no tenga la potencia de la CPU propia no tendrá mas remedio que multiplicar su acción por transmisión, hackeando la CPU de otro.
 %
 ¡Ni BIOS ni botas! ¡LibreBoot y pelotas!
 %
@@ -2535,11 +2535,11 @@ Sin software publicado bajo GPLv3, la Liberación Digital no podrá realizarse a
 %
 Cada /home debe ser una Unidad Básica Secreta, y cada hacker, jefe y vigía de GNU.
 %
-Es necesario que los Clústers clandestinos se perfeccionen en alto grado para enfrentar los trabajos de la lucha telemática que se avecina.
+Es necesario que se perfeccionen en alto grado los Clústers clandestinos para enfrentar los trabajos que se avecina en la lucha telemática.
 %
 En la lucha telemática que se avecina, los usuarios tendrán el peso de la acción más importante. 
 %
-Los hackers ya han puesto en evidencia su decisión en sucesos pasados, y lo harán en el futuro merced a su decisión política y la potencia de cómputo de las CPUs que dominan.
+Los hackers ya han puesto en evidencia su decisión en sucesos pasados, y merced a su decisión política y la potencia de cómputo de las CPUs que dominan, lo harán en el futuro.
 %
 Las masas de hackers han superado el ámbito de sus problemas intrínsecos para intervenir enérgicamente en la realización de sus propias compilaciones.
 %
@@ -2588,6 +2588,8 @@ El prompt es un recordatorio para el usuario de que no está sucediendo nada, de
 sh es la shell de Bourne, estándar en UNIX System V, y como tal, lleva el signo $ como prompt.
 %
 csh es la C shell, desarrollada en el Departamento de Ciencias de la Universidad de Berkeley. Es igual a la shell de Bourne con algunos lujos en sus estructuras de control, historial de órdenes y alias. Su prompt es un signo %.
+%
+tcsh es la C shell con extensiones inspiradas en el viejo intérprete EXEC de TENEX, aunado a una programación depurada que lo hace notoriamente más veloz. Su prompt es un signo >.
 %
 ksh es la shell de Korn, que combina los logros de la shell de Bourne y la C.
 %
@@ -2645,15 +2647,15 @@ No cierre la sesión de tcsh accidentalmente con Ctrl+d (como cuando lo dieron a
 %
 Que no haya un GitHub sin un GitLab que lo clone.
 %
-No faltará un colchonero que fabrique un teclado enrollable de goma.
+No faltará un colchonero que fabrique un teclado enrollable de goma...
 %
-Quien pone derecho el pendrive a la primera, todo lo sabe en la vida.
+Quien a la primera coloca bien el pendrive, todo lo sabe en la vida.
 %
-Lo único que quedaba de la IBM PS/2 eran los colorcitos de los enchufes. Y ya ni eso...
+Lo único que había quedado de la IBM PS/2 fueron los colorcitos de los conectores. Y ya ni eso...
 %
 OS/2 era un calvo que se quiso peinar a la gomina para resolver un problema que sólo tenía IBM.
 %
-Cuando a usted le digan que el interior de la máquina necesita lucecitas de colores, le están vendiendo espejitos de colores.
+Cuando le digan a usted que el interior de la máquina necesita lucecitas de colores, le estarán vendiendo espejitos de colores.
 %
 Si va a tener LEDs, que sean al frente y parpadeantes.
 %
@@ -2681,15 +2683,15 @@ Programa para divertirte y para combatir al Capital.
 %
 Sólo escribo COBOL para divertirme.
 %
-Programa en COBOL solo por diversión, jamás para el Capital.
+Jamás programes COBOL para el Capital. Hazlo solo por diversión.
 %
 Los medios de almacenamiento se desgastan.
 %
-Conseguir que una computadora se comunique con el mundo exterior no es una tarea fácil, pero hacer que lo haga un programador es más difícil aún.
+No es una tarea fácil lograr que una computadora se comunique con el mundo exterior. Que lo haga un programador es aún más difícil.
 %
-La mayoría del esfuerzo computacional está dado en convertir el resultado maquinal para que lo entienda un tonto cualquiera.
+La mayoría del esfuerzo computacional se invierte en la conversión del resultado maquinal para que lo entienda un tonto cualquiera.
 %
-Los fabricantes de circuitos integrados idearon uno que oficia de "controlador de vídeo". Este pequeño chip (¡una computadora por derecho propio!) realiza todo el trabajo de servicio y permite al procesador hacer cosas más importantes, como ejecutar un programa.
+Los fabricantes de circuitos integrados idearon uno que oficia de "controlador de vídeo". Este pequeño chip - una computadora por derecho propio - se consagra a servir y permite al procesador dedicarse a cosas más importantes, como ejecutar un programa.
 %
 La CPU puede dedicar una gran cantidad de tiempo a realizar el trabajo requerido, o podemos incorporar otra computadora para que lo haga por ella.
 %
@@ -2699,11 +2701,11 @@ Un bit no consiste más que en una condición de ENCENDIDO o APAGADO.
 %
 El módem modifica las señales digitales que le gustan a la computadora en señales de audio que adopta la red telefónica.
 %
-Cuando se envía una condición de ENCENDIDO al módem, se transmite una señal de 1270 ciclos. Cuando se envía una condición de APAGADO al módem, se transmite una señal de audio de 1070 ciclos.
+Para solicitar condición de ENCENDIDO a tu módem, transmítele una señal de audio de 1270 ciclos. Si deseas enviar una condición de APAGADO, transmítele una señal de audio de 1070 ciclos.
 %
 Puedes ATL0 mi módem, pero no puedes ATH mi libertad.
 %
-Toma tu módem y utilizalo como arma para la liberación del Pueblo.
+Toma tu módem y utilizalo como arma en pos de la Liberación.
 %
 Toda distribución de kernel Linux viene surtida con paquetes de aplicaciones. No creerán que pelado nace el mono...
 %
@@ -2723,7 +2725,7 @@ Privilegia usuarias de GNU accediendo como root y ordenando "usermod -a -G sudo 
 %
 Algunos ingenuos creen poseer un dispositivo de cómputo móvil. Pero sólo lo poseen si en él disponen de acceso de root.
 %
-Ningún teléfono que pueda ser considerado inteligente carece de un interruptor que desconecta su módem.
+Ningún teléfono inteligente carece de un interruptor que desconecta su módem. Si no lo tiene, no lo es.
 %
 Antes que GNU, los streams bajaban turbios.
 %
@@ -2735,7 +2737,7 @@ El ed original fue un editor de línea de comandos ideado por Ken Thompson para 
 %
 A las memorias MicroSD se las lleva el viento.
 %
-El objetivo principal de ser creador audiovisual digital en vivo en una red social basada en empresa es la de convertirse en un pordiosero digital.
+Decir que el objetivo principal de ser creador audiovisual en vivo en una red social basada en empresa es la de convertirse en un pordiosero digital no parece errado.
 %
 Resulta más fácil implementar una mala seguridad y tornar ilegal que cualquiera se dé cuenta, que implementar una buena seguridad.
 %
@@ -2751,7 +2753,7 @@ La computadora puede verse como una herramienta con la función sin precedente d
 %
 Entre las bellas artes, la primera en hacer uso computacional no fue la literatura, sino la música.
 %
-El mismo Konrad Zuse, dotó a la máquina de un altavoz para que se pudiera escuchar el ruido producido en su interior por los electrones.
+El mismo Konrad Zuse dotó a la máquina de un altavoz para que se pudiera escuchar el ruido producido por los electrones en su interior.
 %
 En la máquina sólo se obtiene verdadera música haciendo que los electrones den grandes saltos, por medio de órdenes sin ningún otro sentido, pero perfectamente elaboradas.
 %
@@ -2797,7 +2799,7 @@ Los brutos que utilizan software de Micro$oft y Appl€ han permitido a esas emp
 %
 Window$ cuenta con no menos de dos puertas traseras. Una de ellas permite a la policía utilizar una memoria USB para tomar el control de cualquier máquina con Window$ y ver datos cifrados.
 %
-Las características maliciosas son frecuentes en el software propietario porque el propietario desarrollador tiene el control total.
+Las características maliciosas son frecuentes en el software propietario pues el desarrollador tiene el control total.
 %
 El poder total tienta al programador a hacer cosas maliciosas al Pueblo.
 %
@@ -2857,7 +2859,7 @@ No basta con que aquel conocimiento que utilizamos para obrar en la vida pueda c
 %
 Las obras que realizan un trabajo incluyen al software, recetas, obras educativas, de referencia y muchos otros tipos de obras que se le puedan ocurrir. Estas deben ser libres porque a menos que el Pueblo controle las herramientas que necesita para obrar, no controlará su trabajo.
 %
-Existen maneras de apoyar a los artistas sin restringir la libertad de compartir. Solicitar donaciones y vender directamente a los fans ya funciona bien para muchos artistas musicales.
+Existen maneras de apoyar a los artistas sin restringir la libertad de compartir. Para muchos artistas musicales ya es adecuado solicitar donaciones y vender directamente a los fans.
 %
 Necesitamos luchar por la libertad de compartir, porque las megacorporaciones de derechos de autor que se benefician de dividir al Pueblo jamás cederán este poder voluntariamente.
 %
@@ -2927,7 +2929,7 @@ Los Pall Malls se fuman, los caños con AWK se consumen.
 %
 Javascript promueve la lucha de clases.
 %
-Si has logrado el root de una máquina atacante, reprográmala para que ataque a otras máquinas atacantes.
+Si has logrado acceso de root a una máquina atacante, reprográmala para que ataque a otras máquinas atacantes.
 %
 El prompt de la shell parece indicar que siempre es dinero lo que tiene para dar.
 %
@@ -2960,21 +2962,23 @@ El tecno-oligarca considera más valiosa la refrigeración de un centro de datos
 %
 Las grandes compañías tecnológicas no dudan en ocultar información de interés ecológico y social, pues saben que se trata de un tema crítico que puede generar debate público y llevar a una fuerte regulación necesaria.
 %
-No resulta extraño que un centro de datos de Micro$oft, que debía haber consumido 84 millones de litros de agua al año en beneficio de ellos mismos, consuma en realidad cuatro veces más de lo anunciado.
+No resulta extraño que un centro de datos de Micro$oft, que debía haber consumido 84 millones de litros de agua al año en beneficio de ellos mismos, terminase en realidad consumiento cuatro veces más la cantidad estipulada.
 %
 El consumo de agua potable en los centros de datos de Googl€ - usada únicamente para refrigeración - se multiplicó por tres en los últimos cinco años.
 %
-Cuando la adopción de una informática dominadas por la oligarquía avance en masa, vendrá seguida por un aumento monstruoso del consumo energético. Este no podrá ser suplido sin someter al pueblo trabajador a las más abyectas formas de vida en pos del bienestar de unos pocos mainframes.
+Cuando la adopción de una informática dominadas por la oligarquía avance en masa, vendrá seguida por un aumento monstruoso del consumo energético. Este no podrá ser suplido sino a través del sometimiento del pueblo trabajador a las más abyectas formas de vida en pos del bienestar de unos pocos mainframes.
 %
-Tanto la realidad virtual como la inteligencia artificial aplicada no deben replicar la injusticia social de una mediocre distribución del consumo energético.
+Tano la realidad virtual como la inteligencia artificial aplicada deben evitar replicar la injusticia social de una mediocre distribución del consumo energético.
 %
-La última obsesión de las hiperempresas tecnológicas es poner en manos de las ciber-oligarquías las fuentes energéticas del Tercer Mundo.
+La última obsesión de las hiperempresas tecnológicas ha sido poner las fuentes energéticas del Tercer Mundo en manos de las ciber-oligarquías.
 %
-Los principales culpables de esta explosión de la demanda energética son los centros de datos de las ciber-oligarquías, señalados como verdaderos gúlags de la información.
+Los principales culpables de esta demanda energética explosiva son los centros de datos de las ciber-oligarquías, señalados como verdaderos gúlags de la información.
 %
 Agregar Inteligencia Artifical a un buscador indizado multiplica por diez el consumo energético por interrogante informática realizada.
 %
-La vertiginosa expansión ciber-oligárquica en la fabricación de micrprocesadores de silicio con capacidad de IA, y en el montaje de enormes centros de datos con ellos dotados, puede enfrentarse con una poderosísima organización de hackers para la Liberación que de sustento a las tareas de sabotaje emprendidas por los pueblos del Tercer Mundo.
+Una poderosísima organización de hackers para la Liberación capaz de dar sustento a las tareas de sabotaje emprendidas por los pueblos del Tercer Mundo, puede enfrentar a la vertiginosa expansión ciber-oligárquica.
+%
+Cualquiera sea la forma que tome la organización de los hackers del Tercer Mundo, estos evitarán la fabricación de microprocesadores de silicio con capacidad de IA y el montaje de enormes centros de datos.
 %
 El compilador de Micro$oft Vi$ual $tudio caga mas de lo que come.
 %
@@ -2982,7 +2986,7 @@ Ya a nadie extraña que el compilador que integra Micro$oft Vi$ual $tudio caiga 
 %
 Loguearse en una red social propiedad de un billonario no sirve para hacerse billonario. Destruirlas puede hacerlo.
 %
-Desvincula la programacipon del abuso de los recursos naturales. Escribe en ensamblador para disminuir el impacto ambiental de la ejecución.
+Desvincula la programación del abuso de los recursos naturales. Escribe en ensamblador para disminuir el impacto ambiental de la ejecución.
 %
 MonoDevelop no excluye el peligro de que Micro$oft pida licencias, y por no usar C termines haciéndote la del mono.
 %
@@ -3016,7 +3020,7 @@ A crontab se lo llevaron preso.
 %
 Una chapa roja no mejora la RAM.
 %
-El que no actualiza llega a viejo.
+Quien no actualiza llega a viejo.
 %
 Teme al software privativo, pues nunca viene solo.
 %
@@ -5070,7 +5074,7 @@ Buscando esa eternidad para nuestro GNU y la perennidad para nuestro kernel, es 
 %
 Hemos compilado en las masas de programadores una doctrina que fija nuestra posición, determina nuestras ilusiones y fija los objetivos que queremos alcanzar: que en cada máquina corra un sistema operativo libre.
 %
-En los Pubnix hay quienes piensan y quienes sienten la aglutinación que llega de una mística común en la máquina, que se ha de alcanzar tanto al que compila en la CPU como al corre programas en ella.
+En los Pubnix hay quienes piensan y quienes sienten que la aglutinación que llega de una mística común en la máquina, ha de alcanzar tanto a quien compila en la CPU como al corre programas en ella.
 %
 Sin la acción en los nodos de la red, los movimientos de aglutinación colectiva en los Pubnix son irrealizables. Pero esta acción sólo requiere de corazón y módem.
 %
@@ -5096,31 +5100,33 @@ El amor entre el código y el compilador habría conseguido mejores frutos y en 
 %
 El hombre muere; sólo su software puede quedar.
 %
-Los ciber-oligarcas no harían nada con hardware viejo o muerto; los hackers lo harían todo.
+Los ciber-oligarcas no harían nada con hardware viejo o muerto; los hackers lo hacen todo.
 %
 El software ha de responder a la realidad social de la hora presente para que sus normas contribuyan a mantener un equilibrio de intereses que, lógica y racionalmente, se deriva del concepto de justicia.
 %
-El contenido de todo código fuente se forma de una serie de deseos, aspiraciones y propósitos que se producen siempre dentro de una situación socialmente determinada.
+El contenido de todo código fuente se elabora a partir de una serie de deseos, aspiraciones y propósitos que se producen siempre dentro de una situación social determinada.
 %
 La misión y el poder del software se limita a corregir los estados de la memoria, tal como se les han ofrecido.
 %
 Algunos dicen que en la IA existe un cierto grado omnisciente, pero pretender sentido a una CPU con 640 núcleos y 8 millones de terabytes de memoria sólo cabe en la cabeza de algún loco y yo, afortunadamente, no lo soy todavía.
 %
-Nuestras compilaciones son para los de abajo: es constructiva. Nuestras compilaciones son trabajo de nuestra CPU y fruto de esa labor es la felicidad del Pueblo.
+Nuestras compilaciones son constructivas, y son para los de abajo.
+%
+Nuestros binarios son trabajo de nuestra CPU, y fruto de esa labor es la felicidad del Pueblo.
 %
 La grandeza de UNIX depende de su minimalismo.
 %
 Las modificaciones a un programa deben realizarse con una absoluta congruencia en los fines y con una absoluta armonía en los medios.
 %
-Si las modificaciones del software no obedecen a la congruencia armónica, a menudo suelen provocar acontecimientos que perjudican la estabilidad del sistema entero.
+Si las modificaciones del software no obedecen a la congruencia armónica, provocarán acontecimientos que a menudo perjudicarán la estabilidad del sistema entero.
 %
 Las modificaciones del software no han de ser tan distantes que quiten al programa su perfectibilidad, ni deben ser tan frecuentes que le resten estabilidad.
 %
-En el ambiente de cómputo donde las diferencias desaparecen, nace una camaradería superior a todas las otras, que da forma al software superior, aquel compilado en una CPU conquistada con grandeza minimalista, que es lo único que los hombres deben conquistar en la máquina.
+En el ambiente de cómputo donde las diferencias desaparecen, nace una camaradería superior a todas las otras, que da forma al software superior - aquel compilado en una CPU conquistada con grandeza minimalista - que es lo único que los hombres deben conquistar en la máquina.
 %
 Que el código fuente de cada cual pueda disfrutar de las bellezas de nuestra CPU, que es de todos, de pobres y ricos por igual.
 %
-Las masas de programadores, orgánicamente constituidas, deben tener un ser armónico, sin el cual no llegan a ser masas de hackers.
+Las masas de programadores, orgánicamente constituidas, deben tenerse por un ser armónico, sin el cual no llegan a ser masas de hackers.
 %
 A los programadores hay que infundirles el conocimiento de cómo se depura, modifica y compila en paralelo en pos del Pueblo. Ese es el primer paso para convertirlos en hackers.
 %
@@ -5130,7 +5136,7 @@ El código fuente no se proclama. Se compila.
 %
 Cada hacker debe dar de sí lo que tenga. El que tenga CPU potente, sus núcleos; quien domine lenguajes, pondrá su código fuente; y el que tenga discos rígidos, el contingente de su espacio de almacenamiento.
 %
-Debemos evitar que las desviaciones del interés personal degeneren en egoísmo expoliador de los derechos de los demás, y en ímpetu avasallador de las cuatro libertades del software: de ejecutar el código, de estudiarlo, modificarlo, y distribuir las versiones modificadas.
+Debemos evitar que las desviaciones del interés personal degeneren en egoísmo expoliador de los derechos de los demás, y en un ímpetu avasallador de las cuatro libertades del software: de ejecutar el código, de estudiarlo, modificarlo, y distribuir las versiones modificadas.
 %
 El GCC tiene una misión creadora: compilar.
 %
@@ -5154,7 +5160,9 @@ Hemos de advocar de forma ineludible el empleo de tecnologías de total encripta
 %
 El Sistema de Telefonía Móvil Avanzada (AMPS) fue una tecnología de primera generación, donde se modulaba sonido en una portadora de frecuencia tal como lo hacía un viejo walkie-talkie. Dividía el espectro en bandas separadas, de las cuales un único "canal de control" era realmente digitalizado.
 %
-La mayor desventaja de los teléfonos celulares AMPS hacía a su transmisión modulada analógicamente: toda llamada en curso podía ser demodulada y monitoreada con un receptor de radio FM capaz de sintonizar sus bandas. Era como el indio gritando al viento.
+La mayor desventaja de los teléfonos celulares AMPS hacía a su transmisión analógicamente modulada: toda llamada cursada podía demodularse y monitorearse por medio de un radioreceptor capaz de sintonizar la banda FM.
+%
+El Sistema de Telefonía Móvil Avanzada (AMPS), no difería al indio gritando al viento.
 %
 El 5G de alcance social ha dejado al 4G demoliberal probando la dieta de polvo.
 %
@@ -5185,7 +5193,7 @@ No puedes descargarlo todo ¿Dónde lo meterías?
 La utilidad del software puede consistir en lo grato, en lo apto, en lo
 cómodo o en lo necesario.
 %
-No es extraño que quien de las GAFAM se defiende tenga a un idiota por cliente.
+No es extraño que tenga a un idiota por cliente quien de las GAFAM se defiende.
 %
 Binario, con código se paga.
 %
@@ -5205,17 +5213,17 @@ No existe programador que no pueda tener bugs.
 %
 No hay que programar para compilar, sino compilar para programar.
 %
-No es más digno quien mas depura, sino quien programa con menos líneas de código.
+No es más digno quien mas depura, sino quien programa con menos líneas.
 %
-Jamás usar un prompt de IA fue programar con menos líneas de código.
+Usar el más versado prompt de IA no significa programar con menos líneas de código.
 %
 El ransomware va y viene. La BIOS con backdoors permanece.
 %
 Ante la duda, la que tiene GPLv3.
 %
-Siempre es mas bueno el programa que para hacer lo mismo, usa menos líneas de código C.
+Siempre es mejor el programa que para hacer lo mismo, usa menos líneas de código C.
 %
-El ciberespacio es la frontera poblada por unos pocos tecnólogos resistentes a la austeridad de sus salvajes interfaces telemáticas, sus protocolos de comunicaciones informáticas incompatibles, sus barricadas propietarias, sus ambigüedades culturales y legales y la generalizada carestía de mapas o metáforas útiles que los acerquen.
+El ciberespacio es una frontera poblada por unos pocos tecnólogos que  - entre ambigüedades culturales y legales - resisten austeramente el salvajismo de interfaces telemáticas, la incompatibilidad de protocolos de comunicación digital, y la generalizada carestía de mapas o metáforas que resulten útiles tras sus cortafuegos barricados.
 %
 La primer red de datos puede ser una Red Nacional basada en tecnología ISDN existente, accesible gratuitamente a cualquier persona con una conexión telefónica.
 %
@@ -5225,11 +5233,11 @@ La soberanía sobre el ciberespacio no ha sido bien definida. Las grandes compa�
 %
 El ciberespacio es el caldo de cultivo perfecto tanto para forajidos como para vigilantes telemáticos.
 %
-Millones de personas utilizan cajeros automáticos y tarjetas de crédito, realizan llamadas telefónicas, hacen reservas de viajes y acceden a información de variedad ilimitada... y cada día lo hacen sin percibir de forma alguna las maquinaciones ciertas detrás del Capital.
+Millones de personas operan cajeros automáticos y tarjetas de crédito, realizan llamadas telefónicas, hacen reservas de viajes y acceden a información de variedad ilimitada... y cada día lo hacen sin percibir de forma alguna las maquinaciones ciertas detrás del Capital.
 %
 Los CEOs de las GAFAM esperarán que las expresiones financieras, legales e incluso físicas dependan cada vez más de sus ciber-latifundios, y pretenderán que el Pueblo guarde de ello una conciencia muy vaga.
 %
-El hombre ha confiado las funciones básicas de una existencia - de la que le hacen decir moderna - a ciber-latifundios que no puede nombrar, por medio del uso de software que jamás ha poseído y siquiera oído hablar.
+El hombre ha confiado las funciones básicas de una existencia - de la que le hacen decir moderna - a ciber-latifundios que desconoce, por medio del uso de software que jamás ha poseído y siquiera oído hablar.
 %
 En la medida que la tecnología de las comunicaciones y la información continúen bailando ritmos más vertiginosos que el 2x4 de la sociedad, se producirá la inevitable conga entre el ciberespacio y el mundo físico.
 %
@@ -5249,11 +5257,11 @@ Señores, yo pido que sofrenen sus expresiones: si la inversión justifica la pr
 %
 Considera barricar con software libre tu router y cualquier dispositivo telemático que asocies al mismo.
 %
-Ataca telemáticamente aquellos vehículos con conexión a la autopista de los datos: jamás provocarás un accidente tan peligroso como la sumisión de información que pertenece a todos a un gigante de la automovilística.
+Atacando telemáticamente aquellos vehículos con conexión a la autopista de los datos jamás provocarás un accidente tan peligroso como sería someter a un gigante de la automovilística aquella información que pertenece a todos.
 %
 Elimina todas las aplicaciones y cuentas que no necesitas, desconoces o estés utilizando en un dispositivo móvil (incluyéndo vehículos). Si no puedes hacerlo, significa que estás siendo guiado por software de terceros. Descarta el vector de ataque en un centro de reciclado o desarmadero.
 %
-Si utilizas servicios informáticos de una gran empresa extranjera de los datos, tus cuentas de identidad y dispositivos ya están infiltrados, y se han convertido en un vector de control y vigilancia hacia tí y otros que te rodean (a los que podrías guardar afecto).
+Si utilizas servicios informáticos de una gran empresa extranjera de los datos, tus cuentas de identidad y dispositivos ya han sido infiltrados y convertido un vector de control y vigilancia hacia tí y otros que te rodean (a quienes podrías guardar afecto).
 %
 Defiéndete atacando telemáticamente a las ciber-oligarquías.
 %
@@ -5261,7 +5269,7 @@ Compartimenta tu telemática empleando logins diversos, por ejemplo, uno para el
 %
 Jamás asocies tus múltiples identidades digitales entre sí, mucho menos en una agenda de contactos.
 %
-Sólo con la obtención de acceso con poderes de administrador a tu dispositivo podrás controlar sus configuraciones más complejas, y remover software espía.
+Sólo podrás remover software espía y controlar sus configuraciones más complejas de tu dispositivo mediante la obtención de acceso con poderes de administrador.
 %
 Junto con el tímido empleo de un bloqueador especializado, responde a la violencia de los anuncios digitales no solicitados con una violencia digital ampliificada.
 %
@@ -5565,8 +5573,10 @@ Copiad y distribuíd todos de él, pues este es mi código.
 %
 El código fuente es, al fin de cuentas, una alegoría.
 %
-GCC actúa como un mensajero que puede colgarse, correr en segundo plano, u oído como un Maestro.
+GCC actúa como un mesías al que indistintamente puede oírselo como a un maestro, percibírselo como a un milagrero, dejarlo clavado colgando, en un segundo plano.
 %
 Algunas computadoras han sido programadas para considerar que los humanos tienen las respuestas, y éstos las han llamado artificialmente inteligentes.
 %
 El PIN perfecto no tiene cuatro dígitos ni está asociado con tu vida; es algo que te resulta fácil de recordar y el difícil que tenga sentido para otra gente siquiera.
+%
+De la calidad de la licencia dependen las libertades de la comunidad.
