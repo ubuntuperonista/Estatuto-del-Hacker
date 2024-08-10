@@ -1322,7 +1322,7 @@ la terminal ámbar quiere nombre de varón
 %
 terroristas estrellaron un avión en la sala de servidores. El técnico está removiendo a /bin/laden.
 %
-oscilaciones astroneumáticas en la refrigeracióni por agua
+oscilaciones astroneumáticas en la refrigeración por agua
 %
 la refrigeración por agua no pierde lo suficiente
 %
@@ -1354,6 +1354,8 @@ el corprocesador matemático tiene un error de desborde que puso en corto la RAM
 %
 El segundo saldo sobrecargó los servidores de RHEL6
 %
+El conector serial macho se autopercibe hembra
+%
 el servidor DNS bebió mucho y tiene hipo
 %
 los virus búlgaros se consideraron checoslovacos
@@ -1362,7 +1364,7 @@ Su máquina tiene los fusibles al revés
 %
 Agua detectada en el Drive A:
 %
-Esperoe mientras se drena el agua.....
+Espere mientras se drena el agua...
 %
 Estamos comenzando el ciclo de secado.
 %
@@ -1387,3 +1389,11 @@ la diskettera A: se fue a la B:
 El disco C: se fue a la D:
 %
 La llave del keylock sólo funciona con una computadora.
+%
+La declaración ha sido truncada
+%
+Un identificador de constante pasó a variable.
+%
+El texto fue borrado de esta declaración.
+%
+El proceso fue desaparecido.
