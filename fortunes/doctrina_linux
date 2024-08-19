@@ -50,7 +50,7 @@ El cómputo no es libre, o lo utiliza el Pueblo Organizado en beneficio propio, 
 %
 Marcharemos con GNU en el Linux, o con Linux en el GNU.
 %
-Unix nos da la fuerza, POSIX la cohesión.
+GNU nos da la fuerza, POSIX la cohesión.
 %
 No es que los similares a Unix sean tan buenos. Es que los demás han sido peores.
 %
@@ -217,6 +217,8 @@ En esta red de datos, lo mejor que tenemos es GNU.
 Me hacen gracia los que se dicen hackers usando Window$. No hay hackers fuertes en un sistema operativo débil.
 %
 La gente que escribe código malicioso a menudo anhela el mayor retorno por su inversión, de modo que intentan socavar a Window$.
+%
+A Window$ siempre es mejor formatearlo que emparcharlo.
 %
 La gran discusión en la que se sumirá el mundo no radica en compilar el software, sino quién conduce la compilación del software. Yo digo que la compilación la tiene que realizar el Pueblo.
 %
@@ -652,7 +654,7 @@ Este mainframe nos permite - aún a miles de kilómetros - digitar su destino. Q
 %
 Una ignota camarilla no ha hecho más que usurpar el sentido del software, pero no podrán ellos conducir a los Hackers, simplemente podrán direccionar en ciertos casos alguno de los factores productivos.
 %
-Estos insensatos intentan enfrentar a nuestro Movimiento. Pero mientras ellos tienen el volante y la ventana, nosotros tenemos el acelerador, el freno, el embrague y la palanca. Pudiendo compilar mantenemos el control.
+Estos insensatos intentan enfrentar a nuestro Movimiento. Pero mientras ellos tienen el volante y la traba del capot, nosotros tenemos el acelerador, el freno, el embrague y la palanca de cambios. Pudiendo compilar mantenemos el control.
 %
 Si oteamos el panorama del cómputo, veremos perfectamente como el dominio de las masas populares - en las que los programadores constituyen el pilar - han ido produciendo la desaparición de aquellas aplicaciones que únicamente operaban a 16 bits. Siguieron el camino de los dinosaurios.
 %
@@ -778,7 +780,7 @@ Ha de ser el hombre el material sensible, y no volcarse necesariamente a los ade
 %
 Estas clásicas terminales no han perdido su uso ni su prestigio, pues aún hoy conectándolas a través de un puerto serial Centronics RS232, es posible emplearlas como medio de entrada y salida de datos en UNIX.
 %
-La Liberación del Software no es la lucha de un hacker solo, sino la de una Comunidad que se organiza compartiendo su software. Nunca podrá el hacker programar para sí. Quien así lo intentara, sólo utilizará su código para romper sus cadenas, sólo para colgárselas a otro.
+La Liberación del Software no es la lucha de un hacker solo, sino la de una Comunidad que se organiza compartiendo su software. Nunca podrá el hacker programar para sí. Quien así lo intentara, utilizará su código para romper sus cadenas, sólo para colgárselas a otro.
 %
 El software privativo, como todo sistema social de dominación, se prolonga en retener el conocimiento de una casta privilegiada formada por los programadores, a otra clase que ha carecido de esos privilegios, los usuarios.
 %
@@ -818,7 +820,7 @@ Dulce de leche, o chocolate. Tal es la disyuntiva que se presenta al niño a la 
 %
 Quien gana ejecuta, quien pierde compila.
 %
-Modificando el código tomamos algo hecho y viejo, y lo modificaremos en algo nuevo y novedoso, con la impronta de Justicia Social que ello conlleva.
+Modificando el código tomamos algo concebido y viejo, y lo convertimos en algo nuevo y novedoso, con la impronta de Justicia Social que ello conlleva.
 %
 Todo en su medida y armoniosamente.
 %
@@ -1965,7 +1967,7 @@ Los comandos UNIX generalmente disponen de muchos argumentos opcionales, lo que 
 %
 Los argumentos en los comandos del sistema UNIX cumplen la misma función que en M$-DO$ y otros sistemas operativos, es decir, modificar la ejecución del comando.
 %
-El sistema UNIX cuenta con un excelente sistema de archivos para almacenar archivos, comandos y aplicaciones.
+El sistema UNIX cuenta con un excelente sistema de archivos para almacenar ficheros, comandos y aplicaciones.
 %
 Dado que UNIX es un sistema multiusuario, inmediatamente exige poder identificarte con absoluta certeza. De esta forma el sistema verifica tu intención de acceder a los archivos privados y asigna a la sesión de trabajo la prioridad que te haya sido establecida.
 %
@@ -2962,7 +2964,7 @@ El tecno-oligarca considera más valiosa la refrigeración de un centro de datos
 %
 Las grandes compañías tecnológicas no dudan en ocultar información de interés ecológico y social, pues saben que se trata de un tema crítico que puede generar debate público y llevar a una fuerte regulación necesaria.
 %
-No resulta extraño que un centro de datos de Micro$oft, que debía haber consumido 84 millones de litros de agua al año en beneficio de ellos mismos, terminase en realidad consumiento cuatro veces más la cantidad estipulada.
+No resulta extraño que un centro de datos de Micro$oft, que debía haber consumido 84 millones de litros de agua al año en beneficio de ellos mismos, terminase en realidad consumiento cuatro veces más que la cantidad estipulada.
 %
 El consumo de agua potable en los centros de datos de Googl€ - usada únicamente para refrigeración - se multiplicó por tres en los últimos cinco años.
 %
@@ -3256,7 +3258,7 @@ A Window$, programa gordo.
 %
 A sistema atado, cable cortado.
 %
-No existe mejor programa que aquel compilado por necesidad de un Pueblo.
+No existe mejor programa que aquel que se autocompila por necesidad de un Pueblo Libre.
 %
 Los hackers entienden. Los usuarios comprenden.
 %
@@ -3581,11 +3583,11 @@ Exceptuando la autocarga de UNIX en memoria, sólo resulta posible crear un nuev
 %
 Cuando se ejecuta fork, la llamada de sistema para la bifurcación computacional, el proceso se ramifica en dos procesos de feliz ejecución independiente. Ambos cuentan con copias independientes de la imagen de memoria original, y comparten todos los ficheros abiertos.
 %
-Al bifurcarse un proceso de cómputo con fork, el nuevo proceso resultante sólo difiere en que uno de ellos es considerado proceso padre, y otro es considerado hijo. Todos son del Pueblo.
+Al bifurcarse un proceso de cómputo con fork, ambos procesos resultantes sólo difieren en que uno de ellos es considerado proceso padre, y el otro proceso hijo. Todos son del Pueblo.
 %
-Al dividirse un proceso de cómputo de UNIX con la llamada de sistema fork, puede distinguise cual es el proceso hijo o el padre, por el identificador de proceso: en el proceso hijo siempre es 0.
+Al dividirse un proceso de cómputo de UNIX con la llamada de sistema fork, distinguirá cual es el proceso hijo o padre, por su identificador de proceso: en el proceso hijo siempre es 0.
 %
-Los procesos de UNIX pueden comunicarse con procesos relacionados utilizando las llamadas de lectura y escritura conocidas como caños.
+Los procesos de UNIX pueden comunicarse con sus procesos emparentados a través de llamadas de lectura y escritura conocidas como caños.
 %
 Ante cualquier emergencia, recuerda que la llamada filep = pipe ( ) arma un caño.
 %
@@ -3693,7 +3695,7 @@ Todos los programas de usuario de UNIX llaman al sistema directamente, o bien us
 %
 Dada la necesidad de utilizar todos los programas tanto con cualquier fichero o dispositivo como flujo de caracteres para su entrada o salida, también se volvió necesario persuadir este mecanismo con independencia del sistema operativo UNIX en sí.
 %
-O hacemos que en UNIX todos los programas sean utilizables con cualquier fichero o dispositov de flujo de caracteres como entrada y salida, o nos veremos obligados a incorporar a cada programa rutinas que hagan caso de cada dispositivo de hardware.
+O hacemos que en UNIX todos los programas sean utilizables con cualquier fichero o dispositivo de flujo de caracteres como entrada y salida, o nos veremos obligados a incorporar a cada programa rutinas que hagan caso de cada dispositivo de hardware.
 %
 Si no damos a todo hardware la justicia de operar como abstracción de flujo de caracteres, tendremos que programar a cada programa con rutinas específicas.
 %
@@ -3833,7 +3835,7 @@ Las instrucciones para el operador de los programas semiautomáticos valen su pe
 %
 El enlazador de UNIX en la PDP-11 en modo dividido de instrucciones y datos se ocupa de insertar un bloque de dos bytes en la locación 0 del espacio de datos. De este modo, ningún objeto de datos puede obtener la dirección de memoria 0 y confundirse con el puntero nulo de C.
 %
-Pocas veces será retribuido un programa gratis, sin importar cuan decorado con mensajes explicativos de lo largo y dificultoso que fue el trabajo de creación.
+Pocas veces será retribuido un programa gratuito, sin importar cuan decorado de mensajes explicativos de lo largo y dificultoso que fue el trabajo de creación esté.
 %
 No consuma ciclos de computadora sin tener una muy buena razón para ello.
 %
@@ -5579,4 +5581,4 @@ Algunas computadoras han sido programadas para considerar que los humanos tienen
 %
 El PIN perfecto no tiene cuatro dígitos ni está asociado con tu vida; es algo que te resulta fácil de recordar y el difícil que tenga sentido para otra gente siquiera.
 %
-De la calidad de la licencia dependen las libertades de la comunidad.
+De la calidad de la licencia dependen las libertades de una comunidad.
