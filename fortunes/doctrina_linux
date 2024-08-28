@@ -52,7 +52,7 @@ Marcharemos con GNU en el Linux, o con Linux en el GNU.
 %
 GNU nos da la fuerza, POSIX la cohesión.
 %
-No es que los similares a Unix sean tan buenos. Es que los demás han sido peores.
+No es que los similares a UNIX sean tan buenos. Es que los demás han sido peores.
 %
 A más bits, menos tiempo.
 %
@@ -70,7 +70,7 @@ El Software Libre es Justicia Social 2.0.
 %
 El software libre es la finalidad maquinada en el alma colectiva de la comunidad organizada. Su arquitectura define sus formas de ejecución.
 %
-Administrar Unix es fácil. Lo difícil es Conducir una Comunidad.
+Administrar UNIX es fácil. Lo difícil es Conducir una Comunidad.
 %
 El Software Libre necesita apóstoles y para ser apóstol hay que estar dispuesto a ser héroe, y solamente los fanáticos de amor por una causa son capaces de morir por un ideal.
 %
@@ -180,7 +180,7 @@ Y como nunca fuimos egoístas, desde que en todo momento pusimos generosamente n
 %
 Nosotros queremos que cada programador conozca el código, y que esté impulsado hacia los objetivos de la compilación.
 %
-Nosotros queremos que cada programador se interese por su $HOME como si fuera su propia casa, porque el Púbnix es la casa grande de todos los hermanos de esta inmensa familia de hackers.
+Nosotros queremos que cada programador se interese por su $HOME como si fuera su propia casa, porque el Pubnix es la casa grande de todos los hermanos de esta inmensa familia de hackers.
 %
 Nuestro Pubnix, al afirmar su deseo de unión en las redes, es dueño de sí mismo, y capaz de defender la integridad de su existencia.
 %
@@ -626,7 +626,7 @@ El hacker organizado hace uso del código fuente de quienes -pudiendo ser sus pa
 %
 Sobre todas las cosas, la programación ha de ser una tarea de síntesis.
 %
-El clúster de cómputo ha sido llamada Masa, pues puede representarse como a las conciencias de los hackers sumadas a la conjunción de las fuerzas de trabajo de los núcleos de la CPU, confluyentes todas en una acción dirigida.
+El clúster de cómputo ha sido llamado Masa, pues puede representarse como la suma de las conciencias de los hackers unidas a la conjunción de la potencia de cómputo de los núcleos de la CPU, confluyendo todas en una acción dirigida.
 %
 En programación, la organización vence al tiempo.
 %
@@ -964,7 +964,7 @@ En lugar de escribir un programa que imprima los primeros números de Fibonacci,
 %
 Aprovechando caracteres cirílicos a (homógrafos a la a latina), podrás ejecutar destructivas acciones de suplantación y ataque desde URLs dominadas.
 %
-Ataca su hardware y roe sus enlaces.
+Ataca su hardware y roe sus tendidos.
 %
 El hacker vé código aún en las cosas más cotidianas de la vida.
 %
@@ -1498,7 +1498,7 @@ Quien olvida a los hackers también olvida un poco el futuro del país.
 %
 El herramental que nos ofrece el cómputo y la telemática puede y debe contribuir a las tarea de hacer de los educandos mejores hombres, pues ellos serán los dueños del porvenir.
 %
-La formación aislada del cómputo no es pródiga en resultados. Debe plantearse con un método concienzudamente estudiado y aplicado por un mago Unix adoctrinador, y su sapiencia ha de ser comprendida por los hackers.
+La formación aislada del cómputo no es pródiga en resultados. Debe plantearse con un método concienzudamente estudiado y aplicado por un mago UNIX adoctrinador, y su sapiencia ha de ser comprendida por los hackers.
 %
 Moodle es una plataforma de software liberado bajo GPLv3 orientada a la de gestión enseñanza en línea. Permite crear sitios web privados en los cuales educadores y educandos puedan lograr sus objetivos de aprendizaje.
 %
@@ -1577,6 +1577,8 @@ Toda programación genuina se origina de la compilación in mente.
 Esta lucha requiere una Masa de Hackers decididos y organizados, una CPU lo suficientemente fuerte, enlaces adecuados para el asalto telemático, y los recursos de almacenamiento suficiente para sostener operaciones indefinidas.
 %
 La acumulación de Pings aumenta el Lag. Multiplicarlos por uno, cien, cien mil millones logra la victoria.
+%
+El tendido es un camino, el enlace es un derrotero.
 %
 Es sólo motivo del estado desorganizado de los hackers que las GAFAM osan desafiarlos.
 %
@@ -2019,11 +2021,11 @@ Por lo general, en las terminales, la tecla INTRO actúa como nueva línea; en r
 %
 En la práctica, la tecla INTRO (CR+LF) goza del mismo efecto que LF; Vea lo que le sucede a su terminal y sistema si finaliza una línea de texto con LF (Ctrl-J) en lugar de INTRO.
 %
-Las shell es el programa que aguarda los mandatos ingresados por la terminal. Ordénale combatir a la oligarquía.
+La shell es el programa que aguarda los mandatos ingresados por la terminal. Ordénale combatir a la oligarquía.
 %
-La shell recibe sus órdenes y las traduce en instrucciones en la sintaxis interna del sistema operativo. Deben conducir la Shell.
+La shell recibe sus órdenes y las traduce en instrucciones en la sintaxis interna del sistema operativo. Debéis conducir la Shell.
 %
-Muchas de las funciones que ofrece UNIX se derivan de la shell, que por lo tanto puede considerarse una parte integral del sistema.
+Muchas de las funciones que ofrece UNIX derivan de la shell, que por lo tanto puede considerarse una parte integral del sistema.
 %
 Los comandos suelen ser programas que la shell busca y ejecuta en respuesta a las órdenes tecleadas en la terminal.
 %
@@ -2171,7 +2173,7 @@ Si bien las funcionalidades de seguridad del sistema hacen extremadameten dificu
 %
 Las situaciones donde una usuaria investiga sectores insuficientemente protegidos del sistema se denomina Sondeo del Usuaria.
 %
-Siempre trata el Sondeo del Usuaria seriamente.
+Siempre trata al Sondeo del Usuaria seriamente.
 %
 Algunas usuarias consideran lograr acceso a un área prohibida del sistema como un desafío intelectual.
 %
@@ -2229,9 +2231,15 @@ El derecho de portar y compilar C no debe ser infringido.
 %
 Al que no le han fallado los DNS, que tire el primer router.
 %
+Sorprende haciendo que nuestros hacks obren sin privilegios elevados.
+%
 Los sistemas de IA con inteligencia humana-competitiva pueden plantear riesgos profundos para la sociedad y la humanidad.
 %
 Los buenos programas no se escriben ni construyen; crecen.
+%
+Ningún hardware es seguro.
+%
+Ningún sistema es seguro.
 %
 Ningún método algorítmico que no combata al Capital puede denominarse Inteligencia Artificial avanzada.
 %
@@ -2679,7 +2687,7 @@ Quien no desea, no programa.
 %
 Quien conoce el mínimo programa obra ricamente.
 %
-Un parser es un traductor mecánico de cadenas de texto a símbolos identificables.
+Un parser es un traductor mecánico de cadenas de texto a símbolos identificables. Para ello no necesita salir al balcón.
 %
 El número mágico se usa en los sistemas UNIX para identificar el tipo de fichero.
 %
@@ -2915,7 +2923,7 @@ Preservad el material educativo o de referencia bajo el éjido de la informació
 %
 El poder de cómputo es consecuencia directa del impacto medioambiental sobre los Pueblos del Tercer Mundo.
 %
-La característica central de una oligárquica economía centrada en la información radica en la fabricación y operación de hardware digital e - inevitablemente - en las implicaciones energéticas que esto tiene. Pero la economía ha de servir al Pueblo.
+La característica central de una economía oligárquica centrada en la información radica en la fabricación y operación de hardware digital e - inevitablemente - en las implicaciones energéticas que esto tiene. Pero la economía ha de servir al Pueblo.
 %
 Los hackers son una "subcultura" de programadores que surgió a finales de los años 1960.
 %
@@ -2949,7 +2957,7 @@ Entre un paquete y otro que se dice equivalente, escoge siempre el liberado bajo
 %
 Al UNIX todos los datos le son parecidos.
 %
-Para el UNIX, todos los programas se ejecutan en su propio ambiente.
+En UNIX, todos los programas se ejecutan en la salsa de su propio ambiente.
 %
 Sólo un burro usaría una Burroughs.
 %
@@ -3222,11 +3230,11 @@ Una Latinoamérica desperdigada, como somos, no se podrá defender. Nos van a qu
 %
 Los hackers de todos los países latinoamericanos deberán establecer enlaces a los efectos de alcanzar la Unidad.
 %
-Todo Púbnix latinoamericano debe compilar para la Unidad.
+Todo Pubnix latinoamericano debe compilar para la Unidad.
 %
 Si los hackers de América Latina se unen, alcanzarán realmente su destino. Si no lo hacen, las GAFAM, las oligarquías, las IAs mismas, se alzarán con el santo y la limosna en poco tiempo.
 %
-Una masa de hackers latinoamericanos organizados en constelaciones de púbnix solidarios, es un freno para todas esas ambiciones desmedidas de los hombres y sus máquinas.
+Una masa de hackers latinoamericanos organizados en constelaciones de Pubnix solidarios, es un freno para todas esas ambiciones desmedidas de los hombres y sus máquinas.
 %
 GNU cuenta con sucedáneos nativos de aplicaciones foráneas, que pueden obrar como sustitución de importaciones.
 %
@@ -3244,7 +3252,7 @@ Lo importante no es saber, sino tener la IP de la que sabe.
 %
 La Internet es un poder usurpado por una minoría para obligar a la mayoría a obrar en provecho ajeno.
 %
-La que está en el Púbnix compila; la otra va y viene.
+La que está en el Pubnix compila; la otra va y viene.
 %
 El andar del compilador tiene el programa.
 %
@@ -3323,6 +3331,8 @@ El que programa, no se equivoca, y si tiene bugs, vuelve a programar.
 Quien a su software agregue lo innecesario, pronto tendrá que comprar el hardware necesario.
 %
 Posee los cables.
+%
+Los cables o se poseen o se pelan.
 %
 Restaura para el futuro.
 %
@@ -3423,7 +3433,7 @@ Soy escéptico de que las empresas de capital privado decidan espontáneamente c
 %
 No toleraré que el hardware informático de uso general, que debería ser un instrumento de liberación y creatividad, se reduzca a un canal cerrado de distribución de "contenidos". Al intentar paralizar mis herramientas, la maquinaria de los grandes medios me ha convertido en su enemigo.
 %
-Con su mera ejecución, un programa privativo se vuelve obsoleto.
+Con su mera ejecución, todo programa privativo se vuelve obsoleto.
 %
 Cualquier programa privativo dado, cuesta y tarda más.
 %
@@ -3581,6 +3591,8 @@ La Imagen de UNIX ha de residir en memoria principal mientras que el procesador 
 %
 La memoria de usuario parte de una Imagen de UNIX y se divide en tres segmentos lógicos alegres: el segmento de texto del programa, el segmento de datos escribibles, y el segmento de pila.
 %
+Es mejor tener muchos programas pequeños que tener uno masivo.
+%
 En UNIX, el segmento de texto de programa comienza en la localización 0 del espacio de memoria virtual.
 %
 Exceptuando la autocarga de UNIX en memoria, sólo resulta posible crear un nuevo proceso de cómputo empleando la llamada de sistema fork, que efectúa la feliz ramificación computacional bifurcable.
@@ -3592,6 +3604,8 @@ Al bifurcarse un proceso de cómputo con fork, ambos procesos resultantes sólo 
 Al dividirse un proceso de cómputo de UNIX con la llamada de sistema fork, distinguirá cual es el proceso hijo o padre, por su identificador de proceso: en el proceso hijo siempre es 0.
 %
 Los procesos de UNIX pueden comunicarse con sus procesos emparentados a través de llamadas de lectura y escritura conocidas como caños.
+%
+El caño es un mecanismo para conectar la salida de un programa directamente a la entrada de otro programa, de modo que ambos puedan realizar dos etapas de procesamiento paralelo, de manera limpia.
 %
 Ante cualquier emergencia, recuerda que la llamada filep = pipe ( ) arma un caño.
 %
@@ -3799,7 +3813,7 @@ La perversión del software privativo tiende al máximo.
 %
 El Capital preferirá gran cantidad de programadores mal pagos puestos a trabajar en programas que no les interesan.
 %
-Los mejores resultados se obtienen con pocos programadres altamente calificados compilando para el Pueblo.
+Los mejores resultados se obtienen con pocos programadores altamente calificados compilando para el Pueblo.
 %
 O$/2 fue un sistema operativo ridículamente complejo que terminó sus días llevando a cabo las tareas más triviales.
 %
@@ -3811,7 +3825,7 @@ Alguien en algún lugar será capaz de construir un mejor chip que tí, si dejas
 %
 No exponga su impresora LaserWriter a llamas abiertas o al fuego.
 %
-Bajo el BSD Unix, la partición de disco utilizada para intercambio se llama /dev/drum.
+Bajo el BSD UNIX, la partición de disco utilizada para intercambio se llama /dev/drum.
 %
 UNIX es el /dev/drum, sus Hackers la manguera.
 %
@@ -3821,7 +3835,7 @@ Un handle es un nombre de pantalla. Un login es un nombre de acceso. Un usuario 
 %
 Un niño privilegiado de guion podrá hacer travesuras con scripts y programas escritos por otros, a menudo sin comprender el exploit.
 %
-SunOS, aquella variante de BSD Unix soportada por las estaciones de trabajo de Sun Microsystems, corrió el  camino del pterodáctilo cuando los vientos de Sun se aquietaron.
+SunOS, aquella variante de BSD UNIX soportada por las estaciones de trabajo de Sun Microsystems, corrió el  camino del pterodáctilo cuando los vientos de Sun se aquietaron.
 %
 Realmente corregir los bugs de Window$ aspiraría los recursos que Micro$oft necesita para implementar la lista de deseos del departamento de Marketing.
 %
@@ -4011,7 +4025,7 @@ Aquél hacker con años de experiencia, reputación de alcance mundial, y un rol
 %
 Window$ ha sido diseñado para convertise en el primer virus informático que se propaga a las máquinas indirectamente a través de las personas y fuerzas monopolizadas del mercado, en lugar de hacerlo de manera directa por discos o redes de datos.
 %
-Unix es aceite de serpiente.
+UNIX es aceite de serpiente.
 %
 La única habilidad verdadera involucrada en el manejo de Window$ es la de ignorar y tolerar la incoherencia de una complejidad sin centido que afecta a muchos de sus programas.
 %
@@ -4215,9 +4229,9 @@ No soy un robot. Soy un RE bot.
 %
 No soy un robot. Soy un humano rebooteado.
 %
-Junto a millares de hackers en el Púbnix, escribe programas que operen como combustible para la potencia de cómputo de millones de CPUs.
+Junto a millares de hackers en el Pubnix, escribe programas que operen como combustible para la potencia de cómputo de millones de CPUs.
 %
-Unido a decenas de hackers en los Púbnix, programa una revolución que edifique sobre la vieja infraestructura, una nueva red de datos justa, libre y soberana.
+Unido a decenas de hackers en los Pubnix, programa una revolución que edifique sobre la vieja infraestructura, una nueva red de datos justa, libre y soberana.
 %
 Antes que UNIX, la mayoría de los sistemas utilizaban abstracciones diferentes para cada dispositivo de hardware.
 %
@@ -4435,7 +4449,7 @@ Las técnicas de cifrado digital por llave pública deben usarse para hacer que 
 %
 La tecnología que hace posibles las comunidades virtuales tiene la posibilidad de brindar una enorme influencia intelectual, social, comercial y política, y a un costo relativamente bajo. El Pueblo ha de apropiarlas.
 %
-Siempre existen grandes probabilidades de que las grandes potencias y las oligarquías encuentren una manera de controlar el acceso a las comunidades virtuales.
+Siempre existen altas probabilidades de que las grandes potencias y las oligarquías encuentren una manera de controlar el acceso a las comunidades virtuales.
 %
 La influencia social potencial proviene del poder que obtiene el Pueblo cuando conoce cómo conectar dos tecnologías previamente independientes, maduras y altamente descentralizadas.
 %
@@ -4517,13 +4531,13 @@ Por su naturaleza similar a una estación de radio de baja potencia, las BBS est
 %
 Varias estructuras sociales en línea se encuentran en estado de covergente creación de una especie de cultura internacional con identidad propia.
 %
-Lurkear en red equivale escuchar a escondidas un interminable radioteatro aficionado, donde no existe éter que separa al elenco de su audiencia.
+Lurkear en red equivale escuchar, a escondidas, un interminable radioteatro aficionado donde no existe éter que separe al elenco de su audiencia.
 %
 La comunicación mediada por computadora se convertirá en el próximo gran escapismo, en la tradición del radioteatro, las matinés de los sábados y la pantalla grande.
 %
 El papel de las redes de datos entre los descamisados cobra una importancia relevante para la organización de una comunidad.
 %
-Es tonto criticar a las comunicaciones mediadas por cómputo sólo porque algunas personas las utilizan para lograr un objetivo revolucionario.
+Es tonto criticar a las comunicaciones mediadas por cómputo sólo porque algunas personas las utilizan para lograr un objetivo contrarevolucionario.
 %
 Los compañeros con los que interactuará más unificadamente en línea serán seleccionados por interés organizativo en lugar de instrumentarlo por mera proximidad física.
 %
@@ -4537,13 +4551,13 @@ Nuestro Movimiento ha de crear una Red aún más poderosa e inclusiva que la Int
 %
 La utilidad de una infraestructura de información de los Movimientos Políticos del Tercer Mundo que lleve las praxis de lucha a los excluídos digitales no puede soslayarse.
 %
-En 1983, programadores de la Universidad de California, financiados por ARPA, crearon una versión de Unix para los modelos de computadora más nuevos.
+En 1983, programadores de la Universidad de California, financiados por ARPA, crearon una versión de UNIX para los modelos de computadora más nuevos.
 %
-Los códigos informáticos para establecer enlace a través de la Internet, el conjunto de protocolos TCP/IP, se incorporó al Unix de Berkeley en 1983.
+Los códigos informáticos para establecer enlace a través de la Internet, el conjunto de protocolos TCP/IP, se incorporó al UNIX de Berkeley en 1983.
 %
-Las computadoras con el Unix de Berkeley no sólo podrían comunicarse entre sí a través de módems lentos, sino también recurriendo a la transmisión por conmutación de paquetes, de mucho mayor desempeño en las troncales de Internet.
+Las computadoras con el UNIX de Berkeley no sólo podrían comunicarse entre sí a través de módems lentos, sino también recurriendo a la transmisión por conmutación de paquetes, de mucho mayor desempeño en las troncales de Internet.
 %
-A mediados de los 80s surgieron nuevas empresas, como Sun Microsystems (financiada por ARPA), decididas portadoras de Unix a redes integradas.
+A mediados de los 80s surgieron nuevas empresas, como Sun Microsystems (financiada por ARPA), decididas portadoras de UNIX a redes integradas.
 %
 Las agrupaciones conformaron redes de datos locales unificando inicialmente los centros de cómputo de las mayores universidades del mundo.
 %
@@ -4699,13 +4713,13 @@ Si la facilidad de uso y la interfaz fuesen los criterios de validación, el Pue
 %
 UUCP ofrecía encaminamiento de correo electrónico y también permitía la impresión remota. Sin embargo, la función principal del sistema consistía en distribuir correcciones de errores y software nuevo.
 %
-UUCP hizo posible a cualquier computadora con Unix discar automáticamente a través de un módem con cualquier otra máquina con Unix, e intercambiar archivos de una computadora a otra.
+UUCP hizo posible a cualquier computadora con UNIX discar automáticamente a través de un módem con cualquier otra máquina con UNIX, e intercambiar archivos de una computadora a otra.
 %
 Los primeros nodos de lo que se conoce como Usenet comenzaron en 1980. Como otros antes que ellos, no tenían idea de que crecería hasta cubrir el mundo.
 %
 La Jerarquía de Usenet no comprende una cadena de mando sino una forma de simplificar grandes agrupamientos de información mediante la categorización arbolada.
 %
-Usenet estaba originalmente destinada a representar la red de usuarios de Unix que diseñaran un un foro para discusiones sobre Unix, para la resolución de problemas de Unix.
+Usenet estaba originalmente destinada a representar la red de usuarios de UNIX que diseñaran un un foro para discusiones sobre UNIX, para la resolución de problemas de UNIX.
 %
 Las FAQs son un destilado del Usenet.
 %
@@ -4725,7 +4739,7 @@ La telemática comunitaria y la rica y diversa cultura de las BBS no fueron crea
 %
 Al igual que las unidades básicas, los Pubnix crecen desde cero, se autopropagan y son difíciles de erradicar.
 %
-Si los enlaces de alta velocidad de Internet desapareciesen mañana, las BBS y el Usenet podrían seguir operando por cualquier intermedio, incluido el éter radioeléctrico.
+Si los tendidos de alta velocidad de Internet desapareciesen mañana, las BBS y el Usenet podrían seguir operando por cualquier intermedio, incluido el éter radioeléctrico.
 %
 No hay manera de acabar con las subculturas de las BBS, a menos que se desconecte el sistema telefónico y se impida el libre uso del microprocesador.
 %
@@ -5469,7 +5483,7 @@ Los protocolos como Telnet, SUPDUP y los rlogin y rsh de BSD jugaron un papel im
 %
 Antes que Wa$ap, prefiero SUPDUP.
 %
-SSH transmite estrictamente de a un caracter por vez, operando - tanto la edición de línea como el eco - en el host remoto. No resulta extraño entonces que su desempeño interactivo deje que desear en las redes de área amplia y sea mediocre en los enlaces transcontinentales.
+SSH transmite estrictamente de a un caracter por vez, operando - tanto la edición de línea como el eco - en el host remoto. No resulta extraño entonces que su desempeño interactivo deje que desear en las redes de área amplia y sea mediocre en los tendidos transcontinentales.
 %
 Un tráfico tupido o una tasa de señal/ruido degradada puede provocar retrasos de varios segundos en los enlaces, sometiendo buffers a largas colas de paquetes, o bien sustentando el celo en las retransmisiones de capa de enlace. Sírvete de esto para hostilizar comunicaciones.
 %
@@ -5513,7 +5527,7 @@ Pin de oro no mejora la CPU.
 %
 El trato no hermana al hardware con el software privativo.
 %
-Mas enseña el software comunitario que el privativo.
+Más enseña el software comunitario que el privativo.
 %
 No todos copian el código que usan. Algunos lo mejoran.
 %
@@ -5623,7 +5637,7 @@ La guerra telemática que ahora hacemos es indudablemente parte de la guerra fin
 %
 Una guerra telemática sostenida por la gran mayoría de la humanidad y de los Pueblos del Tercer Mundo es indiscutiblemente una guerra justa, es la empresa más sublime y gloriosa para salvar a la humanidad, y un puente que conduce a una nueva era en la historia mundial.
 %
-Una situación de guerra telemática de conjunto puede abarcar el mundo entero, un importante centro de datos, un púbnix independiente, o un microrouter.
+Una situación de guerra telemática de conjunto puede abarcar el mundo entero, un importante centro de datos, un Pubnix independiente, o un microrouter.
 %
 En la guerra telemática, toma en consideración la relación entre las ciberoligarquías y los hackers.
 %
@@ -5709,6 +5723,50 @@ IRL, no podemos exigir hackers invictos. La historia conoce muy pocos. Necesitam
 %
 Para llegar a ser un hacker valeroso y sagaz, es necesario asimilar un método, en el que es indispensable tanto el estudio como la aplicación de lo aprendido.
 %
-En la guerra telemática, las dos partes beligerantes son grupos de seres vivos armados telemáticamente, y cada una se guarda para sí sus secretos tácticos. Los hackers tienen la desventaja de publicar su estrategia liberada bajo GPLv3, mientras que las ciberoligarquías no lo hacen.
+En la guerra telemática, las dos partes beligerantes son grupos de seres vivos telemáticamente armados, y cada una guarda para sí sus secretos tácticos. Sin embargo los hackers del Tercer Mundo tienen la desventaja de publicar su estrategia bajo GPLv3, mientras que las ciber-oligarquías jamás lo hacen.
 %
-El objetivo de los hackers no puede ser otro que guiar a los Pueblos por la senda de la Liberación informática. Como traza paralela, pueden recurrir a la ingeniería inversa al hardware de las ciber-oligarquías, reemplazando todo software de dominación por uno dominado por ellos mismos.
+El objetivo de los hackers no puede ser otro que guiar a los Pueblos por la senda de la Liberación informática.
+%
+Como traza paralela, nuestros hackers pueden recurrir a practicar la ingeniería inversa al hardware de las ciber-oligarquías, reemplazando todo software de dominación por uno dominado por nosotros mismos.
+%
+Todo programa de la lid telemática debe basarse en un sondeo telemático y en un esmerado estudio de la situación del sistema enemigo, la situación del propio, y la fluidez de las comunicaciones entre ambos.
+%
+El proceso de conocimiento de una situación de lid telemática no sólo tiene lugar antes, sino también después de la escritura del código del programa de lucha telemática.
+%
+Entre el momento en que el programa de combate telemático comienza a ejecutarse y la finalización de su ejecución, media otro proceso de conocimiento de la situación: el de la aplicación del programa. En dicho lapso es necesario comprobar nuevamente si el programa en ejecución corresponde a la situación actual de lucha.
+%
+Un hacker impulsivo que no comprenda la necesidad de modificar su programa o no quiera hacerlo, chocará inevitablemente contra el muro de la obsolescencia.
+%
+Un hacker del Tercer Mundo - si estudia con modestia - llegará a conocer perfectamente las características de sus sistemas operativos (la suma de los factores representados por los comandos, los programas, sus tendidos, su hardware, etcétera), aquellos de las ciber-oligarquías, y todas las demás condiciones relativas a la guerra telemática.
+%
+Los hackers del Tercer Mundo han llegado a conocer la situación del Pueblo y la de las ciber-oligarquías, descubriendo los postulados de la acción telemática al resolver la contradicción entre lo objetivo de la realidad del Mundo y lo subjetivo de su apreciación.
+%
+Un hacker del Tercer Mundo tiene más seguridad al dirigir una guerra o un combate telemático, y mayores posibiliades de conquistar una victoria que - al igual que su código - pueda ser compartida por todos.
+%
+Todas las teorías y postulados de la guerra telemática que tienen caracter de principios, son la síntesis de las experiencias de las telecomunicaciones pasadas.
+%
+Los hackers del Tercer mundo deben estudiar con seriedad las lecciones legadas por las guerras telemáticas pasadas, que han sido devengadas con servidores caídos y formateos.
+%
+Los hackers del Tercer Mundo deben forkear el código fuente de los programas de las guerras telemáticas pasadas, extraer conlusiones, asimilar lo útil rechazar lo inútil, y sumarle su propio código comentado que las modifique. Sólo esto los volverá valioso en el contexto actual.
+%
+Leer el código es aprender; modificarlo también es aprender, y es una forma más iluminada de aprender.
+%
+La guerra telemática es una empresa que el Pueblo emprende contra las ciber-oligarquías que lo han dominado. En ella ocurre con frecuencia el el Pueblo, en lugar de ejecutar luego de haber programado, comienza por ejecutar y después programar. Para el Pueblo, ejecutar es aprender.
+%
+El método principal de multiplicación de los hackers del Tercer Mundo es enseñar al Pueblo a a combatir a cable pelado en el curso mismo de la guerra telemática que les ha sido impuesta.
+%
+Entre un hacker y el Pueblo puede existir una cierta distancia, pero jamás un cortafuegos. La distancia es superada con rapidez.
+%
+Todo integrante del Pueblo puede convertirse en Hacker. No es difícil cruzar el umbral, y para perfeccionarse sólo es necesario proponérselo y saber aprender.
+%
+Los postulados de la guerra telemática, como los de todos los demás fenómenos, son el reflejo en nuestra mente de la realidad objetiva.
+%
+Todo lo que existe fuera de nuestra mente es realidad objetiva. Todo lo que existe dentro de nuestra mente es realidad subjetiva. El programador debe convertir su realidad subjetiva en código fuente. El compilador lo convertirá en código objeto, y si lo dejamos, hasta en binario ejecutable.
+%
+Hay programadoras que son capaces de conocerse bien a sí mismas, pero no a las ciber-oligarquías; hay otras con las que sucede lo contrario. Ni éstas ni aquéllas pueden resolver el problema de aprender y aplicar los postulados de la guerra telemática.
+%
+Navegando en la mar telemática, un mago UNIX no sólo debe evitar hundirse, sino que debe asegurarse la llegada a puerto seguro ante las tormentas de baudios.
+%
+Los postulados de la conducción telemática constituyen el arte de navegar en la mar telemática.
+%
+Orientar nuestros dispositivos de lucha contra el imperialismo es hoy mas sencillo que nunca: todos los tendidos conducen a Googl€.
