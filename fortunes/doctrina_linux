@@ -134,6 +134,40 @@ La mayoría de los servidores de correo públicos no están controlados por los 
 %
 Debemos desconfiar de los servidores de correo ofrecidos por la oligarquía. Han demostrado no tener escrúpulo alguno y acceder a correspondencia electrónica de aquellos abonados a quienes consideran riesgosos para sus planes inconfesables.
 %
+Los correos electrónicos conformado por código HTML permiten colocar hiperenlaces con una URL oculta bajo un texto amigable para el usuario. Sólo debes utilizarlo para combatir al Capital.
+%
+Colocar un hiperenlace HTML engañoso bajo un texto amistoso podría llevar a los incautos a una página diferente a la esperada.
+%
+Un hiperenlace engañoso es un vector extremadamente común para los ataques de suplantación de identidad. En ellos, un remitente malicioso podría hacer que el usuario incauto solicite copias de contenido informático remoto distinto al esperado.
+%
+El HTML es un conjunto de especificaciones extremadamente largo y complicado, diseñado para navegar por la web, donde hay una gran variedad de documentos, aplicaciones, etc.
+%
+El HTML fue diseñado sin tener en cuenta el correo electrónico.
+%
+Una gran parte (si no la mayoría) de las funcionalidades del HTML no son deseables para los correos electrónico, si se incluyen pueden abusarse para extraer información sobre ti, tus contactos, tu calendario, otros correos en tu bandeja de entrada, etc.
+%
+La ejecución remota es una de las funcionalidades del HTML más abusadas en el correo electrónico.
+%
+Los correos HTML son buenos para publicistas, pero malos para todos los demás.
+%
+Todos los correos HTML enviados por publicistas incluyen identificadores en los enlaces y en las imágenes que están diseñados para extraer información sobre los usuarios y enviársela de vuelta a quien envía el mensaje.
+%
+Examina con atención las URL: las ristras extrañas de números y letras son únicas para ti y se utilizan para identificarte. Otros usarán dicha información para manipularte, intentando buscar anuncios que son más propensos a influir sobre tus hábitos de compra.
+%
+Navegar por la web es un gran reto para los individuos que necesitan un lector de pantalla o alguna otra herramienta de asistencia para usar su ordenador. Recurre desinteresadamente al texto plano y a las descripciones alternativas de contenidos para ayudarlos.
+%
+Volver accesible un correo HTML a los individuos que necesitan un lector de pantalla u otra herramienta de asistencia para usar el ordenador, es incluso más complicado que hacer una web accesible, debido a las limitaciones impuestas por la mayoría de clientes de correo electrónico.
+%
+Los correos en texto plano son pan comido para los lectores de pantalla, especialmente para clientes de correo diseñados para ello.
+%
+Cuando redactes un correo electrónico en texto plano, es útil recortar sus líneas a un ancho máximo de 72 caracteres, introduciendo saltos de línea después de la palabra más cercana a dicho márgen.
+%
+Al responder un correo en texto plano, no propicies que se responda sobre la cita. En lugar de ello, añade dos saltos de línea sobre el mensaje citado. Esto permitirá que se edite el mensaje citado. Cita cada línea del mensaje anterior con > y un espacio, seguido de la cita.
+%
+Aunque algunos clientes de correo electrónico intentan hacer creer lo contrario, puedes editar la versión citada del mensaje al que estás respondiendo, y es recomendable que lo hagas.
+%
+Puedes recurrir al enfatizado de tu correo electrónico en texto plano por medio de *asteriscos*, /barras/, _guiones bajos_ o MAYÚSCULAS, y evitarás los enormes inconvenientes del uso de HTML en ellos.
+%
 La oligarquía ha hecho - a falta de ley adecuada de protección - abusos informáticos duraderos.
 %
 Para contrarrestar la insidiosa acción oligárquica sobre la telemática contamos con dos soluciones libres interdependientes: la firma digital de los mensajes de correo electrónico, y su cifrado por medio del criptosistema GnuPG.
@@ -560,7 +594,7 @@ No faltarán quienes prefieran obtener licencias de uso de Unix en lugar de desa
 %
 Muchos hackers han creado reimplementaciones más o menos exitosas del ideal de Unix, cada una con sus nuevos adornos. Algunos de ellas desaparecen rápidamente, otras se fusionan con innovaciones similares y paralelas creadas por otros en un mutuo ataque al mismo problema.
 %
-Unix se ha ido formulado lentamente alrededor de un núcleo simple y ha adquirido una especie de complejidad y asimetría que le es orgánica, como las raíces de un árbol o las ramificaciones de una arteria coronaria.
+Unix se ha ido formulando lentamente alrededor de un núcleo simple y ha adquirido una especie de complejidad y asimetría que le es orgánica, como las raíces de un árbol o las ramificaciones de una arteria coronaria.
 %
 Compender el desarrollo de Unix es cosa más de la anatomía que de la ciencia del cómputo.
 %
@@ -734,7 +768,7 @@ En los tiempos de Matusalén, Unix se conducía "a pelo", y esto significaba con
 %
 Dentro del Software Libre no somos sectarios, y hemos usado en cada tiempo las herramientas que han sido necesarias para la programación. Esta versatilidad es la que nuestros enemigos envidian, pero será también la que defina el devenir del Movimiento.
 %
-El imperialismo va tras un neocolonialismo de nuestros países, las oligarquías vernáculas van tras la explotación de nuestros pueblos como ha sido en sido en nuestro caso desde el Siglo XIX, y el software privativo va por la esclavitud de nuestra informática y nuestro hardware.
+El imperialismo va tras el neocolonialismo de nuestros países, las oligarquías vernáculas van tras la explotación de nuestros pueblos - como ha sido en sido en nuestro caso desde el Siglo XIX - y el software privativo va por la esclavitud de nuestro hardware y nuestra informática.
 %
 Para la Liberación del Software es preciso la integración; nuestra experiencia nos dice que la liberación de un sistema de cómputo no puede ser aislada, no puede ser insular.
 %
@@ -1206,7 +1240,7 @@ Sabemos que a la hora de correr nuestro software libre, tropezaremos con muchos 
 %
 La Lucha Telemática es algo que los hackers pueden hacer si no hay otra opción. Usando un modelo RaaS (Ransomware como Servicio) y una vasta red de ciber-afiliados, es posible vulnerar en poco tiempo una gran cantidad de compañías oligárquicas para Combatir al Capital.
 %
-Envuelto en la conflagración telemática a muerte, no ha de respetarse aquella regla implícita que sí siguen los hackers que luchan: la de no afectar servicios esenciales. Colocados frente a la hecatombe informática, ha de arrasarse toda la infraestructura del enemigo.
+Envueltos en la conflagración telemática a muerte, no ha de respetarse aquella regla implícita que sí siguen los hackers que luchan: la de no afectar servicios esenciales. Colocados frente a la hecatombe informática, la infraestructura del enemigo debe ser arrasada.
 %
 En nuestra lucha, el uso creativo del ransomware nos permitirá que los datos del enemigo reposen en una cárcel digital del pueblo. Si los bytes les valen, pagarán, y si no, irán a parar a /dev/null.
 %
@@ -1322,7 +1356,7 @@ Solamente la conformación de un sistema operativo libre podría ser una garant�
 %
 Para desarrollar el kernel elijamos los mejores hackers. Comentemos la mayor cantidad de código fuente. Cada hacker ha de realizar un módulo en la compilación del conjunto.
 %
-Hablamos de Servicio Sustitutivo del Software (SaaSS) cuando los usuarios utilizan el servidor web de otra persona para realizar sus propias tareas informáticas. Se obliga así a transmitir datos propios a la máquina ajena para que éste los procese y los devuelva. Sólo un necio podría decir que así se controlan tareas informáticas propias...
+Hablamos de Servicio Sustitutivo del Software (SaaSS) cuando los usuarios utilizan el servidor web de otra persona para realizar sus propias tareas informáticas. Se obliga así a transmitir datos propios a la máquina ajena para que ésta los procese y los devuelva. Sólo un necio podría decir que así se controlan tareas informáticas propias...
 %
 En Internet, el software privativo no es la única manera de perder su libertad informática. El servicio sustitutivo del software (SaaSS), es decir, "ser vicio sustitutivo del software", es otra forma de enajenar el poder sobre su ordenador.
 %
@@ -1620,6 +1654,7 @@ Usenet utiliza un protocolo abierto, el NNTP, al que cualquiera puede acceder ut
 %
 R€ddit es sólo una plataforma controlada enteramente por una única compañía de capital. Disóciate.
 %
+La denegación de servicios es una ofensiva de carácter táctico y psicológico que los hackers emprenden pues su hardware no podría competir en calidad y menos aún en cantidad con el de las ciber-oligarquías.
 %
 Si existe una única compañía que ofrece un servicio informático único para usuarios finales con fines de lucro, atácala.
 %
@@ -2177,7 +2212,7 @@ En la medida que la seguridad de un sistema operativo se ve técnicamente reforz
 %
 Las situaciones donde una usuaria irrumpe a través de los controles de seguridad para ganar acceso al sistema de cómputo se denominan Penetración de Usuaria.
 %
-Si bien las funcionalidades de seguridad del sistema hacen extremadameten dificultosa su penetración, es imposible hacer cualquier sistema operativo completamente impenetrable.
+Si bien las funcionalidades de seguridad del sistema hacen extremadamente dificultosa su penetración, es imposible hacer cualquier sistema operativo completamente imfranqueable.
 %
 Las situaciones donde una usuaria investiga sectores insuficientemente protegidos del sistema se denomina Sondeo del Usuaria.
 %
@@ -4681,7 +4716,7 @@ Pensemos las redes de datos para formarlas como herramientas de libre acceso que
 %
 Las redes de datos públicas revitalizan la esfera pública.
 %
-Auquellas redes de datos que no sean controladas y dirigidas por el Pueblo, se convertirán indefectiblemente en un instrumento de tiranía.
+Aquellas redes de datos que no sean controladas y dirigidas por el Pueblo, se convertirán indefectiblemente en un instrumento de tiranía.
 %
 Una red mundial de comunicaciones diseñada y controlada por los Pueblos constituirá un ágora electrónico.
 %
@@ -5214,6 +5249,8 @@ Quien a Github va y viene, nada gana y nada tiene.
 %
 Quien todo lo descarga, todo lo pierde.
 %
+A veces se descarga, a veces se carga.
+%
 No es amigo quien descarga, sino quien da a descargar.
 %
 No puedes descargarlo todo ¿Dónde lo meterías?
@@ -5473,7 +5510,7 @@ Quien compile un kernel, puede compilar un Hola Tercer Mundo.
 %
 Si quieres aprender a compilar, loguéate a un Pubnix.
 %
-Copiar bugs es más difícil que depurarlos.
+Copiar bugs es más fácil que depurarlos.
 %
 La UEFI no tiene vergüenza de lo que es. Y debería.
 %
