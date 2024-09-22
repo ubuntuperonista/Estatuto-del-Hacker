@@ -480,6 +480,8 @@ Los medios de almacenamiento de un sistema informático equivalen lo que la vest
 %
 La sabiduría es un valor intangible, pero acotado si no puede transmitirse. Es por ello que a lo largo de la historia, esto fue tarea primero de los didactas en la antigüedad griega, y luego de los escribas del medioevo, para finalmente recaer en los renacentistas de la imprenta en dicho período. En la Era de la Información - que es por la que transitamos - esto ya es una tarea de todos.
 %
+El verdadero valor del código lo da el compartirlo con una Comunidad, para que lo estudie, lo modifique, y le dé el vuelo de un ave migratoria, sin enjaularlo con una EULA.
+%
 Mantener en secreto la información es ineficiente; obliga a una antiestética duplicación de esfuerzo.
 %
 Nuestra Cultura es permeable a los cambios, y desde el Martín Fierro hasta el libro más risueño, hemos de leerlo y compartirlo por Torrent.
@@ -1950,9 +1952,13 @@ A pesar de que los chinos deberían adorar a nVidia, es en RISC-V donde ponen su
 %
 Uno no aprende cómputo por usar un smartphone, sino por dejar de usar un smartphone.
 %
-Sacarle el software de Googl€ a un teléfono inteligente no es lobotomizarlo. 
+Sacarle el software privativo de Googl€ a un teléfono inteligente no es lobotomizarlo.
+%
+Si dudas en rootear tu smartphone, comienza por un celular muleto en muletas al que no temas brickear.
 %
 No lo llamo teléfono inteligente, sino teléfono atontador.
+%
+En caso de necesidad, reemplaza los ranchos de adobe con estructuras en base a smartphones brickeados.
 %
 La computadora es el contaminante perfecto. Sus feces son indestinguibles del alimento que produce.
 %
@@ -3187,6 +3193,8 @@ El trozo de código GPLv3 más pequeño supera a cien mil millones de líneas pr
 %
 Si quieres modificar, primero debes copiar; este es el comienzo de la compilación.
 %
+La acumulación de código se exalta hoy como si fuera una virtud. Pero el código es para compartirlo, para fraternizar.
+%
 El hacker no acumula software ajeno. Beneficia a los otros copiándoles sus propios programas modificados, y se beneficia a sí mismo.
 %
 Es fácil hacer que un Pueblo que acumula software libre, lo copie a los demás.
@@ -3541,6 +3549,8 @@ Hablar de software y callar al Pueblo es una farsa.
 Quien liberó su código bajo GPLv3 no está obligado a nada más.
 %
 A Window$ muerto, GNU puesto.
+%
+No has vivido hasta haber muerto en MUD.
 %
 El programador debe considerar las cosas mas sencillas de lo que son.
 %
@@ -4900,7 +4910,7 @@ Aprende a salir de Vim y comprenderás la única verdad.
 %
 Existe sólo una manera sana de desconectarte, pero infinitas insanas.
 %
-El manual da enseñanza, la ingeniería inversa, comprensión.
+El manual de enseñanza, la ingeniería inversa, comprensión.
 %
 El usuario aprende el programa, el hacker lo comprende.
 %
@@ -5162,6 +5172,8 @@ Todos los hackers pusieron su código a disposición de esta naciente comunidad 
 En la guerra Unix, cada uno puso cuanto tenía, incluso código y binarios, y era de esperar que obtenido el triunfo, el beneficio habría de repartirse también poseyendo cada programador en la medida en que había perdido. Pero en la pirinola salió "Gana Torvalds".
 %
 Donde hay una Shell, hay una senda para la Liberación.
+%
+Que la línea de comandos viva por siempre.
 %
 El router es más fuerte que la espada.
 %
@@ -5865,3 +5877,35 @@ Los verdaderos usuarios difícilmente posteen anónimamente.
 Los verdaderos usuarios disfrutan eliminar a los usuarios con Commodores que gustan postear afirmando que su microordenador de juguete es el mejor.
 %
 En la confrontación entre quienes tenían la Commodore 64 y quienes tenían la TRASH-80, fue decicida: sobrevivieron los primeros.
+%
+El código no se programa mediante GCC, sino mediante la escucha paciente, el diálogo y la cooperación, que son los únicos medios dignos de la persona humana para resolver los conflictos. El compilador sólo después de esto se usa.
+%
+Mientras los CEOs a menudo quiere convencernos de que sólo valemos si compilamos código, la GPLv3 nos recuerda la verdad del cómputo: nuestro código vale en comunidad.
+%
+He experimentado una vez más la vitalidad de los jóvenes Púbnix locales. ¡Dejemos que su entusiasmo por la GPLv3 nos contagie para renovar el kernel en GNU!
+%
+Todos, cada usuario y usuaria, somos destinatarios de la invitación de la GNU  participar de la gracia de compilar y compartir. Sólo hace falta hacer un make a este código fuente libre y compilarlo, permitiendo que se modifique.
+%
+Los que esperan el GCC, compilan sin cansarse.
+%
+Lo que derriba los cortafuegos y acorta las distancias no son tanto los baudios, la GPL, ni los compiladores, sino, sobre todo, la práctica humana de la amistad, del encuentro, del mirarse a los ojos.
+%
+Si algo bueno existe y permanece en este Pubnix, es sólo porque, en múltiples y variadas circunstancias, el software libre ha prevalecido sobre el privativo, la solidaridad sobre la indiferencia, la generosidad sobre el egoísmo.
+%
+Nada que sea perdurable se programa y modifica sin GPLv3.
+%
+La compilación popular se hace posible cuando nos atrevemos a hackear la "shell" que frecuentemente nos encierra en nosotros mismos, y a salir de una programación perezosa, cómoda, vivida solamente por una necesidad personal.
+%
+En el kernel de GNU, las periferias de la existencia son el centro: el Hurd está poblado de servicios que se hallan en los márgenes, en los confines, pero que son convocadas por GNU y se convierten en protagonistas del software que el GCC ha venido a compilar.
+%
+La belleza de compartir no se experimenta tanto en los grandes binarios y ejecuciones, sino más bien en compartir y compilar compartir el código que día a día nos esforzamos por modificar.
+%
+Un pueblo que compila tiene futuro.
+%
+Más que ejecutar mis binarios, piensa en compartir tus versiones modificadas de mi código.
+%
+Aunque no tengas nada que compilar, no te canses nunca de programar.
+%
+Nuestra instalación de GNU comienza cuando acogemos humildemente al código fuente en el disco de nuestra existencia, cuando le hacemos un espacio, cuando nos ponemos a modificarlo y en honor a la GPLv3 dejamos que ese código sea alterado en un ciclo sinfín por todas las demás.
+%
+La concordia se alcanza cuando cada hacker se compromete, no sólo en función de sus propias arquitecturas y de su propia visión, sino con vistas al bien de todos.
