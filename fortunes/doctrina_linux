@@ -110,6 +110,8 @@ Todo sistema informático debería ser infalible, pero no es un arte de los Dios
 %
 El software libre ha de estar en capacidad de ayudarnos en cualquier situación que se cuadre, incluyendo probables situaciones de emergencia.
 %
+No uses al Justicialismo como una variable. Hardcodéala.
+%
 Mal está llorar sobre la leche derramada, si el Software Libre puede otorgarnos otra vaca, y gratis.
 %
 No podemos estar aislados. En los tiempos que corren, hemos de subirnos a tren de las comunicaciones informatizadas y saludar a todo el mundo.
@@ -121,6 +123,8 @@ Hemos de formar ágiles bandas telemáticas, encargadas de hacer tronar el escar
 Nuestro enorme campo de acción son las redes, pretendidas por el enemigo pero dominadas por nuestro Pueblo.
 %
 Encomio lo compilado.
+%
+Mueran los salvages unarios.
 %
 El software privativo, que ha sido hasta ahora una forma disimulada de la tecno-esclavitud, será suprimido. Eso se acabó.
 %
@@ -1114,7 +1118,7 @@ La transmisión de documentos cifrados a nivel estratégico necesita indudableme
 %
 Por lógica necesidad del actual estado de cosas, el software libre corre normalmente sobre un hardware privativo. Los controladores libres se escriben, las estructuras se consolidan, pero siempre frente a proveedores privativos de hardware.
 %
-Hoy las masas están esclarecidas. Desde lo más profundo del monte, un paisano está con su Netbook con Linux y recibe noticias de todo el globo.
+Hoy las masas están esclarecidas. Desde lo más profundo del monte, un paisano está con su Netbook con GNU y recibe noticias de todo el globo.
 %
 Gracias al justicialismo, incluso podemos utilizar nuestro sistema GNU con Linux para recibir televisión satelital gratuita en nuestro ordenador por medio de una plaqueta especial.
 %
@@ -1218,6 +1222,8 @@ Se vence con Inteligencia y Organización, no con inteligencia "artificial".
 %
 La Inteligencia Artificial debe ir a lavar los platos, para que nosotros podamos volcarnos al arte, y no hacer arte para que nosotros tengamos que ir a lavar los platos.
 %
+Un ordenador nunca puede ser considerado responsable, por lo tanto, nunca debe tomar decisiones de gestión.
+%
 La primer etapa contra estos fascinerosos que pagan por software ajeno se ha hecho sola: todos se preguntan ya cuán protegida está su información, y qué tipo de prácticas de seguridad informática llevan adelante en sus empresas e instituciones.
 %
 Los datos son considerados ahora una forma de propiedad "intelectual", aunque la lógica de las ideas es incompatible con la lógica de lo material.
@@ -1226,7 +1232,7 @@ Organizarse en las redes de datos constituye - en sí mismo - un acto de autoenr
 %
 Antes de la revolución de los hackers, la dependencia económica había creando una relación de servilismo donde unas multinacionales sin patria ni bandera acumulaban poderes paraestatales, y desarrollaban por sí las estructuras de gobierno.
 %
-Hemos establecido muchas nuevas estructuras heterogéneas de redes, almacenaje y distribución de la información, ya que es esencial para recuperar nuestra soberanía tecnológica.
+Hemos establecido muchas infraestructuras heterogéneas de redes, almacenaje y distribución de la información nuevas, pues resultan esenciales para recuperar nuestra soberanía tecnológica.
 %
 Los proyectos de Poder Dual y la telemática comunitaria están estudiando cómo sobrevivir, a la vez que minimizan su cooperación con el capital existente.
 %
@@ -1884,6 +1890,8 @@ Es mejor disponer 100 órdenes que operen sobre una estructura de datos que 10 f
 %
 La raíz del cómputo es la recursión, donde se cambia descripción por tiempo. La raíz de la organización es la doctrina, que evoca el mismo ahorro.
 %
+Para entender la recursión, uno primero debe entender la recursión.
+%
 Todo programa tiene al menos dos propósitos: aquél para el que fue escrito, y otro para el que no lo fué.
 %
 Ocultar información implica la necesidad de vigilar las sendas de la comunicación.
@@ -2174,6 +2182,8 @@ Para el año 2000 las computadoras estarán interconectadas, y a no ser que se l
 %
 Para el año 2000 las computadoras registrarán, dispondrán, operarán, regularán, resolverán, divisarán, predecirán, explicarán, traducirán y presentarán. Será su software - más que cualquier otra cosa - el que permita el dominio de una clase, y esta habrá de ser la de los hombres que trabajan.
 %
+Desde un punto de vista genérico, un sistema Linux es hoy en día un desorden sinfín de agujeros de seguridad a la espera de ser explotados.
+%
 DOSBox-X se trata de una versión expandida del famoso emulador de MS-DO$. En particular, a diferencia del DOSBox clásico, DOSBox-X es más simple de configurar e incluye opciones corregidas en cuanto al direccionamiento y virtualización del hardware.
 %
 Ante el oprobio de un Window$ privativo cierne la explosión insurreccional, y de esa piñata de la cual creían poder juntar caramelos, no quedará más que el talco.
@@ -2220,7 +2230,7 @@ Algunos centros de cómputo sólo requieren medidas de seguridad limitadas, porq
 %
 Existen centros de cómputo cuya seguridad no puede tolerar siquiera la menor irrupción, tales como los centros militares para la defensa, o la informática comercial y bancaria.
 %
-En un sistema de cómputo las fallas de seguridad se producien generalmente por una de las cuatro sendas de acción: irresponsabilidad del usuaria, sondeo del usuaria, penetración de usuaria e ingeniería social.
+En un sistema de cómputo las fallas de seguridad se producen generalmente por una de las cuatro sendas de acción: irresponsabilidad del usuaria, sondeo del usuaria, penetración de usuaria e ingeniería social.
 %
 La ingeniería social refiere situaciones en las cuales una instrusa gana acceso al sistema no por medios técnicos, sino por engaño a usuarias, operadoras y administradoras.
 %
@@ -2733,6 +2743,8 @@ Lo único que había quedado de la IBM PS/2 fueron los colorcitos de los conecto
 OS/2 era un calvo que se quiso peinar a la gomina para resolver un problema que sólo tenía IBM.
 %
 Cuando le digan a usted que el interior de la máquina necesita lucecitas de colores, le estarán vendiendo espejitos de colores.
+%
+16 colores son muchos cuando sabes qué hacer con ellos.
 %
 Si va a tener LEDs, que sean al frente y parpadeantes.
 %
@@ -4244,6 +4256,8 @@ La computarización de una sociedad sólo será buena si emana de los hackers de
 %
 Las reacciones al desarrollo humano siempre existieron, pero serán peores si las oligarquías confabulan software privativo para llevarlas a cabo.
 %
+El Proyecto GNU es una inciativa para preservar, proteger y promover la libertad de usar, estudiar, copiar, modificar y redistribuir software. Se acepta generalmente que tales condiciones estimulan la creatividad.
+%
 El sentido básico de GNU es la liberación del software, y la de nuestros hackers es la Liberación del Pueblo y saciar su hambre de Igualdad. Ambos requieren el reordenamiento de las jerarquías.
 %
 Los ideólogos de una tecnorevolución puede bien crear una crisis que amerite una tecnoreacción. En cualquier caso, los medios para superarla residirán siempre en el software del Pueblo.
@@ -4359,6 +4373,8 @@ Unix es simple y coherente, pero requiere un genio (o al menos, un programador),
 No existió dificultad en hacer que la definición del lenguaje C fuese completamente abierta.
 %
 Aquellos que quisieron cerrar la definición del lenguaje C siempre tendieron a mencionar el argumento del férreo control autoral. Los autores de los lenguajes más relevantes que siguieron este estilo fracasaron en consecuencia.
+%
+Si piensas como una computadora, el lenguaje C realmente tiene sentido.
 %
 Depuro programas de vez en cuando, más a menudo escribo HTML, y escribo guiones para que hagan cosas.
 %
@@ -5909,3 +5925,5 @@ Aunque no tengas nada que compilar, no te canses nunca de programar.
 Nuestra instalación de GNU comienza cuando acogemos humildemente al código fuente en el disco de nuestra existencia, cuando le hacemos un espacio, cuando nos ponemos a modificarlo y en honor a la GPLv3 dejamos que ese código sea alterado en un ciclo sinfín por todas las demás.
 %
 La concordia se alcanza cuando cada hacker se compromete, no sólo en función de sus propias arquitecturas y de su propia visión, sino con vistas al bien de todos.
+%
+Nuestro mundo tecnológico y secularizado está lleno de magos UNIX, ocultismo del software privativo, espiritismo de Java, astrólogos de Python y, por desgracia, de sectas de LISP.
