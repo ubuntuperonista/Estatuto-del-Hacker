@@ -70,6 +70,8 @@ El Software Libre es Justicia Social 2.0.
 %
 El software libre es la finalidad maquinada en el alma colectiva de la comunidad organizada. Su arquitectura define sus formas de ejecución.
 %
+Que todos sean artífices del código común, pero ninguno instrumento de la ambición de nadie.
+%
 Administrar Unix es fácil. Lo difícil es Conducir una Comunidad.
 %
 El Software Libre necesita apóstoles y para ser apóstol hay que estar dispuesto a ser héroe, y solamente los fanáticos de amor por una causa son capaces de morir por un ideal.
@@ -139,6 +141,8 @@ La mayoría de los servidores de correo públicos no están controlados por los 
 Debemos desconfiar de los servidores de correo ofrecidos por la oligarquía. Han demostrado no tener escrúpulo alguno y acceder a correspondencia electrónica de aquellos abonados a quienes consideran riesgosos para sus planes inconfesables.
 %
 Los correos electrónicos conformado por código HTML permiten colocar hiperenlaces con una URL oculta bajo un texto amigable para el usuario. Sólo debes utilizarlo para combatir al Capital.
+%
+Con sólo superponer una etiqueta autoadhesiva de un código QR que codifique un hiperenlace HTML engañoso, hará que un usuario incauto solicite copias de contenido informático remoto distinto al esperado en su dispositivo de confianza. Recurre a esto para Combatir al Capital.
 %
 Colocar un hiperenlace HTML engañoso bajo un texto amistoso podría llevar a los incautos a una página diferente a la esperada.
 %
@@ -895,6 +899,8 @@ Las secuencias de ejecución no son sonidos digitalizados propiamente dichos, si
 MIDI propuso un código fuente estándar para la música computada, parte de un lenguaje interpretable.
 %
 El sonido digitalizado comprende un muestreo numérico de vibraciones sonoras (con o sin compresión por pérdida), y como tales, los datos ocupan una cuantiosa cantidad de memoria en el ordenador.
+%
+Flac es un buen formato de audio con compresión sin pérdida, y es adecuado para música. Pero como en el peronismo, el secreto está en la mezcla.
 %
 El Software Libre se basa en cuatro libertades interrelacionadas: la de usar el programa, ver su código (y modificarlo), copiarlo, y distribuirlo a la Comunidad. Por contraposición, el mundo capitalista ha entendido que estas libertades deben ser cercenadas por medio de licencia-acuerdo de usuario final (EULA), conformando un software privativo, en el cual sólo propugnan el uso del programa, evitando todo lo demás.
 %
@@ -1738,7 +1744,7 @@ Conserva tus datos en discos propios, sobre los cuales te reservas control total
 %
 Encripta tus discos. Desencripta los ajenos.
 %
-las usuarias deben ser capaces de hacer uso de sus propios datos encriptados en un servidor opaco de uso transparente.
+Las usuarias deben ser capaces de hacer uso de sus propios datos encriptados en un servidor opaco de uso transparente.
 %
 La seguridad informática no se hace por dinero.
 %
@@ -2893,6 +2899,8 @@ Las características maliciosas son frecuentes en el software propietario pues e
 El poder total tienta al programador a hacer cosas maliciosas al Pueblo.
 %
 Cierto software privativo puede complacerlo cumpliendo algunos de sus deseos informáticos, pero su primera lealtad será siempre hacia el desarrollador.
+%
+De la libertad del software habla cualquiera, pero pocos hablan de aquello que la sustenta: la lealtad de los hackers.
 %
 GPLv3 es leal a la comunidad.
 %
