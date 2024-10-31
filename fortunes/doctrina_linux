@@ -134,6 +134,8 @@ Si el oligarca no puede pagar los metadatos, deberá vender su centro de datos.
 %
 La máquina, el servidor, el centro de datos y cualquier establecimiento que se encuentre fuera de las leyes del trabajo, no pueden gozar de ninguno de los beneficios que concede el Estado. Hay que tratados como enemigos sociales.
 %
+El código es más poderoso que las leyes.
+%
 La infraestructura de correo electrónico que se utiliza en todo el mundo es, por diseño, insegura.
 %
 La mayoría de los servidores de correo públicos no están controlados por los destinatarios, sino que son ofrecidos por proveedores de Internet de la oligarquía.
@@ -236,7 +238,7 @@ Hubo uno que hasta tuvo que hacer milagros para que lo siguieran doce. Compiland
 %
 Un hacker usa la CPU función del Pueblo.
 %
-Existen especialidad dentro del hacking de computadoras. Un hacker de algoritmos conoce el mejor algoritmo para un problema. UN hacker de sistema conoce del diseño y mantenimiento de sistemas operativos. Y un hacker de contraseñas sabe cómo descubrir la contraseña de alguien más.
+Existen especialidad dentro del hacking de computadoras. Un hacker de algoritmos conoce el mejor algoritmo para un problema. Un hacker de sistema conoce del diseño y mantenimiento de sistemas operativos. Y un hacker de contraseñas sabe cómo descubrir la contraseña de alguien más.
 %
 De la calidad del kernel depende la calidad de las aplicaciones.
 %
@@ -367,6 +369,16 @@ Un usuario bisoño chocará con la necesidad de dominar fluidas relaciones de fu
 Por principio nodal, lo natural tiende representar un equilibrio de fuerzas, y la acción mas difícil es la que nos requiere destruir tal equilibrio. Pero dejen que alguien tenga que pagar un paquete de software y verán como se inicia el desequilibrio automáticamente: la víscera más sensible es el bolsillo.
 %
 Yo no soy partidario de empezar a programar en grande para, muchas veces, terminar en un programa mórbido; vale más seguir la senda de la programación de las pequeñas cosas que, con el tiempo, se hacen grandes, se consolidan y se hacen fuertes.
+%
+En programación hay ocasiones en las que la flexibilidad y la libertad de acción se traducen en tragedia, peor incluso que la del célebre burro que, puesto ante dos montones de heno, murió de hambre por no saber por cual decidirse.
+%
+En el caso del sofware, más que dilemas, se debería hablar de multidilemas (dilemas súper ramificados). Pero en caso del software libre todos estos se simplifican y sintetizan a uno solo: el de la lucha contra las ciber-oligarquías.
+%
+La idea de partida, ésa que puede llgar mediante la intuición creativa, por obra y gracia de la meditación trascendental, o por cualquier otro medio por raro que pueda parecernos, se llama "algoritmo".
+%
+Un algoritmo es un conjunto de reglas o formas de actuar para la resolución de un problema.
+%
+El problema de la liberación del software está ligado de manera indisoluble con el de la Justicia Social, el de la soberanía política y de la independencia económica del Tercer Mundo, y la distensión y la cooperación internacional.
 %
 A un pato se lo caza con llamador; unos graznidos realizados con este instrumento cerca de una laguna harán cureosear a una de estas aves y ahí hay que atizarla. Instalar software libre también hace lo procedente, y con uno que hable usted capturará dos o tres zonzos.
 %
@@ -603,6 +615,8 @@ El código fuente se introducía directamente en la máquina, y el esfuerzo requ
 Ya no podemos darnos el lujo de admitir redes de datos formalmente inertes, pero que en la práctica forman el modelo de expresión monopólico y oligárquico por antonomasia.
 %
 Las redes sociales basadas en empresas y sus viejos dirigentes, carecen ya del margen de maniobra necesario para nacer o reconstituirse en un medio de comunicación democrático.
+%
+En las redes sociales basadas en empresas, el discurso suele descender al nivel de diatribas, de ataques personales, en lugar de un debate sustancial.
 %
 Frente al aniquilamiento de la neutralidad en la red, parecería no quedarle a nuestro Pueblo más opción que esperar una implosión sistémica que permita barajar y dar de nuevo.
 %
@@ -954,6 +968,10 @@ Si desea ser útil, todo hacker debe portar un pendrive booteable con GNU.
 %
 Un disco rígido equivale a las semillas, cartuchos y papel. Por alquimia de GNU se convertirá en arado, fusil y panfletos.
 %
+La computadora es, fue y será un arma.
+%
+La computadora puede utilizarse para otros fines, pero debe promovérsela como un instrumento de liberación.
+%
 Un SysAdmin prevarico puede provocar una actitud de resistencia de los usuarios a correr software privativo. Ellos desencadenarán un brote de instalación de GNU, al que sólo requerirá un puerto dominado para expandirlo en la LAN.
 %
 Los hackers pueden atacar inorgánicamente sobre la infraestructura centralizada del enemigo. Esto se llama Denegación de Servicio.
@@ -1010,11 +1028,17 @@ Entre admins no se pagan instalaciones.
 %
 En GNU todo puede hacerse a través de la terminal o de entornos gráficos. Emplear una terminal de texto, sin embargo, nos permite indicar rápidamente los temperamentos evitando errores y omitiendo engorrosas descripciones de procedimientos gráficos.
 %
+Leer texto en un terminal monocromático ámbar me recuerda a leer la Biblia de Gutemberg iluminada.
+%
 En lugar de un sistema operativo propiamente dicho, Micro$oft Window$ se ha constituido en poco más que un malware privativo.
 %
 Nada de contradictorio tiene el software libre con nuestro movimiento, en tanto el software libre no es otra cosa que la Justicia Social llevada al campo informático, y como tal, será un nuevo y relevante campo de batalla donde el objetivo es Combatir al Capital.
 %
 Contará con todo nuestro software, el que se comparte de forma gratuita y libre para que usted lo use, modifique, cree sus propias versiones derivadas, y todo mientras controla su computación de una manera en la que ninguno de los sistemas operativos que intenta propugnar la oligarquía podrá hacerlo jamás.
+%
+El software es un arte que es amistad si se lo comparte en forma de código, es producto si se lo vende en forma de binario, y es cadena si se lo obsequia en forma de binario.
+%
+El software es un arte, pero también se puede aprender; para las personas con fuerzas de voluntad se trata de un desafío excitante y estimulante.
 %
 Al mejor hacker se le quema el rígido.
 %
@@ -1091,6 +1115,8 @@ Estos sistemas operativos similares a Unix suelen contar con un programa capaz d
 GRUB_INIT_TUNE="900 523 4 415 2 370 2 523 4 415 2 370 2 523 4 415 4 523 4 415 2 349 2 523 4 414 2 349 2 466 4 392 4 466 4 392 2 329 2 466 4 392 2 329 2 466 4 392 4 554 4 554 2 554 2 554 4 523 2 466 2 523 4 554 2 523 2 466 2 523 2 554 2 523 2 466 2 523 4"
 %
 El acceso a las redes de datos fomentado desde un Estado Fuerte es una potente herramienta para promover la igualdad, logrando establecer un "piso" de conexionado digital de alta calidad al alcance de todo el Pueblo.
+%
+Si los únicos individuos con accceso a las redes de datos son aquellos que representan a las cíber-oligarquías, estas carecerán de representación de los puntos de vista de Pueblo, y por lo tanto no serán lo suficientemente inclusivas.
 %
 Todo organismo biológico cumple un ciclo vital marcado por una constante transformación. Ha de crecer, madurar, y si pretende permanecer como especie, ha de generar nuevas versiones de si mismo en su descendencia. Una distribución Linux responde al mismo precepto.
 %
@@ -3179,6 +3205,8 @@ El agradecimiento es la memoria del corazón. La caché lo es de la CPU.
 %
 Para conducir al Pueblo, compila para el Pueblo.
 %
+Tratar de conducir una organización mediante listas de correo electrónico es muy diferente a tratar de mantener un debate en USENET.
+%
 Con buenos lenguajes se puede programar, pero para engrandecerse, ha de compilarse para el Pueblo.
 %
 Deja de pensar y programa software libre.
@@ -3962,7 +3990,7 @@ Una mujer con software puede controlar a cien mil hombres sin él.
 %
 La mejor manera de controlar a Micro$oft es conducirla a través de nuestro propio software.
 %
-Es el establecimiento de un repositorio de software libre representa el 90% de del trabajo de Liberación.
+Es el establecimiento de un repositorio de software libre lo que representa el 90% de del trabajo de Liberación.
 %
 No estamos programando suficientes microkernels.
 %
@@ -4070,7 +4098,7 @@ La próxima generación de alelados abrevarán en las redes sociales basadas en 
 %
 El objetivo es que las redes sociales basadas en empresas tengan cada vez mayor dificultad para influir sobre los incautos.
 %
-Irrumpe en los sistemas con fines de lucro, y reprográmalos para volverlos sin fin de lucro.
+Irrumpe en los sistemas con fines de lucro, y reprográmalos para incapacitar su lucro.
 %
 Toda orden impuesta a la shell está sujeta a su maquinal interpretación.
 %
@@ -4466,6 +4494,8 @@ La afiliación puede ser mucho más efímera en el ciberespacio porque puedes ll
 %
 El ataque más insidioso a nuestro derecho a un grado razonable de privacidad en las redes podría provenir no de una dictadura política sino del mercado.
 %
+Atender la creciente demanda de servicios de red por parte del Pueblo requiere fuertes regulaciones de un Estado capaz de actuar en todos los niveles en pos de la Justicia Social.
+%
 Las tecnologías actuales permiten más sutilezas a la vigilancia tecnológica de las que Orwell podría haber previsto.
 %
 Si los manipuladores totalitarios de tecnologías realmente logran dominar en el futuro, no habrán comenzado con policía secreta derribando puertas, sino permitiendo vender por intermedio de aplicaciones que dominan, comerciando información sobre las transacciones, e ilegalizando medidas que el Pueblo podría utilizar para protegerse.
@@ -4620,6 +4650,12 @@ La columna vertebral de datos utiliza líneas de telecomunicaciones especiales y
 %
 La Red interpreta la censura como daño y sigue la senda de evitarla.
 %
+En las comunidades mediadas por el cómputo existe una gran tradición por la libertad de expresión, y censurar mensajes públicos o incluso prohibir la publicación de un mensaje por contenido molesto u ofensivo se considera inaceptable.
+%
+Las comunidades mediadas por el cómputo han desarrollado prácticas que se apoyan más en un sentido compartido e internalizado de comportamientos apropiados en línea, que en la censura telemática.
+%
+No existe autoridad legal internacional alguna que proteja la libertad de expresión en las redes de datos transnacionales.
+%
 La red de datos es una apropiación popular de una tecnología diseñada originalmente como escudo ante un arma apocalíptica.
 %
 Cada BBS comenzó como una pequeña comunidad isleña de unas pocas personas que discaban un número en su código de área.
@@ -4742,6 +4778,8 @@ Ahora que segmentos cada vez más amplios del Pueblo recurren a los recursos de 
 %
 Las herramientas que los hackers del Pueblo programaron para hablar entre sí son perfectamente soportadas por los mecanismos de la red.
 %
+Si bien el trabajo colaborativo en red puede atenderse perfectamente en GNU, siempre se necesitarán nuevos y diferentes tipos de herramientas libres.
+%
 Puedes solicitar a distancia una copia de los aforismos biográficos que más interesan a los compañeros de un Pubnix mediante el comando FINGER.
 %
 Si encuentras un compañero que está en línea en su pubnix al mismo tiempo que usted, puedrás chatear en tiempo real por medio de WRITE.
@@ -4755,6 +4793,10 @@ La esencia de la comunicación mediada por ordenador como forma de expresión hu
 La idea del conferenciado telemático emanó de la implantación de las primeras herramientas de pensamiento basadas en ordenador.
 %
 La primer aplicación importante producida en el ámbito de la comunicación de masas a masas, fue instrumentar un pensamiento de unión para la Liberación. Las redes de computadoras así orientadas sólo pueden acelerarla.
+%
+Las redes de computadoras sólo pueden desarrollar plenamente su potencial como medios de comunicación innovadores en un entorno que fomente la expresión libre y abierta.
+%
+Las redes de computadora acabarán por volverse omnipresentes en todo el globo, pero en los países del Tercer Mundo sólo lo serán en última instancia.
 %
 Los hackers del Tercer Mundo valoran los autómatas ofensivos en red basados en software libre. Les dan privilegios.
 %
@@ -5016,6 +5058,8 @@ Los bancos de datos públicos han de regir la previsión y la planificación nac
 %
 La creación, difusión y regulación del acceso a estos bancos de datos esconde un problema de carácter político.
 %
+La sobrecarga de información es también un problema a resolver.
+%
 Información y participación avanzan juntas.
 %
 La información descentralizada no debe ser utilizada para basar la decisión de Conducción central. Sin embargo, puede utilizarse para destruir organizaciones.
@@ -5123,6 +5167,8 @@ La sociedad del automóvil no se edificó únicamente sobre el desarrollo de los
 Los costos de las telecomunicaciones a través de llamadas de larga distancia por módem son prohibitivos. Los gobernos del mundo han de apoyar redes de paquetes conmutados, y unificarlas.
 %
 Tiene sentido que las comunicaciones mediadas por cómputo permitan la conexión de masas a masas, superando así algunos conflictos propios de las nacionalidades.
+%
+Creemos en el potencial de las redes de computadoras para mejorar los valores democráticos de apertura, diversidad e innovación.
 %
 Una de las respuestas a la diversidad es la traducción. En la informática la diversidad del hardware puede responderse con la misma técnica: la emulación.
 %
@@ -5552,7 +5598,7 @@ No sólo la seguridad, sino también la justicia informática debe divulgarse. P
 %
 Vi$ual $tudio demanda tres cosas: el compilador, la CPU y el hacker.
 %
-Quien compile un kernel, puede compilar un Hola Tercer Mundo.
+Quien compila un kernel, puede compilar un Hola Tercer Mundo.
 %
 Si quieres aprender a compilar, loguéate a un Pubnix.
 %
@@ -5828,6 +5874,8 @@ Entre el momento en que el programa de combate telemático comienza a ejecutarse
 %
 Un hacker impulsivo que no comprenda la necesidad de modificar su programa o no quiera hacerlo, chocará inevitablemente contra el muro de la obsolescencia.
 %
+Un hacker del Tercer Mundo es aquél que ayuda a lograr el potencial de las redes de computadoras para la Comunidad Organizada en su conjunto.
+%
 Un hacker del Tercer Mundo - si estudia con modestia - llegará a conocer perfectamente las características de sus sistemas operativos (la suma de los factores representados por los comandos, los programas, sus tendidos, su hardware, etcétera), aquellos de las ciber-oligarquías, y todas las demás condiciones relativas a la guerra telemática.
 %
 Los hackers del Tercer Mundo han llegado a conocer la situación del Pueblo y la de las ciber-oligarquías, descubriendo los postulados de la acción telemática al resolver la contradicción entre lo objetivo de la realidad del Mundo y lo subjetivo de su apreciación.
@@ -5954,7 +6002,7 @@ Rutinariamente, cada vez que se genera nueva información o metadato, este es re
 %
 Tus rastros digitales ofrecen a quienes tienen acceso a ellos una perspectiva muy detallada de quién eres (o cómo te presentas), lo que te gusta, lo que sabes, lo que haces, tus hábitos diarios, tus afiliaciones, organizaciones, y tus interacciones con los demás.
 %
-En las redes sociales basadas en empresas, los metadatos constituyen rastros digitales casi siempre creados de forma pasiva, sin que te des cuenta necesariamente, o sin que lo consientas.
+En las redes sociales basadas en empresas, los metadatos constituyen rastros digitales casi siempre creados de forma pasiva, sin que necesariamente usted caiga en cuenta, o siquiera lo consienta.
 %
 En las redes sociales basadas en empresas, tus hábitos de navegación y dirección IP son compartidas entre los sitios web que visitas y los servicios que utilizas, a fin de trazar tu comportamiento por seguimiento e inferencia digital. En base a estos rastros digitales, se te presentará publicidad vectorizada algorítmicamente de productos y servicios.
 %
