@@ -95,6 +95,9 @@ El Software Libre es Justicia Social 2.0.
 El software libre es la finalidad maquinada en el alma colectiva de la
 comunidad organizada. Su arquitectura define sus formas de ejecución.
 %
+Que todos sean artífices del código común, pero ninguno instrumento de
+la ambición de nadie.
+%
 Administrar Unix es fácil. Lo difícil es Conducir una Comunidad.
 %
 El Software Libre necesita apóstoles y para ser apóstol hay que estar
@@ -193,6 +196,8 @@ que se encuentre fuera de las leyes del trabajo, no pueden gozar de
 ninguno de los beneficios que concede el Estado. Hay que tratados como
 enemigos sociales.
 %
+El código es más poderoso que las leyes.
+%
 La infraestructura de correo electrónico que se utiliza en todo el mundo
 es, por diseño, insegura.
 %
@@ -208,6 +213,11 @@ riesgosos para sus planes inconfesables.
 Los correos electrónicos conformado por código HTML permiten colocar
 hiperenlaces con una URL oculta bajo un texto amigable para el usuario.
 Sólo debes utilizarlo para combatir al Capital.
+%
+Con sólo superponer una etiqueta autoadhesiva de un código QR que
+codifique un hiperenlace HTML engañoso, hará que un usuario incauto
+solicite copias de contenido informático remoto distinto al esperado en
+su dispositivo de confianza. Recurre a esto para Combatir al Capital.
 %
 Colocar un hiperenlace HTML engañoso bajo un texto amistoso podría
 llevar a los incautos a una página diferente a la esperada.
@@ -378,7 +388,7 @@ Compilando este Kernel ya me siguen millones.
 Un hacker usa la CPU función del Pueblo.
 %
 Existen especialidad dentro del hacking de computadoras. Un hacker de
-algoritmos conoce el mejor algoritmo para un problema. UN hacker de
+algoritmos conoce el mejor algoritmo para un problema. Un hacker de
 sistema conoce del diseño y mantenimiento de sistemas operativos. Y un
 hacker de contraseñas sabe cómo descubrir la contraseña de alguien más.
 %
@@ -597,6 +607,28 @@ Yo no soy partidario de empezar a programar en grande para, muchas
 veces, terminar en un programa mórbido; vale más seguir la senda de la
 programación de las pequeñas cosas que, con el tiempo, se hacen grandes,
 se consolidan y se hacen fuertes.
+%
+En programación hay ocasiones en las que la flexibilidad y la libertad
+de acción se traducen en tragedia, peor incluso que la del célebre burro
+que, puesto ante dos montones de heno, murió de hambre por no saber por
+cual decidirse.
+%
+En el caso del sofware, más que dilemas, se debería hablar de
+multidilemas (dilemas súper ramificados). Pero en caso del software
+libre todos estos se simplifican y sintetizan a uno solo: el de la lucha
+contra las ciber-oligarquías.
+%
+La idea de partida, ésa que puede llgar mediante la intuición creativa,
+por obra y gracia de la meditación trascendental, o por cualquier otro
+medio por raro que pueda parecernos, se llama "algoritmo".
+%
+Un algoritmo es un conjunto de reglas o formas de actuar para la
+resolución de un problema.
+%
+El problema de la liberación del software está ligado de manera
+indisoluble con el de la Justicia Social, el de la soberanía política y
+de la independencia económica del Tercer Mundo, y la distensión y la
+cooperación internacional.
 %
 A un pato se lo caza con llamador; unos graznidos realizados con este
 instrumento cerca de una laguna harán cureosear a una de estas aves y
@@ -1041,6 +1073,10 @@ Las redes sociales basadas en empresas y sus viejos dirigentes, carecen
 ya del margen de maniobra necesario para nacer o reconstituirse en un
 medio de comunicación democrático.
 %
+En las redes sociales basadas en empresas, el discurso suele descender
+al nivel de diatribas, de ataques personales, en lugar de un debate
+sustancial.
+%
 Frente al aniquilamiento de la neutralidad en la red, parecería no
 quedarle a nuestro Pueblo más opción que esperar una implosión sistémica
 que permita barajar y dar de nuevo.
@@ -1474,11 +1510,10 @@ perniciosamente, y al contar con pésima política de programación,
 recargan al hardware con inútiles procesos que no son más que lastre en
 su constante búsqueda de alimentarse de ciclos de CPU.
 %
-Solamente la energía eléctrica requerida para poner en ejecución
-funciones no documentadas en los sistemas operativos de la Oligarquía
-(concebidas para el relevamiento de información privada del usuario)
-sería capaz para proveer luz eléctrica a cada habitante del África
-Subsahariana...
+Solamente la energía requerida para poner en ejecución funciones no
+documentadas en los sistemas operativos de la Oligarquía (concebidas
+para el relevamiento de información privada del usuario) sería capaz
+para proveer luz eléctrica a cada habitante del África Subsahariana...
 %
 Un Movimiento como el nuestro ha de preferir - siempre que sea posible -
 la integración de software libre desarrollado en nuestro terruño. Esta
@@ -1748,6 +1783,11 @@ GNU.
 Un disco rígido equivale a las semillas, cartuchos y papel. Por alquimia
 de GNU se convertirá en arado, fusil y panfletos.
 %
+La computadora es, fue y será un arma.
+%
+La computadora puede utilizarse para otros fines, pero debe promovérsela
+como un instrumento de liberación.
+%
 Un SysAdmin prevarico puede provocar una actitud de resistencia de los
 usuarios a correr software privativo. Ellos desencadenarán un brote de
 instalación de GNU, al que sólo requerirá un puerto dominado para
@@ -1855,6 +1895,9 @@ gráficos. Emplear una terminal de texto, sin embargo, nos permite
 indicar rápidamente los temperamentos evitando errores y omitiendo
 engorrosas descripciones de procedimientos gráficos.
 %
+Leer texto en un terminal monocromático ámbar me recuerda a leer la
+Biblia de Gutemberg iluminada.
+%
 En lugar de un sistema operativo propiamente dicho, Micro$oft Window$ se
 ha constituido en poco más que un malware privativo.
 %
@@ -1868,6 +1911,14 @@ y libre para que usted lo use, modifique, cree sus propias versiones
 derivadas, y todo mientras controla su computación de una manera en la
 que ninguno de los sistemas operativos que intenta propugnar la
 oligarquía podrá hacerlo jamás.
+%
+El software es un arte que es amistad si se lo comparte en forma de
+código, es producto si se lo vende en forma de binario, y es cadena si
+se lo obsequia en forma de binario.
+%
+El software es un arte, pero también se puede aprender; para las
+personas con fuerzas de voluntad se trata de un desafío excitante y
+estimulante.
 %
 Al mejor hacker se le quema el rígido.
 %
@@ -1996,6 +2047,11 @@ El acceso a las redes de datos fomentado desde un Estado Fuerte es una
 potente herramienta para promover la igualdad, logrando establecer un
 "piso" de conexionado digital de alta calidad al alcance de todo el
 Pueblo.
+%
+Si los únicos individuos con accceso a las redes de datos son aquellos
+que representan a las cíber-oligarquías, estas carecerán de
+representación de los puntos de vista de Pueblo, y por lo tanto no serán
+lo suficientemente inclusivas.
 %
 Todo organismo biológico cumple un ciclo vital marcado por una constante
 transformación. Ha de crecer, madurar, y si pretende permanecer como
@@ -3211,7 +3267,7 @@ control total y absoluto.
 %
 Encripta tus discos. Desencripta los ajenos.
 %
-las usuarias deben ser capaces de hacer uso de sus propios datos
+Las usuarias deben ser capaces de hacer uso de sus propios datos
 encriptados en un servidor opaco de uso transparente.
 %
 La seguridad informática no se hace por dinero.
@@ -5444,6 +5500,111 @@ datos.
 Con los bancos de datos de bibliotecas y museos conectados a sistemas
 informáticos es que puede alcanzarse el verdadero valor.
 %
+Nosotros los hackers hemos comprendido que el libre acceso a la
+información en línea es esencial para la libertad, la igualdad, el
+entendimiento mundial y la paz.
+%
+La libertad de acceso a la información, sin limitación de soportes ni
+fronteras, es una responsabilidad primordial de nuestro Movimiento.
+%
+El hecho de que las bibliotecas y los servicios de información en línea
+ofrezcan acceso irrestricto a Internet ayuda a las comunidades y
+personas a alcanzar cotas más altas de libertad, prosperidad y
+desarrollo.
+%
+Los obstáculos a la circulación de la información en línea, en especial
+los que den lugar a desigualdad, pobreza y desesperanza, deben
+suprimirse.
+%
+Las bibliotecas y los servicios de información son instituciones
+dinámicas que conectan a la gente con fuentes mundiales de información y
+con las ideas y obras de creación que desean encontrar.
+%
+Las bibliotecas y los servicios de información computarizados en línea
+ponen la riqueza de la expresión humana y la diversidad cultural a
+disposición de todos y en todo tipo de soportes.
+%
+Las bibliotecas y los servicios de información computarizados son vías
+de acceso fundamentales a Internet.
+%
+Existe quien encuentra en los servicios de información computarizados en
+línea orientación y ayuda, amén de un acceso práctico a la Red, y hay
+quien no tiene a su alcance ningún otro punto de acceso.
+%
+Los servicios de información computarizados en línea son un medio para
+salvar las barreras que erigen las diferencias en el nivel de recursos,
+tecnología y formación.
+%
+El acceso a Internet y a toda la información que vehicula debe estar en
+consonancia con la Declaración Universal de Derechos Humanos de las
+Naciones Unidas.
+%
+El acceso a los servicios de información computarizados no debe estar
+sujeto a ningún tipo de censura ideológica, política o religiosa, como
+tampoco a barreras económicas.
+%
+Las bibliotecas y los servicios de información computarizada en lpínea
+tienen la responsabilidad de atender a todos los miembros de su
+comunidad, sin discriminación alguna por motivos de edad, raza,
+nacionalidad, religión, cultura, filiación política, discapacidad física
+o de otra índole, sexo, orientación sexual o cualquier otra
+circunstancia.
+%
+Gracias a la dimensión mundial de Internet, personas y comunidades de
+todo el mundo, pueden acceder en igualdad de condiciones a la
+información que requieren.
+%
+El acceso a la información libre en línea permite profundizar en el
+desarrollo y aprendizaje, satisfacer la curiosidad de los Pueblos,
+enriquecer culturalmente, realizar actividades económicas o participar
+con conocimiento de causa en mecanismos democráticos.
+%
+Gracias a las redes de datos, cualquier persona puede exponer al mundo
+sus intereses, conocimientos y cultura para que los demás los conozcan.
+%
+Las bibliotecas y los servicios de información deben apoyar el derecho
+de los usuarios a buscar la información que deseen.
+%
+Las bibliotecas y los servicios de información deben respetar la
+privacidad de sus usuarios y reconocer el carácter confidencial de la
+información que utilicen.
+%
+Las bibliotecas y los servicios de información tienen la responsabilidad
+de facilitar y promover el acceso público a información y servicios de
+comunicación de calidad.
+%
+Los usuarios deben gozar de la asistencia técnica necesaria y de un
+entorno adecuado para utilizar, con toda libertad y discreción, las
+fuentes y los servicios de información que elijan.
+%
+En Internet hay una gran cantidad de material interesante, pero también
+hay información incorrecta, equívoca y a veces ofensiva.
+%
+Los bibliotecarios deben proporcionar a los usuarios de la biblioteca la
+información y los recursos necesarios para que aprendan a servirse de
+Internet y de la información electrónica con eficacia y eficiencia.
+%
+Los bibliotecarios deben tomar la iniciativa de promover y facilitar el
+acceso responsable de todos sus usuarios, comprendidos los niños y
+jóvenes, a información interconectada de calidad.
+%
+Al igual que otros servicios básicos, el acceso a Internet desde
+bibliotecas y servicios de información debe ser gratuito.
+%
+Nuestro Moivmiento secunda el progreso hacia una mayor accesibilidad a
+Internet en todo el mundo, y especialmente en los países del Tercer
+Mundo, para que todos puedan gozar así de los beneficios generales de la
+información que ofrece Internet.
+%
+Nuestro Movimiento desarrolla las infraestructuras nacionales de
+información necesarias para que toda la población del país tenga acceso
+a Internet.
+%
+Nuestro Movimiento apoya la libre circulación de información accesible
+por Internet por la vía de las bibliotecas y los servicios de
+información y a oponerse a cualquier tentativa de censurar o impedir el
+acceso.
+%
 Aunque M€ta mate al Metaver$o, matá al Metaver$o y tomáte un mate.
 %
 El chino entendió de paciencia al navegar en la web con un módem de 14,4
@@ -5541,6 +5702,9 @@ Una CPU que compila es fuerte, pero una mente que compila es poderosa.
 El agradecimiento es la memoria del corazón. La caché lo es de la CPU.
 %
 Para conducir al Pueblo, compila para el Pueblo.
+%
+Tratar de conducir una organización mediante listas de correo
+electrónico es muy diferente a tratar de mantener un debate en USENET.
 %
 Con buenos lenguajes se puede programar, pero para engrandecerse, ha de
 compilarse para el Pueblo.
@@ -6537,13 +6701,13 @@ Algunos lenguajes que llevan la cocarda de BASIC ya no son tan
 espantosos, habiendo adquirido procedimientos y estructuras de control
 similares a C y Pascal, y al haberse deshecho de sus números de línea.
 %
-El trabajo por lotes es eficiente, pero sólo si trabaja la máquina. Sin
-embargo, para trabajar en la máquina, normalmente los hombres preferirán
-la operatoria de ciclo interactivo.
+Obrar por lotes es eficiente, pero sólo si trabaja la máquina. Sin
+embargo, para trabajar en la máquina, los hombres normalmente preferirán
+operatorias de ciclo interactivo.
 %
 Hacemos programas, no ganancias.
 %
-Un baudio delimita un nivel de transiciones por segundo. Que este
+Un baudio delimita una tasa de transiciones por segundo. Que esta
 equivalga a un bit es sólo condicional al cómputo aplicado por mutuo
 acuerdo.
 %
@@ -6694,8 +6858,8 @@ Una mujer con software puede controlar a cien mil hombres sin él.
 La mejor manera de controlar a Micro$oft es conducirla a través de
 nuestro propio software.
 %
-Es el establecimiento de un repositorio de software libre representa el
-90% de del trabajo de Liberación.
+Es el establecimiento de un repositorio de software libre lo que
+representa el 90% de del trabajo de Liberación.
 %
 No estamos programando suficientes microkernels.
 %
@@ -6844,7 +7008,7 @@ El objetivo es que las redes sociales basadas en empresas tengan cada
 vez mayor dificultad para influir sobre los incautos.
 %
 Irrumpe en los sistemas con fines de lucro, y reprográmalos para
-volverlos sin fin de lucro.
+incapacitar su lucro.
 %
 Toda orden impuesta a la shell está sujeta a su maquinal interpretación.
 %
@@ -7248,7 +7412,7 @@ No soy un robot, pero deseo convertirme.
 %
 No soy un robot, soy un transformer.
 %
-No soy un robot, pero en el bar pido Bardhal.
+No soy un robot, pero en el bar pido Bardahl.
 %
 No soy un robot. Soy un RE bot.
 %
@@ -7487,6 +7651,10 @@ plano físico.
 El ataque más insidioso a nuestro derecho a un grado razonable de
 privacidad en las redes podría provenir no de una dictadura política
 sino del mercado.
+%
+Atender la creciente demanda de servicios de red por parte del Pueblo
+requiere fuertes regulaciones de un Estado capaz de actuar en todos los
+niveles en pos de la Justicia Social.
 %
 Las tecnologías actuales permiten más sutilezas a la vigilancia
 tecnológica de las que Orwell podría haber previsto.
@@ -7773,6 +7941,18 @@ información a muy alta velocidad.
 %
 La Red interpreta la censura como daño y sigue la senda de evitarla.
 %
+En las comunidades mediadas por el cómputo existe una gran tradición por
+la libertad de expresión, y censurar mensajes públicos o incluso
+prohibir la publicación de un mensaje por contenido molesto u ofensivo
+se considera inaceptable.
+%
+Las comunidades mediadas por el cómputo han desarrollado prácticas que
+se apoyan más en un sentido compartido e internalizado de
+comportamientos apropiados en línea, que en la censura telemática.
+%
+No existe autoridad legal internacional alguna que proteja la libertad
+de expresión en las redes de datos transnacionales.
+%
 La red de datos es una apropiación popular de una tecnología diseñada
 originalmente como escudo ante un arma apocalíptica.
 %
@@ -7997,6 +8177,10 @@ crímen.
 Las herramientas que los hackers del Pueblo programaron para hablar
 entre sí son perfectamente soportadas por los mecanismos de la red.
 %
+Si bien el trabajo colaborativo en red puede atenderse perfectamente en
+GNU, siempre se necesitarán nuevos y diferentes tipos de herramientas
+libres.
+%
 Puedes solicitar a distancia una copia de los aforismos biográficos que
 más interesan a los compañeros de un Pubnix mediante el comando FINGER.
 %
@@ -8021,6 +8205,14 @@ La primer aplicación importante producida en el ámbito de la
 comunicación de masas a masas, fue instrumentar un pensamiento de unión
 para la Liberación. Las redes de computadoras así orientadas sólo pueden
 acelerarla.
+%
+Las redes de computadoras sólo pueden desarrollar plenamente su
+potencial como medios de comunicación innovadores en un entorno que
+fomente la expresión libre y abierta.
+%
+Las redes de computadora acabarán por volverse omnipresentes en todo el
+globo, pero en los países del Tercer Mundo sólo lo serán en última
+instancia.
 %
 Los hackers del Tercer Mundo valoran los autómatas ofensivos en red
 basados en software libre. Les dan privilegios.
@@ -8392,6 +8584,8 @@ autoridades populares.
 La creación, difusión y regulación del acceso a estos bancos de datos
 esconde un problema de carácter político.
 %
+La sobrecarga de información es también un problema a resolver.
+%
 Información y participación avanzan juntas.
 %
 La información descentralizada no debe ser utilizada para basar la
@@ -8565,6 +8759,9 @@ apoyar redes de paquetes conmutados, y unificarlas.
 Tiene sentido que las comunicaciones mediadas por cómputo permitan la
 conexión de masas a masas, superando así algunos conflictos propios de
 las nacionalidades.
+%
+Creemos en el potencial de las redes de computadoras para mejorar los
+valores democráticos de apertura, diversidad e innovación.
 %
 Una de las respuestas a la diversidad es la traducción. En la
 informática la diversidad del hardware puede responderse con la misma
@@ -9221,9 +9418,9 @@ del Pueblo.
 El software privativo, por definición, sirve a un interés corporativo, y
 no al interés público.
 %
-Los cimientos de la Internet actual se hayan entrerrados en una larga
-historia de desarrolo abierto, libre intercambio de ideas, y niveles sin
-precedentes de cooperación intelectual.
+Los cimientos de la Internet actual se encuentran enterrados bajo una
+larga historia de desarrolo abierto, libre intercambio de ideas, y
+niveles sin precedentes de cooperación intelectual.
 %
 Los cimientos de una Internet abierta continúan resistiendo las
 tormentas de intereses corporativos desesperados por el lucro.
@@ -9268,7 +9465,7 @@ aquél que se loguee.
 %
 Vi$ual $tudio demanda tres cosas: el compilador, la CPU y el hacker.
 %
-Quien compile un kernel, puede compilar un Hola Tercer Mundo.
+Quien compila un kernel, puede compilar un Hola Tercer Mundo.
 %
 Si quieres aprender a compilar, loguéate a un Pubnix.
 %
@@ -9685,6 +9882,9 @@ Un hacker impulsivo que no comprenda la necesidad de modificar su
 programa o no quiera hacerlo, chocará inevitablemente contra el muro de
 la obsolescencia.
 %
+Un hacker del Tercer Mundo es aquél que ayuda a lograr el potencial de
+las redes de computadoras para la Comunidad Organizada en su conjunto.
+%
 Un hacker del Tercer Mundo - si estudia con modestia - llegará a conocer
 perfectamente las características de sus sistemas operativos (la suma de
 los factores representados por los comandos, los programas, sus
@@ -9921,8 +10121,8 @@ gusta, lo que sabes, lo que haces, tus hábitos diarios, tus
 afiliaciones, organizaciones, y tus interacciones con los demás.
 %
 En las redes sociales basadas en empresas, los metadatos constituyen
-rastros digitales casi siempre creados de forma pasiva, sin que te des
-cuenta necesariamente, o sin que lo consientas.
+rastros digitales casi siempre creados de forma pasiva, sin que
+necesariamente usted caiga en cuenta, o siquiera lo consienta.
 %
 En las redes sociales basadas en empresas, tus hábitos de navegación y
 dirección IP son compartidas entre los sitios web que visitas y los
@@ -10032,3 +10232,68 @@ El router es el mango de tu sartén telemática. Instálale un firmware
 libre.
 %
 Ten siempre la sartén telemática por el mango.
+%
+Tu contenido es tuyo.
+%
+Cuando publicas algo en la web, debe pertenecerte a tí, no a una
+corporación.
+%
+Demasiadas compañías de capital se han fundido y perdido los datos de
+todos sus usuarios.
+%
+Retén tu contenido en tus medios de almacenamiento, y estos bajo tu
+control.
+%
+Retén tu control informático.
+%
+Asegúrate que puedes postear todo lo que desees, en cualquier formato
+que desees, y que nadie te monitoree.
+%
+Comparte enlaces legibles simples, tales como misitioweb.com/ideas.
+Estos enlaces permanentes siempre funcionarán.
+%
+En las redes de datos, rechaza todo espacio claustrofóbicos, con
+barreras que impiden construir, poseer y controlar.
+%
+Escapa de todos aquellos vericuetos en la red tras los cuales sólo
+puedes consumir.
+%
+En los Pubnix tendrás mayor elección de tu público, o post privados y
+control de tu audiencia.
+%
+En los Pubnix tendrás la habilidad de corregir los enlaces URLS cuando
+se rompen o desaparecen.
+%
+En los Pubnix no tendrás anuncios externos en tu sitio sin tu permiso
+explícito.
+%
+En los Pubnix nadie te monetizará.
+%
+En los Pubnix no sufrirás censura de tu contenido.
+%
+En los Pubnix no tendrás términos de servicio que se apropien de tu
+trabajo sin notificarte para anuncios u otros usos.
+%
+En los Pubnix tendrás posesión y control de los enlaces afiliados para
+monetizar tu trabajo si lo deseas.
+%
+Cuando alguien visita tu sitio web personal, debería ser presentado con
+algunos proyectos pasados en lo que te has visto envuelto, o una corta
+biografía de lo que estás haciendo ahora.
+%
+Si trabajas en una profesión creativa tal como escribir o programar,
+puedes usar tu sitio web personal como un blog, donde compartes
+pensamientos sobre el mundo y tus aprendizajes.
+%
+Tu portfolio mostrará tus experiencias pasadas; tu blog mostrará lo que
+has aprendido en tus proyectos.
+%
+Tu sitio web es tu lugar en la Internet. Controlaraás su apariencia, qué
+incluye, y cómo está estructurado.
+%
+Un Pubnix puede ofrecer autonomía para tu sitio web personal.
+%
+Si has escrito algunos ensayos que quieres compartir con el mundo,
+puedes compartirlos en tu sitio web personal; si eres un fotógrafo en
+busca de crear un portfolio para exponer tu obra, puedes agregar tus
+fotos a un sitio federado.
