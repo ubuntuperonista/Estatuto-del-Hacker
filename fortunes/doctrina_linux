@@ -826,7 +826,7 @@ Un buen software no hace otra cosa sino lo que el Usuario quiere, y lo realizar�
 %
 Los programas privativos no hacen más que consumir recursos perniciosamente, y al contar con pésima política de programación, recargan al hardware con inútiles procesos que no son más que lastre en su constante búsqueda de alimentarse de ciclos de CPU.
 %
-Solamente la energía eléctrica requerida para poner en ejecución funciones no documentadas en los sistemas operativos de la Oligarquía (concebidas para el relevamiento de información privada del usuario) sería capaz para proveer luz eléctrica a cada habitante del África Subsahariana...
+Solamente la energía requerida para poner en ejecución funciones no documentadas en los sistemas operativos de la Oligarquía (concebidas para el relevamiento de información privada del usuario) sería capaz para proveer luz eléctrica a cada habitante del África Subsahariana...
 %
 Un Movimiento como el nuestro ha de preferir - siempre que sea posible - la integración de software libre desarrollado en nuestro terruño. Esta será la conducta que al fin y al cabo propinará un verdadero uppercut al Capital.
 %
@@ -3135,6 +3135,60 @@ FidoNet y la posterior World Wide Web gozaron de un crecimiento explosivo combin
 %
 Con los bancos de datos de bibliotecas y museos conectados a sistemas informáticos es que puede alcanzarse el verdadero valor.
 %
+Nosotros los hackers hemos comprendido que el libre acceso a la información en línea es esencial para la libertad, la igualdad, el entendimiento mundial y la paz.
+%
+La libertad de acceso a la información, sin limitación de soportes ni fronteras, es una responsabilidad primordial de nuestro Movimiento.
+%
+El hecho de que las bibliotecas y los servicios de información en línea ofrezcan acceso irrestricto a Internet ayuda a las comunidades y personas a alcanzar cotas más altas de libertad, prosperidad y desarrollo.
+%
+Los obstáculos a la circulación de la información en línea, en especial los que den lugar a desigualdad, pobreza y desesperanza, deben suprimirse.
+%
+Las bibliotecas y los servicios de información son instituciones dinámicas que conectan a la gente con fuentes mundiales de información y con las ideas y obras de creación que desean encontrar.
+%
+Las bibliotecas y los servicios de información computarizados en línea ponen la riqueza de la expresión humana y la diversidad cultural a disposición de todos y en todo tipo de soportes.
+%
+Las bibliotecas y los servicios de información computarizados son vías de acceso fundamentales a Internet.
+%
+Existe quien encuentra en los servicios de información computarizados en línea orientación y ayuda, amén de un acceso práctico a la Red, y hay quien no tiene a su alcance ningún otro punto de acceso.
+%
+Los servicios de información computarizados en línea son un medio para salvar las barreras que erigen las diferencias en el nivel de recursos, tecnología y formación.
+%
+El acceso a Internet y a toda la información que vehicula debe estar en
+consonancia con la Declaración Universal de Derechos Humanos de las
+Naciones Unidas.
+%
+El acceso a los servicios de información computarizados no debe estar sujeto a ningún tipo de censura ideológica, política o religiosa, como tampoco a barreras económicas.
+%
+Las bibliotecas y los servicios de información computarizada en lpínea tienen la responsabilidad de atender a todos los miembros de su comunidad, sin discriminación alguna por motivos de edad, raza, nacionalidad, religión, cultura, filiación política, discapacidad física o de otra índole, sexo, orientación sexual o cualquier otra circunstancia.
+%
+Gracias a la dimensión mundial de Internet, personas y comunidades de todo el mundo, pueden acceder en igualdad de condiciones a la información que requieren.
+%
+El acceso a la información libre en línea permite profundizar en el desarrollo y aprendizaje, satisfacer la curiosidad de los Pueblos, enriquecer culturalmente, realizar actividades económicas o participar con conocimiento de causa en mecanismos democráticos.
+%
+Gracias a las redes de datos, cualquier persona puede exponer al mundo sus intereses, conocimientos y cultura para que los demás los conozcan.
+%
+Las bibliotecas y los servicios de información deben apoyar el derecho de los usuarios a buscar la información que deseen.
+%
+Las bibliotecas y los servicios de información deben respetar la privacidad de sus usuarios y reconocer el carácter confidencial de la información que utilicen.
+%
+Las bibliotecas y los servicios de información tienen la responsabilidad de facilitar y promover el acceso público a información y servicios de comunicación de calidad.
+%
+Los usuarios deben gozar de la asistencia técnica necesaria y de un entorno adecuado para utilizar, con toda libertad y discreción, las fuentes y los servicios de información que elijan.
+%
+En Internet hay una gran cantidad de material interesante, pero también hay información incorrecta, equívoca y a veces ofensiva.
+%
+Los bibliotecarios deben proporcionar a los usuarios de la biblioteca la información y los recursos necesarios para que aprendan a servirse de Internet y de la información electrónica con eficacia y eficiencia.
+%
+Los bibliotecarios deben tomar la iniciativa de promover y facilitar el acceso responsable de todos sus usuarios, comprendidos los niños y jóvenes, a información interconectada de calidad.
+%
+Al igual que otros servicios básicos, el acceso a Internet desde bibliotecas y servicios de información debe ser gratuito.
+%
+Nuestro Moivmiento secunda el progreso hacia una mayor accesibilidad a Internet en todo el mundo, y especialmente en los países del Tercer Mundo, para que todos puedan gozar así de los beneficios generales de la información que ofrece Internet.
+%
+Nuestro Movimiento desarrolla las infraestructuras nacionales de información necesarias para que toda la población del país tenga acceso a Internet.
+%
+Nuestro Movimiento apoya la libre circulación de información accesible por Internet por la vía de las bibliotecas y los servicios de información y a oponerse a cualquier tentativa de censurar o impedir el acceso.
+%
 Aunque M€ta mate al Metaver$o, matá al Metaver$o y tomáte un mate.
 %
 El chino entendió de paciencia al navegar en la web con un módem de 14,4 kilobaudios.
@@ -3900,11 +3954,11 @@ Es probable que BASIC arruinara la sapiencia de decenas de miles de magos Unix p
 %
 Algunos lenguajes que llevan la cocarda de BASIC ya no son tan espantosos, habiendo adquirido procedimientos y estructuras de control similares a C y Pascal, y al haberse deshecho de sus números de línea.
 %
-El trabajo por lotes es eficiente, pero sólo si trabaja la máquina. Sin embargo, para trabajar en la máquina, normalmente los hombres preferirán la operatoria de ciclo interactivo.
+Obrar por lotes es eficiente, pero sólo si trabaja la máquina. Sin embargo, para trabajar en la máquina, los hombres normalmente preferirán operatorias de ciclo interactivo.
 %
 Hacemos programas, no ganancias.
 %
-Un baudio delimita un nivel de transiciones por segundo. Que este equivalga a un bit es sólo condicional al cómputo aplicado por mutuo acuerdo.
+Un baudio delimita una tasa de transiciones por segundo. Que esta equivalga a un bit es sólo condicional al cómputo aplicado por mutuo acuerdo.
 %
 Dada una maquinaria social adecuada, la depuración puede paralelizarse a lo largo de numerosos programadores.
 %
@@ -4346,7 +4400,7 @@ No soy un robot, pero deseo convertirme.
 %
 No soy un robot, soy un transformer.
 %
-No soy un robot, pero en el bar pido Bardhal.
+No soy un robot, pero en el bar pido Bardahl.
 %
 No soy un robot. Soy un RE bot.
 %
@@ -6063,3 +6117,47 @@ El doxing es un arma de doble filo.
 El router es el mango de tu sartén telemática. Instálale un firmware libre.
 %
 Ten siempre la sartén telemática por el mango.
+%
+Tu contenido es tuyo.
+%
+Cuando publicas algo en la web, debe pertenecerte a tí, no a una corporación.
+%
+Demasiadas compañías de capital se han fundido y perdido los datos de todos sus usuarios.
+%
+Retén tu contenido en tus medios de almacenamiento, y estos bajo tu control.
+%
+Retén tu control informático.
+%
+Asegúrate que puedes postear todo lo que desees, en cualquier formato que desees, y que nadie te monitoree.
+%
+Comparte enlaces legibles simples, tales como misitioweb.com/ideas. Estos enlaces permanentes siempre funcionarán.
+%
+En las redes de datos, rechaza todo espacio claustrofóbicos, con barreras que impiden construir, poseer y controlar.
+%
+Escapa de todos aquellos vericuetos en la red tras los cuales sólo puedes consumir.
+%
+En los Pubnix tendrás mayor elección de tu público, o post privados y control de tu audiencia.
+%
+En los Pubnix tendrás la habilidad de corregir los enlaces URLS cuando se rompen o desaparecen.
+%
+En los Pubnix no tendrás anuncios externos en tu sitio sin tu permiso explícito.
+%
+En los Pubnix nadie te monetizará.
+%
+En los Pubnix no sufrirás censura de tu contenido.
+%
+En los Pubnix no tendrás términos de servicio que se apropien de tu trabajo sin notificarte para anuncios u otros usos.
+%
+En los Pubnix tendrás posesión y control de los enlaces afiliados para monetizar tu trabajo si lo deseas.
+%
+Cuando alguien visita tu sitio web personal, debería ser presentado con algunos proyectos pasados en lo que te has visto envuelto, o una corta biografía de lo que estás haciendo ahora.
+%
+Si trabajas en una profesión creativa tal como escribir o programar, puedes usar tu sitio web personal como un blog, donde compartes pensamientos sobre el mundo y tus aprendizajes.
+%
+Tu portfolio mostrará tus experiencias pasadas; tu blog mostrará lo que has aprendido en tus proyectos.
+%
+Tu sitio web es tu lugar en la Internet. Controlaraás su apariencia, qué incluye, y cómo está estructurado.
+%
+Un Pubnix puede ofrecer autonomía para tu sitio web personal.
+%
+Si has escrito algunos ensayos que quieres compartir con el mundo, puedes compartirlos en tu sitio web personal; si eres un fotógrafo en busca de crear un portfolio para exponer tu obra, puedes agregar tus fotos a un sitio federado.
