@@ -22,7 +22,7 @@ Window$ tiene no menos de dos puertas traseras. Una de ellas permite a la polic�
 %
 Las características maliciosas son frecuentes en el software propietario porque el desarrollador o propietario tiene el control total. Este poder tienta al desarrollador a hacer cosas maliciosas a los usuarios.
 %
-El software privativo puede complacerlo cumpliendo algunos de sus deseos informáticos, pero su primera lealtad será siempre hacia el desarrollador. 
+El software privativo puede complacerlo cumpliendo algunos de sus deseos informáticos, pero su primera lealtad será siempre hacia el desarrollador.
 %
 GPLv3 es leal a la comunidad.
 %
@@ -34,7 +34,7 @@ Una licencia libre es aquella que respeta las cuatro libertades esenciales; una 
 %
 Con algunas licencias no libres, un intermediario puede quitarle la libertad al programa. Una versión modificada podría terminar siendo completamente propietaria. Al obtener tu copia, no obtendrás con ella la libertad que es tu justo derecho.
 %
-Una licencia copyleft dice que usted es libre de redistribuir copias de la obra, con o sin cambios; pero toda la versión que distribuyas debe estar bajo la misma licencia y debes hacer que el código fuente esté disponible. 
+Una licencia copyleft dice que usted es libre de redistribuir copias de la obra, con o sin cambios; pero toda la versión que distribuyas debe estar bajo la misma licencia y debes hacer que el código fuente esté disponible.
 %
 El autor de software debes respetar la libertad de los demás como los demás respetan a la tuya.
 %
@@ -42,21 +42,21 @@ El Copyleft traduce "prohibido prohibir" al lenguaje legal, y lo hace legalmente
 %
 De las seis licencias Creative Commons, dos son libres (CC-BY y CC-BY-SA); de esos dos, sólo la última sigue el concepto de "prohibido prohibir" y es Copyleft.
 %
-Cuando las personas copian y redistribuyen un programa, deben incluir una copia de su manual. Al modificar el programa, deberían modificarel manual en concordancia. Para que esto sea legalmente factible, el manual en sí debe ser libre. Y para garantizar que permanezca libre, debe contar con Copyleft.
+Cuando las personas copian y redistribuyen un programa, deben incluir una copia de su manual. Al modificar el programa, deberían modificar el manual en concordancia. Para que esto sea legalmente factible, el manual en sí debe ser libre. Y para garantizar que permanezca libre, debe contar con Copyleft.
 %
 Creative Commons es un proyecto creado en 2001 por un grupo de expertos en derechos digitales (no relacionado con el copyleft, pero parcialmente inspirado en él) y, al igual que el copyleft, ofrece alternativas al copyright.
 %
 Creative Commons ofrece a los autores/creadores/artistas un conjunto de seis licencias de derechos de autor con las que pueden publicar obras, permitiéndoles compartirlas o reutilizarlas, y especificando a la vez qué derechos se reservan o renuncian.
 %
-Las licencias Creative Commons se definen por combinaciones de cláusulas: si la obra no puede reutilizarse con fines comerciales (NC), si solo puede reutilizarse sin modificaciones (ND), si la versión reutilizada también debe tener la misma licencia CC (SA); los seis especifican que se atribuya el autor (BY). 
+Las licencias Creative Commons se definen por combinaciones de cláusulas: si la obra no puede reutilizarse con fines comerciales (NC), si solo puede reutilizarse sin modificaciones (ND), si la versión reutilizada también debe tener la misma licencia CC (SA); los seis especifican que se atribuya el autor (BY).
 %
 Dos de las licencias Creative Commons son "libres" en el sentido en que el software libre utiliza el término, y sólo una de las seis (CC-BY-SA) es copyleft.
 %
-Como las obras educativas y de referencia han de ser libres, estas deberían ser protegidas sólo por licencias libres (que, en el caso de Creative Commons, son CC-BY o CC-SA). 
+Como las obras educativas y de referencia han de ser libres, estas deberían ser protegidas sólo por licencias libres (que, en el caso de Creative Commons, son CC-BY o CC-SA).
 %
-A diferencia de las licencias Creative Commons, la licencia GNU FDL también permite inclu8ir en la documentación secciones secundarias que son invariantes.
+A diferencia de las licencias Creative Commons, la licencia GNU FDL también permite incluír en la documentación secciones secundarias que son invariantes.
 %
-Algunos manuales de software GNU cuentan con una sección invariante que explica las ideas de libertad. Cualquier puede alterar las partes técnicas de dicha documentación para corresponder a versiones modificadas de programas propios, mas no pueden eliminar la sección que explica que desarrollamos el manual por el bien de la libertad.
+Algunos manuales de software GNU cuentan con una sección invariante que explica las ideas de libertad. Cualquiera puede alterar las partes técnicas de dicha documentación para corresponder a versiones modificadas de programas propios, mas no pueden eliminar la sección que explica que desarrollamos el manual por el bien de la libertad.
 %
 Para declaraciones de opiniones políticas recomiendo Creative Commons CC-ND. No quisiera permitir que la gente publique versiones modificadas de mis declaraciones sobre mis puntos de vista.
 %
@@ -64,7 +64,9 @@ El ataque al intercambio digital es un intento de dividir a las personas y domin
 %
 Para otro tipo de obras, aquellas que utilizas para hacer un trabajo práctico en tu vida, no basta con ser compartibles. Dichas obras han de ser libres, lo que significa tener las mismas cuatro libertades que definen al Software Libre.
 %
-Las obras que realizan un trabajo práctico incluyen al software, recetas, bras educativas, de referencia y muchos otros tipos de obras que se le puedan ocurrir. Estas deben ser libres porque a menos que las personas controlen las obras que utilizan para realizar trabajos en su vida, no controlan su vida.
+Las obras que realizan un trabajo práctico deben ser libres. Estas incluyen al software, recetas, obras educativas, de referencia y muchos otros tipos de obras que se le puedan ocurrir.
+%
+Las obras que realizan un trabajo práctico deben ser libres, porque a menos que las personas controlen las obras que utilizan para realizar trabajos en su vida, no controlan su vida.
 %
 Hay formas de apoyar a los artistas sin restringir la libertad de compartir. Solicitar donaciones y vender directamente a los fans ya funciona bien para muchos artistas musicales.
 %
@@ -74,7 +76,7 @@ La shell no concede nada sin una órden.
 %
 Nunca compréis ningún producto con DRM a menos que tengáis acceso personal a los medios para romper el DRM.
 %
-El éxito de los productos con DRM se basa en la voluntad del Pueblo de desperdiciar su libertad por algún tipo de comodidad o diversión. 
+El éxito de los productos con DRM se basa en la voluntad del Pueblo de desperdiciar su libertad por algún tipo de comodidad o diversión.
 %
 El software libre disminuye en gran medida el ciclo impulsado por el negocio que presiona a los usuarios a realizar actualizaciones de software que requieren un hardware cada vez más potente.
 %
@@ -114,7 +116,7 @@ Los hackers son una "subcultura" de programadores que surgió a finales de los a
 %
 Los hackers eran los primeros geeks, que disfrutaban de una "inteligencia lúdica" con los ordenadores y las redes. Gran parte de lo que se convirtió en Internet y la informática en red moderna se debió a su trabajo.
 %
-Tanto la formas de interactuar en línea (netiqueta) como la jerga de la red se remontan a los hackers. 
+Tanto la formas de interactuar en línea (netiqueta) como la jerga de la red se remontan a los hackers.
 %
 Intentar poseer conocimiento, intentar controlar si la gente se le permite usarlo, o intentar detener a otros de compartirlo, es sabotaje.
 %
@@ -132,7 +134,7 @@ Existe un fuerte Movimiento por el Software Libre en muchos países latinoameric
 %
 La gente en los Movimientos Sociales y Ambientales han comprendido los roles que el Software Libre y el Copyleft juegan en un futuro igualitario.
 %
-El software privativo implica colonización digital. Como cualquier sistema  colonial, mantiene a la gente dividida e indefensa: dividida, porque tienen prohibido compartir copias, e indefensa, porque no tienen el código fuente, por lo que no pueden cambiarlo, ni siquiera comprobar qué es realmente. haciendo.
+El software privativo implica colonización digital. Como cualquier sistema colonial, mantiene a la gente dividida e indefensa: dividida, porque tienen prohibido compartir copias, e indefensa, porque no tienen el código fuente, por lo que no pueden cambiarlo, ni siquiera comprobar qué es realmente. haciendo.
 %
 Utilizando software de Micro$oft y Appl€, muchas personas han permitido a esas empresas controlar lo que hacen sus computadoras.
 %
@@ -140,7 +142,7 @@ Window$ tiene no menos de dos puertas traseras. Una de ellas permite a la polic�
 %
 Las características maliciosas son frecuentes en el software propietario porque el desarrollador o propietario tiene el control total. Este poder tienta al desarrollador a hacer cosas maliciosas a los usuarios.
 %
-El software privativo puede complacerlo cumpliendo algunos de sus deseos informáticos, pero su primera lealtad será siempre hacia el desarrollador. 
+El software privativo puede complacerlo cumpliendo algunos de sus deseos informáticos, pero su primera lealtad será siempre hacia el desarrollador.
 %
 GPLv3 es leal a la comunidad.
 %
@@ -152,25 +154,25 @@ Una licencia libre es aquella que respeta las cuatro libertades esenciales; una 
 %
 Con algunas licencias no libres, un intermediario puede quitarle la libertad al programa. Una versión modificada podría terminar siendo completamente propietaria. Al obtener tu copia, no obtendrás con ella la libertad que es tu justo derecho.
 %
-Una licencia copyleft dice que usted es libre de redistribuir copias de la obra, con o sin cambios; pero toda la versión que distribuyas debe estar bajo la misma licencia y debes hacer que el código fuente esté disponible. 
+Una licencia copyleft dice que usted es libre de redistribuir copias de la obra, con o sin cambios; pero toda la versión que distribuyas debe estar bajo la misma licencia y debes hacer que el código fuente esté disponible.
 %
 El autor de software debes respetar la libertad de los demás como los demás respetan a la tuya.
 %
 El Copyleft traduce "prohibido prohibir" al lenguaje legal, y lo hace legalmente vinculante.
 %
-De las seis licencias Creative Commons, dos son libres (CC-BY y CC-BY-SA); de esos dos, sólo la última sigue el concepto de "prohibido prohubir" y es Copyleft.
+De las seis licencias Creative Commons, dos son libres (CC-BY y CC-BY-SA); de esos dos, sólo la última sigue el concepto de "prohibido prohibir" y es Copyleft.
 %
-Cuando las personas copian y redistribuyen un programa, deben incluir una copia de su manual. Al modificar el programa, deberían modificarel manual en concordancia. Para que esto sea legalmente factible, el manual en sí debe ser libre. Y para garantizar que permanezca libre, debe contar con Copyleft.
+Cuando las personas copian y redistribuyen un programa, deben incluir una copia de su manual. Al modificar el programa, deberían modificar el manual en concordancia. Para que esto sea legalmente factible, el manual en sí debe ser libre. Y para garantizar que permanezca libre, debe contar con Copyleft.
 %
 Creative Commons es un proyecto creado en 2001 por un grupo de expertos en ciberderecho (no relacionado con el copyleft, pero parcialmente inspirado en él) y, al igual que el copyleft, ofrece alternativas al copyright.
 %
 Creative Commons ofrece a los autores/creadores/artistas un conjunto de seis licencias de derechos de autor con las que pueden publicar obras, permitiéndoles compartirlas o reutilizarlas, y especificando a la vez qué derechos se reservan o renuncian.
 %
-Las licencias Creative Commons se definen por combinaciones de cláusulas: si la obra no puede reutilizarse con fines comerciales (NC), si solo puede reutilizarse sin modificaciones (ND), si la versión reutilizada también debe tener la misma licencia CC (SA); los seis especifican que se atribuya el autor (BY). 
+Las licencias Creative Commons se definen por combinaciones de cláusulas: si la obra no puede reutilizarse con fines comerciales (NC), si solo puede reutilizarse sin modificaciones (ND), si la versión reutilizada también debe tener la misma licencia CC (SA); los seis especifican que se atribuya el autor (BY).
 %
 Dos de las licencias Creative Commons son "libres" en el sentido en que el software libre utiliza el término, y sólo una de las seis (CC-BY-SA) es copyleft.
 %
-Como las obras educativas y de referencia han de ser libres, estas deberían ser protegidas sólo por licencias libres (que, en el caso de Creative Commons, son CC-BY o CC-SA). 
+Como las obras educativas y de referencia han de ser libres, estas deberían ser protegidas sólo por licencias libres (que, en el caso de Creative Commons, son CC-BY o CC-SA).
 %
 A diferencia de las licencias Creative Commons, la licencia GNU FDL también permite inclu8ir en la documentación secciones secundarias que son invariantes.
 %
@@ -192,7 +194,7 @@ La shell no concede nada sin una órden.
 %
 Nunca compréis ningún producto con DRM a menos que tengáis acceso personal a los medios para romper el DRM.
 %
-El éxito de los productos con DRM se basa en la voluntad del Pueblo de desperdiciar su libertad por algún tipo de comodidad o diversión. 
+El éxito de los productos con DRM se basa en la voluntad del Pueblo de desperdiciar su libertad por algún tipo de comodidad o diversión.
 %
 El software libre disminuye en gran medida el ciclo impulsado por el negocio que presiona a los usuarios a realizar actualizaciones de software que requieren un hardware cada vez más potente.
 %
@@ -232,125 +234,7 @@ Los hackers son una "subcultura" de programadores que surgió a finales de los a
 %
 Los hackers eran los primeros geeks, que disfrutaban de una "inteligencia lúdica" con los ordenadores y las redes. Gran parte de lo que se convirtió en Internet y la informática en red moderna se debió a su trabajo.
 %
-Tanto la formas de interactuar en línea (netiqueta) como la jerga de la red se remontan a los hackers. 
-%
-Intentar poseer conocimiento, intentar controlar si la gente se le permite usarlo, o intentar detener a otros de compartirlo, es sabotaje.
-%
-La Libertad 0 es la libertad para ejecutar el programa como tu quieras.
-%
-La Libertad 1 es la libertad para estudiar el código fuente del programa y luego modificarlo para hacer que el programa haga lo que tú deseas.
-%
-La Libertad 2 es la libertad de redistribuir copias exactas cuando lo desees. Es una libertad para ayudar al prójimo.
-%
-Libertad 3 es la libertad para redistribuir copias de tus versiones modificadas cuando lo desees. Esta es la liberta para contribuir a tu comunidad.
-%
-El Derecho de Autor no era un problema cuando sólo restringía a las editoriales, pero ahora se ha convertido en una excusa para atacar al público.
-%
-Existe un fuerte Movimiento por el Software Libre en muchos países latinoamericanos, en India, y en algunas partes de Europa.
-%
-La gente en los Movimientos Sociales y Ambientales han comprendido los roles que el Software Libre y el Copyleft juegan en un futuro igualitario.
-%
-El software privativo implica colonización digital. Como cualquier sistema  colonial, mantiene a la gente dividida e indefensa: dividida, porque tienen prohibido compartir copias, e indefensa, porque no tienen el código fuente, por lo que no pueden cambiarlo, ni siquiera comprobar qué es realmente. haciendo.
-%
-Utilizando software de Micro$oft y Appl€, muchas personas han permitido a esas empresas controlar lo que hacen sus computadoras.
-%
-Window$ tiene no menos de dos puertas traseras. Una de ellas permite a la policía utilizar una memoria USB para tomar el control de cualquier máquina con Window$ y ver datos cifrados.
-%
-Las características maliciosas son frecuentes en el software propietario porque el desarrollador o propietario tiene el control total. Este poder tienta al desarrollador a hacer cosas maliciosas a los usuarios.
-%
-El software privativo puede complacerlo cumpliendo algunos de sus deseos informáticos, pero su primera lealtad será siempre hacia el desarrollador. 
-%
-GPLv3 es leal a la comunidad.
-%
-Brasil vio una campaña llamada "software imposto". El nombre es una broma: significa "software fiscal" y "software impuesto". La campaña critica un programa propietario publicado por el Estado que los ciudadanos deben utilizar para presentar sus declaraciones de impuestos. FSF LA lanzó un programa libre compatible que la gente puede utilizar.
-%
-Copyleft es un marco legal para publicar obras de autor como libres, que utiliza la ley de derechos de autor para exigir que sigan siendo libres.
-%
-Una licencia libre es aquella que respeta las cuatro libertades esenciales; una licencia copyleft va más allá y defiende activamente estas libertades para todos los usuarios.
-%
-Con algunas licencias no libres, un intermediario puede quitarle la libertad al programa. Una versión modificada podría terminar siendo completamente propietaria. Al obtener tu copia, no obtendrás con ella la libertad que es tu justo derecho.
-%
-Una licencia copyleft dice que usted es libre de redistribuir copias de la obra, con o sin cambios; pero toda la versión que distribuyas debe estar bajo la misma licencia y debes hacer que el código fuente esté disponible. 
-%
-El autor de software debes respetar la libertad de los demás como los demás respetan a la tuya.
-%
-El Copyleft traduce "prohibido prohibir" al lenguaje legal, y lo hace legalmente vinculante.
-%
-De las seis licencias Creative Commons, dos son libres (CC-BY y CC-BY-SA); de esos dos, sólo la última sigue el concepto de "prohibido prohubir" y es Copyleft.
-%
-Cuando las personas copian y redistribuyen un programa, deben incluir una copia de su manual. Al modificar el programa, deberían modificarel manual en concordancia. Para que esto sea legalmente factible, el manual en sí debe ser libre. Y para garantizar que permanezca libre, debe contar con Copyleft.
-%
-Creative Commons es un proyecto creado en 2001 por un grupo de expertos en ciberderecho (no relacionado con el copyleft, pero parcialmente inspirado en él) y, al igual que el copyleft, ofrece alternativas al copyright.
-%
-Creative Commons ofrece a los autores/creadores/artistas un conjunto de seis licencias de derechos de autor con las que pueden publicar obras, permitiéndoles compartirlas o reutilizarlas, y especificando a la vez qué derechos se reservan o renuncian.
-%
-Las licencias Creative Commons se definen por combinaciones de cláusulas: si la obra no puede reutilizarse con fines comerciales (NC), si solo puede reutilizarse sin modificaciones (ND), si la versión reutilizada también debe tener la misma licencia CC (SA); los seis especifican que se atribuya el autor (BY). 
-%
-Dos de las licencias Creative Commons son "libres" en el sentido en que el software libre utiliza el término, y sólo una de las seis (CC-BY-SA) es copyleft.
-%
-Como las obras educativas y de referencia han de ser libres, estas deberían ser protegidas sólo por licencias libres (que, en el caso de Creative Commons, son CC-BY o CC-SA). 
-%
-A diferencia de las licencias Creative Commons, la licencia GNU FDL también permite inclu8ir en la documentación secciones secundarias que son invariantes.
-%
-Algunos manuales de software GNU cuentan con una sección invariante que explica las ideas de libertad. Cualquier puede alterar las partes técnicas de dicha documentación para corresponder a versiones modificadas de programas propios, mas no pueden eliminar la sección que explica que desarrollamos el manual por el bien de la libertad.
-%
-Para declaraciones de opiniones políticas recomiendo Creative Commons CC-ND. No quisiera permitir que la gente publique versiones modificadas de mis declaraciones sobre mis puntos de vista.
-%
-El ataque al intercambio digital es un intento de dividir a las personas y dominarlas.
-%
-Para otro tipo de obras, aquellas que utilizas para hacer un trabajo práctico en tu vida, no basta con ser compartibles. Dichas obras han de ser libres, lo que significa tener las mismas cuatro libertades que definen al Software Libre.
-%
-Las obras que realizan un trabajo práctico incluyen al software, recetas, bras educativas, de referencia y muchos otros tipos de obras que se le puedan ocurrir. Estas deben ser libres porque a menos que las personas controlen las obras que utilizan para realizar trabajos en su vida, no controlan su vida.
-%
-Hay formas de apoyar a los artistas sin restringir la libertad de compartir. Solicitar donaciones y vender directamente a los fans ya funciona bien para muchos artistas musicales.
-%
-Necesitamos luchar por la libertad de compartir, porque las megacorporaciones de derechos de autor que se benefician de dividir al Pueblo jamás cederán voluntariamente su poder.
-%
-La shell no concede nada sin una órden.
-%
-Nunca compréis ningún producto con DRM a menos que tengáis acceso personal a los medios para romper el DRM.
-%
-El éxito de los productos con DRM se basa en la voluntad del Pueblo de desperdiciar su libertad por algún tipo de comodidad o diversión. 
-%
-El software libre disminuye en gran medida el ciclo impulsado por el negocio que presiona a los usuarios a realizar actualizaciones de software que requieren un hardware cada vez más potente.
-%
-Compraría una computadora nueva en lugar de usar una que me obligue a vivir bajo el control de alguien.
-%
-Cuando podamos construir nuestro propio hardware a partir de planos, entonces la cuestión de la libertad del software libre se aplicará también al hardware.
-%
-La ingeniería genética y la ingeniería del software no podrían ser más diferentes.
-%
-Los ingenieros del software combinan una enorme cantidad de elementos simples bien definidos que actúan directamente para producir el resultado deseado. La ingeniería genética implica trabajar con elementos complejos que nunca fueron diseñados y cuyos efectos sólo se comprenden parcialmente.
-%
-Existe una estrecha similitud entre la redistribución y modificación del Software Libre, por un lado, y la práctica agrícola tradicional de almacenar y cruzar semillas y animales, por el otro.
-%
-Considero la propiedad como un sistema que mantenemos porque a menudo es bueno para todos, pero que puede salirse de control y causar daño.
-%
-GNU es un medio para un fin, y ese fin es la libertad.
-%
-Defiendo los derechos humanos, la democracia y la reducción de la pobreza. Aplicar estas ideas al software me llevó a las ideas del movimiento del software libre.
-%
-El software propietario en la mayoría de los casos es producto de una corporación poderosa. Tiende a concentrar la riqueza y consolida el poder de la corporación sobre los usuarios.
-%
-El Movimiento del Software Libre resulta ser una parte esencial de un movimiento más amplio cuyo fin es derrocar el imperio de las megacorporaciones.
-%
-Descarga una versión de GNU/Linux y comienza a usarla.
-%
-Contribuye al Software Libre.
-%
-Distribuya discos, habla con el Pueblo y ayúdalos a instalar software libre.
-%
-Encuentra grupos de usuarios de Software Libre en tu zona.
-%
-Participad de aquellos proyectos que guarden el objetivo hacer que las obras creativas se puedan compartir.
-%
-Preservad el material educativo o de referencia bajo el éjido de la información pública.
-%
-Los hackers son una "subcultura" de programadores que surgió a finales de los años 1960.
-%
-Los hackers eran los primeros geeks, que disfrutaban de una "inteligencia lúdica" con los ordenadores y las redes. Gran parte de lo que se convirtió en Internet y la informática en red moderna se debió a su trabajo.
-%
-Tanto la formas de interactuar en línea (netiqueta) como la jerga de la red se remontan a los hackers. 
+Tanto la formas de interactuar en línea (netiqueta) como la jerga de la red se remontan a los hackers.
 %
 Cuando se contribuye a un proyecto existente, la versión modificada se debe publicar bajo la misma licencia que la obra original.
 %
@@ -366,9 +250,11 @@ Para la mayoría de los programas recomendamos utilizar la versión más recient
 %
 Para permitir la utilización de versiones futuras de la licencia, especifique "versión 3 o cualquier versión posterior". De ese modo su programa será compatible con el código que en el futuro pueda publicarse bajo las siguientes versiones de la GPL.
 %
-Para la mayoría de los programas pequeños, usar el copyleft no amerita el esfuerzo. 
+Para la mayoría de los programas pequeños, usar el copyleft no amerita el esfuerzo.
 %
 Cuando el código fuente de un paquete de software tiene menos de 300 líneas, los beneficios que proporciona el copyleft suelen ser demasiado pequeños para justificar la inconveniencia de asegurarse que una copia de la licencia acompañe siempre al software.
+%
+La libertad bien vale la inconveniencia.
 %
 La Licencia Apache 2.0 se trata de una licencia de software débil, laxa, "blanda" (sin copyleft), que contiene cláusulas para evitar que contribuidores y distribuidores sean demandados por violación de patentes.
 %
@@ -386,7 +272,7 @@ Si existe la probabilidad de que otros hagan versiones mejoradas de su programa 
 %
 Los términos de la licencia AGPL son prácticamente idénticos a los de la GPL; la única diferencia sustancial es que incluye una cláusula adicional para garantizar que las personas que utilizan el software en red puedan obtener el código fuente correspondiente.
 %
-El requisito de la licencia AGPL no aborda los problemas que se les pueden presentar a los usuarios cuando confían sus tareas informáticas o sus datos a un servidor ajeno. 
+El requisito de la licencia AGPL no aborda los problemas que se les pueden presentar a los usuarios cuando confían sus tareas informáticas o sus datos a un servidor ajeno.
 %
 Para tutoriales, manuales de referencia y otros trabajos extensos de documentación recomendamos la Licencia de Documentación Libre de GNU (GFDL).
 %
@@ -496,7 +382,7 @@ El uso de la palabra "hacker" para definir al "que rompe sistemas de seguridad" 
 %
 Nosotros, los hackers, nos negamos a reconocer esta acepción y seguimos utilizando este término para describir a "alguien que ama la programación y disfruta explorando nuevas posibilidades".
 %
-Duando DEC dejó de fabricar la serie PDP-10. Su arquitectura elegante y poderosa de los años sesenta no podía adaptarse de forma natural a los grandes espacios de direccionamiento característicos de los años ochenta.
+Cuando DEC dejó de fabricar la serie PDP-10, su arquitectura elegante y poderosa de los años sesenta no pudo adaptarse de forma natural a los grandes espacios de direccionamiento característicos de los años ochenta.
 %
 Los modernos ordenadores de los 80s, como el VAX o el 68020, contaban con su propio sistema operativo, pero ninguno utilizaba software libre. Había que firmar un acuerdo de confidencialidad incluso para obtener una copia ejecutable.
 %
@@ -504,12 +390,11 @@ Los titulares de software propietario establecieron la siguiente norma: "Si comp
 %
 La idea de que el sistema social en torno al software propietario -un sistema que te impide compartir o modificar el software-es antisocial, poco ético, sencillamente equivocado, puede sorprender a algunos
 %
-Lo más fácil hubiera sido subirme al tren del software propietario, firmar acuerdos de confidencialidad y prometer no ayudar a mis compañeros hackers
+Lo más fácil hubiera sido subirme al tren del software propietario, firmar acuerdos de confidencialidad y prometer no ayudar a mis compañeros hackers.
 %
 Decidí estudiar la manera en que un programador podría hacer algo por el bien común. Me pregunté si podía escribir uno o varios programas que permitiesen resucitar nuevamente a nuestra extinta comunidad.
 %
-La primera cosa necesaria era crear un sistema operativo, el
-software crucial para empezar a utilizar un ordenador.
+La primera cosa necesaria era crear un sistema operativo, el software crucial para empezar a utilizar un ordenador.
 %
 Con un sistema operativo puedes hacer muchas cosas; sin él, ni siquiera puedes hacer funcionar un ordenador.
 %
@@ -661,7 +546,8 @@ Todo buen trabajo de software empieza cuando un desarrollador se plantea un reto
 %
 Muchos componentes esenciales del software GNU se desarrollaron con el fin de crear un sistema operativo libre y completo.
 %
-El origen de GNU está en una visión y un plan, no en un impulso individual.
+El origen de GNU está en una visión y un plan, no en un impulso
+individual.
 %
 Desarrollamos la biblioteca C GNU, la Bourne Again Shell (BASH) y el GNU tar porque cualquier sistema similar a Unix precisaba de estos componentes.
 %
@@ -681,7 +567,7 @@ Los desarrolladores de GNU dedicaban la mayor parte de su tiempo al mantenimient
 %
 En 1990, el sistema GNU estaba casi terminado. Faltaba crear un solo componente central, el kernel.
 %
-Decidimos crear un kernel como una colección de procesos de servidor que se ejecutaría sobre Mach. Mach es un microkernel desarrollado en la Carnegie Mellon University y, más tarde, en la Universidad de Utah.
+Decidimos crear un kernel como una colección de procesos de servidor que se ejecutaría sobre Mach. Mach es un microkernel desarrollado en la Universidad Carnegie-Mellon y, más tarde, en la Universidad de Utah.
 %
 El GNU Hurd es una colección de servidores -o "manada de gnus"-implantados en Mach que desempeñan las diversas tareas propias del kernel de Unix.
 %
@@ -749,7 +635,7 @@ Un paquete importante de software libre sin un buen manual libre que lo acompañ
 %
 La documentación libre, al igual que el software, es una cuestión de libertad, no de precio.
 %
-Debe autorizarse la redistribución del manual de un programa libre -incluida la venta comercial, en papel y on line -, de modo que el manual pueda acompañar a todas las copias del programa.
+Debe autorizarse la redistribución del manual de un programa libre - incluida la venta comercial, en papel y on line - de modo que el manual pueda acompañar a todas las copias del programa.
 %
 Por regla general, no creo que la gente deba tener el derecho de modificar toda clase de artículos y libros. Pero existe una razón específica de que la libertad para modificar sea un elemento crucial para la documentación relativa al software libre.
 %
@@ -825,11 +711,13 @@ Una vez que se haya escrito GNU, todos podremos obtener un buen sistema de softw
 %
 Un usuario que necesite modificar el sistema será siempre libre de hacerlo por sí mismo, o de contratar a cualquier programador o empresa disponible para hacerlo por él.
 %
-Los usuarios no estarán ya a merced de un programador o una empresa que sea dueña del código fuente y que sea la única en posición de realizar modificaciones.
+Con el software libre los usuarios no estarán ya a merced de un programador o una empresa que sea dueña del código fuente y que sea la única en posición de realizar modificaciones.
 %
 Las escuelas podrán proporcionar un ambiente bastante más educativo, animando todos los estudiantes a estudiar y mejorar el código del sistema.
 %
-En el laboratorio de programación de Harvard solían tener la política de que ningún programa podía ser instalado en el sistema si su código fuente no estaba a disposición del públic.
+En el laboratorio de programación de Harvard solían tener la política de
+que ningún programa podía ser instalado en el sistema si su código
+fuente no estaba a disposición del público.
 %
 Copiar por completo o una parte de un programa es tan natural para un programador como respirar y le es igual de productivo.
 %
@@ -907,11 +795,13 @@ Tienes derecho a poder cooperar abierta y libremente con otras personas que usan
 %
 Tienes derecho a poder aprender cómo funciona el software, y a enseñar a tus estudiantes con él.
 %
-Tienes derecho a poder contratar a tu programador favorito para arreglarlo cuando un software se rompa.
+Tienes derecho a poder contratar a tu programador favorito para
+arreglarlo cuando un software se rompa.
 %
 Tienes derecho al software libre.
 %
-Es importante que la gente conozca el origen del sistema, su historia y su propósito.
+Es importante que la gente conozca el origen del sistema, su historia y
+su propósito.
 %
 El Mundo Libre que se ha desarrollado en torno a GNU/Linux no es un lugar seguro; los problemas que nos llevaron a crear GNU no han sido completamente erradicados y amenazan con volver.
 %
@@ -931,7 +821,10 @@ No podemos esperar que el mero deseo de un software potente y fiable incite a la
 %
 Necesitamos la clase de determinación que la gente tiene cuando lucha por su libertad y su comunidad, determinación para seguir adelante durante años sin rendirse.
 %
-Algunos distribuidores de software GNU/Linux añaden paquetes propietarios al sistema básico libre e invitan a los usuarios a considerar esto como una ventaja, en lugar de un retroceso en la libertad.
+Algunos distribuidores de software GNU/Linux añaden paquetes
+propietarios al sistema básico libre e invitan a los usuarios a
+considerar esto como una ventaja, en lugar de un retroceso en la
+libertad.
 %
 Al igual que las ciencias, el software despiertan la codicia en un gran número de gerentes universitarios: consideran los programas como una potencial fuente de ingresos, y no como aportaciones al saber humano.
 %
@@ -949,13 +842,11 @@ El programa es libre porque los usuarios lo pueden utilizar libremente, sin que 
 %
 Los programas que no son libres se venden frecuentemente a precios altos, pero a veces una tienda te ofrece una copia sin cobrarte. No obstante, eso no lo convierte en software libre.
 %
-Con o sin precio, el programa no es libre cuando sus usuarios no tienen
-libertad.
+Con o sin precio, el programa no es libre cuando sus usuarios no tienen libertad.
 %
 Dado que el software libre no es una cuestión de precio, un precio bajo no resulta más libre, ni más próximo a lo libre.
 %
-Si redistribuyes copias de software libre, también puedes fijar un precio cuantioso para hacer algo de dinero. Redistribuir software es una actividad buena y legítima; si lo haces, también puedes sacar una ga-
-nancia por ello.
+Si redistribuyes copias de software libre, también puedes fijar un precio cuantioso para hacer algo de dinero. Redistribuir software es una actividad buena y legítima; si lo haces, también puedes sacar una ganancia por ello.
 %
 El software libre es un proyecto comunitario y cualquiera que lo integre debería buscar formas de contribuir a la construcción de la comunidad.
 %
@@ -1001,7 +892,7 @@ Lo interesante de Emacs era que no solo incluía un lenguaje de programación, s
 %
 Podía modificar los programas que estaba utilizando e, inmediatamente, editar utilizando los programas recién modificados.
 %
-Teníamos un sistema que resultaba útil para tratar con texto además de programar, y que, sin embargo, permitía al usuario programar el editor mientras lo estaba usando. 
+Teníamos un sistema que resultaba útil para tratar con texto además de programar, y que, sin embargo, permitía al usuario programar el editor mientras lo estaba usando.
 %
 La construcción de programas complejos y gigantescos para usarlos en las ediciones de textos de uno, y después intercambiarlos con otros, alimentó el espíritu de cooperación espontánea que teníamos entonces en el Laboratorio de Inteligencia Artificial.
 %
@@ -1010,8 +901,6 @@ Compartíamos programas con todo el que deseara usarlos, eran conocimiento human
 A pesar de que no había un pensamiento político organizado que relacionara la forma en que compartíamos software con el diseño de Emacs, estoy convencido de que había una conexión entre ellos, quizá una conexión inconsciente.
 %
 Creo que fue la naturaleza de la forma de vida que llevábamos en el Laboratorio de Inteligencia Artificial lo que condujo a Emacs e hizo de él lo que fue.
-%
-a pesar de que no había un pensamiento político organizado que relacionara la forma en que compartíamos software con el diseño de Emacs, estoy convencido de que había una conexión entre ellos, quizá una conexión inconsciente.
 %
 TECO era nuestro editor de textos y era un lenguaje de programación extremadamente feo, no podía haber sido más feo. La razón era que no fue diseñado para ser un lenguaje de programación, sino como un lenguaje de órdenes y un editor de textos.
 %
@@ -1033,7 +922,7 @@ Divididos y desamparados es como se encuentran los usuarios de software que no e
 %
 Hemos producido una enorme variedad de software libre.
 %
-Hemos hecho lo que la gente decía que nunca lograríamos hacer; tenemos dos sistemas operativos de software libre. 
+Hemos hecho lo que la gente decía que nunca lograríamos hacer; tenemos dos sistemas operativos de software libre.
 %
 Tenemos muchas aplicaciones libres y, obviamente, todavía tenemos mucho camino por recorrer. Así que necesitamos su ayuda.
 %
@@ -1041,11 +930,11 @@ Me gustaría pedirles que colaboraran como voluntarios para el proyecto GNU; ay�
 %
 No hay otro sistema que GNU, y Linux es uno de sus kernels.
 %
-Si alguien roba un medio de almacenaje que contiene una versión de software licenciada bajo GPL, que ha sido publicada, entonces el ladrón probablemente tiene derecho a hacer copias y redistribuirlas bajo la GPL; pero si alguien encarcelado por robar, puede que para hacerlo tenga que esperar a que lo dejen en libertad.
+Si alguien roba un medio de almacenaje que contiene una versión de software licenciada bajo GPL, que ha sido publicada, entonces el ladrón probablemente tiene derecho a hacer copias y redistribuirlas bajo la GPL; pero si es alguien encarcelado por robar, puede que para hacerlo tenga que esperar a que lo dejen en libertad.
 %
 Si una empresa trató de publicar su versión de software bajo GPL, y la sigue tratando como secreto comercial, esto vulneraría la GPL.
 %
-Si una empresa distribuye como secreto comercial una copia de alguna obra de otros desarrolladores cubierta por la GPL, esta compañía ha violado la GPL y tendrá que dejar de distribuir ese programa. 
+Si una empresa distribuye como secreto comercial una copia de alguna obra de otros desarrolladores cubierta por la GPL, esta compañía ha violado la GPL y tendrá que dejar de distribuir ese programa.
 %
 Si una empresa me proporciona como secreto comercial una copia de una obra suya cubierta por la GPL, si el programa distribuido no incluye ninguna obra ajena cubierta por la GPL, entonces la compañía no está violando la GPL. Pero esa compañía está haciendo dos declaraciones contradictorias acerca de lo que usted puede hacer con el programa: que puede redistribuirlo y que no puede hacerlo. Sería razonable pedir una aclaración de las condiciones de uso de ese programa antes de aceptar una copia.
 %
@@ -1065,7 +954,7 @@ Nuestros manuales incluyen también secciones en las que se expone nuestra posic
 %
 Las plantillas no son tan relevantes como para que haga falta emplear el copyleft para protegerlas.
 %
-Normalmente no hay problema en utilizar el copyleft para obras menores, pero las plantillas son un caso especial, ya que se combinan con datos proporcionados por los usuarios de la aplicación y esa combinación se distribuye. 
+Normalmente no hay problema en utilizar el copyleft para obras menores, pero las plantillas son un caso especial, ya que se combinan con datos proporcionados por los usuarios de la aplicación y esa combinación se distribuye.
 %
 Recomendamos que licencie sus plantillas bajo condiciones sencillas y permisivas.
 %
@@ -1079,7 +968,7 @@ Si diéramos nuestra aprobación oficial a una traducción de la GPL estaríamos
 %
 Puesto que la GPL es una licencia con copyright, los titulares del copyright del software son quienes tienen la facultad de hacer cumplir la GPL.
 %
-Si observa un incumplimiento de la GPL debe informar a los desarrolladores del software afectado cubierto por la GPL. 
+Si observa un incumplimiento de la GPL debe informar a los desarrolladores del software afectado cubierto por la GPL.
 %
 La GPL no exige a nadie usar Internet para la distribución. Tampoco exige a nadie en particular que redistribuya el programa. Y (aparte de un caso especial), aun cuando alguien decida a veces redistribuir el programa, la GPL no dice que deba facilitarle una copia a usted o a cualquier otra persona en particular.
 %
@@ -1121,7 +1010,14 @@ El votante que utiliza una máquina de votación (al igual que cualquier otra ca
 %
 Solo por que el software que opera en una computadora sea libre, eso no quiere decir que puede confiar en la máquina de votar.
 %
-Las computadoras no son fiables para votar. El voto debería emitirse en papel.
+Las computadoras no son fiables para votar. El voto debería emitirse en
+papel.
+%
+Con voto electrónico es más fácil alterar un millón de votos que uno.
+%
+Las leyes disponen la facilidad del recuento de votos si la diferencia de totales es pequeña, pero con fraude digital es posible provocar una diferencia lo suficientemente grande que haga dificil producir el recuento de votos según los márgenes de la ley.
+%
+Finalmente, con el voto electrónico el país estará a merced de quien sea el dueño del sistema.
 %
 La licencia GPLv3 es icompatible con la GPLv2.
 %
@@ -1166,9 +1062,7 @@ Todo software debe ser Libre, porque cada uno merece la libertad.
 Todo software debe ser libre, porque cada uno merece poder participar en una Comunidad Libre.
 %
 Las escuelas deben enseñar únicamente el Software Libre.
-&
-Existen cuatro razones para esta conclusión.
-
+%
 La razón más superficial por las cuales las escuelas deben enseñar software libre es para economizar.
 %
 Las escuelas no tienen bastante dinero, no deben desperdiciar su dinero pagando permiso para usar software privativo.
@@ -1191,7 +1085,6 @@ Sólo se educar la próxima generación de buenos ciudadanos enseñando el softw
 %
 Las escuelas deben borrar software privativo, para instalar sólo software libre.
 %
-
 Pero hay otra razón más profunda para la educación misma de los buenos programadores. Porque
 %
 Para aprender a programar bien, se necesita leer mucho código fuente y escribir mucho código fuente.
@@ -1201,8 +1094,6 @@ Para aprender a escribir código para programas grandes, se necesita primero esc
 Sólo el software libre posibilita aprender a programar bien, pues permite escribir cambios pequeños en el código fuente de los programas grandes.
 %
 Sólo el software libre permite la educación en la informática.
-%
-Pero hay una razón mas profunda aún. Para la educación en la cuidadanía. Porque
 %
 La escuela tiene la misión de enseñar no sólo hechos, no sólo técnicas, sino sobre todo el espíritu de la buena voluntad, y el hábito de ayudar a tu prójimo.
 %
