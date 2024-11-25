@@ -98,6 +98,7 @@ El software a nadie le sale al paso, no es obra de la casualidad, el software es
 %
 No hay peor cosa que un Window$ero con inquietudes.
 %
+
 El consumo del software sube en ascensor, la potencia del hardware por escalera.
 %
 ¡Programadores! Únanse. Sobre la unidad de los que programan, ha de levantarse en este hermoso server la unión de todas las aplicaciones.
@@ -106,9 +107,13 @@ Tengo tres honras en mi vida: la de ser un soldado, la de ser un patriota y la d
 %
 Que sea esta unidad indestructible e infinita, para que nuestro pueblo no solamente posea su almacenamiento, sino que también sepa dignamente defenderlo.
 %
+Primero el Kernel, luego la Shell, y por último las aplicaciones.
+%
 Se vence con inteligencia y organización. Por ello les pido también que conserven una calma absoluta y cumplir con lo que es nuestro lema de siempre: de /home a /var y de var/ a /home.
 %
 Todo sistema informático debería ser infalible, pero no es un arte de los Dioses sino una creación humana, y como tal posee sus mismos bugs y las mismas inclemencias que afectan a toda máquina engendrada en la mente terrenal.
+%
+Este bug lo arreglamos entre todos o no lo arregla nadie.
 %
 El software libre ha de estar en capacidad de ayudarnos en cualquier situación que se cuadre, incluyendo probables situaciones de emergencia.
 %
@@ -216,6 +221,8 @@ Yo no persuadía a la gente con kernels, porque un kernel poco persuade. Yo pers
 %
 ¿Y cómo construyo un kernel? Pedí usar el compilador GCC... no lo conocía ni el gato. Y ahí empecé a compilar piezas de código. Y una cosa lleva a la otra, y todas a la felicidad de los hackers...
 %
+El kernel es el núcleo del sistema operativo y equivale a su alma y corazón. Lo de afuera es la shell: sólo cáscara.
+%
 El compilador GCC es el kilómetro cero de GNU.
 %
 Hemos programado y compilado un software: el GNU. Lo hemos hecho para esta comunidad de hackers y para esta máquina, pero puede servir para otras.
@@ -250,7 +257,7 @@ Yo divido la acción de GNU en dos vertientes: la acción administrativa (para l
 %
 Unix existía antes que GNU, pero fue GNU quien les dio el lugar que los hackers merecían por justo derecho.
 %
-Un hacker debe ser - fundamentalmente - un amateur, aunque los hackers pueden recibir paga por su expertise.
+Un hacker debe ser - fundamentalmente - un amatéur, aunque los hackers pueden recibir paga por su expertise.
 %
 La vida de un verdadero hacker es episódica, en lugar de programada.
 %
@@ -265,6 +272,8 @@ La gente que escribe código malicioso a menudo anhela el mayor retorno por su i
 A Window$ siempre es mejor formatearlo que emparcharlo.
 %
 La gran discusión en la que se sumirá el mundo no radica en compilar el software, sino quién conduce la compilación del software. Yo digo que la compilación la tiene que realizar el Pueblo.
+%
+20 gigabytes organizados equivalen a 20 petabytes desorganizados.
 %
 El hacktivismo presupone la existencia de la CPU, del ser humano y de una Comunidad Organizada mancomunadamente en pos de su Libertad.
 %
@@ -378,7 +387,9 @@ La idea de partida, ésa que puede llgar mediante la intuición creativa, por ob
 %
 Un algoritmo es un conjunto de reglas o formas de actuar para la resolución de un problema.
 %
-El problema de la liberación del software está ligado de manera indisoluble con el de la Justicia Social, el de la soberanía política y de la independencia económica del Tercer Mundo, y la distensión y la cooperación internacional.
+El problema de la liberación del software está ligado de manera indisoluble con el de la Justicia Social, la soberanía política y la independencia económica del Tercer Mundo, así como la distensión y la cooperación internacional.
+%
+La Justicia Social en el cómputo bien vale inconvenir a los tecno-oligarcas.
 %
 A un pato se lo caza con llamador; unos graznidos realizados con este instrumento cerca de una laguna harán cureosear a una de estas aves y ahí hay que atizarla. Instalar software libre también hace lo procedente, y con uno que hable usted capturará dos o tres zonzos.
 %
@@ -581,6 +592,8 @@ Ya hemos escrito el Kernel, y en condiciones mucho mas adversas, por lo cual las
 Ahora todo estriba en avivar la llama de la resistencia aumentando el uso de GNU, mientras nos organizamos y planeamos la destrucción de la infraestructura de datos y la denegación de los servicios privativos del enemigo.
 %
 Todo ello puede ser logrado si nos ponemos seriamente a hacerle la guerra sin cuartel, si trabajamos para tomar contacto con los que programan y los ayudamos desde aquí con todo lo que podemos, especialmente ofreciéndoles potencia de cómputo y almacenaje en nuestros servidores.
+%
+Los datos y código generado desde el Pueblo son para el Pueblo.
 %
 Googl€ es una corporación insaciable cuyo fin es capturar los datos del Pueblo.
 %
@@ -2298,7 +2311,7 @@ En cualquier sistema multiusuaria puede haber dos tipos de usuarias: autorizadas
 %
 Cualquier usuaria autorizada para operar un sistema de cómputo tiene el derecho a acceder al mismo y sus recursos informáticos de acuerdo al criterio de autorización establecido por la administradora del sistema de cómputo.
 %
-las usuarias no autorizadas no tienen derecho a utilizar el sistema en sí, o bien no tienen derecho a utilizar ciertos recursos del sistema, incluso en determinados momentos del día.
+Las usuarias no autorizadas no tienen derecho a utilizar el sistema en sí, o bien no tienen derecho a utilizar ciertos recursos del sistema, incluso en determinados momentos del día.
 %
 Con el correr del tiempo se ha hecho obvio que la seguridad efectiva de un sistema de cómputo sólo puede resultar de la aplicación de una estructura modelo básica de sistema de cómputo seguro.
 %
@@ -2407,6 +2420,8 @@ Los recursos y los procesos informáticos deben respetar la libertad del Pueblo,
 Defendemos toda actividad educativa que utilice software en los espacios públicos.
 %
 Rechazamos el uso de cualquier y todo software privativo en el ámbito educativo, para no generar dependencias tecnológica ni económica en los estudiantes.
+%
+Rechazamos y no permitimos que el código fuente, imaginería y/o textos generados a través de aprendizaje máquina sean utilizados directa o indirectamente para el desarrollo de nuestros programas.
 %
 El violador más importante de la seguridad informática es el dueño de un programa privativo.
 %
@@ -2840,7 +2855,7 @@ El acceso a root no se da, se escala.
 %
 Para digitalizarse, la juventud ha de obtener acceso de root.
 %
-El comando sudo permite a tu usuaria de GNU ordenar como si fuese sudo, pero sólo si ésta pertenece al grupo de usuarios sudo.
+El comando sudo permite a tu usuaria de GNU ordenar como si fuese root, pero sólo si ésta pertenece al grupo de usuarios sudo.
 %
 Privilegia usuarias de GNU accediendo como root y ordenando "usermod -a -G sudo usuaria".
 %
@@ -5142,9 +5157,13 @@ La guerrilla telemática requiere que las mayorías populares puedan formar comu
 %
 El plan maestro de la acción concertada debe insertarse dentro de un sistema de comunicación. De allí a las máquinas, y de éstas a las mentes de los hackers. Esta es la manera en la que se desata la guerrilla telemática.
 %
-En la lid telemática, la acción defensiva por antonomasia la constituye el sabotaje.
+En la lid telemática, la acción defensiva por antonomasia la constituye el sabotaje telemático.
 %
 Los hackers del Tercer Mundo han de concebir sus ataques cibernéticos para que sean visibles, y velen - en efecto - los furtivos y mucho más demoledores sabotajes telemáticos sobre las ciber-oligarquías.
+%
+Aplicando una concepción táctica que detecte los puntos débiles de los ciber-oligarcas, y aplicando esa condición fantasmal del hacker en las líneas de datos, todo es posible.
+%
+En la lid telemática, a su innata disposición revolucionaria y a su capacidad técnica elevada, el hacker debe sumar la disciplina del revolucionario soslayado.
 %
 Sin una mayor integración en una acción soslayada de sabotaje telemático, el rendimiento táctico de los ciberataques será siempre bastante pobre.
 %
@@ -5692,9 +5711,21 @@ Cuando comprendas el significado de una pantalla azul, habrás descendido al ave
 %
 Los archivos codificados en ASCII y UTF-8 son excepcionalmente buenos para abandonar la vacuidad de redes sociales orientadas a memes.
 %
+La telaraña de alcance global es en realidad una red compleja de redes de datos menores, de alcance regional. A su vez, se enlazan a ellas redes locales aún más pequeñas o computadoras individuales.
+%
+La telaraña de alcance global es más que una maravilla tecnológica. Es la comunicación popular en su nivel más fundamental.
+%
+Sólo los Pueblos  conocen la verdadera extensión de la telaraña de alcance global.
+%
 Gran parte de la telaraña de alcance global consiste en bibliotecas académicas, bases de datos y cualquier cosa inaccesible a los motores de búsqueda cautivos por empresas orientadas a metadatos.
 %
 Co-habita toda red tan oscura como la piel de mis grasitas. Te iluminará.
+%
+Estar enlazado a la Red implica algo más que simplemente leer conferencias y registros computarizados. Implica hacer y responder interrogantess, intercambiar opiniones, involucrarse en la Liberación del Tercer Mundo.
+%
+Si decides loguearte, usar la red de datos y contribuir, te convertirás en un "ciudadano del ciber-espacio".
+%
+Ser un ciudadano del ciber-espacio le parecerá la cosa más natural del mundo.
 %
 Cede a las ciber-oligarquías, y verás privadas a las ciudades del Tercer Mundo de aire acondicionado a cambio de correr programas de IA sólo para sintetizar imaginería de chicas con manos de empanada.
 %
@@ -6156,8 +6187,28 @@ Si trabajas en una profesión creativa tal como escribir o programar, puedes usa
 %
 Tu portfolio mostrará tus experiencias pasadas; tu blog mostrará lo que has aprendido en tus proyectos.
 %
-Tu sitio web es tu lugar en la Internet. Controlaraás su apariencia, qué incluye, y cómo está estructurado.
+Tu sitio web es tu lugar en la Internet. Controla su apariencia, contenido, y estructura.
 %
 Un Pubnix puede ofrecer autonomía para tu sitio web personal.
 %
-Si has escrito algunos ensayos que quieres compartir con el mundo, puedes compartirlos en tu sitio web personal; si eres un fotógrafo en busca de crear un portfolio para exponer tu obra, puedes agregar tus fotos a un sitio federado.
+Si has escrito algunos ensayos que quieres compartir con el mundo, puedes optar por tu sitio web personal; si eres un fotógrafo en busca de crear un portfolio para exponer tu obra, puedes agregar tus fotos a un sitio federado.
+%
+No puedes romper Internet.
+%
+Al navegar por Internet, su computadora puede congelarse, su pantalla puede presentar un montón de galimatías, pero el océano telemático que representa la Red jamás se congelará.
+%
+Con el más certero de los comandos, puedes acabar desactivando una computadora de un millón de dólares en algún lugar, pero lo más probable es que lo hagas con tu propia máquina.
+%
+La Red de alcance global y su computadora son más resistentes de lo que usted imagina. El problema lo constituyen las ciber-oligarquías.
+%
+Si algo sale mal, reinténtalo nuevamente.
+%
+Si nada sucede, siempre puedes desloguearte.
+%
+En el peor de los casos, puedes apagar tu máquina.
+%
+Respira profundamente, y vuelve a discar.
+%
+Vuelva a discar, e inténtalo nuevamente.
+%
+La perseverancia tiene su recompensa. Permanece en línea y contribuye a eliminar a las ciber-oligarquías.
