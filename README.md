@@ -37,7 +37,7 @@ sudo strfile /usr/share/games/fortunes/es/rms ;
 sudo cp /tmp/Estatuto-del-Hacker/doctrina.sh /usr/local/bin/doctrina ;
 sudo cp /tmp/Estatuto-del-Hacker/vaca.sh /usr/local/bin/vaca ;
 sudo cp /tmp/Estatuto-del-Hacker/rms.sh /usr/local/bin/rms ;
-sudo chmod +x /usr/local/bin/doctrina /usr/local/bin/rms ;
+sudo chmod +x /usr/local/bin/doctrina /usr/local/bin/vaca /usr/local/bin/rms ;
 sudo cp /tmp/Estatuto-del-Hacker/actualizar_doctrinas.sh /usr/local/sbin/actualizar_doctrinas ;
 sudo chmod +x /usr/local/sbin/actualizar_doctrinas
 ```
