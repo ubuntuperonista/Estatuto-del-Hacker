@@ -35,6 +35,7 @@ cd /usr/share/games/fortunes/es/ ;
 sudo strfile /usr/share/games/fortunes/es/doctrina ;
 sudo strfile /usr/share/games/fortunes/es/rms ;
 sudo cp /tmp/Estatuto-del-Hacker/doctrina.sh /usr/local/bin/doctrina ;
+sudo cp /tmp/Estatuto-del-Hacker/vaca.sh /usr/local/bin/vaca ;
 sudo cp /tmp/Estatuto-del-Hacker/rms.sh /usr/local/bin/rms ;
 sudo chmod +x /usr/local/bin/doctrina /usr/local/bin/rms ;
 sudo cp /tmp/Estatuto-del-Hacker/actualizar_doctrinas.sh /usr/local/sbin/actualizar_doctrinas ;
@@ -51,6 +52,7 @@ Use strfile para incorporar los ficheros .DAT.
 cd /tmp ;
 git clone https://github.com/ubuntuperonista/Estatuto-del-Hacker/ ;
 sudo cp /tmp/Estatuto-del-Hacker/fortunes/doctrina_bsd /usr/share/games/fortune/doctrina ;
+sudo cp /tmp/Estatuto-del-Hacker/vaca.sh /usr/local/bin/vaca
 sudo cp /tmp/Estatuto-del-Hacker/fortunes/rms_bsd /usr/share/games/fortune/rms ;
 sudo cp /tmp/Estatuto-del-Hacker/cows/*.cow /usr/local/share/cows/ ;
 cd /usr/share/games/fortune/ ;
