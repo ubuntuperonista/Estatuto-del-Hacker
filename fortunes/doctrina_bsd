@@ -43,6 +43,9 @@ Y cuando uno de nuestros servidores caiga, caerán cinco de los de ellos.
 Compilar, base para Ejecutar. Ejecutar, base para Copiar. Y Copiar, base
 para Compartir.
 %
+En la comunidad de hackers no existe más que una sola clase de hombres:
+la de los que compilan.
+%
 Todo este mundo maravilloso que estamos viviendo -técnico y científico-
 es consecuencia y se ha gestado con el sacrificio de los Pueblos,
 especialmente de los trabajadores.
@@ -58,6 +61,10 @@ porque es justo que todos compilen al menos lo que ejecutan.
 %
 Para nosotros un depurador no es un fin, sino el medio para el bien del
 kernel y la grandeza y felicidad de sus hackers.
+%
+La organización de los paquetes y su ejecución tienen por fin el
+bienestar de los hackers, dentro de un orden que atienda al desarrollo
+de la Justicia Social.
 %
 Los dos brazos del hacktivismo son el Software Libre y el Hardware
 Libre. Con ellos damos a los hackers un abrazo de Justicia y Amor.
@@ -94,6 +101,11 @@ El Software Libre es Justicia Social 2.0.
 %
 El software libre es la finalidad maquinada en el alma colectiva de la
 comunidad organizada. Su arquitectura define sus formas de ejecución.
+%
+La unidad del código hace que cada programador vea los problemas, los
+comprenda y los aprecie de una misma manera. Y de una misma manera de
+percibir y de apreciar resulta una misma manera de compilar. Eso lleva a
+la unidad de acción.
 %
 Que todos sean artífices del código común, pero ninguno instrumento de
 la ambición de nadie.
@@ -132,6 +144,13 @@ Esto se programa, se compila, se ejecuta, y recién después se copia. Es
 decir, el software depende de esa acción, de una preparación, y de una
 organización.
 %
+El kernel no se ejecuta de buenas ideas; se ejecuta de buenas
+compilaciones.
+%
+Creo que el software es movimiento, son acción no son solo pensamiento,
+no son sólo concepción. Para mí, la acción está siempre por sobre la
+concepción.
+%
 El software a nadie le sale al paso, no es obra de la casualidad, el
 software es obra de la previsión, de la organización y la realización
 libre.
@@ -151,6 +170,8 @@ Que sea esta unidad indestructible e infinita, para que nuestro pueblo
 no solamente posea su almacenamiento, sino que también sepa dignamente
 defenderlo.
 %
+Primero el Kernel, luego la Shell, y por último las aplicaciones.
+%
 Se vence con inteligencia y organización. Por ello les pido también que
 conserven una calma absoluta y cumplir con lo que es nuestro lema de
 siempre: de /home a /var y de var/ a /home.
@@ -159,6 +180,15 @@ Todo sistema informático debería ser infalible, pero no es un arte de
 los Dioses sino una creación humana, y como tal posee sus mismos bugs y
 las mismas inclemencias que afectan a toda máquina engendrada en la
 mente terrenal.
+%
+Este bug lo arreglamos entre todos o no lo arregla nadie.
+%
+La verdadera colaboración no es alabar siempre, sino señalar los bugs.
+%
+El programador debe escribir un lenguaje claro, esto llevará a realizar
+un binario de verdad, que podrá compartir en amistad.
+%
+El verdadero hacker es el que aconseja.
 %
 El software libre ha de estar en capacidad de ayudarnos en cualquier
 situación que se cuadre, incluyendo probables situaciones de emergencia.
@@ -299,6 +329,11 @@ significa emplear un software liberado bajo licencia GPLv3.
 No existen excusas para quien -sabiendo emplear programas libres-, no
 pueda transmitir ese conocimiento a quien lo necesita.
 %
+La CPU debe estar al servicio de la economía nacional y tener como
+principal objeto el bienestar social.
+%
+La PC es un bien individual en función social.
+%
 Como siempre sucede durante las actualizaciones de versión de sistema,
 debemos proceder a realizar un respaldo de nuestros datos, por las dudas
 que algo salga mal.
@@ -352,6 +387,9 @@ Yo persuadí a la gente con compiladores y con el cubo 3D de Compiz.
 conocía ni el gato. Y ahí empecé a compilar piezas de código. Y una cosa
 lleva a la otra, y todas a la felicidad de los hackers...
 %
+El kernel es el núcleo del sistema operativo y equivale a su alma y
+corazón. Lo de afuera es la shell: sólo cáscara.
+%
 El compilador GCC es el kilómetro cero de GNU.
 %
 Hemos programado y compilado un software: el GNU. Lo hemos hecho para
@@ -364,6 +402,8 @@ hombres y mujeres nuestro software.
 %
 Nosotros queremos que cada programador conozca el código, y que esté
 impulsado hacia los objetivos de la compilación.
+%
+El código fuente ha de ser de quien lo trabaja.
 %
 Nosotros queremos que cada programador se interese por su $HOME como si
 fuera su propia casa, porque el Pubnix es la casa grande de todos los
@@ -408,7 +448,7 @@ la acción de lucha, que sucede en /usr/bin.
 Unix existía antes que GNU, pero fue GNU quien les dio el lugar que los
 hackers merecían por justo derecho.
 %
-Un hacker debe ser - fundamentalmente - un amateur, aunque los hackers
+Un hacker debe ser - fundamentalmente - un amatéur, aunque los hackers
 pueden recibir paga por su expertise.
 %
 La vida de un verdadero hacker es episódica, en lugar de programada.
@@ -429,6 +469,8 @@ A Window$ siempre es mejor formatearlo que emparcharlo.
 La gran discusión en la que se sumirá el mundo no radica en compilar el
 software, sino quién conduce la compilación del software. Yo digo que la
 compilación la tiene que realizar el Pueblo.
+%
+20 gigabytes organizados equivalen a 20 petabytes desorganizados.
 %
 El hacktivismo presupone la existencia de la CPU, del ser humano y de
 una Comunidad Organizada mancomunadamente en pos de su Libertad.
@@ -626,9 +668,14 @@ Un algoritmo es un conjunto de reglas o formas de actuar para la
 resolución de un problema.
 %
 El problema de la liberación del software está ligado de manera
-indisoluble con el de la Justicia Social, el de la soberanía política y
-de la independencia económica del Tercer Mundo, y la distensión y la
+indisoluble con el de la Justicia Social, la soberanía política y la
+independencia económica del Tercer Mundo, así como la distensión y la
 cooperación internacional.
+%
+La Justicia Social en el cómputo bien vale inconvenir a los
+tecno-oligarcas.
+%
+¡Lleva la Justicia Social a las Redes Sociales!
 %
 A un pato se lo caza con llamador; unos graznidos realizados con este
 instrumento cerca de una laguna harán cureosear a una de estas aves y
@@ -872,6 +919,10 @@ antiestética duplicación de esfuerzo.
 Nuestra Cultura es permeable a los cambios, y desde el Martín Fierro
 hasta el libro más risueño, hemos de leerlo y compartirlo por Torrent.
 %
+El Pueblo debe tener libre acceso a todas las fuentes y manifestaciones
+de la cultura y de la educación, y esto incluye los contenidos digitales
+en las redes de datos.
+%
 De un tiempo a esta parte, se han popularizado los e-Book -libros
 electrónicos-, que no operan ya de forma física sino que son documentos
 informatizados. Estos cuentan con la ventaja de su fácil transmisión
@@ -892,6 +943,8 @@ Nos quieren decir que lo nuevo es contar con aplicaciones de ejecución
 remota, en la nube. Esta doctrina que se denomina "software como
 servicio" no es otra cosa que la zoncera de siempre, una engañifa para
 incautos.
+%
+Sólo el indio veía información en la nube.
 %
 El problema de llamar a GNU Linux no es un problema de todos. Es un
 problema entre Richard Stallman y Linus Torvalds. Que se arreglen entre
@@ -935,9 +988,8 @@ el progreso- trabaja todos los días en pos de la Libertad.
 %
 La solución musical original prevista en la computadora PC de IBM era
 mas bien poco imaginativa, ya que los oligarcas del Gigante Azul sólo le
-habían previsto un mediocre altavoz interno adosado a un oscilador de
-onda cuadrada. A eso, esos miserables lo llamaban "el sonido del
-pueblo".
+habían previsto un altavoz interno adosado a un oscilador de onda
+cuadrada. A eso, esos miserables lo llamaban "el sonido del pueblo".
 %
 Desde las unidades de IBM que acompañaban a las mainframe (de un tamaño
 individual que superaba a una heladera Siam), hasta el simpático
@@ -1017,6 +1069,8 @@ guerra sin cuartel, si trabajamos para tomar contacto con los que
 programan y los ayudamos desde aquí con todo lo que podemos,
 especialmente ofreciéndoles potencia de cómputo y almacenaje en nuestros
 servidores.
+%
+Los datos y código generado desde el Pueblo son para el Pueblo.
 %
 Googl€ es una corporación insaciable cuyo fin es capturar los datos del
 Pueblo.
@@ -1177,6 +1231,11 @@ Programar requiere, en el fondo, emprender una lucha de aparatos. Esta
 raramente puede llevarse a cabo sin aplicar armónicamente las cuatro
 libertades del software.
 %
+Para poder programar para una comunidad libre es menester no aferrarse
+siempre a la propia voluntad, no hacerles hacer siempre a los demás lo
+que uno quiere, sino permitir que cada uno pueda modificar también una
+parte de lo que desea.
+%
 La Liberación del Software requiere amplio control de sus cuatro
 libertades, así como la movilización de masas politizadas e idealizadas
 - y el necesario convencimiento de las no politizadas - con el fin de
@@ -1191,6 +1250,9 @@ Piratear software sólo es garantía de un triunfo pasajero que puede
 servirnos, pero tampoco podemos quedarnos como en el tango "pa'yudarte
 en lo que pueda cuando llegue la ocasión". ¡Hemos de escribir programas
 y compilarlos en este mismo momento!
+%
+Una de las cosas más difíciles de la tarea de compliar es encontrar a
+las bibliotecas con la capacidad para realizarla.
 %
 Contar con el último hardware es una bendición, pero también hemos de
 estar en condiciones de contemplar el uso de hardware más veterano, que
@@ -1393,9 +1455,11 @@ empresarial destinados al despilfarro social masivo. Orientan al incauto
 al gasto, porque el gasto produce lucro.
 %
 El ser humano - cegado por el espejismo de la tecnología - ha olvidado
-las verdades que están en la base de su existencia. La separación dentro
-de la humanidad se está agudizando de modo tan visible que perece que
-estuviera constituida por más de una especie.
+las verdades que están en la base de su existencia.
+%
+La separación tecnológica dentro de la humanidad se está agudizando de
+modo tan visible que perece que estuviera constituida por más de una
+especie.
 %
 Mientras el hombre llega a la luna gracias a la cibernética, la nueva
 metalurgia, combustibles poderosos, la electrónica y una serie de
@@ -1418,7 +1482,7 @@ independencia económica del Tercer Mundo.
 Toda aplicación de Software Libre, en cualquier campo que se quiera, no
 será menos que beneficiosa.
 %
-Los entornos similares a Unix están pensados bajo el paradigma
+Los entornos similares a Unix están concebidos bajo el paradigma
 Justicialista de la compartición de tiempo y recursos computacionales, y
 los GNU con kernel Linux confluyeron tal premisa en las PC compatibles
 con IBM.
@@ -1429,10 +1493,12 @@ el software libre puede hacer cosas más maravillosas aún.
 Un hacker ha de programar la CPU en pos de un objetivo que no puede ser
 otro que ofrecer un destino de grandeza a la Comunidad en la que habita.
 %
-La Interfaz de Línea de Comandos permite operar todo tipeando las
-órdenes que necesitemos de forma local, y también de manera remota. Por
-ello favorezco su uso siempre que sea posible, en cuenta de que la misma
-nos permitirá la agilidad que todo hacker requiere para el Movimiento.
+La Interfaz de Línea de Comandos permite operar mecanografiando las
+órdenes que necesitemos para su ejecución tanto local, como remota.
+%
+Favorezco el uso de la línea de comandos siempre que sea posible, en
+cuenta de que la misma permite la agilidad que todo hacker requiere para
+el Movimiento.
 %
 No cejamos en decir que en nuestro server, los únicos Privilegiados son
 los hackers.
@@ -1464,7 +1530,7 @@ tiempo compartido, pues hacker acompañado compila para la historia.
 %
 En los tiempos de Matusalén, Unix se conducía "a pelo", y esto
 significaba contemplar una pantalla de fósforo ámbar o verde. Las mismas
-presentaban parpadeo, y efecto de fantasma por el fósforo P31 o P39 que
+presentaban parpadeo y efecto de fantasma por el fósforo P31 o P39 que
 les daba su estética característica. Hoy esto puede abarcarse con
 Cool-Retro-Term.
 %
@@ -1788,7 +1854,7 @@ La computadora es, fue y será un arma.
 La computadora puede utilizarse para otros fines, pero debe promovérsela
 como un instrumento de liberación.
 %
-Un SysAdmin prevarico puede provocar una actitud de resistencia de los
+Un SysAdmin prevarico puede incentiva una actitud de resistencia de los
 usuarios a correr software privativo. Ellos desencadenarán un brote de
 instalación de GNU, al que sólo requerirá un puerto dominado para
 expandirlo en la LAN.
@@ -1800,27 +1866,27 @@ La Comunidad Organizada utiliza la Denegación de Servicio como
 demostración de masas, huelga y acción de protesta contra las
 ciber-oligarquías.
 %
-Como mínimo absoluto, en este preciso momento las ciber-oligarquías se
-encuentran calculando la tración a los derechos de todos los individuos
-del Tercer Mundo.
+Las ciber-oligarquías, se encuentran calculando - como mínimo absoluto -
+la tración a los derechos de todos los individuos del Tercer Mundo. Y lo
+están haciendo en este mismo momento.
 %
 Por protocolo TCP, los mismos paquetes que marchan por las troncales
 pueden confluir en una politizada demostración de masas: la Denegación
 de Servicio.
 %
-La Denegación de Servicio es otra forma de sabotaje telemático. Su
-ejecución puede darse aislada o en banda, centralizada o
-descentralizada, difuminada o escalada, según lo imponga la táctica de
-un concierto estratégico.
+La Denegación de Servicio es otra forma de sabotaje telemático.
+%
+La ejecución de la denegación de servicio puede darse en forma aislada o
+en banda, centralizada o descentralizada, difuminada o escalada, según
+lo imponga la táctica o un concierto estratégico.
 %
 La creación de virus informáticos cobró condición de necesidad, pues la
 lucha contra un sistema oligárquico injusto así lo exigía.
 %
 Un virus informático es un trozo de código de programación que adjunta
 copias de si mismo a otros programas, incorporándose a ellos de modo que
-- una vez modificados - los programas eventualmente sean capaces de
-cumplir aún su función pensada, mientras que subrepticiamente realicen
-otras.
+- una vez modificados - estos se vean capaces de cumplir aún su función
+pensada, mientras que subrepticiamente realicen otras eventuales.
 %
 Los programas corrompidos por virus informáticos suelen buscar otros a
 los cuales adjuntar copias del virus, propagando de esta manera la
@@ -1834,9 +1900,8 @@ Muy raramente pueden rastrearse los efectos de los virus informáticos
 hasta su originador. Por tal motivo constituyen armas atractivas en el
 arsenal de la guerrilla telemática.
 %
-Por lo general los virus de computadora contienen rutinas de
-intervención que modifican ficheros de programas que normalmente serían
-inocuos.
+Los virus de computadora contienen rutinas de intervención que por lo
+general modifican ficheros de programas que normalmente serían inocuos.
 %
 Al invocar un programa infectado por un virus informático, este suele
 buscar otros ficheros almacenados a fin de en ellos replicarse a sí
@@ -1845,14 +1910,14 @@ mismo.
 La acción virósica de muchos virus informáticos se produce programando
 la inserción - en el punto de inicio del programa antiguo - de una
 instrucción de ramificación orientada hacia su propia copia localizada
-en otro lugar cierto.
+en algún otro lugar.
 %
 Como la información compartida es información diseminada, un virus
 informático puede diseminarse al compartir información digitalizada.
 %
 Un sistema multiusuario con facilidades de compartición de medios de
-almacenamiento, o un computador personal cuyos usuarios descargan
-programas allí situados, pueden tornarse en potentes vectores de
+almacenamiento - o un computador personal cuyos usuarios descargan
+programas allí situados - pueden tornarse en potentes vectores de
 diseminación de virus informáticos.
 %
 El correo electrónico es un vector común de infección, especialmente
@@ -1860,8 +1925,8 @@ cuando sus mas poderosos clientes terminan corriendo arbitrariamente
 microprogramas capaces de oficiar de virus.
 %
 Un Caballo de Troya es cualquier función subrepticia no deseada,
-insertada en un programa informático que aprovecha, por medio de
-ingeniería social sobre la confianza humana, el estado de confianza de
+insertada en un programa informático que aprovecha - por medio de
+ingeniería social sobre la confianza humana - el estado de confianza de
 su huésped maquinal.
 %
 Desarrollar virus informáticos en ensamblador, además de permitir
@@ -1891,20 +1956,22 @@ Un bug bien instalado en el microcódigo es casi imposible de detectar.
 Entre admins no se pagan instalaciones.
 %
 En GNU todo puede hacerse a través de la terminal o de entornos
-gráficos. Emplear una terminal de texto, sin embargo, nos permite
-indicar rápidamente los temperamentos evitando errores y omitiendo
-engorrosas descripciones de procedimientos gráficos.
+gráficos. Emplear una terminal de texto permite - no obstante - indicar
+rápidamente los temperamentos, evitando errores y omitiendo engorrosas
+descripciones de procedimientos gráficos.
 %
 Leer texto en un terminal monocromático ámbar me recuerda a leer la
-Biblia de Gutemberg iluminada.
+Biblia Iluminada del gran Gutemberg.
 %
 En lugar de un sistema operativo propiamente dicho, Micro$oft Window$ se
 ha constituido en poco más que un malware privativo.
 %
-Nada de contradictorio tiene el software libre con nuestro movimiento,
+Nada de contradictorio tiene el software libre con nuestro Movimiento,
 en tanto el software libre no es otra cosa que la Justicia Social
-llevada al campo informático, y como tal, será un nuevo y relevante
-campo de batalla donde el objetivo es Combatir al Capital.
+llevada al campo informático.
+%
+El Software Libre, como tal, es un nuevo y relevante campo de batalla en
+donde el objetivo es Combatir al Capital.
 %
 Contará con todo nuestro software, el que se comparte de forma gratuita
 y libre para que usted lo use, modifique, cree sus propias versiones
@@ -1979,7 +2046,7 @@ Es imposible remover todo riesgo.
 %
 Nunca puedes proteger una CPU al 100%.
 %
-Mitiga el riego a tu computadora hasta un grado aceptable. Es imposible
+Mitiga el riesgo a tu computadora hasta un grado aceptable. Es imposible
 remover todo el riesgo.
 %
 Los métodos más efectivos para minimizar la capacidad de los intrusos de
@@ -3294,7 +3361,7 @@ quiere.
 %
 Ciertas organizaciones de Capital - degeneradas por interés de control
 abusivo - hacen uso del código fuente ya no como objeto de preparación y
-estudio maquinal, sino como un instrumento para la dominación humana.
+estudio maquinal, sino como un instrumento para la dominación.
 %
 Muchas veces se ha dicho que el software privativo va tras el lucro,
 pero el objetivo inconfeso es lograr la explotación del hombre a través
@@ -3848,6 +3915,8 @@ terminal. Ordénale combatir a la oligarquía.
 La shell recibe sus órdenes y las traduce en instrucciones en la
 sintaxis interna del sistema operativo. Debéis conducir la Shell.
 %
+No hay código fuente para armar una comunidad. Esta debe dárselo.
+%
 Muchas de las funciones que ofrece Unix derivan de la shell, que por lo
 tanto puede considerarse una parte integral del sistema.
 %
@@ -4140,7 +4209,7 @@ derecho a acceder al mismo y sus recursos informáticos de acuerdo al
 criterio de autorización establecido por la administradora del sistema
 de cómputo.
 %
-las usuarias no autorizadas no tienen derecho a utilizar el sistema en
+Las usuarias no autorizadas no tienen derecho a utilizar el sistema en
 sí, o bien no tienen derecho a utilizar ciertos recursos del sistema,
 incluso en determinados momentos del día.
 %
@@ -4148,18 +4217,21 @@ Con el correr del tiempo se ha hecho obvio que la seguridad efectiva de
 un sistema de cómputo sólo puede resultar de la aplicación de una
 estructura modelo básica de sistema de cómputo seguro.
 %
-El modelo de seguridad informática por Monitora de Referencia desglosa
-al sistema de cómputo en criterios de utilización por sujetos y objetos,
-según una base de datos de autorización, a través de un tren de
+El modelo de seguridad informática por Monitora de Referencia desglosa -
+según una base de datos de autorización - al sistema de cómputo en
+criterios de utilización por sujetos y objetos, a través de un tren de
 auditoría seguido por arbitrio de la Monitora.
 %
 Nuestros hackers en el mainframe son quienes ejercen un control humano
 en la compilación, extracción de datos georreferenciados, y permiten que
-su explotación sea mucho más efectiva por parte del conductor, que un
-supuesto esquema de machine-learning ideado por un lego en la política.
+su explotación sea mucho más efectiva que un supuesto esquema de
+machine-learning ideado por un lego en la política.
 %
 El Hacking organizado es también la rebelión de las masas contra un
 sistema.
+%
+Nosotros hemos creado una inmensa caja de herramientas, que está en
+nuestra doctrina.
 %
 No interesa el compilador que se utiliza, las ideologías insidiosas y
 caducas han sido superadas por un sentimiento nuevo de verdadera y
@@ -4326,6 +4398,10 @@ públicos.
 Rechazamos el uso de cualquier y todo software privativo en el ámbito
 educativo, para no generar dependencias tecnológica ni económica en los
 estudiantes.
+%
+Rechazamos y no permitimos que el código fuente, imaginería y/o textos
+generados a través de aprendizaje máquina sean utilizados directa o
+indirectamente para el desarrollo de nuestros programas.
 %
 El violador más importante de la seguridad informática es el dueño de un
 programa privativo.
@@ -4572,6 +4648,9 @@ Pubnix, los servidores de acceso público protegidos por criptosistemas.
 Los Pubnix garantizan salvoconductos para el desarrollo de herramental
 de lucha telemática, evadiendo su rastreo, destrucción o eventual
 inutilización.
+%
+Un Pubnix sin unidad de acción es una fuerza inorgánica que no realiza
+grandes obras ni se consolida en el tiempo.
 %
 La lid telemática consiste fundamentalmente en una guerra de movilidad
 por transmisión.
@@ -5017,9 +5096,25 @@ Unix significa todo, pues todo es un fichero.
 %
 El acceso a root no se da, se escala.
 %
+Lo primero que hay que hacer para compilar un kernel Linux, es tener un
+GNU.
+%
+Sólo es posible ser root cuando hay un sistema que administrar.
+%
+En los Pubnix siempre lo más difícil es ser root. Pero también es lo más
+divertido.
+%
+Los Pubnix triunfan o son destruidos por sus roots. Cuando un Pubnix se
+viene abajo, no es el Pubxni quien tiene la culpa, sino el root.
+%
+El Pubnix es de los hackers y para los hackers, cuando el root es un
+hacker.
+%
+Un root de un Pubnix debe ser libremente elegido por el Pueblo.
+%
 Para digitalizarse, la juventud ha de obtener acceso de root.
 %
-El comando sudo permite a tu usuaria de GNU ordenar como si fuese sudo,
+El comando sudo permite a tu usuaria de GNU ordenar como si fuese root,
 pero sólo si ésta pertenece al grupo de usuarios sudo.
 %
 Privilegia usuarias de GNU accediendo como root y ordenando "usermod -a
@@ -5751,6 +5846,10 @@ líneas privativas.
 Si quieres modificar, primero debes copiar; este es el comienzo de la
 compilación.
 %
+En el software, para que uno pueda escribir el cincuenta por ciento de
+lo que uno quiere, ha de permitir que los demás modifiquen el otro
+cincuenta por ciento de lo que ellos quieren.
+%
 La acumulación de código se exalta hoy como si fuera una virtud. Pero el
 código es para compartirlo, para fraternizar.
 %
@@ -6322,6 +6421,9 @@ difusión es para todos y nadie en particular.
 %
 Prestar el código fuente no se considera difusión del código fuente.
 %
+La difusión y la información del código, son extraordinarias. Lo
+ordinario es programar.
+%
 Si la tesis es que las computadoras constituye un medio liberador para
 que los individuos creen arte, mejoren sus vidas y se comuniquen; la
 antítesis las colocan como herramientas del autoritario para alienar y
@@ -6866,6 +6968,10 @@ No estamos programando suficientes microkernels.
 Reprogramar la acción de un núcleo de procesamiento es poco si no se
 convence a los programadores de liberar su software.
 %
+Los hackers que vengan al Pubnix deben hacerlo con la voluntad decidida
+a poner todos los días código de su parte, para ennoblecerlo y
+dignificarlo.
+%
 Para armar a los programadores sólo se necesita un compilador.
 %
 La confianza siempre es buena, pero el control es mejor.
@@ -6988,6 +7094,12 @@ cosas extrañas.
 %
 Hay miles de herramientas de hacking, pero lo importante es pegarle al
 root.
+%
+Un root, por genial que fuese, no podría conocer cada uno de los miles
+de paquetes que instala.
+%
+Hay una cosa que debe marchar sola; es decir, la licencia, que pone a
+todos los programas "a patear contra el software privativo".
 %
 No existe seguridad informática en esperar que un pillo ataque a través
 de un enlace e intentar emparchar el agujero. La hay en combatir al
@@ -8240,8 +8352,8 @@ Pueblo, se convertirán indefectiblemente en un instrumento de tiranía.
 Una red mundial de comunicaciones diseñada y controlada por los Pueblos
 constituirá un ágora electrónico.
 %
-En los mejores Pubnix, sus primeros usuarios han diseñado el sistema
-para los usuarios posteriores.
+En los mejores Pubnix, sus primeros usuarios diseñan el sistema para los
+usuarios posteriores.
 %
 El uso del Pubnix coevoluciona con el sistema Unix.
 %
@@ -8435,6 +8547,10 @@ un script maligno.
 No es labor de Unix impedir que el root se de un tiro en el pie.
 %
 Desprograma la obsolescencia con software libre.
+%
+Un software privativo hoy excelente puede resultar un anacronismo dentro
+de pocos años, a fuerza de no evolucionar y de no poder ser adaptado a
+las nuevas necesidades.
 %
 Desconfía de los esquemas de confianza en el código.
 %
@@ -8637,11 +8753,19 @@ de los hackers. Esta es la manera en la que se desata la guerrilla
 telemática.
 %
 En la lid telemática, la acción defensiva por antonomasia la constituye
-el sabotaje.
+el sabotaje telemático.
 %
 Los hackers del Tercer Mundo han de concebir sus ataques cibernéticos
 para que sean visibles, y velen - en efecto - los furtivos y mucho más
 demoledores sabotajes telemáticos sobre las ciber-oligarquías.
+%
+Aplicando una concepción táctica que detecte los puntos débiles de los
+ciber-oligarcas, y aplicando esa condición fantasmal del hacker en las
+líneas de datos, todo es posible.
+%
+En la lid telemática, a su innata disposición revolucionaria y a su
+capacidad técnica elevada, el hacker debe sumar la disciplina del
+revolucionario soslayado.
 %
 Sin una mayor integración en una acción soslayada de sabotaje
 telemático, el rendimiento táctico de los ciberataques será siempre
@@ -9419,7 +9543,7 @@ El software privativo, por definición, sirve a un interés corporativo, y
 no al interés público.
 %
 Los cimientos de la Internet actual se encuentran enterrados bajo una
-larga historia de desarrolo abierto, libre intercambio de ideas, y
+larga historia de desarrollo abierto, libre intercambio de ideas, y
 niveles sin precedentes de cooperación intelectual.
 %
 Los cimientos de una Internet abierta continúan resistiendo las
@@ -9462,6 +9586,14 @@ socióloga, obrera y soldada. Opcionalmente, ovula.
 No sólo la seguridad, sino también la justicia informática debe
 divulgarse. Para ello debemos educar, comunicar y adoctrinar a todo
 aquél que se loguee.
+%
+Tenemos que formar programadores capaces de comentar y programadores
+capaces de compilar.
+%
+En este caso se trata de formar, en lo posible, el mayor número de
+hombres capaces de programar código fuente, porque en este país, hasta
+ahora, no hemos formado más que hombres capaces de usar paquetes
+binarios.
 %
 Vi$ual $tudio demanda tres cosas: el compilador, la CPU y el hacker.
 %
@@ -9527,12 +9659,33 @@ al averno.
 Los archivos codificados en ASCII y UTF-8 son excepcionalmente buenos
 para abandonar la vacuidad de redes sociales orientadas a memes.
 %
+La telaraña de alcance global es en realidad una red compleja de redes
+de datos menores, de alcance regional. A su vez, se enlazan a ellas
+redes locales aún más pequeñas o computadoras individuales.
+%
+La telaraña de alcance global es más que una maravilla tecnológica. Es
+la comunicación popular en su nivel más fundamental.
+%
+Sólo los Pueblos conocen la verdadera extensión de la telaraña de
+alcance global.
+%
 Gran parte de la telaraña de alcance global consiste en bibliotecas
 académicas, bases de datos y cualquier cosa inaccesible a los motores de
 búsqueda cautivos por empresas orientadas a metadatos.
 %
 Co-habita toda red tan oscura como la piel de mis grasitas. Te
 iluminará.
+%
+Estar enlazado a la Red implica algo más que simplemente leer
+conferencias y registros computarizados. Implica hacer y responder
+interrogantess, intercambiar opiniones, involucrarse en la Liberación
+del Tercer Mundo.
+%
+Si decides loguearte, usar la red de datos y contribuir, te convertirás
+en un "ciudadano del ciber-espacio".
+%
+Ser un ciudadano del ciber-espacio le parecerá la cosa más natural del
+mundo.
 %
 Cede a las ciber-oligarquías, y verás privadas a las ciudades del Tercer
 Mundo de aire acondicionado a cambio de correr programas de IA sólo para
@@ -9555,7 +9708,7 @@ Si puedes fabricar tus propias herramientas, hardware y software,
 Cada invención ha ser ingenieada para 100 usuarias del Tercer Mundo.
 %
 El destino de nuestras computadoras es convertirse en amplificadores
-intelectuales interactivos para una red de datos de area amplia red que
+intelectuales interactivos para que una red de datos de area amplia
 incluya a quienes estén en y con nuestro Tercer Mundo.
 %
 Da forma computacional a los logros humanos del Tercer Mundo.
@@ -9632,9 +9785,11 @@ Conócete a tí mismo como a tu hardware.
 Conoce lo suficiente sobre tu objetivo humano, conoce todo sobre su
 cómputo.
 %
-Copiad los unos a los otros.
+Copiad el código los unos a los otros.
 %
 Copiad y distribuíd todos de él, pues este es mi código.
+%
+COM1 es mi mouse, COM2 es mi módem.
 %
 El código fuente es, al fin de cuentas, una alegoría.
 %
@@ -9882,6 +10037,10 @@ Un hacker impulsivo que no comprenda la necesidad de modificar su
 programa o no quiera hacerlo, chocará inevitablemente contra el muro de
 la obsolescencia.
 %
+El programador es un hombre que compila sin mirar al lado y sin mirar
+atrás. El hacker es el hombre que persuade para que todos compilemos,
+simultáneamente, lo que tenemos que compilar.
+%
 Un hacker del Tercer Mundo es aquél que ayuda a lograr el potencial de
 las redes de computadoras para la Comunidad Organizada en su conjunto.
 %
@@ -10084,6 +10243,9 @@ Python y, por desgracia, de sectas de LISP.
 %
 Cada uno en su /home, y el SysAdmin en el de todos.
 %
+La acción social en materia del Pubnix deberá asegurar a cada usuario la
+posesión de un /home minimalista con los permisos adecuados.
+%
 Los rastros digitales son creados por ti y también por otras personas
 que publican activamente información. Esto incluye lo que escribes,
 publicas y compartes, así como el contenido que otras personas crean
@@ -10258,8 +10420,8 @@ barreras que impiden construir, poseer y controlar.
 Escapa de todos aquellos vericuetos en la red tras los cuales sólo
 puedes consumir.
 %
-En los Pubnix tendrás mayor elección de tu público, o post privados y
-control de tu audiencia.
+En los Pubnix tendrás mayor elección de tu público, ya sea posteando en
+privado o controlando tu alcance y audiencia.
 %
 En los Pubnix tendrás la habilidad de corregir los enlaces URLS cuando
 se rompen o desaparecen.
@@ -10278,7 +10440,7 @@ En los Pubnix tendrás posesión y control de los enlaces afiliados para
 monetizar tu trabajo si lo deseas.
 %
 Cuando alguien visita tu sitio web personal, debería ser presentado con
-algunos proyectos pasados en lo que te has visto envuelto, o una corta
+algunos proyectos pasados en los que te has visto envuelto, o una corta
 biografía de lo que estás haciendo ahora.
 %
 Si trabajas en una profesión creativa tal como escribir o programar,
@@ -10288,12 +10450,40 @@ pensamientos sobre el mundo y tus aprendizajes.
 Tu portfolio mostrará tus experiencias pasadas; tu blog mostrará lo que
 has aprendido en tus proyectos.
 %
-Tu sitio web es tu lugar en la Internet. Controlaraás su apariencia, qué
-incluye, y cómo está estructurado.
+Tu sitio web es tu lugar en la Internet. Controla su apariencia,
+contenido, y estructura.
 %
-Un Pubnix puede ofrecer autonomía para tu sitio web personal.
+A cambio de poca incomodidad, un Pubnix puede ofrecer autonomía para tu
+sitio web personal.
 %
 Si has escrito algunos ensayos que quieres compartir con el mundo,
-puedes compartirlos en tu sitio web personal; si eres un fotógrafo en
-busca de crear un portfolio para exponer tu obra, puedes agregar tus
-fotos a un sitio federado.
+puedes optar por tu sitio web personal.
+%
+Si eres un fotógrafo en busca de crear un portfolio para exponer tu
+obra, puedes agregar tus fotos a un sitio federado.
+%
+No puedes romper Internet.
+%
+Al navegar por Internet, su computadora bloquearse, su pantalla
+presentar un montón de galimatías. Pero el océano telemático que
+representa la Red jamás se congelará.
+%
+Con el más certero de los comandos, puedes acabar desactivando una
+computadora de un millón de dólares en algún lugar, pero lo más probable
+es que lo hagas con tu propia máquina.
+%
+La red de alcance global y su computadora son más resistentes de lo que
+usted imagina. El problema lo constituyen las ciber-oligarquías.
+%
+Si algo sale mal, reinténtalo nuevamente.
+%
+Si nada sucede, siempre puedes desloguearte.
+%
+En el peor de los casos, puedes apagar tu máquina.
+%
+Respira profundamente, y vuelve a discar.
+%
+Vuelva a discar, e inténtalo nuevamente.
+%
+La perseverancia tiene su recompensa. Permanece en línea y contribuye a
+eliminar los procesos de las ciber-oligarquías.
