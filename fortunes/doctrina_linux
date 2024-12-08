@@ -712,7 +712,9 @@ Para poder programar para una comunidad libre es menester no aferrarse siempre a
 %
 La Liberación del Software requiere amplio control de sus cuatro libertades, así como la movilización de masas politizadas e idealizadas - y el necesario convencimiento de las no politizadas - con el fin de modificar sus estructuras.
 %
-Sólo con software libre podrá actuarse de forma efectiva en la defensa de los intereses de los hackers, obrando con acción afiebrada sobre los servidores de Internet, a fin de desenmascarar la oligárquica visión de clase que la ha dominado.
+Sólo se podrá actuar efectivamente en defensa de los intereses de los hackers mediante software libre.
+%
+Obrando afiebradamente con software libre sobre los servidores de Internet, los hackers pueden al fin desenmascarar la oligárquica visión de clase que la ha dominado.
 %
 Piratear software sólo es garantía de un triunfo pasajero que puede servirnos, pero tampoco podemos quedarnos como en el tango "pa'yudarte en lo que pueda cuando llegue la ocasión". ¡Hemos de escribir programas y compilarlos en este mismo momento!
 %
@@ -1147,6 +1149,10 @@ Inicia ataques de denegación de servicio contra los personeros de las ciber-oli
 Las oligarquías no han dudado en proponer e intentar la idea del ciber-oscurantismo. En esta no se comercia con la información -como proponía la perimida teoría infoeconómica- sino que se ejerce poder político con el aventajamiento del desconocimiento que las masas guardan de dicha información.
 %
 Las oligarquías, desde sus madrigueras de los datos, no han cedido en sus anhelos de des-democratizar la expresión política del Pueblo a través de herramientas tecnológicas, a fin de someterlo a su control.
+%
+Internet es una red de datos de ampli alcance, partes de la cual están subvecionadas por varios gobiernos.
+%
+Internet se usa para traficar datos. Que estos sean para la liberación o para la dominiación de los Pueblos, depende del afán con que estos se adoctrinen.
 %
 La Internet surge en el 91, pero a efectos prácticos podemos decir que influye desde una década después de esto (c.2000), cuando las masas se ven políticamente influidas por las redes de datos.
 %
@@ -3151,7 +3157,7 @@ millones de litros de agua al año, el 75 por ciento potable.
 %
 No es extraño para Googl€ consumir 25.000 millones de litros de agua potable anual en refrigeración de sus centros de datos privados.
 %
-Un auge del modelo de cómputo empresarial amenaza con disparar el consumo de agua potable sólo para taraas de refrigeración de servidores.
+Un auge del modelo de cómputo empresarial amenaza con disparar el consumo de agua potable sólo para tareas de refrigeración de servidores.
 %
 El tecno-oligarca considera más valiosa la refrigeración de un centro de datos que surtir agua a la población del África Subsahariana.
 %
@@ -3331,7 +3337,7 @@ El agradecimiento es la memoria del corazón. La caché lo es de la CPU.
 %
 Para conducir al Pueblo, compila para el Pueblo.
 %
-Tratar de conducir una organización mediante listas de correo electrónico es muy diferente a tratar de mantener un debate en USENET.
+Tratar de conducir una organización mediante listas de correo electrónico es muy diferente a tratar de mantener un debate en Usenet.
 %
 Con buenos lenguajes se puede programar, pero para engrandecerse, ha de compilarse para el Pueblo.
 %
@@ -3878,7 +3884,7 @@ Un mensaje, un programa, o cualquier otra estructura de conocimiento es mucho m�
 %
 Los sistemas de cómputo de tiempo compartido están obligados a tomar compromisos horribles, pues siguen la delgada línea entre querer que el usuario cuente con la potencia de cómputo absoluta en cada paso de ejecución de un programa, a la vez que éste sólo desea procesar en una parte del tiempo.
 %
-Algunos ingenuos pensaron que la programación orientada a objetos sólo podía incrementaar el ancho de banda programador-programa. Hoy no están tan seguros.
+Algunos ingenuos pensaron que la programación orientada a objetos sólo podía incrementar el ancho de banda programador-programa. Hoy no están tan seguros.
 %
 Por incapacidad, un programador se ve forzado a utilizar sistemas de depurado interactivo. Un verdadero hacker en cambio recurre a volcados de memoria en hexadecimal u octal.
 %
@@ -4298,9 +4304,33 @@ Los orígenes de la Usenet se remontan a 1979, cuando tres universitarios idearo
 %
 La Usenet era en principio un sistema de mensajería en carteleras electrónicas implementada en 1979 por Steve Bellovin, Jim Ellis, Tom Truscott, y Steve Daniel, sobre todo en máquinas Unix de la Universidad de Duke.
 %
-La unidad básica de información en Usenet es el Artículo, que puede enviarse a un grupo de noticias jerárquico temático.
+La unidad básica de información contribuida en Usenet es el Artículo, que puede enviarse a Grupos de noticias de temática jerarquizada.
+%
+Usenet es el conjunto de máquinas que intercambian artículos etiquetados con una o más etiquetas universalmente reconocidas, los Grupos de Noticias o Newsgroups.
+%
+Usenet abarca computadoras situadas en agencias gubernamentales, grandes universidades, escuelas secundarias, empresas de todo tamaño, ordenadores domésticos de todo tipo, cada una de ellas controlada por un administrador de sitio.
+%
+Ningún administrador de sitio de Usenet puede oficiar control real sobre ningún otro sitio semejante, y sólo puede controlar la proveduría de servicios según la manera en la cual los ha instalado en su propia máquina.
+%
+Usenet no es una organización, y como tal no tiene una autoridad centralizada. De hecho, no tiene central alguna.
+%
+Según el sentido del tráfico telemático, ciertos sitios de Usenet pueden tener cierta influencia sobre sus nodos vecinos. Sin embargo, al ser fáciles de circunvalar, las manipulaciones despóticas provocan ineludibles reacciones de resentimiento.
+%
+Algunas personas desearían que Usenet fuera una democracia. Mucha gente finge que lo es, pero ambos grupos están totalmente equivocados.
+%
+Al no ser una organización, Usenet no es una democracia. Sólo una organización puede funcionar como democracia.
+%
+Incluso una democracia telemática debe estar organizada, pues si carece de medios para hacer cumplir los deseos del Pueblo, es muy posible entonces entonces que sea una farsa.
+%
+Usenet no es una red comercial, y existe la costumbre de mantener al mínimo el tráfico comercial. De aceptárselo, se lo hace a regañadientes.
+%
+Muchos sitios de Usenet son organizaciones académicas o gubernamentales.
 %
 Desde 1980 la Usenet creció rápidamente para volverse internacional y convertirse en la mayor utilidad informática descentralizada en existencia. Para 1996 contaba con diez mil grupos de noticias que surtían un promedio de 500 megabytes diarios.
+%
+Usenet no es Internet.
+%
+Internet es sólo una de las diversas redes donde se trafican artículos de Usenet.
 %
 Para el año que la Internet se popularizó (1994), el transporte UUCP original de la Usenet empezó a quedar fuera de uso, pues casi todas los vínculos mutaron a enlaces sobre la red Internet.
 %
@@ -4787,6 +4817,12 @@ La columna vertebral de datos utiliza líneas de telecomunicaciones especiales y
 La Red interpreta la censura como daño y sigue la senda de evitarla.
 %
 En las comunidades mediadas por el cómputo existe una gran tradición por la libertad de expresión, y censurar mensajes públicos o incluso prohibir la publicación de un mensaje por contenido molesto u ofensivo se considera inaceptable.
+%
+Algunas personas malinterpretan su derecho local de "libertad de expresión" en el sentido de que tienen el derecho legal de utilizar las computadoras ajenas para decir lo que desen en la forma que desean, sin que los propietarios de dichas computadoras tengan derecho de detenerlos. Esa gente está equivocada. La libertad de expresión también significa libertad de acallar; si elijo no usar mi computadora para asistir en un discurso ajeno, es mi derecho.
+%
+La libertad de prensa pertenece a quienes poseen la prensa. Por tal motivo es imprescindible contar con los medios de publicación en línea y dominarlos.
+%
+Recurrir a medios de publicación para exponer ideas propias es adecuado, pero hacer uso de redes de computadoras ajenas para mediar en la comunicación, necesariamente implicará inhibiciones. Es quien posee la máquina quien podrá controlar la propagación según cómo la domine.
 %
 Las comunidades mediadas por el cómputo han desarrollado prácticas que se apoyan más en un sentido compartido e internalizado de comportamientos apropiados en línea, que en la censura telemática.
 %
@@ -5904,7 +5940,7 @@ De la calidad de la licencia dependen las libertades de una comunidad.
 %
 IA adoctrinada con Justicialismo producirá Justicia Social.
 %
-IA aadoctrinada con basura producirá basura.
+IA adoctrinada con basura producirá basura.
 %
 Entuba todos los discursos de la ciber-oligarquía a /dev/null.
 %
@@ -6168,9 +6204,11 @@ Tus rastros digitales ofrecen a quienes tienen acceso a ellos una perspectiva mu
 %
 En las redes sociales basadas en empresas, los metadatos constituyen rastros digitales casi siempre creados de forma pasiva, sin que necesariamente usted caiga en cuenta, o siquiera lo consienta.
 %
-En las redes sociales basadas en empresas, tus hábitos de navegación y dirección IP son compartidas entre los sitios web que visitas y los servicios que utilizas, a fin de trazar tu comportamiento por seguimiento e inferencia digital. En base a estos rastros digitales, se te presentará publicidad vectorizada algorítmicamente de productos y servicios.
+En las redes sociales basadas en empresas, tus hábitos de navegación y dirección IP son compartidas entre los sitios web que visitas y los servicios que utilizas, a fin de trazar tu comportamiento por seguimiento e inferencia digital.
 %
-Las redes sociales baasadas en empresas venden datos que le pertenecen a usted y análisis acerca de usted a otras empresas e incluso a gobiernos con fines de lucro.
+En base a los registros rastros digitales que realicen las redes sociales basadas en empresa, se te presentará publicidad vectorizada algorítmicamente de productos y servicios que no necesitas.
+%
+Las redes sociales basadas en empresas venden datos que le pertenecen a usted y análisis acerca de usted a otras empresas e incluso a gobiernos con fines de lucro.
 %
 Ciertos individuos pueden desear la información en poder de empresas que gestionan redes sociales en línea para acosar, chantajear, o espiar a miembros de sus organizaciones y sus redes afectivas.
 %
