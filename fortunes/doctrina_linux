@@ -174,7 +174,7 @@ El HTML es un conjunto de especificaciones extremadamente largo y complicado, di
 %
 El HTML fue diseñado sin tener en cuenta el correo electrónico.
 %
-Una gran parte (si no la mayoría) de las funcionalidades del HTML no son deseables para los correos electrónico, si se incluyen pueden abusarse para extraer información sobre ti, tus contactos, tu calendario, otros correos en tu bandeja de entrada, etc.
+Una gran parte (si no la mayoría) de las funcionalidades del HTML son ideseables para el correo electrónico; si se incluyen pueden abusarse para extraer información sobre ti, tus contactos, tu calendario, otros correos en tu bandeja de entrada, etc.
 %
 La ejecución remota es una de las funcionalidades del HTML más abusadas en el correo electrónico.
 %
@@ -384,7 +384,7 @@ Gran parte del software que recibo y envío está preparado en lenguaje Python, 
 %
 Para conducir a Python, que mejor que un gestor de paquetes de facto: el pip.
 %
-Un verdadero hacker ha de poseer la habilidad para dividir su accionamiento informático en partes pequeñas comprensibles, que le avalen la realización de muchos trabajos sencillos. El total de sus realizaciones será la suma y unión de las partes. Esta es la manera en la que Unix nos permite proyectar un futuro provechoso.
+Un verdadero hacker ha de poseer la habilidad para dividir su accionamiento informático en partes pequeñas comprensibles, que le avalen la realización de muchos trabajos amenos. El total de sus realizaciones será la suma y unión de las partes. Esta es la manera en la que Unix nos permite proyectar un futuro provechoso.
 %
 Módem que no chilla, no conecta.
 %
@@ -578,7 +578,7 @@ Desde las unidades de IBM que acompañaban a las mainframe (de un tamaño indivi
 %
 Para nosotros programar es adoctrinar, porque la doctrina es el único caudillo que resiste a la acción destructora del tiempo, y nosotros trabajamos para el porvenir.
 %
-Nuestro sistema es uno en donde hacer las acciones anheladas por los trabajadores es de lo más sencillo. A ello he abocado todos mis esfuerzos de creador, artista y Conductor.
+Nuestro sistema es uno en donde hacer las acciones anheladas por los trabajadores es de lo más ameno. A ello he abocado todos mis esfuerzos de creador, artista y Conductor.
 %
 Algunos programadores pueden optar favorecer ciertas mejoras, toda vez que respetan la estética, credos y demás preconceptos de el código heredado. En tal caso, nos encontraremos frente a un mero efectismo, que no suele suplir las necesidades nuevas con las características de ayer.
 %
@@ -988,7 +988,7 @@ El software no es, como dicen algunos, la base de toda comunidad de cómputo: es
 %
 La verdadera red social es la amistad.
 %
-Las megacorporaciones basadas en la recopilación de metadatos no son más que máquinas ajenas orientadas al Capital. Lucha contra ellas. Su vitalidad es fingida y sólo maquinal.
+Las megacorporaciones basadas en la recopilación de metadatos no son más que computadoras ajenas orientadas al Capital. Lucha contra ellas. Su vitalidad es fingida y sólo maquinal.
 %
 Defiende tu privacía, encripta tus datos, ofusca todos los enlaces y embota a quienes pretenden usarlos. No existe uso positivo para datos ajenos.
 %
@@ -1636,7 +1636,7 @@ Si un sistema operativo es privativo, el virus informático que lo destruye se c
 %
 En el espacio de direccionamiento de un microprocesador 8080, la ROM está mapeada primero. En el 8086, lo es la RAM. Pero en la mente del programador, lo primero ha de ser la Justicia.
 %
-El objetivo del router es que cualquiera llegue a buen puerto TCP.
+El objetivo del router es que cualquier paquete llegue a buen puerto TCP.
 %
 Con Jitsi Meet podremos ofrecer clases virtuales, establecer enlaces cifrados con terceros, presentar el contenido de nuestra pantalla o aplicaciones en él, "dar la palabra" autorizando el uso del micrófono (o "cerrar " micrófono o webcam).
 %
@@ -2166,7 +2166,7 @@ La versión original de Unix estaba escrita en ensamblador, pero dado que el gru
 %
 Unix nació esencialmente como una reacción a los sistemas operativos grandes, complejos e inflexibles disponibles a fines de la década de 1960.
 %
-Las versiones recientes de Unix están estructuradas para un uso sencillo y funcional en las redes de transmisión de datos.
+Las versiones recientes de Unix están estructuradas para un uso ameno y funcional en las redes de transmisión de datos.
 %
 Unix es un sistema multitarea de tiempo compartido que puede afrontar fácilmente varias tareas en paralelo. Que una de ellas sea combatir al Capital.
 %
@@ -2656,7 +2656,7 @@ No hay ninguna dignidad más alta que compilar.
 %
 Los hackers ahora empleados en la industria de las TIC deben comprender los riesgos de muerte clandestina y hacer un esfuerzo para difundir el conocimiento proveniente de su investigación a través de vectores y métodos clandestinos.
 %
-Los límites impuestos por las nuevas leyes de tecnocontrol extendido actúan como un fuerte incentivo para que la clandestinidad se vuelva más unida y reactiva.
+Los límites impuestos por las nuevas leyes de tecnocontrol extendido actúan como un fuerte incentivo para que la clandestinidad informática se vuelva más unida y reactiva.
 %
 El papel de los hackers es hacer que el futuro sea más libre, no solo más seguro.
 %
@@ -3110,7 +3110,7 @@ Preservad el material educativo o de referencia bajo el éjido de la informació
 %
 El poder de cómputo es consecuencia directa del impacto medioambiental sobre los Pueblos del Tercer Mundo.
 %
-La característica central de una economía oligárquica centrada en la información radica en la fabricación y operación de hardware digital e - inevitablemente - en las implicaciones energéticas que esto tiene. Pero la economía ha de servir al Pueblo.
+La característica sinodal de una economía oligárquica centrada en la información radica en la fabricación y operación de hardware digital e - inevitablemente - en las implicaciones energéticas que esto tiene. Pero la economía ha de servir al Pueblo.
 %
 Los hackers son una "subcultura" de programadores que surgió a finales de los años 1960.
 %
@@ -3145,6 +3145,8 @@ Entre un paquete y otro que se dice equivalente, escoge siempre el liberado bajo
 Al Unix todos los datos le son parecidos.
 %
 En Unix, todos los programas se ejecutan en la salsa de su propio ambiente.
+%
+Un bruto puede volverse bueno, pero una Burroughs no puede volverse inteligente.
 %
 Sólo un burro usaría una Burroughs.
 %
@@ -3238,6 +3240,62 @@ Naciones Unidas.
 El acceso a los servicios de información computarizados no debe estar sujeto a ningún tipo de censura ideológica, política o religiosa, como tampoco a barreras económicas.
 %
 Las bibliotecas y los servicios de información computarizada en lpínea tienen la responsabilidad de atender a todos los miembros de su comunidad, sin discriminación alguna por motivos de edad, raza, nacionalidad, religión, cultura, filiación política, discapacidad física o de otra índole, sexo, orientación sexual o cualquier otra circunstancia.
+%
+La brecha digital es una brecha de información.
+%
+El acceso a los recursos informativos y los medios de comunicación constribuye a la salud y la educación, así como al desarrollo cultural y económico.
+%
+La difusión de información permite al Pueblo beneficiarse de un aprendizaje y una educación a lo largo de toda la vida.
+%
+La información sobre los logros de los hackers hace posible que todos participen de manera constructiva en la creación de un entoprno de red social propio.
+%
+El acceso equitativo al patrimonio cultural y científico del Pueblo es un derecho, y contribuye a promover el aprendizaje y la comprensión de la riqueza y diversidad que goza su software.
+%
+Una biblioteca digital es una colección en línea de objetos digitales de buena calidad, creados o recopilados y administrados de conformidad con principios aceptados en el plano internacional para la creación de colecciones.
+%
+Una biblioteca digital debe poner sus recursos a disposición de manera coherente y perdurable y con el respaldo de los servicios necesarios para que los usuarios puedan encontrar y utilizar tales recursos.
+%
+Las bibliotecas digitales, que forman parte integrante de los servicios de las bibliotecas, aplican tecnologías novedosas para dar acceso a colecciones digitales.
+%
+En las bibliotecas digitales, las colecciones se crean, administran y ponen a disposición de tal manera que una comunidad determinada o un grupo de comunidades puedan utilizarlas de manera rápida y económica.
+%
+Las bibliotecas digitales reúnen colecciones, servicios y personas para llevar a cabo el ciclo completo de creación, difusión, utilización y preservación de datos, información y conocimientos.
+%
+Las bibliotecas digitales establecen un mecanismo de colaboración entre las bibliotecas públicas y de investigación, con el fin de crear una red de información digital que responda a las necesidades de la sociedad de la información.
+%
+Para crear una biblioteca digital son necesarias fuentes de contenido digital, tanto digitalizado como creado en forma digital.
+%
+La interoperabilidad y la perdurabilidad son fundamentales para que las bibliotecas digitales puedan comunicarse entre sí.
+%
+Las bibliotecas digitales que se adaptan a normas abiertas y protocolos aceptados comúnmente mejoran la difusión del conocimiento y su acceso en todo el mundo.
+%
+La digitalización de contenidos permite crear colecciones virtuales que reúnen materiales de todos los Pueblos y todos los temas.
+%
+La digitalización de contenidos contribuye a la preservación de documentos originales o soportes que se están deteriorando.
+%
+Se deben preservar los contenidos digitalizados, al igual que los materiales creados de forma digital.
+%
+Muchos países han puesto en marcha programas nacionales de digitalización de contenidos culturales, y muchos más lo harán en un futuro.
+%
+Es necesario que los sistemas de todos los asociados de la biblioteca digital sean interoperables.
+%
+Las bibliotecas digitales constituyen un complemento de los archivos digitales y las iniciativas para la preservación de los recursos informativos.
+%
+La misión de las bibliotecas digitales consiste en proporcionar acceso directo a recursos informativos, digitales y no digitales, de manera estructurada y fiable, para de esa manera vincular los Pueblos a la tecnología de la información, la educación y la cultura.
+%
+Nuestro Movimiento ha de promover la digitalización, el acceso y la preservación del patrimonio cultural y científico.
+%
+Nuestro Movimiento ha de brindar acceso a todos los usuarios a los recursos informativos acopiados por las bibliotecas, respetando los derechos de propiedad intelectual.
+%
+Nuestro Movimiento ha de crear sistemas interoperables para las bibliotecas digitales, a fin de promover normas abiertas y el libre acceso.
+%
+Nuestro Movimiento ha de fomentar la función esencial de las bibliotecas y los servicios de información para la promoción de normas comunes y prácticas idóneas. 
+%
+Nuestro Movimiento ha de crear conciencia sobre la necesidad apremiante de garantizar una accesibilidad permanente al material digital.
+%
+Nuestro Movimiento ha de vincular las bibliotecas digitales a redes de investigación y desarrollo de alta velocidad.
+%
+Nuevo Movimiento ha de sacar provecho de la convergencia creciente de los cometidos de los medios de comunicación y las instituciones para crear y difundir contenidos digitales.
 %
 Gracias a la dimensión mundial de Internet, personas y comunidades de todo el mundo, pueden acceder en igualdad de condiciones a la información que requieren.
 %
@@ -3429,7 +3487,7 @@ Programa sin esforzarte. Modifica sin interferir. Encuentra el sabor a una líne
 %
 El programador que aprecia Window$ sólo por la comodidad, no está preparado para ser un hacker.
 %
-La CPU no se apresura, sin embargo, todo se logra.
+La CPU no se apresura, y sin embargo, todo lo logra.
 %
 Si liberas tu software bajo GPLv3, aunque mueras no perecerá.
 %
@@ -3702,6 +3760,8 @@ La complejidad de un programa privativo dado crecerá hasta exceder las capacida
 %
 Mas vale 0 en RAM que 1 en la nube.
 %
+Mas vale GNU en mano que HURD volando.
+%
 Es la modificación, no la ejecución, la que hace avanzar el Pubnix. La ejecución sólo lo mantiene habitado.
 %
 Al disco viejo, backup nuevo.
@@ -3932,7 +3992,7 @@ Las instancias de la shell en la cual los usuarios ingresan órdenes son sólo p
 %
 El paso final en la inicialización de un sistema Unix es la creación de un único proceso y la invocación de un programa denominado init, destinado a crear un proceso para cada línea de terminal de cómputo existente.
 %
-Al mecanografiar un nombre de usuario en la línea login de Unix, despiertará una instancia apropiada de init que leerá tal nombre, lo coteja contra el registro codificado de contraseñas, y de coincidir, cambia al directorio del usuario, establece el identificador de proceso al propio de usuario, y corre una instancia de la shell.
+Al mecanografiar un nombre de usuario en la línea login de Unix, despertará una instancia apropiada de init que leerá tal nombre, lo coteja contra el registro codificado de contraseñas, y de coincidir, cambia al directorio del usuario, establece el identificador de proceso al propio de usuario, y corre una instancia de la shell.
 %
 En circunstancias ordinarias, el bucle principal del intérprete de comandos no cesa jamás.
 %
@@ -3944,7 +4004,7 @@ El éxito del sistema Unix se debió principalmente al hecho de que no fue dise�
 %
 Nuestra intención ha sido fomentar una relación agradable con la máquina y explorar ideas e invenciones en sistemas operativos y otro software.
 %
-Como somos programadores, naturalmente diseñamos un sistema que hiciera sencillo escribir, evaluar y usar programas de computadora.
+Como somos programadores, naturalmente diseñamos un sistema que hiciera ameno escribir, evaluar y usar programas de computadora.
 %
 La expresión más importantes de nuestro deseo para la conveniencia de la programación es convivir en un ambiente informático dispuesto para el uso interactivo.
 %
@@ -3972,7 +4032,7 @@ Dada la necesidad de utilizar todos los programas tanto con cualquier fichero o 
 %
 O hacemos que en Unix todos los programas sean utilizables con cualquier fichero o dispositivo de flujo de caracteres como entrada y salida, o nos veremos obligados a incorporar a cada programa rutinas que hagan caso de cada dispositivo de hardware.
 %
-Si no damos a todo hardware la justicia de operar como abstracción de flujo de caracteres, tendremos que programar a cada programa con rutinas específicas.
+Si no damos a todo hardware la justicia de operar como abstracción de flujo de caracteres, tendremos que escribir cada programa con rutinas específicas que lo hagan.
 %
 Si no damos a todo hardware la justicia de operar como abstracción de flujo de caracteres, tendremos que programar a cada uno de manera específica, o ceder a la irrevocable ignominia del software privativo de control.
 %
@@ -4016,7 +4076,7 @@ La IA es bogus.
 %
 Micro$oft Window$ no es mas que un parche de 64 bits de una extensión de 32 bits de cierta interfaz gráfica, para un parche de 16 bits de un sistema operativo de 8 bits originalmente escrito para un microprocesador de 4 bits que fue congeniado por una compañía de dos tipos que no podían tolerar un poco de competencia.
 %
-BASIC originalmente fue llamado Basic, porque era un lenguaje de programación simple y sencillo.
+BASIC originalmente fue llamado Basic, porque era un lenguaje de programación simple y ameno.
 %
 Ya que la mayoría de los lenguajes de programación clásicos eran siglas, a Basic que lo comenzó a escribir en mayúsculas, sólo como una broma.
 %
@@ -4298,11 +4358,15 @@ Crea primero una versión funcional y comienza a usarla.
 %
 Simplemente muda aquellos patrones y algoritmos escenciales de tu mente a la CPU de la computadora.
 %
+UUCP es un conjunto de protocolos para enviar datos a través de enlaces punto a punto, generalmente recurriendo a módems y líneas de acceso telefónico.
+%
 UUCP fue inicialmente desarrollado en los Laboratorios Bell en 1977 para la comunicación entre sus centros de desarrollo de Unix. Para mediados de 1978, esta red ya conectaba más de 80 sitios.
 %
 Los orígenes de la Usenet se remontan a 1979, cuando tres universitarios idearon el intercambio de información general dentro de la comunidad de graduados usuarios de Unix Séptima Edición.
 %
 La Usenet era en principio un sistema de mensajería en carteleras electrónicas implementada en 1979 por Steve Bellovin, Jim Ellis, Tom Truscott, y Steve Daniel, sobre todo en máquinas Unix de la Universidad de Duke.
+%
+UUCP es sólo alguno de los diversos protocolos con los que es posible realizar tráfico de datos en la Usenet.
 %
 La unidad básica de información contribuida en Usenet es el Artículo, que puede enviarse a Grupos de noticias de temática jerarquizada.
 %
@@ -4315,6 +4379,8 @@ Ningún administrador de sitio de Usenet puede oficiar control real sobre ningú
 Usenet no es una organización, y como tal no tiene una autoridad centralizada. De hecho, no tiene central alguna.
 %
 Según el sentido del tráfico telemático, ciertos sitios de Usenet pueden tener cierta influencia sobre sus nodos vecinos. Sin embargo, al ser fáciles de circunvalar, las manipulaciones despóticas provocan ineludibles reacciones de resentimiento.
+%
+Durante la década de los 80s, cundo el medio dominante de transmisión de Artículos en Usenet era el uso de UUCP a través de tendidos telefónicos de larga distancia, unos pocos sitios bien conectados tenía una influencia real a la hora de determinar qué grupos de noticias se transmitirían y dónde. Estos sitios se autodenominaban "la columna vertebral".
 %
 Algunas personas desearían que Usenet fuera una democracia. Mucha gente finge que lo es, pero ambos grupos están totalmente equivocados.
 %
@@ -4850,7 +4916,7 @@ Iniciar sesión en Unix durante sólo uno o dos minutos, docenas de veces al dí
 %
 Cambiar una Commodore 64 por un 386 equivalía a cambiar la moto Puma por un Justicialista Super Sport.
 %
-La transferencia tecnológica de traspasar la Internet desarrollada por el Pueblo a empresas privadas, ha sido controvertido desde un principio. Y en el futuro, lo será aún mas.
+La transferencia tecnológica de traspasar la Internet desarrollada por el Pueblo a empresas privadas, ha sido controvertida desde un principio. Y en el futuro, lo será aún mas.
 %
 Nuestro Movimiento ha de crear una Red aún más poderosa e inclusiva que la Internet, protocolizando en sus routers la Justicia Social.
 %
@@ -5367,7 +5433,7 @@ Una sociedad sin GNU - computacionalmente incierta - daría lugar de incontables
 %
 Una computarización social masiva tendrá lugar en un futuro, en el cual fluyirá a través del tejido social como la electricidad. El debate habrá de enfocarse en la unidad que permite la interconexión diversa.
 %
-Las oligarquías consideran las redes de comunicación electrónica como elemento de una ilusión hiperrealista completa con la cual subyugar los anhelos de liberación del Pueblo.
+Las oligarquías consideran a las redes de comunicación electrónica como elemento de una ilusión hiperrealista con la cual subyugar los anhelos de liberación del Pueblo.
 %
 El Pueblo subvirtió el ámbito telemático oligárquico, conformándolo en un órgano de adoctrinamiento para su propia Liberación y un arma para la Justicia Social.
 %
@@ -5688,7 +5754,7 @@ Inicialmente, Lisp fue desarrollado a finales de los años 50 en el Instituto Te
 %
 GNU Emacs Lisp está fuertemente inspirado en Maclisp, escrito en el MIT en la decada de 1960. En cierto modo se inspira en Common Lisp, que se convirtió en un estándar en los 80. Sin embargo, Emacs Lisp es muchísimo más simple que Common Lisp. 
 %
-No es extraño que para convertirse en experto, un programador deba recurrir a leer manuales de referencia.
+No resulta extraño que para convertirse en experto, un programador deba recurrir a la lectura de manuales de referencia.
 %
 Convertirse en hacker no es distinto a bucear. Puede zambullirse en cada párrafo de un manual de referencia de programación, y entre ellos salir a tomar aire.
 %
@@ -5756,7 +5822,7 @@ Los cimientos de una Internet abierta continúan resistiendo las tormentas de in
 %
 Internet existe hoy y continúa avanzando a pesar de, y no debido a, los intereses corporativos.
 %
-Las compañías de capital no deben ser permitidas de utilizar la infraestructura de red como arma contra sus rivales, y en detrimento del Pueblo.
+No debe permitirse a las compañías de capital utilizar la infraestructura de red como arma contra sus rivales, y en detrimento del Pueblo.
 %
 El comportamiento competitivo dicta que eventualmente una compañía actuará en su propio interés en detrimento del Pueblo, a no ser que se estableza un mecanismo para impedirlo.
 %
