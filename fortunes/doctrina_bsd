@@ -264,7 +264,7 @@ variedad de documentos, aplicaciones, etc.
 El HTML fue diseñado sin tener en cuenta el correo electrónico.
 %
 Una gran parte (si no la mayoría) de las funcionalidades del HTML son
-ideseables para el correo electrónico; si se incluyen pueden abusarse
+indeseables para el correo electrónico; si se incluyen pueden abusarse
 para extraer información sobre ti, tus contactos, tu calendario, otros
 correos en tu bandeja de entrada, etc.
 %
@@ -1495,12 +1495,19 @@ el software libre puede hacer cosas más maravillosas aún.
 Un hacker ha de programar la CPU en pos de un objetivo que no puede ser
 otro que ofrecer un destino de grandeza a la Comunidad en la que habita.
 %
+En el comienzo... estaba la Línea de Comandos.
+%
 La Interfaz de Línea de Comandos permite operar mecanografiando las
-órdenes que necesitemos para su ejecución tanto local, como remota.
+órdenes que necesitemos para su ejecución, tanto local como remota.
 %
 Favorezco el uso de la línea de comandos siempre que sea posible, en
 cuenta de que la misma permite la agilidad que todo hacker requiere para
 el Movimiento.
+%
+Aunque una Interfaz Gráfica de Usuario (GUI) puede simplificar
+dramáticamente el uso de una computadora, en muchos contextos la manera
+más poderosa y flexible para interactuar con una computadora es a través
+de la Interfaz de Línea de Comandos (CLI).
 %
 No cejamos en decir que en nuestro server, los únicos Privilegiados son
 los hackers.
@@ -5476,6 +5483,8 @@ Los Pall Malls se fuman, los caños con AWK se consumen.
 %
 Javascript promueve la lucha de clases.
 %
+No existe un solo juego flash que merezca el esfuerzo de conservación.
+%
 Si has logrado acceso de root a una máquina atacante, reprográmala para
 que ataque a otras máquinas atacantes.
 %
@@ -7268,9 +7277,9 @@ Un compilador puede escoger cualquier forma abitraria para interpretar
 el código fuente sin violar el estándar ANSI C. Pero conociéndolo,
 puedes persuadirlo.
 %
-El código de los virus informáticos más apreciados conjugan
-entendimiento técnico con la habilidad social de lograr ingenio,
-sorpresa, y humor en su actuar inofensivo.
+El código de los virus informáticos más apreciados conjuga entendimiento
+técnico con la habilidad social de lograr ingenio, sorpresa y humor en
+su actuar inofensivo.
 %
 Jamás necesité cambiar lynx por Nutscrap€ Fornicator o Internet
 €xploiter.
@@ -7481,7 +7490,7 @@ binarios compilados.
 El repositorio de nuestro código fuente es más poderoso que cualquier
 ejército.
 %
-Muchas veces ante la necesidad el hombre no repara de la licencia.
+Muchas veces ante la necesidad el hombre no repara en la licencia.
 %
 Cuando hay software libre, todo lo demás sobra.
 %
@@ -10680,3 +10689,131 @@ Vuelva a discar, e inténtalo nuevamente.
 %
 La perseverancia tiene su recompensa. Permanece en línea y contribuye a
 eliminar los procesos de las ciber-oligarquías.
+%
+Nosotros, los arquitectos y administradores de las plataformas
+digitales, reconocemos los derechos fundamentales de todos los usuarios
+a participar en espacios en línea que respeten su privacidad, dignidad y
+bienestar.
+%
+Promueve plataformas digitales donde sólo se recopilan los datos
+necesarios para las funciones básicas. Las plataformas deben justificar
+la necesidad de cada punto de datos recopilado.
+%
+Promueve plataformas digitales donde los usuarios deben dar su
+consentimiento informado antes de que se recopilen, almacenen o
+compartan datos personales con terceros. El consentimiento debe
+otorgarse libremente, de forma específica y revocable.
+%
+Promueve plataformas digitales donde las funciones y actualizaciones de
+la plataforma se desarrollan teniendo en cuenta la privacidad del
+usuario de forma predeterminada, lo que evita la exposición innecesaria
+de datos.
+%
+Promueve plataformas digitales donde los usuarios no son monitoreados ni
+rastreados en secreto a través de Internet. Cualquier forma de
+seguimiento debe ser explícitamente revelada y consentida.
+%
+Promueve plataformas digitales donde, de utilizarse análisis o
+seguimiento (para seguridad, prevención de spam o depuración), se los
+documente de manera transparente y su alcance sea limitado.
+%
+Promueve plataformas digitales donde los usuarios pueden ajustar
+fácilmente la configuración de visibilidad de sus perfiles y contenido
+para administrar su propia privacidad.
+%
+Promueve plataformas digitales donde las políticas de uso prohíben
+explícitamente el discurso de odio, el acoso y la violencia dirigida,
+con acciones de moderación rápidas y transparentes.
+%
+Promueve plataformas digitales donde un sistema simple y accesible
+permite a los usuarios marcar contenido dañino para su revisión.
+%
+Promueve plataformas digitales donde se publican definiciones claras y
+ejemplos de contenido dañino para que los usuarios comprendan qué está
+permitido y qué no.
+%
+Promueve plataformas digitales donde existan equipos de moderación
+capacitados para reconocer y abordar contenido que se dirija a personas
+de etnicidad, género, orientación sexual, discapacidad, religión u otras
+identidades marginadas.
+%
+Promueve plataformas digitales donde las reglas y los protocolos de
+aplicación tengan en cuenta vulnerabilidades superpuestas que amplifican
+los impactos nocivos de abuso telemático.
+%
+Promueve plataformas digitales donde existen canales dedicados para que
+los usuarios se comuniquen rápidamente si se sienten amenazados o
+inseguros en ellas.
+%
+Promueve plataformas digitales donde los usuarios tienen derecho a
+descargar o exportar sus datos en cualquier momento, en un formato
+común.
+%
+Promueve plataformas digitales donde los datos de un usuario puedan
+eliminarse permanentemente de la plataforma a demanda, sujeto a
+excepciones legales o de seguridad.
+%
+Promueve plataformas digitales donde - siempre que sea posible - admitan
+protocolos y estándares abiertos, a fin de permitir a los usuarios la
+libertad de migrar y conectarse entre diferentes servicios.
+%
+Promueve plataformas digitales donde las políticas y procedimientos de
+gobernanza de la plataforma son abiertos, con consultas y supervisión
+periódicas de la comunidad.
+%
+Promueve plataformas digitales donde los cambios en las políticas o la
+tecnología de la plataforma se hacen públicos, y las partes interesadas
+pueden comentar o proponer modificaciones.
+%
+Promueve plataformas digitales donde un organismo o un grupo asesor
+imparcial puede auditar o revisar las prácticas de moderación y manejo
+de datos para garantizar que cumplan con altos estándares éticos.
+%
+Promueve plataformas digitales donde existen herramientas robustas que
+permiten a los usuarios protegerse de contenido perturbador o dañino
+mediante advertencias de contenido y listas de filtros.
+%
+Promueve plataformas digitales donde esta comparte recursos y líneas
+directas de apoyo a la salud mental para fomentar un entorno en línea
+más saludable.
+%
+Promueve plataformas digitales donde medidas proactivas - como los
+límites de velocidad y la fricción reflexiva - contrarrestan patrones de
+uso adictivos, el spam y el abuso.
+%
+Promueve plataformas digitales donde - de seleccionarse un feed o
+resultados de b{usqueda de forma algorítima - los usuarios cuenten con
+explicaciones comprensibles de los factores clave de clasificación.
+%
+Promueve plataformas digitales donde - si no desean participar en las
+recomendaciones algorítmicas - los usuarios puedan seleccionar un feed
+cronológico u otra presentación simplificada.
+%
+Promueve plataformaas digitales donde auditorías periódicas garanticen
+que los algoritmos no supriman o amplifiquen desproporcionadamente el
+contenido en función de características protegidas.
+%
+Promueve plataformas digitales donde las reglas y el liderazgo de la
+comunidad deben reflejar voces y experiencias diversas.
+%
+Promueve plataformas digitales donde las políticas clave, las guías de
+ayuda y las pautas de moderación se encuentren disponibles en varios
+idiomas, según lo permitan los recursos.
+%
+Promueve plataformas digitales donde se anima a los usuarios a
+participar en los debates sobre sus políticas y ayudar a dar forma a su
+evolución continua.
+%
+Promueve plataformas digitales donde su Declaración de Derechos, así
+como las políticas y las estrategias de implementación se revisen
+periódicamente y se actualizan para adaptarse a los cambiantes panoramas
+sociales y tecnológicos.
+%
+Promueve plataformas digitales donde existan mecanismos para que los
+usuarios envíen comentarios, sugerencias o inquietudes, lo que garantiza
+que la plataforma siga respondiendo a su comunidad.
+%
+Promueve plataformas digitales donde todos los participantes (usuarios,
+encargados del mantenimiento y colaboradores externos) comparten la
+responsabilidad de defender principios éticos que garanticen la
+privacidad, la dignidad y la equidad en línea.
