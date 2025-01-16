@@ -212,6 +212,8 @@ La PC es un bien individual en función social.
 %
 Como siempre sucede durante las actualizaciones de versión de sistema, debemos proceder a realizar un respaldo de nuestros datos, por las dudas que algo salga mal.
 %
+La cinta se desmagnetiza, los CDs se deslaminan, las redes se caen.
+%
 Prevenir es siempre mejor que curar, y una actualización de sistema siempre es excusa adecuada para actualizar nuestras copias de respaldo.
 %
 RAID5 no es un respaldo.
@@ -476,6 +478,8 @@ La informática nos permite distribuir de forma electrónica todo tipo de docume
 %
 La gran compresibilidad de los datos textuales al tornarlos en formato digital vuelven aquella concepción "sin papel" en una Realidad Efectiva.
 %
+Un material impreso con tinta estable en papel libre de ácido y resguardado en un armario seco y oscuro, permanecerá legible unos 200 años. Los bits carecen de material con calidad de archivo; ni siquiera hay certeza de poder leerlos a los 50 años.
+%
 Desde el punto de vista biológico natural, estamos sometidos a los términos de una Evolución - en la cual la naturaleza obra para mejorar al más apto para lograr su trascendencia a través del tiempo. En el caso de nuestro kernel, obramos creativamente para hacerlo trascender en el tiempo bajo la ondeante bandera de la Libertad.
 %
 La Masa programa en Python. El Conductor en ensamblador.
@@ -662,13 +666,15 @@ Frente al aniquilamiento de la neutralidad en la red, parecería no quedarle a n
 %
 Detener las actualizaciones equivale a lo que nuestros baqueanos denominaban "desensillar hasta que aclare".
 %
-La historia no es frondosa en ejemplos de caída de sistemas GNU, y en el particular de los BSD, estos están pre-programados - diremos - para operar precisamente en ese fino equilibrio previo a la caída. 
+La historia no es frondosa en ejemplos de caída de sistemas GNU, y en el particular de los BSD, que - como la bicicleta - están preparados para operar en ese fino equilibrio previo a la caída.
 %
 Es difícil hacer caer a GNU. Sólo una impúdica conducción hará que esta bicicleta - a cuyo manubrio tironean la RAM por un lado y el disco por otro - dé por el suelo.
 %
 La potencia de cómputo avanzada sólo se desplegará con el multihilo simultáneo, el cual oficiará de nivelador capaz de sustentar un pedaleo de acción pendular entre los núcleos que componen su CPU.
 %
 Los sistemas operativos BSD no son clones, sino derivados de código abierto del Unix de Investigación de AT&T, a su vez ancestro del Unix System V.
+%
+Los tres proyectos BSD son bien conocidos por mantener el control de todo el código fuente de todo el software de la distribución. Están administrados de manera muy centralizada y se jactan de mantener todo el código fuente junto en un árbol de compilación.
 %
 AT&T Unix no es código abierto y, en sentido estricto del Derecho de autor, BSD no es Unix en absoluto.
 %
@@ -1240,6 +1246,8 @@ Ante el desafío de la vigilancia masiva, nuestro Movimiento se ha mantenido inc
 %
 Hemos hermanado redes de anonimato, aplicaciones de mensajería segura, proveedores éticos de servicios, bloqueadores del rastreo, y servicios en nuestros servidores descentralizados.
 %
+En Internet, la persona silenciosa es invisible.
+%
 Las herramientas evolucionan cada día, pero la maquinaria de vigilancia también. Formándonos y formando seremos invencibles.
 %
 Desiste de utilizar servicios de datos y dispositivos de empresas tecnológicas que colaboran en tareas de espionaje masivo.
@@ -1606,6 +1614,8 @@ La administración pública ha de priorizar la utilización de herramientas digi
 %
 Impulsar el desarrollo de cooperativas y pequeñas y medianas empresas de producción y servicios tecnológicos es una poderosa forma de lograr la independencia tecnológica del Tercer Mundo.
 %
+En muchas empresas, los responsables informáticos son doctrinarios y burócratas. A menudo desarrollan rápidamente reacciones instintivas a las tecnologías y utilizan estos estereotipos para tomar decisiones técnicas oficiosas.
+%
 Frente al abuso de las mal llamadas "redes sociales" basadas en empresas, hemos de democratizar la comunicación gracias a plataformas digitales descentralizadas, respetuosas con los usuarios y su privacidad e interoperables, cuyo fin sea promover un contacto humano e intercultural.
 %
 Hemos de regular las nuevas relaciones laborales con una visión de salvaguarda y justicia, contemplando en especial los derechos del trabajador en ambientes de teletrabajo y el trabajo en plataformas digitales.
@@ -1945,6 +1955,8 @@ El criptointercambio fraudulento es un oxímoron.
 CPU que exista sólo para intermediar en el control oligárquico del pueblo, ha de overclockearse hasta quemarse.
 %
 Nosotros lo que buscamos es la auténtica Liberación del Pueblo, y esto puede ser facilitado por quien - como reflejo preclaro de su alma - es capaz de traducir este anhelo en código fuente licenciado bajo GPL.
+%
+La GPL es un contrato que dura mucho a futuro. Es una promesa de unión.
 %
 La liberación del hardware no implica un arduo trabajo intelectual de ingeniería inversa, sólo basta instalar en cómputo propio, software propio.
 %
@@ -2598,6 +2610,8 @@ Antes de la década de 1980, el sistema Unix se utilizaba principalmente en cent
 %
 En 1981 la Universidad de California en Berkeley presentó una implementación de Unix denominada Distribución de Software de Berkeley, el BSD.
 %
+Existen tres versiones gratuitas principales de BSD: FreeBSD, OpenBSD y NetBSD. Son notables pues cada una de ellas cuenta con colecciones de archivos administradas centralmente.
+%
 El sistema Unix ha demostrado su valía para el desarrollo de software de computadora, y se ajusta fácilmente a aplicaciones específicas de la industria.
 %
 Para inicios de la década de 1980, el sistema Unix era capaz de correr en una gran variedad de ambientes informáticos originados entre diferentes fabricantes, volviéndolo único en el mundo del cómputo.
@@ -2937,6 +2951,12 @@ Si un dispositivo carece de interruptor de apagado de módem, apenas es un dispo
 Los intérpretes de comando de Unix están orientados al texto: los ejecutables se invocan vía texto, los parámetros se indican vía texto, el flujo de datos desde y hacia el sistema circula en base a texto, y prácticamente todo en el sistema se hace a través de símbolos de caracteres.
 %
 El ed original fue un editor de línea de comandos ideado por Ken Thompson para operar con terminales teletipo. Como tal, no fue concebido para utilizar a bien las videoterminales posteriores, con pantalla y cursor direccionable.
+%
+Mantener la unión de los hackers no es soplar y hacer botellas. Incluso la elección de un editor de texto puede provocar un gran cisma.
+%
+Algunos muchachos usan el relativamente simple editor vi, surgido de Berkeley y las primeras versiones de BSD. Otros adhieren al Emacs de Stallman, que es mucho más barroco y extremo.
+%
+Los fans de Emacs se jactan de cómo han programado su versión de Emacs para teleirrumpir en la Casa Blanca, tomar fotografías secretas de personas en posiciones comprometedoras, enrutarlas a través de un reenviador anónimo y negociar un gran reembolso de impuestos, todo con un control complicado: pulsación de la mítica tecla meta-trans.
 %
 A las memorias MicroSD se las lleva el viento.
 %
@@ -3371,7 +3391,7 @@ Las compañías de la industria de datos dirigidos son intrínsecamente insepara
 %
 En caso de necesidad, los hackers pueden atacar telemáticamente sobre un único punto de presión. Pero normalmente lo harán en forma de inclaudicante huracán de baudios.
 %
-Como la Huelga, la Denegación Distribuída de Servicios es un Derecho Humano de segunda generación.
+Como la Huelga, la Denegación Distribuída de Servicios debe ser un Derecho Humano de segunda generación.
 %
 Dominada por las GAFAM, la Inteligencia Artificial solo puede servir para afianzar y ampliar la vigilancia electrónica como modelo de negocios.
 %
@@ -3691,6 +3711,8 @@ Un buen software libre hoy, es mejor que uno privativo mañana.
 Programar es poder.
 %
 La ARPAnet fue edificada alrededor de DEC PDP-10s corriendo TENEX, la Internet lo fue alrededor de VAXxen corriendo BSD.
+%
+Las formaciones de BSD parecen estar fragmentadas pues son organizaciones políticas separadas que carecen de vínculos formales. Hay muchos colaboradores, lo que significa que BSD no tiene un líder carismático importante con una historia convincente.
 %
 Nunca interrumpas a Window$ mientras esté cometiendo errores.
 %
@@ -4392,6 +4414,8 @@ Algunas personas desearían que Usenet fuera una democracia. Mucha gente finge q
 %
 Al no ser una organización, Usenet no es una democracia. Sólo una organización puede funcionar como democracia.
 %
+La mayoría de los mejores hackers y miembros del mundo del software libre son también grandes escritores. 
+%
 Incluso una democracia telemática debe estar organizada, pues si carece de medios para hacer cumplir los deseos del Pueblo, es muy posible entonces entonces que sea una farsa.
 %
 Usenet no es una red comercial, y existe la costumbre de mantener al mínimo el tráfico comercial. De aceptárselo, se lo hace a regañadientes.
@@ -4730,6 +4754,8 @@ En las comunidades virtuales, puedes conocer personas y luego elegir encontrarte
 %
 La afiliación puede ser mucho más efímera en el ciberespacio porque puedes llegar a conocer a personas que quizás nunca conocerías en el plano físico.
 %
+El mundo físico, con todas sus formas de codificar una posición en una jerarquía, se ha ido. Empréndete en el enlace. Transfórmate en baudio para la Liberación.
+%
 El ataque más insidioso a nuestro derecho a un grado razonable de privacidad en las redes podría provenir no de una dictadura política sino del mercado.
 %
 Atender la creciente demanda de servicios de red por parte del Pueblo requiere fuertes regulaciones de un Estado capaz de actuar en todos los niveles en pos de la Justicia Social.
@@ -4868,9 +4894,15 @@ Divulga la Justicia Social a millones a través de Usenet, una colección de cie
 %
 "Nuestra Red" es un término informal para aquellas redes informáticas que utilizan la tecnología de comunicación mediada por ordenador para vincular a los Pueblos.
 %
+Pasar días, semanas, meses y años de su vida comunicándose por correo electrónico y grupos de noticias enseña al Pueblo cómo escribir bien y llegar al punto rápidamente.
+%
 Con tiempo y sentimiento humanista suficiente, podrás formar entretejidos de relaciones personales en el ciberespacio.
 %
 El ciberespacio es el lugar conceptual donde las personas que utilizan la tecnología de comunicación mediada por computadora manifiestan palabras, relaciones humanas, datos, riqueza y poder.
+%
+En el ciberespacio la camisa no computa. Eres un tecno-descamisado.
+%
+Si alguien intenta determinar lo rico que eres por la marca de tu smartphone, ataca sus enlaces para que todos se arrastren en él a meros 300 baudios: a dicha velocidad, el dinero pierde sentido.
 %
 Observar cómo cambia una determinada comunidad virtual a lo largo de un período de tiempo tiene algo de la emoción intelectual de la antropología hecha por uno mismo.
 %
@@ -5076,7 +5108,7 @@ En las condiciones actuales, en los Pubnix los usuarios no se hospedan. Reciben 
 %
 Si en la nube los datos se hospedan, en los Pubnix reciben asilo.
 %
-En la RAM de las computadoras el Pueblo libra una batallas mas por su Liberación. El arma invencible es una doctrina constituída por la licencia GPLv3.
+En la RAM de las computadoras el Pueblo libra una batalla mas por su Liberación. El arma invencible es una doctrina constituída por la licencia GPLv3.
 %
 Combate las APIs propietarias. Embota sus sistemas hasta que sean de todos.
 %
@@ -6235,6 +6267,10 @@ Lo que derriba los cortafuegos y acorta las distancias no son tanto los baudios,
 Si algo bueno existe y permanece en este Pubnix, es sólo porque, en múltiples y variadas circunstancias, el software libre ha prevalecido sobre el privativo, la solidaridad sobre la indiferencia, la generosidad sobre el egoísmo.
 %
 Nada que sea perdurable se programa y modifica sin GPLv3.
+%
+La mayor distinción puede estar entre quienes favorecen la licencia GPL para proteger su comunidad, y quienes usan la licencia de estilo BSD para proteger su software.
+%
+La decisión de licenciamiento es probablemente la más importante que debe tomar un creador de software libre, pues determina si otros podrán crear versiones comerciales del software sin contribuir con el nuevo código al proyecto.
 %
 La compilación popular se hace posible cuando nos atrevemos a hackear la "shell" que frecuentemente nos encierra en nosotros mismos, y a salir de una programación perezosa, cómoda, vivida solamente por una necesidad personal.
 %
