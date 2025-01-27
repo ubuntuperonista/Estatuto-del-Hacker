@@ -876,6 +876,8 @@ Para la Liberación del Software es preciso la integración; nuestra experiencia
 %
 La piratería es un asunto muy discutido en nuestro tiempo. Pero en mi sentir, los únicos que tienen derecho a emplear la piratería en mayor grado son los hackers que quieren liberarse.
 %
+Si pagar no signfica poseer, entonces piratería no significa robo.
+%
 Presionado por las sinarquías, los fabricantes osan establecer barreras que impiden la ejecución de sistemas operativo libres, escudándose en "la seguridad", bajo el nombre técnico de "Soporte de Arranque UEFI".
 %
 ¿Quién se atrevería afirmar que la seguridad se logra habilitando a nivel BIOS únicamente un sistema operativo que está ingeniado para espiar al compañero, y cuyo código fuente es secreto? Sólo a un bruto...
@@ -2642,11 +2644,23 @@ Un Pubnix sin unidad de acción es una fuerza inorgánica que no realiza grandes
 %
 La lid telemática consiste fundamentalmente en una guerra de movilidad por transmisión.
 %
-La lid telemática no es conducida por ingenieros de sistemas, sino por los hackers del Pueblo. No puede existir ni habrá hacking ético, sólo habrá la máxima destrucción de los medios de los ciber-oligarcas, hasta que sus paquetes abandonen nuestras redes. Y cuando ello suceda, pasaremos con los nuestros por sus firewalls.
+La lid telemática no es conducida por ingenieros de sistemas, sino por los hackers del Pueblo.
+%
+No puede existir ni habrá hacking ético, sólo habrá la máxima destrucción de los medios de los ciber-oligarcas, hasta que sus paquetes abandonen nuestras redes. Y cuando ello suceda, pasaremos con los nuestros por sus firewalls.
 %
 La lid telemática no es entre los Pueblos: la lucha se produce entre quienes dicen haber creado las redes de datos y aquellos quienes quieran controlarlas.
 %
 A nuestro frente están las GAFAM, tentáculos de los tecno-oligarcas que siempre han oprimido al Pueblo.
+%
+Cualquier aplicación multimillonaria de redes sociales basadas en empresa puede ser destruida modificando las regulaciones, o las reglas de moderación.
+%
+Puedes destruir las valoraciones de los gigantes del comercio electrónico por decreto, por legal intimación bajo secuestro de su director ejecutivo o modificando las reglamentación de ludopatía electrónica.
+%
+Puedes destruir el negocio de los modelos de IA con una pequeña empresa de bajo costo que replique por quizás el 5% del costo de los gigantes del rubro, y que luego libere el código fuente.
+%
+La tasa de idiotez es muy alto entre los gigantes oligo-tecnológicos: han gastado demasiado para obtener pocos réditos, sus inversores lo saben y están corriendo a la fuga.
+%
+Las sanciones a la exportación de tecnología estadounidense sólo crean una mejor innovación para sus competidores del Tercer Mundo, porque la necesidad es la madre de la invención.
 %
 El Unix de Sexta Edición comprendía una potencia increíble para su pequeño consumo de espacio: con su kernel de residencia permanente de 20KB de código (excluyendo controladores de dispositivo), logró una tasa de cómputo nunca excedida.
 %
@@ -3341,7 +3355,7 @@ En Internet hay una gran cantidad de material interesante, pero también hay inf
 %
 Los bibliotecarios deben proporcionar a los usuarios de la biblioteca la información y los recursos necesarios para que aprendan a servirse de Internet y de la información electrónica con eficacia y eficiencia.
 %
-Los bibliotecarios deben tomar la iniciativa de promover y facilitar el acceso responsable de todos sus usuarios, comprendidos los niños y jóvenes, a información interconectada de calidad.
+Los bibliotecarios deben tomar la iniciativa de promover y facilitar el acceso responsable de todos sus usuarios, comprendiendo niños y jóvenes, a información interconectada de calidad.
 %
 Al igual que otros servicios básicos, el acceso a Internet desde bibliotecas y servicios de información debe ser gratuito.
 %
@@ -3990,7 +4004,7 @@ Los sistemas reactivos serán variosos al proveer a los usuarios los servicios q
 %
 La nanomáquinas pesonales son una mala idea. Sólo la programación con software libre en bio-nanomáquinas amalgamadas en redes comunitarias permitirán una evolución del cómputo libre de ejecución biológica.
 %
-Una red de bio-nanomáquinas personales obliga a un fuerte particionamiento de recursos, haciendo difícil para una individuo obtener algo más que un muy escaso porcentaje de memoria y potencia de procesamiento.
+Una red de bio-nanomáquinas personales obliga a un fuerte particionamiento de recursos, haciendo difícil para un individuo obtener algo más que un muy escaso porcentaje de memoria y potencia de procesamiento.
 %
 La filosofía básica del bio-nanocómputo reactivo gira en torno a la idea de permitir a los usuarios individuales lograr acceso a recursos de biocómputo ajenos toda vez que sea necesario.
 %
@@ -4613,6 +4627,8 @@ No soy un robot, pero en el bar pido Bardahl.
 No soy un robot. Soy un RE bot.
 %
 No soy un robot. Soy un humano rebooteado.
+%
+No soy un robot. Soy un chatbot de la Justicia Social.
 %
 Junto a millares de hackers en el Pubnix, escribe programas que operen como combustible para la potencia de cómputo de millones de CPUs.
 %
