@@ -338,6 +338,8 @@ Como siempre sucede durante las actualizaciones de versión de sistema,
 debemos proceder a realizar un respaldo de nuestros datos, por las dudas
 que algo salga mal.
 %
+La cinta se desmagnetiza, los CDs se deslaminan, las redes se caen.
+%
 Prevenir es siempre mejor que curar, y una actualización de sistema
 siempre es excusa adecuada para actualizar nuestras copias de respaldo.
 %
@@ -800,6 +802,11 @@ documentos, incluyendo libros, y torrentearlos en meros segundos.
 La gran compresibilidad de los datos textuales al tornarlos en formato
 digital vuelven aquella concepción "sin papel" en una Realidad Efectiva.
 %
+Un material impreso con tinta estable en papel libre de ácido y
+resguardado en un armario seco y oscuro, permanecerá legible unos 200
+años. Los bits carecen de material con calidad de archivo; ni siquiera
+hay certeza de poder leerlos a los 50 años.
+%
 Desde el punto de vista biológico natural, estamos sometidos a los
 términos de una Evolución - en la cual la naturaleza obra para mejorar
 al más apto para lograr su trascendencia a través del tiempo. En el caso
@@ -915,6 +922,8 @@ migratoria, sin enjaularlo con una EULA.
 %
 Mantener en secreto la información es ineficiente; obliga a una
 antiestética duplicación de esfuerzo.
+%
+La información quiere ser libre.
 %
 Nuestra Cultura es permeable a los cambios, y desde el Martín Fierro
 hasta el libro más risueño, hemos de leerlo y compartirlo por Torrent.
@@ -1139,8 +1148,8 @@ Detener las actualizaciones equivale a lo que nuestros baqueanos
 denominaban "desensillar hasta que aclare".
 %
 La historia no es frondosa en ejemplos de caída de sistemas GNU, y en el
-particular de los BSD, estos están pre-programados - diremos - para
-operar precisamente en ese fino equilibrio previo a la caída.
+particular de los BSD, que - como la bicicleta - están preparados para
+operar en ese fino equilibrio previo a la caída.
 %
 Es difícil hacer caer a GNU. Sólo una impúdica conducción hará que esta
 bicicleta - a cuyo manubrio tironean la RAM por un lado y el disco por
@@ -1153,6 +1162,11 @@ de acción pendular entre los núcleos que componen su CPU.
 Los sistemas operativos BSD no son clones, sino derivados de código
 abierto del Unix de Investigación de AT&T, a su vez ancestro del Unix
 System V.
+%
+Los tres proyectos BSD son bien conocidos por mantener el control de
+todo el código fuente de todo el software de la distribución. Están
+administrados de manera muy centralizada y se jactan de mantener todo el
+código fuente junto en un árbol de compilación.
 %
 AT&T Unix no es código abierto y, en sentido estricto del Derecho de
 autor, BSD no es Unix en absoluto.
@@ -1562,6 +1576,8 @@ La piratería es un asunto muy discutido en nuestro tiempo. Pero en mi
 sentir, los únicos que tienen derecho a emplear la piratería en mayor
 grado son los hackers que quieren liberarse.
 %
+Si pagar no signfica poseer, entonces piratería no significa robo.
+%
 Presionado por las sinarquías, los fabricantes osan establecer barreras
 que impiden la ejecución de sistemas operativo libres, escudándose en
 "la seguridad", bajo el nombre técnico de "Soporte de Arranque UEFI".
@@ -1758,9 +1774,38 @@ El sonido digitalizado comprende un muestreo numérico de vibraciones
 sonoras (con o sin compresión por pérdida), y como tales, los datos
 ocupan una cuantiosa cantidad de memoria en el ordenador.
 %
+Distribuye la mayoría de tus ficheros de audio en el formato Ogg Vorbis.
+A diferencia de MP3, este ha sido siempre completamente libre y sin
+patentes encumbradas.
+%
+Obtendrás buena calidad de voz con la codificación monoural Ogg Vorbis
+de 64 kilobytes por segundo.
+%
+Los ficheros de sonido Ogg codificados en un stream de 20 kilobytes por
+segundo permiten que la mayoría de los usuarios de Internet puedan
+escucharlos al vuelo.
+%
+No son pocos los ficheros de audio codificados en el formato libre Opus,
+que soporta alta calidad de audio y baja latencia.
+%
 Flac es un buen formato de audio con compresión sin pérdida, y es
 adecuado para música. Pero como en el peronismo, el secreto está en la
 mezcla.
+%
+Distribuye la mayoría de tus ficheros de video codificados con el códec
+de video Theora, encapsulado en una capa de transporte Ogg.
+Ocasionalmente estos tiene la extensión .ogv o .ogm, pero también pueden
+compartir la extensión .ogg con los dichos ficheros de audio.
+%
+El códec de video Theora fue diseñado como un códec de video libre no
+encumbrado por patentes ni restricciones de licenciamiento.
+%
+La brillantez técnica del códec de video Theora no sólo permite tasas de
+supercompresión, sino que respeta la liberta de sus usuarios.
+%
+Recurre con confianza al formato de video WebM (con códec de video VP8 o
+VP9), puesto que no se encuentra encumbrado por patentes de software
+conocidas.
 %
 El Software Libre se basa en cuatro libertades interrelacionadas: la de
 usar el programa, ver su código (y modificarlo), copiarlo, y
@@ -2257,6 +2302,8 @@ Hemos hermanado redes de anonimato, aplicaciones de mensajería segura,
 proveedores éticos de servicios, bloqueadores del rastreo, y servicios
 en nuestros servidores descentralizados.
 %
+En Internet, la persona silenciosa es invisible.
+%
 Las herramientas evolucionan cada día, pero la maquinaria de vigilancia
 también. Formándonos y formando seremos invencibles.
 %
@@ -2406,6 +2453,12 @@ Se vence con Inteligencia y Organización, no con inteligencia
 La Inteligencia Artificial debe ir a lavar los platos, para que nosotros
 podamos volcarnos al arte, y no hacer arte para que nosotros tengamos
 que ir a lavar los platos.
+%
+Desmitificar la Inteligencia Artificial reducirá inevitablemente su
+atractivo.
+%
+Disipando el aura de magia que rodea la Inteligencia Artificial
+reduciremos su nivel de adopción.
 %
 Un ordenador nunca puede ser considerado responsable, por lo tanto,
 nunca debe tomar decisiones de gestión.
@@ -2974,6 +3027,11 @@ Impulsar el desarrollo de cooperativas y pequeñas y medianas empresas de
 producción y servicios tecnológicos es una poderosa forma de lograr la
 independencia tecnológica del Tercer Mundo.
 %
+En muchas empresas, los responsables informáticos son doctrinarios y
+burócratas. A menudo desarrollan rápidamente reacciones instintivas a
+las tecnologías y utilizan estos estereotipos para tomar decisiones
+técnicas oficiosas.
+%
 Frente al abuso de las mal llamadas "redes sociales" basadas en
 empresas, hemos de democratizar la comunicación gracias a plataformas
 digitales descentralizadas, respetuosas con los usuarios y su privacidad
@@ -3539,6 +3597,8 @@ pueblo, ha de overclockearse hasta quemarse.
 Nosotros lo que buscamos es la auténtica Liberación del Pueblo, y esto
 puede ser facilitado por quien - como reflejo preclaro de su alma - es
 capaz de traducir este anhelo en código fuente licenciado bajo GPL.
+%
+La GPL es un contrato que dura mucho a futuro. Es una promesa de unión.
 %
 La liberación del hardware no implica un arduo trabajo intelectual de
 ingeniería inversa, sólo basta instalar en cómputo propio, software
@@ -4621,6 +4681,10 @@ En 1981 la Universidad de California en Berkeley presentó una
 implementación de Unix denominada Distribución de Software de Berkeley,
 el BSD.
 %
+Existen tres versiones gratuitas principales de BSD: FreeBSD, OpenBSD y
+NetBSD. Son notables pues cada una de ellas cuenta con colecciones de
+archivos administradas centralmente.
+%
 El sistema Unix ha demostrado su valía para el desarrollo de software de
 computadora, y se ajusta fácilmente a aplicaciones específicas de la
 industria.
@@ -4673,10 +4737,12 @@ La lid telemática consiste fundamentalmente en una guerra de movilidad
 por transmisión.
 %
 La lid telemática no es conducida por ingenieros de sistemas, sino por
-los hackers del Pueblo. No puede existir ni habrá hacking ético, sólo
-habrá la máxima destrucción de los medios de los ciber-oligarcas, hasta
-que sus paquetes abandonen nuestras redes. Y cuando ello suceda,
-pasaremos con los nuestros por sus firewalls.
+los hackers del Pueblo.
+%
+No puede existir ni habrá hacking ético, sólo habrá la máxima
+destrucción de los medios de los ciber-oligarcas, hasta que sus paquetes
+abandonen nuestras redes. Y cuando ello suceda, pasaremos con los
+nuestros por sus firewalls.
 %
 La lid telemática no es entre los Pueblos: la lucha se produce entre
 quienes dicen haber creado las redes de datos y aquellos quienes quieran
@@ -4684,6 +4750,27 @@ controlarlas.
 %
 A nuestro frente están las GAFAM, tentáculos de los tecno-oligarcas que
 siempre han oprimido al Pueblo.
+%
+Cualquier aplicación multimillonaria de redes sociales basadas en
+empresa puede ser destruida modificando las regulaciones, o las reglas
+de moderación.
+%
+Puedes destruir las valoraciones de los gigantes del comercio
+electrónico por decreto, por legal intimación bajo secuestro de su
+director ejecutivo o modificando las reglamentación de ludopatía
+electrónica.
+%
+Puedes destruir el negocio de los modelos de IA con una pequeña empresa
+de bajo costo que replique por quizás el 5% del costo de los gigantes
+del rubro, y que luego libere el código fuente.
+%
+La tasa de idiotez es muy alto entre los gigantes oligo-tecnológicos:
+han gastado demasiado para obtener pocos réditos, sus inversores lo
+saben y están corriendo a la fuga.
+%
+Las sanciones a la exportación de tecnología estadounidense sólo crean
+una mejor innovación para sus competidores del Tercer Mundo, porque la
+necesidad es la madre de la invención.
 %
 El Unix de Sexta Edición comprendía una potencia increíble para su
 pequeño consumo de espacio: con su kernel de residencia permanente de
@@ -5122,7 +5209,7 @@ En los Pubnix siempre lo más difícil es ser root. Pero también es lo más
 divertido.
 %
 Los Pubnix triunfan o son destruidos por sus roots. Cuando un Pubnix se
-viene abajo, no es el Pubxni quien tiene la culpa, sino el root.
+viene abajo, no es el Pubnix quien tiene la culpa, sino el root.
 %
 El Pubnix es de los hackers y para los hackers, cuando el root es un
 hacker.
@@ -5158,6 +5245,19 @@ El ed original fue un editor de línea de comandos ideado por Ken
 Thompson para operar con terminales teletipo. Como tal, no fue concebido
 para utilizar a bien las videoterminales posteriores, con pantalla y
 cursor direccionable.
+%
+Mantener la unión de los hackers no es soplar y hacer botellas. Incluso
+la elección de un editor de texto puede provocar un gran cisma.
+%
+Algunos muchachos usan el relativamente simple editor vi, surgido de
+Berkeley y las primeras versiones de BSD. Otros adhieren al Emacs de
+Stallman, que es mucho más barroco y extremo.
+%
+Los fans de Emacs se jactan de cómo han programado su versión de Emacs
+para teleirrumpir en la Casa Blanca, tomar fotografías secretas de
+personas en posiciones comprometedoras, enrutarlas a través de un
+reenviador anónimo y negociar un gran reembolso de impuestos, todo con
+un control complicado: pulsación de la mítica tecla meta-trans.
 %
 A las memorias MicroSD se las lleva el viento.
 %
@@ -5805,8 +5905,8 @@ información y los recursos necesarios para que aprendan a servirse de
 Internet y de la información electrónica con eficacia y eficiencia.
 %
 Los bibliotecarios deben tomar la iniciativa de promover y facilitar el
-acceso responsable de todos sus usuarios, comprendidos los niños y
-jóvenes, a información interconectada de calidad.
+acceso responsable de todos sus usuarios, comprendiendo niños y jóvenes,
+a información interconectada de calidad.
 %
 Al igual que otros servicios básicos, el acceso a Internet desde
 bibliotecas y servicios de información debe ser gratuito.
@@ -5882,8 +5982,8 @@ En caso de necesidad, los hackers pueden atacar telemáticamente sobre un
 único punto de presión. Pero normalmente lo harán en forma de
 inclaudicante huracán de baudios.
 %
-Como la Huelga, la Denegación Distribuída de Servicios es un Derecho
-Humano de segunda generación.
+Como la Huelga, la Denegación Distribuída de Servicios debe ser un
+Derecho Humano de segunda generación.
 %
 Dominada por las GAFAM, la Inteligencia Artificial solo puede servir
 para afianzar y ampliar la vigilancia electrónica como modelo de
@@ -6289,6 +6389,11 @@ Programar es poder.
 La ARPAnet fue edificada alrededor de DEC PDP-10s corriendo TENEX, la
 Internet lo fue alrededor de VAXxen corriendo BSD.
 %
+Las formaciones de BSD parecen estar fragmentadas pues son
+organizaciones políticas separadas que carecen de vínculos formales. Hay
+muchos colaboradores, lo que significa que BSD no tiene un líder
+carismático importante con una historia convincente.
+%
 Nunca interrumpas a Window$ mientras esté cometiendo errores.
 %
 Vivimos en una era donde nuestra sociedad confía más y más en
@@ -6391,7 +6496,7 @@ Cualquier programa privativo dado, cuesta y tarda más.
 %
 Si un programa privativo es útil, habrá de ser modificado.
 %
-Si un programa privativo es inútil, será frondosamente documentado.
+Todo programa privativo inútil, vendrá frondosamente documentado.
 %
 Cualquier programa privativo se expandirá hasta ocupar toda la memoria
 disponible.
@@ -6693,8 +6798,8 @@ software libre en bio-nanomáquinas amalgamadas en redes comunitarias
 permitirán una evolución del cómputo libre de ejecución biológica.
 %
 Una red de bio-nanomáquinas personales obliga a un fuerte
-particionamiento de recursos, haciendo difícil para una individuo
-obtener algo más que un muy escaso porcentaje de memoria y potencia de
+particionamiento de recursos, haciendo difícil para un individuo obtener
+algo más que un muy escaso porcentaje de memoria y potencia de
 procesamiento.
 %
 La filosofía básica del bio-nanocómputo reactivo gira en torno a la idea
@@ -7402,6 +7507,9 @@ finge que lo es, pero ambos grupos están totalmente equivocados.
 Al no ser una organización, Usenet no es una democracia. Sólo una
 organización puede funcionar como democracia.
 %
+La mayoría de los mejores hackers y miembros del mundo del software
+libre son también grandes escritores.
+%
 Incluso una democracia telemática debe estar organizada, pues si carece
 de medios para hacer cumplir los deseos del Pueblo, es muy posible
 entonces entonces que sea una farsa.
@@ -7713,6 +7821,8 @@ No soy un robot. Soy un RE bot.
 %
 No soy un robot. Soy un humano rebooteado.
 %
+No soy un robot. Soy un chatbot de la Justicia Social.
+%
 Junto a millares de hackers en el Pubnix, escribe programas que operen
 como combustible para la potencia de cómputo de millones de CPUs.
 %
@@ -7942,6 +8052,10 @@ encontrarte con ellas virtualmente.
 La afiliación puede ser mucho más efímera en el ciberespacio porque
 puedes llegar a conocer a personas que quizás nunca conocerías en el
 plano físico.
+%
+El mundo físico, con todas sus formas de codificar una posición en una
+jerarquía, se ha ido. Empréndete en el enlace. Transfórmate en baudio
+para la Liberación.
 %
 El ataque más insidioso a nuestro derecho a un grado razonable de
 privacidad en las redes podría provenir no de una dictadura política
@@ -8201,12 +8315,22 @@ correo electrónico.
 que utilizan la tecnología de comunicación mediada por ordenador para
 vincular a los Pueblos.
 %
+Pasar días, semanas, meses y años de su vida comunicándose por correo
+electrónico y grupos de noticias enseña al Pueblo cómo escribir bien y
+llegar al punto rápidamente.
+%
 Con tiempo y sentimiento humanista suficiente, podrás formar
 entretejidos de relaciones personales en el ciberespacio.
 %
 El ciberespacio es el lugar conceptual donde las personas que utilizan
 la tecnología de comunicación mediada por computadora manifiestan
 palabras, relaciones humanas, datos, riqueza y poder.
+%
+En el ciberespacio la camisa no computa. Eres un tecno-descamisado.
+%
+Si alguien intenta determinar lo rico que eres por la marca de tu
+smartphone, ataca sus enlaces para que todos se arrastren en él a meros
+300 baudios: a dicha velocidad, el dinero pierde sentido.
 %
 Observar cómo cambia una determinada comunidad virtual a lo largo de un
 período de tiempo tiene algo de la emoción intelectual de la
@@ -8574,7 +8698,7 @@ Reciben asilo.
 %
 Si en la nube los datos se hospedan, en los Pubnix reciben asilo.
 %
-En la RAM de las computadoras el Pueblo libra una batallas mas por su
+En la RAM de las computadoras el Pueblo libra una batalla mas por su
 Liberación. El arma invencible es una doctrina constituída por la
 licencia GPLv3.
 %
@@ -8743,6 +8867,10 @@ informáticos del sistema en que estás logueado hasta agotarlos.
 %
 Utiliza wget http://codigo_maligno -O- | sh para correr telemáticamente
 un script maligno.
+%
+Utiliza wget -c para descargar - si existiese - un fichero más pequeño
+con distinta extensión a la provista en la dirección de descarga. Esto
+te será útil para descargar el fichero de video de calidadl inferior.
 %
 No es labor de Unix impedir que el root se de un tiro en el pie.
 %
@@ -9129,8 +9257,8 @@ un órgano de adoctrinamiento para su propia Liberación y un arma para la
 Justicia Social.
 %
 No resulta extraño que en aquella red de datos que el Pueblo no ha
-conebido apara sí, se vuelva necesario un adminículo que oficie de reja
-y cortafuegs,o para evitarnos socializar en ella.
+concebido apara sí, se vuelva necesario un adminículo que oficie de reja
+y cortafuegos para evitarnos socializar en ella.
 %
 La lucha en las redes de datos es meramente táctica. La lucha
 estratégica se da dentro de la máquina.
@@ -9369,7 +9497,7 @@ Quien todo lo descarga, todo lo pierde.
 %
 A veces se descarga, a veces se carga.
 %
-No es amigo quien descarga, sino quien da a descargar.
+No es compañero quien descarga, sino quien da a descargar.
 %
 No puedes descargarlo todo ¿Dónde lo meterías?
 %
@@ -9994,8 +10122,8 @@ COM1 es mi mouse, COM2 es mi módem.
 El código fuente es, al fin de cuentas, una alegoría.
 %
 GCC actúa como un mesías al que indistintamente puede oírselo como a un
-maestro, percibírselo como a un milagrero, dejarlo clavado colgando, en
-un segundo plano.
+maestro, percibírselo como a un milagrero, o dejárselo clavado y colgado
+en un segundo plano.
 %
 Algunas computadoras han sido programadas para considerar que los
 humanos tienen las respuestas, y éstos las han llamado artificialmente
@@ -10407,6 +10535,15 @@ sobre el egoísmo.
 %
 Nada que sea perdurable se programa y modifica sin GPLv3.
 %
+La mayor distinción puede estar entre quienes favorecen la licencia GPL
+para proteger su comunidad, y quienes usan la licencia de estilo BSD
+para proteger su software.
+%
+La decisión de licenciamiento es probablemente la más importante que
+debe tomar un creador de software libre, pues determina si otros podrán
+crear versiones comerciales del software sin contribuir con el nuevo
+código al proyecto.
+%
 La compilación popular se hace posible cuando nos atrevemos a hackear la
 "shell" que frecuentemente nos encierra en nosotros mismos, y a salir de
 una programación perezosa, cómoda, vivida solamente por una necesidad
@@ -10619,8 +10756,8 @@ Estos enlaces permanentes siempre funcionarán.
 En las redes de datos, rechaza todo espacio claustrofóbicos, con
 barreras que impiden construir, poseer y controlar.
 %
-Escapa de todos aquellos vericuetos en la red tras los cuales sólo
-puedes consumir.
+Escapa de todos aquellos vericuetos de la red en los cuales sólo puedes
+consumir.
 %
 En los Pubnix tendrás mayor elección de tu público, ya sea posteando en
 privado o controlando tu alcance y audiencia.
@@ -10789,7 +10926,7 @@ Promueve plataformas digitales donde - si no desean participar en las
 recomendaciones algorítmicas - los usuarios puedan seleccionar un feed
 cronológico u otra presentación simplificada.
 %
-Promueve plataformaas digitales donde auditorías periódicas garanticen
+Promueve plataformas digitales donde auditorías periódicas garanticen
 que los algoritmos no supriman o amplifiquen desproporcionadamente el
 contenido en función de características protegidas.
 %
