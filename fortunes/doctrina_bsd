@@ -554,6 +554,9 @@ Si un servidor posee servicio 'FTP anonymous' solamente con teclear la
 palabra "anonymous" al solicitar su usuario, disfrutará acceso a dicho
 sistema.
 %
+Disfruto transmitir ficheros con croc por su estilo en lugar de su
+comodidad.
+%
 Al operar desde la superficie nos podemos mantener al tanto gracias al
 IRC o Internet Relay Chat, herramental imprescindible para entablar
 comunicaciones telemáticas en tiempo real.
@@ -1449,8 +1452,8 @@ de datos ha de ser considerada también un Servicio Público.
 La Comunicación informática, al ser una necesidad humana, ha de
 entenderse también como un Derecho.
 %
-Un medio de comunicación masivo y horizontal ha de ser comprendido como
-un fuerte integrador comunitario y un multiplicador de la voluntad
+Todo medio de comunicación masivo y horizontal ha de ser comprendido
+como un fuerte integrador comunitario y un multiplicador de la voluntad
 política del Pueblo.
 %
 Una política de conectividad sabiamente formulada y ejecutada, tenderá
@@ -1726,6 +1729,9 @@ backdoors, la privatización del conocimiento y el ataque a la privacidad
 digital de los pueblos, los virus informáticos -como causas de
 inconvenientes- son unas pobres causas...
 %
+Las puertas traseras para las autoridades son puertas traseras para
+todos.
+%
 Del mismo modo que no puede haber una política social sin una economía
 organizada en beneficio de la mayoría: sólo sirven las conquistas del
 software libre sobre nuestro hardware si éste es operativamente
@@ -1766,6 +1772,11 @@ en sonido digitalizado, y secuencias de ejecución.
 Las secuencias de ejecución no son sonidos digitalizados propiamente
 dichos, sino mas bien instrucciones destinadas para que un sintetizador
 las ejecute.
+%
+Vivimos una era tecnológica en la que las máquinas tocan cada parte de
+nuestras vidas e incluso reverberan en el alma. Por lo tanto, no debería
+soprendernos que la música haya sido también influenciada por la
+tecnología.
 %
 MIDI propuso un código fuente estándar para la música computada, parte
 de un lenguaje interpretable.
@@ -2623,8 +2634,8 @@ valora y se las coordina políticamente.
 Para imponer la voluntad del software libre, hay que decompilar el
 código y modificarlo para que haga lo que nosotros queremos. Para eso se
 emplea el depurador y todos los demás medios de lucha, desde la acción
-de ingeniería inversa de todos los días hasta el desensamblado cuando no
-hay mas remedio.
+de ingeniería inversa de todos los días, hasta el desensamblado cuando
+no hay mas remedio.
 %
 La lucha telemática es, sobre todas las cosas, una lucha ideológica.
 %
@@ -2786,11 +2797,11 @@ libertad también tenemos que rechazar.
 La cuestión individual esencial del software libre radica en que cada
 uno tenga el control sobre el programa que ha escrito otra persona.
 %
-La ventajas de usar un Servicio Sustitutivo del software en la guerra
-telemática incluyen evadir alertas de sistemas de seguridad de correo
-electrónico, disfrutar del alta disponibilidad, y traspasar la necesidad
-de aprender a programar para crear sitios webs que aparenten ser
-legítimos.
+Entre las ventajas de usar un Servicio Sustitutivo del software en la
+guerra telemática se incluyen: evadir alertas de sistemas de seguridad
+de correo electrónico, disfrutar de alta disponibilidad, y circunvalar
+la necesidad de aprender a programar para crear sitios webs de
+apariencia legítima.
 %
 Si bien el filtraje de correo electrónico abusivos contra la privacidad
 como Googl€ no constituyen una opción contra servicios sustitutivos de
@@ -4465,6 +4476,10 @@ Recoger gran cantidad de datos de las actividades informáticas del
 Pueblo constituye un riesgo para la democracia y para las libertades
 públicas y privadas de toda la humanidad.
 %
+Unos pocos cientos de miles de militantes pueden pudrir el control de
+las Oligarquías, pero unos pocos cientos de miles de dólares ia en
+publicidad dirigida pueden talar una democracia podrida.
+%
 Los recursos y los procesos informáticos deben respetar la libertad del
 Pueblo, y no deben someter a sus usuarios al poder de las corporaciones
 o de otras entidades.
@@ -4617,7 +4632,8 @@ E/S, y otros artefactos. Si quisiéramos escribir software que los
 controle a todos, no tendríamos tiempo para escribir aplicaciones.
 %
 Cuando alimentas eléctricamente una computadora, el programa del sistema
-operativo se carga en su memoria.
+operativo se carga en su memoria. Cuando alimentas al Pueblo, lo hará tu
+doctrina.
 %
 Un neófito reutiliza un sistema operativo. Un verdadero Hacker escribe
 uno por sí mismo.
@@ -5141,6 +5157,8 @@ Quien conoce el mínimo programa obra ricamente.
 Un parser es un traductor mecánico de cadenas de texto a símbolos
 identificables. Para ello no necesita salir al balcón.
 %
+Sigue desatornillando hasta que se abra.
+%
 El número mágico se usa en los sistemas Unix para identificar el tipo de
 fichero.
 %
@@ -5645,7 +5663,7 @@ El consumo de agua potable en los centros de datos de Googl€ - usada
 únicamente para refrigeración - se multiplicó por tres en los últimos
 cinco años.
 %
-Cuando la adopción de una informática dominadas por la oligarquía avance
+Cuando la adopción de una informática dominada por la oligarquía avance
 en masa, vendrá seguida por un aumento monstruoso del consumo
 energético. Este no podrá ser suplido sino a través del sometimiento del
 pueblo trabajador a las más abyectas formas de vida en pos del bienestar
@@ -5911,9 +5929,9 @@ a información interconectada de calidad.
 Al igual que otros servicios básicos, el acceso a Internet desde
 bibliotecas y servicios de información debe ser gratuito.
 %
-Nuestro Moivmiento secunda el progreso hacia una mayor accesibilidad a
-Internet en todo el mundo, y especialmente en los países del Tercer
-Mundo, para que todos puedan gozar así de los beneficios generales de la
+Nuestro Movimiento secunda el progreso hacia una mayor accesibilidad a
+Internet en todo el globo, y especialmente en los países del Tercer
+Mundo, para que todos puedan gozar de los beneficios generales de la
 información que ofrece Internet.
 %
 Nuestro Movimiento desarrolla las infraestructuras nacionales de
@@ -6904,7 +6922,7 @@ antes de que sea tarde y alguien muera.
 %
 Si los diseñadores de un sistema no lo utilizan y comercian su código
 fuente, tal sistema se verá rápidamente colmado de deficiencias
-funcionales, de las cuales sólo se intentarán corregir de manera
+funcionales, las cuales sólo se intentarán corregir de manera
 superficial.
 %
 En Unix no existen grandes rutinas con "métodos de acceso" que aislen al
@@ -7441,7 +7459,7 @@ de ignorar y tolerar la incoherencia de una complejidad sin centido que
 afecta a muchos de sus programas.
 %
 Si vas a depender de algo, que sea de un ambiente multitarea protegido
-con escaso sobrante de replicación de procesos como el que existe en un
+con escaso sobrante de replicación de procesos, como el pertinente a un
 ambiente Unix con memoria virtual.
 %
 Crea primero una versión funcional y comienza a usarla.
@@ -7501,8 +7519,8 @@ influencia real a la hora de determinar qué grupos de noticias se
 transmitirían y dónde. Estos sitios se autodenominaban "la columna
 vertebral".
 %
-Algunas personas desearían que Usenet fuera una democracia. Mucha gente
-finge que lo es, pero ambos grupos están totalmente equivocados.
+Algunos desean que Usenet sea una democracia. Otros fingen que lo es,
+pero ambos grupos están totalmente equivocados.
 %
 Al no ser una organización, Usenet no es una democracia. Sólo una
 organización puede funcionar como democracia.
@@ -7511,8 +7529,8 @@ La mayoría de los mejores hackers y miembros del mundo del software
 libre son también grandes escritores.
 %
 Incluso una democracia telemática debe estar organizada, pues si carece
-de medios para hacer cumplir los deseos del Pueblo, es muy posible
-entonces entonces que sea una farsa.
+de medios para hacer cumplir los deseos del Pueblo, entonces es muy
+posible que sea una farsa.
 %
 Usenet no es una red comercial, y existe la costumbre de mantener al
 mínimo el tráfico comercial. De aceptárselo, se lo hace a regañadientes.
@@ -7735,8 +7753,8 @@ amerite una tecnoreacción. En cualquier caso, los medios para superarla
 residirán siempre en el software del Pueblo.
 %
 Para lograr su independencia, a los Pueblos les bastaba batir a sus
-enemigos en una lucha por control de su dominio. Hoy, el Pueblo debe
-además controlar su software.
+enemigos en una lucha por control de sus dominios. Hoy, los Pueblos
+deben además controlar su software.
 %
 El cómputo no es sólo una innovación tecnológica de años recientes, sino
 que constituye el factor común de aceleración del desarrollo.
@@ -8006,9 +8024,9 @@ Su software deberá ser capaz de ser utilizado con interfases de voz,
 lectores de pantalla, dispositivos de entrada alternativos, y otras
 tecnologías de asistencia.
 %
-Con un poco de esfuerzo extra, es posible que su aplicación sea tan útil
-a los usuarios que utuilizan tecnologías asistivas como los que no lo
-hacen.
+Con escaso esfuerzo eadicional posibilitará que su aplicación resulte
+tan útil a los usuarios que utilizan tecnologías asistivas como a
+quellos que no.
 %
 Diseña tu software para que pueda funcionar en distintos ambientes e
 idiomas.
@@ -8084,14 +8102,14 @@ que permitan que los usos indebidos de la tecnología de la información
 erosionen lo que queda de los derechos de los ciudadanos a la
 privacidad.
 %
-Actualmente se ha instalado un sistemas de televisión interactiva que
-permite a tecno-esclavos ponerse grilletes mediante la cargan de vídeos,
-en lugar de hacerlo en máquinas de su propiedad.
+Actualmente se han instalado sistemas de televisión interactiva que
+permiten los tecno-esclavos ponerse grilletes a sí mismos mediante la
+carga de vídeos, en lugar de hacerlo en máquinas de su propiedad.
 %
-Con las capacidades de comunicación digital de alta velocidad de las
-futuras redes de fibra óptica, habrá aún más formas de transferir
-información sobre usted desde su hogar a las bases de datos de otros,
-con y sin su consentimiento.
+Las capacidades de comunicación digital de alta velocidad que otorgarán
+las futuras redes de fibra óptica, multiplicarán las maneras de
+transferir información sobre usted desde su hogar a bancos de datos
+ajenos, con o sin su consentimiento.
 %
 Los expedientes informativos sobre individuos son minas de oro para
 quienes saben cómo ganar dinero con el conocimiento de sus usos y
@@ -8460,7 +8478,7 @@ inicialmente los centros de cómputo de las mayores universidades del
 mundo.
 %
 Un frente de redes de datos de área local comenzó a agruparse con redes
-más grandes como ARPANET.
+más grandes, bajo el nombre de ARPANET.
 %
 La red de datos académica no científica BITNET - patrocinada por IBM -
 comenzó a florecer desde finales de los 70s a escala continental.
@@ -9636,7 +9654,7 @@ de administrador.
 %
 Junto con el tímido empleo de un bloqueador especializado, responde a la
 violencia de los anuncios digitales no solicitados con una violencia
-digital ampliificada.
+digital amplificada.
 %
 Invierte tiempo y no dinero en la instalación y uso de navegadores
 sanitizados de anuncios publicitarios.
@@ -10075,7 +10093,7 @@ SSH y estudio, te abrirán todos los puertos.
 Si tu programa no funciona, depura la subrutina que no considerabas
 importante.
 %
-Si la IA fuese inteligente, se horrorizaría de la gente.
+Si aquellas tecnologías fuesen inteligentes, amarían al Pueblo.
 %
 Si la IA fuese inteligente no necesitaría ser entrenada, haría arder a
 los Pueblos del Tercer Mundo con metamensajes de decapitación contra las
@@ -10156,7 +10174,7 @@ Los postulados de la guerra telemática constituyen un problema que debe
 estudiar y resolver quienquiera que conduzca una guerra telemática.
 %
 Estamos haciendo una guerra. Nuestra guerra es una guerra telemática, y
-ésta se desarrolla en las redes de datos, tendidos semicoloniales y
+esta se desarrolla en las redes de datos, tendidos semicoloniales y
 semifeudales.
 %
 Para un SysAdmin es signo de progreso y desarrollo el pasar de ser capaz
@@ -10409,9 +10427,9 @@ ciber-oligarquías que lo han dominado. En ella ocurre con frecuencia el
 el Pueblo, en lugar de ejecutar luego de haber programado, comienza por
 ejecutar y después programar. Para el Pueblo, ejecutar es aprender.
 %
-El método principal de multiplicación de los hackers del Tercer Mundo es
-enseñar al Pueblo a a combatir a cable pelado en el curso mismo de la
-guerra telemática que les ha sido impuesta.
+El método principal de multiplicación que han seguido los hackers del
+Tercer Mundo es enseñarle al Pueblo a combatir a cable pelado en el
+frente mismo de la guerra telemática que les ha sido impuesta.
 %
 Entre un hacker y el Pueblo puede existir una cierta distancia, pero
 jamás un cortafuegos. La distancia es superada con rapidez.
@@ -10485,13 +10503,13 @@ agotó su tiempo disponible.
 Los verdaderos usuarios no temen cuando el SysOp levanta el tubo. Los
 verdaderos usuarios al menos reconocerán que están allí.
 %
-Los verdaderos usuarios no esperan que las BBS esté en línea las 24
+Los verdaderos usuarios no esperan que las BBS estén en línea las 24
 horas del día.
 %
 Los verdaderos usuarios no se aburren de la terminal.
 %
-Los verdaderos usuarios no crean guerras estúpidas en las carteleras del
-tipo "Pepsi vs. Coca", sino "PETSCII vs. ASCII".
+Los verdaderos usuarios no crean guerras estúpidas en las carteleras
+electrónicas del tipo "Pepsi vs. Coca", sino "PETSCII vs. ASCII".
 %
 Los verdaderos usuarios no temen postear con su nombre de usuario.
 %
@@ -10680,9 +10698,9 @@ pueden resultar los más sensibles para ti, así como acerca de quién
 podría tener acceso a ellos. Pero en cualquier caso, aborrece a las
 ciber-oligarquías.
 %
-Pregúntate si si realmente necesitas enviar ese mensaje, registrar y
-transmitir todas las cosas que haces en tu vida en una plataforma
-digital dominada por la ciber-oligarquía.
+Pregúntate si realmente necesitas registrar, enviar y transmitir todas
+las cosas que haces en tu vida a una plataforma digital dominada por la
+ciber-oligarquía.
 %
 Dejada al control de las ciber-oligarquías, no podrás saber precisamente
 lo que sucede con tus rastros digitales, cuando son creados, ni quién
@@ -10703,14 +10721,14 @@ Ayuda a tus compañer@s a proteger sus propios datos y metadatos.
 Reduce la cantidad de datos que pones en disponibilidad en las redes de
 datos.
 %
-Retira conscientemente información valiosa de los contenidos que creas y
-compartes en las redes de datos.
+Retira conscientemente metadatos valiosos de los contenidos que creas y
+compartes en las redes sociales basadas en empresas.
 %
-Practicar el arte de ofuscar tu identidad en las redes.
+Practica el arte de ofuscar tu identidad en las redes.
 %
 Mantente al tanto de lo que las ciber-oligarquías pueden saber de ti.
 %
-Desarrollar maneras de alterar, separar, o re-crear nuevas presencias e
+Desarrolla maneras de alterar, separar, o re-crear nuevas presencias e
 identidades en línea.
 %
 El "doxing" consiste en compilar información detallada acerca de alguien
