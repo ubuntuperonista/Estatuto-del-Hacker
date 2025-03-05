@@ -7,7 +7,7 @@ function cowsayfortune {
     ESTECOWFILE=`cowsay -l | tail -n +2 | sed -e 's/\ /\'$'\n/g' | sed $CUALCOWFILE'q;d'`
 
     #echo "Cowfile elegida: ${ESTACOW}, desde ${CUALCOW}"
-    fortune -s $PREFIX/share/games/fortunes/doctrina | cowsay -f $ESTECOWFILE
+    fortune $PREFIX/share/games/fortunes/doctrina | cowsay -f $ESTECOWFILE
 }
 
 cowsayfortune
