@@ -21,8 +21,11 @@ mv $PREFIX/tmp/rms2 $PREFIX/share/games/fortunes/rms
 echo "Creando ejecutables..."
 echo "fortune $PREFIX/share/games/fortunes/doctrina" > $PREFIX/bin/doctrina
 echo "fortune $PREFIX/share/games/fortunes/rms" > $PREFIX/bin/rms
+wget https://caja.texto-plano.xyz/peron/fortune-phrases/vaca_android.sh
+mv vaca_android.sh $PREFIX/bin/vaca
 chmod +x $PREFIX/bin/doctrina
 chmod +x $PREFIX/bin/rms
+chmod +x $PREFIX/bin/vaca
 
 #Dispara una fortune adoctrinante de demostración
 fortune -s $PREFIX/share/games/fortunes/doctrina | cowsay -f 17oct
