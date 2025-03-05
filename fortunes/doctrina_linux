@@ -162,7 +162,7 @@ La mayoría de los servidores de correo públicos no están controlados por los 
 %
 Debemos desconfiar de los servidores de correo ofrecidos por la oligarquía. Han demostrado no tener escrúpulo alguno y acceder a correspondencia electrónica de aquellos abonados a quienes consideran riesgosos para sus planes inconfesables.
 %
-Los correos electrónicos conformado por código HTML permiten colocar hiperenlaces con una URL oculta bajo un texto amigable para el usuario. Sólo debes utilizarlo para combatir al Capital.
+Los correos electrónicos conformados por código HTML permiten colocar hiperenlaces de texto amigable para el usuario que oculten una URL. Sólo debes utilizarlo para combatir al Capital.
 %
 Con sólo superponer una etiqueta autoadhesiva de un código QR que codifique un hiperenlace HTML engañoso, hará que un usuario incauto solicite copias de contenido informático remoto distinto al esperado en su dispositivo de confianza. Recurre a esto para Combatir al Capital.
 %
@@ -512,6 +512,22 @@ El usuario novato poco puede hacer por el bien del sistema más que disfrutarlo.
 %
 En los sistemas tipo Unix podemos contar con una estructura de directorios, y los mismos pueden contener archivos. Estos normalmente son visibles y evidentes para los trabajadores.
 %
+Unix permite múltiples tareas y múltiples usuarios en sus sistemas de archivaje, tanto en disco duro como flexible.
+%
+Unix permite múltiples directorios y subdirectorios jerárquicos.
+%
+Unix cuenta con Entrada/Salida compatibilizada, lo que permite a sus usuarios redireccionar sus entradas y salidas.
+%
+Unix cuenta con un versátil programa intérprete de comandos, que ofrece una interfaz de usuario flexible y reconfigurable.
+%
+Unix cuenta con un sistema de seguridad por contraseña, que limita el acceso al sistema y sus archivos, a la vez que proteje los ficheros con atributos de lectura, escritura, agregado y ejecución.
+%
+Unix cuenta con soporte de fecha y hora.
+%
+Unix cuenta con numerosos buffers de ficheros, para ejecución de alta velocidad.
+%
+Unix dispone de ejecución de tareas y servicios de usuarios residente en memoria libre de intercambio, por medio de veloz conmutación contextual de banco de memoria.
+%
 Entubar el uso de herramientas disímiles es lo que torna a un sistema Unix poderoso. Esto es lo adecuado y también lo justo.
 %
 No utilizo software privativo alguno. ¡Prefiero morir de hambre antes que comer el amargo pan de la traición!
@@ -708,7 +724,9 @@ El transistor sólo deja fluir una corriente eléctrica a través de su estructu
 %
 Con el advenimiento de la microelectrónica y los microprocesadores de silicio encapsulados como el Intel 4004 de 4 bits y su sucesor 8008 de 8 bits, se produjo otro salto cualitativo que permitió proyectar calculadoras y cajas registradoras eléctricas.
 %
-El manejo de las microcomputadoras pioneras resultaba increíblemente tedioso, pues habían de introducirse los operandos en binario por medio de ocho interruptores frontales, presionando un botón para almacenarlos en memoria y repetir la operación con cada código de ensamblado.
+El manejo de las microcomputadoras pioneras resultaba increíblemente tedioso, pues deb{ian introducirse los operandos en binario por medio de ocho interruptores frontales, presionando un botón para almacenarlos en memoria y repetir la operación con cada código de ensamblado.
+%
+Cuando fueron diseñadas las primeraws microcomputadoras, sus módulos de memoria contenían por lo general cuatro mil bytes de almacenamiento.
 %
 El ciclo engendró al lenguaje máquina. El lenguaje máquina dio vida al ensamblador. El ensamblador se la dio al compilador. Ahora hay diez mil lenguajes.
 %
@@ -954,7 +972,7 @@ Frente a las noxas que genera el software privativo, frente a los backdoors, la 
 %
 Las puertas traseras para las autoridades son puertas traseras para todos.
 %
-Del mismo modo que no puede haber una política social sin una economía organizada en beneficio de la mayoría: sólo sirven las conquistas del software libre sobre nuestro hardware si éste es operativamente accesible al Pueblo.
+Del mismo modo que no puede haber una política social sin una economía organizada en beneficio de la mayoría, sólo sirven las conquistas del software libre sobre nuestro hardware si éste es operativamente accesible al Pueblo.
 %
 Lo primero que hicimos fue otorgar políticamente a la cartera la importancia institucional que merecía el código. No podía ser que en este país tuviésemos un ministerio para las vacas, y un departamento para cuidar el software libre.
 %
@@ -1532,7 +1550,7 @@ Solo un bruto haría clic en un alarmista mensaje descendido en su bandeja de en
 %
 A quien se le solicite introducir nombre y contraseña, debe asegurarse de que se encuentra en una URL legítima antes de comenzar siquiera a tipear en los campos de formulario.
 %
-Ya que nunca puedes controlar un servicio gestionado por otra persona, jamás utilices un servicio informático si en principio podrías lograr lo mismo corriendo un programa informático libre en tu propio sistema.
+Puesto que nunca puedes controlar un servicio gestionado por otra persona, jamás utilices un servicio informático si en principio podrías lograr lo mismo corriendo un programa libre en tu propio sistema.
 %
 Depender de un servicio web es distinto a correr un programa. Usar un servicio es depender. Correr un programa es realizar. Y para realizar una tarea informática siempre es mejor correr un programa que depender de un servicio.
 %
@@ -2189,6 +2207,10 @@ El sistema Unix cuenta con un excelente sistema de archivos para almacenar fiche
 Dado que Unix es un sistema multiusuario, inmediatamente exige poder identificarte con absoluta certeza. De esta forma el sistema verifica tu intención de acceder a los archivos privados y asigna a la sesión de trabajo la prioridad que te haya sido establecida.
 %
 Cada usuaria que se conecta al sistema Unix es referenciada por un identificador (Login ID). En lugar de recurrir a tu nombre o iniciales, recurre a cualquier otra cosa para ser pseudoanónima telemáticamente.
+%
+Puesto que Unix puede servir a muchas usuarias diferentes, y cada una puede acceder a un conjunto de ficheros único, cuando el programa login te interrogue deberás presentar un nombre válido de usuaria de sistema.
+%
+Al mecanografíar tu contraseña de usuaria de sistema Unix en el programa login, la teletipo no la imprimirá; ni siquiera aparecerá monitoreada en un terminal de video. Tras proveerla, presiona la tecla Intro o Retorno de Carro para iniciar la comprobación que deberá finalizar con tu logueo.
 %
 Unix utiliza el conjunto ASCII (American Standard Code for Information Interchange), por lo que los terminales gráficos deben tener modo ASCII.
 %
@@ -3369,7 +3391,7 @@ Nuestro Movimiento ha de vincular las bibliotecas digitales a redes de investiga
 %
 Nuevo Movimiento ha de sacar provecho de la convergencia creciente de los cometidos de los medios de comunicación y las instituciones para crear y difundir contenidos digitales.
 %
-Gracias a la dimensión mundial de Internet, personas y comunidades de todo el mundo, pueden acceder en igualdad de condiciones a la información que requieren.
+Gracias a la dimensión mundial de Internet, personas y comunidades de todo el mundo pueden acceder en igualdad de condiciones a la información que requieren.
 %
 El acceso a la información libre en línea permite profundizar en el desarrollo y aprendizaje, satisfacer la curiosidad de los Pueblos, enriquecer culturalmente, realizar actividades económicas o participar con conocimiento de causa en mecanismos democráticos.
 %
@@ -3707,7 +3729,7 @@ Implementar un contacto de oro en una red no mejora su desempeño.
 %
 Ante la GPLv3, todos somos iguales.
 %
-El verdadero hacker puede descubrir al rígido con Window$ por el mal olor.
+El verdadero hacker puede discernir al rígido con Window$ por el mal olor.
 %
 El que programa, no se equivoca, y si tiene bugs, vuelve a programar.
 %
@@ -4392,7 +4414,7 @@ Si la especificación y disposición individual de cada átomo separado es posib
 %
 La nanotecnología dará rienda suelta a los ensambladores replicantes. Licenciados bajo GPLv3 estos permitirán un crecimiento exponencial de la productividad y de la riqueza del Pueblo. Sometidos a una patente, lo esclavizarán de forma poco remediable.
 %
-Un compilador puede escoger cualquier forma abitraria para interpretar el código fuente sin violar el estándar ANSI C. Pero conociéndolo, puedes persuadirlo.
+Un compilador puede escoger cualquier forma arbitraria para interpretar el código fuente sin violar el estándar ANSI C. Pero conociéndolo, puedes persuadirlo.
 %
 El código de los virus informáticos más apreciados conjuga entendimiento técnico con la habilidad social de lograr ingenio, sorpresa y humor en su actuar inofensivo.
 %
@@ -5190,7 +5212,7 @@ El debate más grande de la historia posiblemente exista en Usenet.
 %
 Los compañeros que interconectaron sus computadoras personales a través de líneas telefónicas, crearon un verdadero uso popular de la tecnología, las carteleras electrónicas BBS.
 %
-Si un BBS es una tecnología democratizadora, no existe tal cosa.
+Si un BBS no es una tecnología democratizadora, no existe tal cosa.
 %
 La fuente puede recibir energía, pero el verdadero poder brota del puerto Ethernet.
 %
@@ -5208,11 +5230,13 @@ Un BBS es una microcomputadora que corre un software BBS, conectada a una línea
 %
 Una BBS es también herramental de ideologización.
 %
-Utiliza un Pubnix para organizar un movimiento, coordinar una campaña política, encontrar una audiencia para tu arte y diatribas políticas, y confluye con almas de ideas afines para discutir asuntos de interés mutuo.
-%
 Gran parte de la cultura BBS es mundana, pueril o esotérica.
 %
+Utiliza un Pubnix para organizar un movimiento, coordinar una campaña política, encontrar una audiencia para tu arte y diatribas políticas, y confluye con almas de ideas afines para discutir asuntos de interés mutuo.
+%
 Exprésate en los Tildes como alternativa cruda e inmediata a la cultura propagada por los medios concentrados de comunicación.
+%
+A diferencia de los Pubnix, los Tildes brotan de una vertiente anticomercial.
 %
 Conecta un módem a tu computadora, conecta este a la red telefónica, disca el número de alguna BBS existente, e ideologiza a los demás.
 %
@@ -5466,7 +5490,7 @@ La Revolución del Baudio solo puede darse por la unión de hackers y usuarios.
 %
 La fibra óptica es la Pacha Mama siempre revolucionaria: sólo hemos de seguir su senda y responder a su eterno llamado por la Liberación.
 %
-Los programadores crearon GNU. Ninguna compañía de Capital.
+Los programadores crearon GNU. No lo hizo ninguna compañía de Capital.
 %
 GNU no es tan malo como sus alternativos.
 %
@@ -6056,7 +6080,7 @@ Buena memoria no pierde bytes.
 %
 Diskette en diskettera, y CD-ROM en CD-ROMera.
 %
-La CPU no sabe lo que compila, y el programador tampoco.
+La CPU no sabe lo que compila, y muchas veces el programador tampoco.
 %
 Se aprende a compilar, compilando.
 %
@@ -6304,7 +6328,7 @@ En la confrontación entre quienes tenían la Commodore 64 y quienes tenían la 
 %
 El código no se programa mediante GCC, sino mediante la escucha paciente, el diálogo y la cooperación, que son los únicos medios dignos de la persona humana para resolver los conflictos. El compilador sólo después de esto se usa.
 %
-Mientras los CEOs a menudo quiere convencernos de que sólo valemos si compilamos código, la GPLv3 nos recuerda la verdad del cómputo: nuestro código vale en comunidad.
+Mientras los CEOs a menudo quieren convencernos de que sólo valemos si compilamos código, la GPLv3 nos recuerda la verdad del cómputo: nuestro código vale en comunidad.
 %
 He experimentado una vez más la vitalidad de los jóvenes Púbnix locales. ¡Dejemos que su entusiasmo por la GPLv3 nos contagie para renovar el kernel en GNU!
 %
