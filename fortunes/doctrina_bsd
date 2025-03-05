@@ -240,9 +240,9 @@ oligarquía. Han demostrado no tener escrúpulo alguno y acceder a
 correspondencia electrónica de aquellos abonados a quienes consideran
 riesgosos para sus planes inconfesables.
 %
-Los correos electrónicos conformado por código HTML permiten colocar
-hiperenlaces con una URL oculta bajo un texto amigable para el usuario.
-Sólo debes utilizarlo para combatir al Capital.
+Los correos electrónicos conformados por código HTML permiten colocar
+hiperenlaces de texto amigable para el usuario que oculten una URL. Sólo
+debes utilizarlo para combatir al Capital.
 %
 Con sólo superponer una etiqueta autoadhesiva de un código QR que
 codifique un hiperenlace HTML engañoso, hará que un usuario incauto
@@ -867,6 +867,30 @@ En los sistemas tipo Unix podemos contar con una estructura de
 directorios, y los mismos pueden contener archivos. Estos normalmente
 son visibles y evidentes para los trabajadores.
 %
+Unix permite múltiples tareas y múltiples usuarios en sus sistemas de
+archivaje, tanto en disco duro como flexible.
+%
+Unix permite múltiples directorios y subdirectorios jerárquicos.
+%
+Unix cuenta con Entrada/Salida compatibilizada, lo que permite a sus
+usuarios redireccionar sus entradas y salidas.
+%
+Unix cuenta con un versátil programa intérprete de comandos, que ofrece
+una interfaz de usuario flexible y reconfigurable.
+%
+Unix cuenta con un sistema de seguridad por contraseña, que limita el
+acceso al sistema y sus archivos, a la vez que proteje los ficheros con
+atributos de lectura, escritura, agregado y ejecución.
+%
+Unix cuenta con soporte de fecha y hora.
+%
+Unix cuenta con numerosos buffers de ficheros, para ejecución de alta
+velocidad.
+%
+Unix dispone de ejecución de tareas y servicios de usuarios residente en
+memoria libre de intercambio, por medio de veloz conmutación contextual
+de banco de memoria.
+%
 Entubar el uso de herramientas disímiles es lo que torna a un sistema
 Unix poderoso. Esto es lo adecuado y también lo justo.
 %
@@ -1227,9 +1251,12 @@ bits, se produjo otro salto cualitativo que permitió proyectar
 calculadoras y cajas registradoras eléctricas.
 %
 El manejo de las microcomputadoras pioneras resultaba increíblemente
-tedioso, pues habían de introducirse los operandos en binario por medio
-de ocho interruptores frontales, presionando un botón para almacenarlos
-en memoria y repetir la operación con cada código de ensamblado.
+tedioso, pues deb{ian introducirse los operandos en binario por medio de
+ocho interruptores frontales, presionando un botón para almacenarlos en
+memoria y repetir la operación con cada código de ensamblado.
+%
+Cuando fueron diseñadas las primeraws microcomputadoras, sus módulos de
+memoria contenían por lo general cuatro mil bytes de almacenamiento.
 %
 El ciclo engendró al lenguaje máquina. El lenguaje máquina dio vida al
 ensamblador. El ensamblador se la dio al compilador. Ahora hay diez mil
@@ -1733,7 +1760,7 @@ Las puertas traseras para las autoridades son puertas traseras para
 todos.
 %
 Del mismo modo que no puede haber una política social sin una economía
-organizada en beneficio de la mayoría: sólo sirven las conquistas del
+organizada en beneficio de la mayoría, sólo sirven las conquistas del
 software libre sobre nuestro hardware si éste es operativamente
 accesible al Pueblo.
 %
@@ -2620,7 +2647,7 @@ En la lucha telemática integral han de emplearse todos los sistemas y
 todos los métodos: es obra de la previsión, de la organización, y de la
 realización.
 %
-Dominar la red de datos es un objetivo escencial de nuestro Movimiento.
+Dominar la red de datos es un objetivo esencial de nuestro Movimiento.
 Esto requiere que su marco sea concebido en el espíritu de un servicio
 de alcance público.
 %
@@ -2817,9 +2844,9 @@ A quien se le solicite introducir nombre y contraseña, debe asegurarse
 de que se encuentra en una URL legítima antes de comenzar siquiera a
 tipear en los campos de formulario.
 %
-Ya que nunca puedes controlar un servicio gestionado por otra persona,
-jamás utilices un servicio informático si en principio podrías lograr lo
-mismo corriendo un programa informático libre en tu propio sistema.
+Puesto que nunca puedes controlar un servicio gestionado por otra
+persona, jamás utilices un servicio informático si en principio podrías
+lograr lo mismo corriendo un programa libre en tu propio sistema.
 %
 Depender de un servicio web es distinto a correr un programa. Usar un
 servicio es depender. Correr un programa es realizar. Y para realizar
@@ -3912,6 +3939,16 @@ trabajo la prioridad que te haya sido establecida.
 Cada usuaria que se conecta al sistema Unix es referenciada por un
 identificador (Login ID). En lugar de recurrir a tu nombre o iniciales,
 recurre a cualquier otra cosa para ser pseudoanónima telemáticamente.
+%
+Puesto que Unix puede servir a muchas usuarias diferentes, y cada una
+puede acceder a un conjunto de ficheros único, cuando el programa login
+te interrogue deberás presentar un nombre válido de usuaria de sistema.
+%
+Al mecanografíar tu contraseña de usuaria de sistema Unix en el programa
+login, la teletipo no la imprimirá; ni siquiera aparecerá monitoreada en
+un terminal de video. Tras proveerla, presiona la tecla Intro o Retorno
+de Carro para iniciar la comprobación que deberá finalizar con tu
+logueo.
 %
 Unix utiliza el conjunto ASCII (American Standard Code for Information
 Interchange), por lo que los terminales gráficos deben tener modo ASCII.
@@ -5889,8 +5926,8 @@ los cometidos de los medios de comunicación y las instituciones para
 crear y difundir contenidos digitales.
 %
 Gracias a la dimensión mundial de Internet, personas y comunidades de
-todo el mundo, pueden acceder en igualdad de condiciones a la
-información que requieren.
+todo el mundo pueden acceder en igualdad de condiciones a la información
+que requieren.
 %
 El acceso a la información libre en línea permite profundizar en el
 desarrollo y aprendizaje, satisfacer la curiosidad de los Pueblos,
@@ -6346,7 +6383,7 @@ Implementar un contacto de oro en una red no mejora su desempeño.
 %
 Ante la GPLv3, todos somos iguales.
 %
-El verdadero hacker puede descubrir al rígido con Window$ por el mal
+El verdadero hacker puede discernir al rígido con Window$ por el mal
 olor.
 %
 El que programa, no se equivoca, y si tiene bugs, vuelve a programar.
@@ -6807,11 +6844,11 @@ transmisión de datos - y permitiendo la bio-ejecución de programas
 liberados bajo licencias GPLv3 - podremos pensar en lograr una comunidad
 libre de compartición biológica de recursos informáticos.
 %
-Los sistemas reactivos serán variosos al proveer a los usuarios los
+Los sistemas reactivos serán valiosos al proveer a los usuarios los
 servicios que ya tienen, pero hacerlo a un costo menor en potencia - y
 por tanto tiempo - computacional.
 %
-La nanomáquinas pesonales son una mala idea. Sólo la programación con
+La nanomáquinas personales son una mala idea. Sólo la programación con
 software libre en bio-nanomáquinas amalgamadas en redes comunitarias
 permitirán una evolución del cómputo libre de ejecución biológica.
 %
@@ -7396,7 +7433,7 @@ Licenciados bajo GPLv3 estos permitirán un crecimiento exponencial de la
 productividad y de la riqueza del Pueblo. Sometidos a una patente, lo
 esclavizarán de forma poco remediable.
 %
-Un compilador puede escoger cualquier forma abitraria para interpretar
+Un compilador puede escoger cualquier forma arbitraria para interpretar
 el código fuente sin violar el estándar ANSI C. Pero conociéndolo,
 puedes persuadirlo.
 %
@@ -7464,16 +7501,16 @@ ambiente Unix con memoria virtual.
 %
 Crea primero una versión funcional y comienza a usarla.
 %
-Simplemente muda aquellos patrones y algoritmos escenciales de tu mente
-a la CPU de la computadora.
+Simplemente muda aquellos patrones y algoritmos esenciales de tu mente a
+la CPU de la computadora.
 %
 UUCP es un conjunto de protocolos para enviar datos a través de enlaces
 punto a punto, generalmente recurriendo a módems y líneas de acceso
 telefónico.
 %
-UUCP fue inicialmente desarrollado en los Laboratorios Bell en 1977 para
-la comunicación entre sus centros de desarrollo de Unix. Para mediados
-de 1978, esta red ya conectaba más de 80 sitios.
+UUCP fue concebido inicialmente en 1977 en los Laboratorios Bell para la
+comunicación entre sus centros de desarrollo de Unix. Para mediados de
+1978, esta red ya conectaba más de 80 sitios.
 %
 Los orígenes de la Usenet se remontan a 1979, cuando tres universitarios
 idearon el intercambio de información general dentro de la comunidad de
@@ -8773,7 +8810,7 @@ Los compañeros que interconectaron sus computadoras personales a través
 de líneas telefónicas, crearon un verdadero uso popular de la
 tecnología, las carteleras electrónicas BBS.
 %
-Si un BBS es una tecnología democratizadora, no existe tal cosa.
+Si un BBS no es una tecnología democratizadora, no existe tal cosa.
 %
 La fuente puede recibir energía, pero el verdadero poder brota del
 puerto Ethernet.
@@ -8804,15 +8841,18 @@ llamado módem.
 %
 Una BBS es también herramental de ideologización.
 %
+Gran parte de la cultura BBS es mundana, pueril o esotérica.
+%
 Utiliza un Pubnix para organizar un movimiento, coordinar una campaña
 política, encontrar una audiencia para tu arte y diatribas políticas, y
 confluye con almas de ideas afines para discutir asuntos de interés
 mutuo.
 %
-Gran parte de la cultura BBS es mundana, pueril o esotérica.
-%
 Exprésate en los Tildes como alternativa cruda e inmediata a la cultura
 propagada por los medios concentrados de comunicación.
+%
+A diferencia de los Pubnix, los Tildes brotan de una vertiente
+anticomercial.
 %
 Conecta un módem a tu computadora, conecta este a la red telefónica,
 disca el número de alguna BBS existente, e ideologiza a los demás.
@@ -9177,7 +9217,7 @@ usuarios.
 La fibra óptica es la Pacha Mama siempre revolucionaria: sólo hemos de
 seguir su senda y responder a su eterno llamado por la Liberación.
 %
-Los programadores crearon GNU. Ninguna compañía de Capital.
+Los programadores crearon GNU. No lo hizo ninguna compañía de Capital.
 %
 GNU no es tan malo como sus alternativos.
 %
@@ -10114,7 +10154,7 @@ Buena memoria no pierde bytes.
 %
 Diskette en diskettera, y CD-ROM en CD-ROMera.
 %
-La CPU no sabe lo que compila, y el programador tampoco.
+La CPU no sabe lo que compila, y muchas veces el programador tampoco.
 %
 Se aprende a compilar, compilando.
 %
@@ -10527,7 +10567,7 @@ paciente, el diálogo y la cooperación, que son los únicos medios dignos
 de la persona humana para resolver los conflictos. El compilador sólo
 después de esto se usa.
 %
-Mientras los CEOs a menudo quiere convencernos de que sólo valemos si
+Mientras los CEOs a menudo quieren convencernos de que sólo valemos si
 compilamos código, la GPLv3 nos recuerda la verdad del cómputo: nuestro
 código vale en comunidad.
 %
