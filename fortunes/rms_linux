@@ -1102,3 +1102,65 @@ Cada clase en la escuela debe tener esta regla: "Alumnos si traes un programa a 
 La escuela debe presentar únicamente el Software Libre a la clase.
 %
 Cada escuela debe migrar al software libre y enseñar Software Libre, pues todas ellas contribuir a dirigir a la sociedad rumbo a la libertad y a la solidaridad social.
+%
+Debido a un peculiar giro de los acontecimientos, a la versión de GNU ampliamente utilizada hoy en día se la llama a menudo "Linux", y muchos de quienes la usan no se dan cuenta de que básicamente se trata del sistema GNU, desarrollado por el proyecto GNU.
+%
+Existe un Linux, pero constituye solo una parte del sistema que utilizan.
+%
+Linux es el núcleo: el programa del sistema que se encarga de asignar los recursos de la máquina a los demás programas que el usuario ejecuta. El núcleo es una parte esencial de un sistema operativo, pero inútil por sí mismo, sólo puede funcionar en el marco de un sistema operativo completo.
+%
+Linux se utiliza normalmente en combinación con el sistema operativo GNU: el sistema completo es básicamente GNU al que se le ha añadido Linux, es decir, GNU/Linux.
+%
+Todas las distribuciones denominadas "Linux" son en realidad distribuciones GNU/Linux.
+%
+Muchos usuarios no entienden la diferencia entre el núcleo, que es Linux, y el sistema completo, al que también llaman "Linux".
+%
+Muchos usuarios suelen pensar erróneamente que Linus Torvalds, con un poco de ayuda, desarrolló el sistema operativo completo en 1991.
+%
+Los programadores generalmente saben que Linux es un núcleo, pero como habitualmente han oído llamar "Linux" al sistema completo, con frecuencia imaginan alguna historia que justifique dar al sistema completo el nombre del núcleo.
+%
+Muchos erróneamente creen que una vez que Linus Torvalds terminó de escribir el núcleo Linux, los usuarios buscaron más software libre para completarlo, y descubrieron que (por ninguna razón en particular) casi todo lo necesario para hacer un sistema operativo similar a Unix ya estaba disponible.
+%
+El sistema GNU, no está del todo completo.
+%
+El software libre disponible dio como resultado un sistema completo porque el Proyecto GNU había estado trabajando con ese objetivo desde 1984.
+%
+Cuando Linus Torvalds inició el desarrollo del núcleo Linux, el sistema GNU ya estaba casi terminado.
+%
+El objetivo de la mayoría de los proyectos de software libre es desarrollar un programa particular para cubrir una necesidad particular.
+%
+Linus Torvalds se propuso escribir un kernel de tipo Unix (Linux), Donald Knuth se propuso escribir un editor de textos (TeX), Bob Scheifler se propuso desarrollar un sistema de ventanas (el X Window System).
+%
+Es natural medir la contribución de los proyectos de software en función de los programas específicos que aportan.
+%
+Un vendedor de CD-ROM constató que en su «distribución Linux» el software de GNU constituía el mayor contingente, con alrededor del 28% del total del código fuente, y esto incluía algunos de los principales componentes esenciales, sin los cuales no habría sistema.
+%
+En el repositorio principal de gNewSense, Linux representa el 1,5% y los paquetes de GNU el 15%)
+%
+Existen distribuciones que ofrecen al usuario la opción de instalar únicamente software libre y que nos abstenemos de recomendar.
+%
+Un usuario que valore la libertad lo suficiente y que reflexione sobre el tema puede hacer que esas distros respeten su liberdad.
+%
+No queremos inducir a las personas a instalar software que no es libre; hemos escogido nuestros métodos para que eso sea poco probable.
+%
+El público en general es un grupo numeroso y vario.
+%
+Por motivos éticos, un festival de instalación no debe recomendar ni instalar programas que no sean libres.
+%
+Las fiestas de instalación invitan a los usuarios a llevar sus computadoras para que los expertos les instalen GNU/Linux. La intención es promover las ideas del software libre, como también el uso de programas libres.
+%
+En las actuales circunstancias, los usuarios que quieran rechazar completamente el software que no es libre tendrán que elegir sus máquinas con mucho cuidado para lograrlo.
+%
+Las computadoras no funcionan con una distribución GNU/Linux completamente libre; la razón es que contienen periféricos o coprocesadores que no funcionarán a menos que el sistema incluya algunos controladores o firmware privativos.
+%
+Los fabricantes de hardware se niegan a revelarnos cómo se usan sus productos, de modo que la única forma de descubrirlo es mediante la ingeniería inversa, cosa que en la mayor parte de los casos aún no se ha hecho.
+%
+Instalando únicamente el software libre que se incluye en las distribuciones 100% libres, las máquinas que son parcialmente secretas no funcionarán del todo.
+%
+Si instala distribuciones y software que no son libres para que las máquinas funcionen completamente, no logrará enseñar a los usuarios a decir "no" en aras de la libertad.
+%
+Utilizar software que no es libre implica que el usuario sacrifique su libertad por la funcionalidad.
+%
+Hago un llamado directamente a las fiestas de instalación de software para que tomen una posición estricta e instalen únicamente software libre. Así podrá dar un claro ejemplo de ética irreprochable al rechazar el software que no es libre.
+%
+La fiesta de instalación debe asesorar a los usuarios que deseen remplazar ciertos componentes de sus máquinas por otros que sean compatibles con el software libre, e indicarles recursos comerciales o no comerciales útiles para obtener una computadora enteramente funcional sin paquetes binarios ni controladores que no sean libres.
