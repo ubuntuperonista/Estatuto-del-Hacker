@@ -394,6 +394,12 @@ Módem que no chilla, no conecta.
 %
 A módem rápido, ruido de línea.
 %
+El ruido de línea es una perturbación eléctrica en algún punto entre su computadora y la otra máquina con la que se esté comunicando.
+&
+El ruido de línea corrompe los datos.
+%
+Cuando se produzca el ruido de línea, verás símbolos inciertos en tu terminal, en lugar de los caracteres que cabría esperar.
+%
 Sobre gustos no hay nada escrito. Yo prefiero los Pall Mall o los Particulares picado grueso cortado a cuchillo, pero también puedo optar por el charuto. En intérpretes de comandos, uso el Bourne Again Shell, el mítico Bash.
 %
 Power$hell es inútil: no deja de ser una ajada bandera que Micro$oft pretende imponer como reemplazo del poderoso Bash que todos hemos aprendido a dominar.
@@ -581,6 +587,10 @@ Nos quieren decir que lo nuevo es contar con aplicaciones de ejecución remota, 
 Sólo el indio veía información en la nube.
 %
 El problema de llamar a GNU Linux no es un problema de todos. Es un problema entre Richard Stallman y Linus Torvalds. Que se arreglen entre ellos. Nosotros nos entendemos clarito.
+%
+Escribir código es menos atractivo que quejarse y lamentarse de Stallman.
+%
+Yo tenía un uutils/Linux que se llamaba Ubuntu, y yo lo llamaba... "¡Ubuntu, Ubuntu!", y Ubuntu venía, pero yo sabía que no era GNU/Linux, era un  uutils/Linux. Lo mismo pasa con algunos que se llaman peronistas, y yo los llamo y vienen, pero yo sé que no son peronistas.
 %
 Yo tenía un GNU que se llamaba Linux, y yo lo llamaba... "Linux, Linux", y Linux venía, pero yo sabía que no era un Linux, era un GNU. Lo mismo pasa con algunos que se llaman peronistas y yo los llamo y vienen, pero yo sé que no son peronistas.
 %
@@ -1105,6 +1115,8 @@ Los virus informáticos más exitosos son aquellos que mantienen oculta su infil
 Muy raramente pueden rastrearse los efectos de los virus informáticos hasta su originador. Por tal motivo constituyen armas atractivas en el arsenal de la guerrilla telemática.
 %
 Los virus de computadora contienen rutinas de intervención que por lo general modifican ficheros de programas que normalmente serían inocuos.
+%
+El uso del camuflaje, el engaño, y la ofuscación electrónica  sobresalen como modus operandi entre los creadores de virus informáticos.
 %
 Al invocar un programa infectado por un virus informático, este suele buscar otros ficheros almacenados a fin de en ellos replicarse a sí mismo.
 %
@@ -3007,6 +3019,8 @@ Dentro de la CPU, tratamos los datos en una forma llamada byte. Cuando esto se t
 %
 Un bit no consiste más que en una condición de ENCENDIDO o APAGADO.
 %
+El módem recibe información de una computadora o terminal y la traduce en una señal de audio capaz de enviarse por un tendido telefónico.
+%
 El módem modifica las señales digitales que le gustan a la computadora en señales de audio que adopta la red telefónica.
 %
 Para solicitar condición de ENCENDIDO a tu módem, transmítele una señal de audio de 1270 ciclos. Si deseas enviar una condición de APAGADO, transmítele una señal de audio de 1070 ciclos.
@@ -3928,6 +3942,24 @@ Quien liberó su código bajo GPLv3 no está obligado a nada más.
 A Window$ muerto, GNU puesto.
 %
 No has vivido hasta haber muerto en MUD.
+%
+Los primeros MUD eran fantasías tokienianas en el mainframe.
+%
+Los primeros MUD eran ejercicios de programacion y matar tiempo, destinados a los nerds más adictos al Calabozos y Dragones, con acceso remoto a un mainframe.
+%
+Un MUD es una realidad virtual basada en texto. También lo es la política.
+%
+Un MUD es una sala de chat construida mediante conversaciones.
+%
+Un MUD es Calabozos y Dragones de alcance global.
+%
+Un MUD es un mapa creado por medio de palabras y telemática.
+%
+Un MUD es un conjunto de de sentidos construidos con palabreríos.
+%
+Como aquel proverbial castillo en la nube, todos los MUDs eran construidos por dedicados Magos de Unix.
+%
+Aproximadamente la mitad de los participantes de los MUD considera que se trata de un mero juego, mientras que la otra mitad discrepa vehemente y acaloradamente.
 %
 El programador debe considerar las cosas mas sencillas de lo que son.
 %
@@ -5097,6 +5129,12 @@ La red de supercómputo científico NSFNET entró en funcionamiento en 1986 y se
 %
 La red de datos ARPANET fue dada de baja honrosamente en marzo de 1990.
 %
+El software de dominio público se refiere a aquel que no tiene derechos de autor y, por lo tanto, puede distribuirse gratuitamente y sin compensación para el autor.
+%
+El software puede ser cedido al dominio público por su autor o por vencimiento de los derechos de autor.
+%
+El Shareware es un concepto de distribución comercial de software, donde el autor avala la realización de copias para probar antes de comprar; no es software libre ni de dominio público.
+%
 A pesar de los más abyectos intentos de las ciber-oligarquías, el caudal de información de estricto dominio público disponible en la red sigue siendo enorme.
 %
 La literatura de dominio público en formato de texto plano está cada vez más difundida en la red gracias a la mancomunión de esfuerzos de voluntarios y autores de todo el mundo.
@@ -5317,7 +5355,17 @@ Colgarse es humano. Rebootear es maquinal.
 %
 GNU revoluciona la CPU.
 %
-HURD será lo que deba ser, o no será nada.
+Hurd será lo que deba ser, o no será nada.
+%
+El GNU Hurd es el reemplazo del Proyecto GNU para el Kernel de Unix.
+%
+El GNU Hurd es una colección de servidores que se ejecutan sobre el microkernel Mach para implementar sistemas de archivo, protocolos de red, control de acceso a ficheros, y otras funcionalidaades que estás implementadas por el Kernel de Unix u otros similares a aquél (como Linux).
+%
+GNU Mach es el microkernel sobre el cual se basa un sistema GNU Hurd.
+%
+El microkernel GNU Mach define interfases de desarrollo distribuido multi-servidor a través del mecanismo de comunicación interprocesos empleado por la colección de servidores Hurd, con el fin de dar cuenta de aquellos servicios provistos por un núcleo de sistema operativo tradicional.
+
+ is the microkernel upon which a GNU Hurd system is based. It provides an Inter Process Communication (IPC) mechanism that the Hurd uses to define interfaces for implementing in a distributed multi-server fashion the services a traditional operating system kernel provides.
 %
 La orden rm -rf /* simplemente le transmite al intérprete "¿Puedes por favor borrar todos los datos del sistema por mí?"
 %
