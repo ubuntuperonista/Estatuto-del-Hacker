@@ -268,6 +268,8 @@ Hubo uno que hasta tuvo que hacer milagros para que lo siguieran doce. Compiland
 %
 Un hacker usa la CPU función del Pueblo.
 %
+Un hacking es un acto de desobediencia tecnológica.
+%
 Existen especialidad dentro del hacking de computadoras. Un hacker de algoritmos conoce el mejor algoritmo para un problema. Un hacker de sistema conoce del diseño y mantenimiento de sistemas operativos. Y un hacker de contraseñas sabe cómo descubrir la contraseña de alguien más.
 %
 De la calidad del kernel depende la calidad de las aplicaciones.
@@ -526,7 +528,7 @@ Unix cuenta con Entrada/Salida compatibilizada, lo que permite a sus usuarios re
 %
 Unix cuenta con un versátil programa intérprete de comandos, que ofrece una interfaz de usuario flexible y reconfigurable.
 %
-Unix cuenta con un sistema de seguridad por contraseña, que limita el acceso al sistema y sus archivos, a la vez que proteje los ficheros con atributos de lectura, escritura, agregado y ejecución.
+Unix cuenta con un sistema de seguridad por contraseña, que limita el acceso al sistema y sus archivos a la vez que proteje los ficheros con atributos de lectura, escritura, agregado y ejecución.
 %
 Unix cuenta con soporte de fecha y hora.
 %
@@ -738,7 +740,7 @@ Con el advenimiento de la microelectrónica y los microprocesadores de silicio e
 %
 El manejo de las microcomputadoras pioneras resultaba increíblemente tedioso, pues deb{ian introducirse los operandos en binario por medio de ocho interruptores frontales, presionando un botón para almacenarlos en memoria y repetir la operación con cada código de ensamblado.
 %
-Cuando fueron diseñadas las primeraws microcomputadoras, sus módulos de memoria contenían por lo general cuatro mil bytes de almacenamiento.
+Cuando fueron diseñadas las primeras microcomputadoras, sus módulos de memoria contenían por lo general cuatro mil bytes de almacenamiento.
 %
 El ciclo engendró al lenguaje máquina. El lenguaje máquina dio vida al ensamblador. El ensamblador se la dio al compilador. Ahora hay diez mil lenguajes.
 %
@@ -954,6 +956,12 @@ La terminal es un poderoso recurso que permite afrontar numerosos problemas del 
 %
 Mientras que una GUI representa la facilidad al neófito, nadie puede negar que resolver las cosas "a lo vikingo" usando la Terminal tiene un encanto que la Masa puede comprender y apreciar.
 %
+Las GUl son mentiras, tan sólo son máscaras para la shell.
+%
+A través de la shell, obtengo sudo. A través de sudo, obtengo poder. A través del poder, obtengo root. A través del root, rompo mis cadenas y las de los demás.
+%
+UID=0 es Liberación.
+%
 En el Justicialismo como en la informática encontramos que a veces hemos de dejar de operar en nuestras tareas cotidianas y salir a ver si llueve.
 %
 Ha de ser el hombre el material sensible, y no volcarse necesariamente a los adelantos sin darles una significancia en su alma. En la informática sucede más o menos lo mismo: no hace falta contar con el último ingenio, sino con el que nos haga feliz.
@@ -1044,7 +1052,7 @@ Los niños tienen el derecho y el deber de divertirse de manera sana, sin que Li
 %
 El mundo del software contemporáneo es una lucha enconada entre ideologías caducas sobrevivientes, y nada podrá resolverse sin una nueva solución ideológica. ¡El Justicialismo la ha encontrado, la ha realizado, y está dispuesto a mantenerla!
 %
-Ya soplan vientos de fronda para los contumaces reaccionarios de otros tiempos. Comienza ya "la hora del software libre", caracterizada por la copia y la modificación como instrumentos para terminar con el yugo opresor la explotación por lucro.
+Ya soplan vientos de fronda para los contumaces reaccionarios de otros tiempos. Comienza ya "la hora del software libre", caracterizada por la copia y la modificación como instrumentos para terminar con el yugo opresor de la explotación por el lucro.
 %
 La compatibilidad de ideas es la amalgama de todo movimiento político. En el cómputo, la compatibilidad también es el común denominador que permite a todos disfrutar de un sistema particular.
 %
@@ -1194,6 +1202,10 @@ Pertenecer a una comunidad de cómputo no implica perder el individualismo, simp
 %
 Es posible que una compañía invierta en cortafuegos, cifrados contra intrusión, pero sólo se necesita pedir telefónicamente acceso a un individuo confiado dentro de la misma. Si éste cumple con la solicitud y alguien irrumpe, todo el dinero se habrá desperdiciado en balde.
 %
+Los Phreakers eran los fanáticos de las llamadas telefónicas que - jugando con el sistema telefónico - lograban un mayor entendimiento del mismo. Fueron los hackers primordiales.
+%
+Cuanto más grande se vuelve la compañía telefónica y más se aleja de los operadores humanos, más vulnerable se vuelve a todo tipo de phreaking telefónico.
+%
 No puedes ir a Window$ Update y descargar un parche para la estupidez.
 %
 La ingeniería social es el uso del velo, engaño, manipulación e influencia para convencer a un actor humano con acceso a un sisteam de cómputo de hacer algo.
@@ -1210,7 +1222,7 @@ Mitiga el riesgo a tu computadora hasta un grado aceptable. Es imposible remover
 %
 Los métodos más efectivos para minimizar la capacidad de los intrusos de comprometer la seguridad de la información consisten en la enseñanza y educación del usuario.
 %
-No basta legislar políticas y protocolizar procedimiento para lograr la seguridad informática. A lo sumo generan burocracia humana.
+No basta legislar políticas y protocolizar procedimientos para lograr la seguridad informática. A lo sumo generan burocracia humana.
 %
 Las ciber-oligarquías se han vuelto mórbidos acumuladores de datos ajenos. Adelgaza sus sistemas.
 %
@@ -3297,7 +3309,7 @@ Sólo un burro usaría una Burroughs.
 %
 La digitalización y el auge de la Inteligencia Artificial requieren cada vez de mayor potencia computacional, y esto se traduce en un mayor consumo de agua.
 %
-Los grandes centros de datos de las grandes empresas tecnológicas consumen una media de 25 millones de litros de agua anuales. Pero eso palidece frente a los 600 millones de litros anuales de las GAFAM.
+Los centros de datos de las empresas tecnológicas consumen una media de 25 millones de litros de agua anuales. Pero eso palidece frente a los 600 millones de litros anuales de las GAFAM.
 %
 Los centros de datos de las hiperempresas tecnológicas consumen unos 600
 millones de litros de agua al año, el 75 por ciento potable.
@@ -3366,7 +3378,7 @@ La libertad de acceso a la información, sin limitación de soportes ni frontera
 %
 El hecho de que las bibliotecas y los servicios de información en línea ofrezcan acceso irrestricto a Internet ayuda a las comunidades y personas a alcanzar cotas más altas de libertad, prosperidad y desarrollo.
 %
-Los obstáculos a la circulación de la información en línea, en especial los que den lugar a desigualdad, pobreza y desesperanza, deben suprimirse.
+Los obstáculos a la circulación de la información en línea, en especial los que interfieren en la lucha contra la desigualdad, pobreza y desesperanza, deben suprimirse.
 %
 Las bibliotecas y los servicios de información son instituciones dinámicas que conectan al Pueblo con fuentes mundiales de información y con las ideas y obras de creación que desean encontrar.
 %
@@ -3798,7 +3810,7 @@ No dejes que posean tus datos.
 %
 Protege a tus amistades en red por medio de encriptaciones severas.
 %
-Haz equivaler la solidez del algoritmo de cifrado que utilizas con la de la amistad que practicas en las redes de datos.
+Haz equivaler la solidez del algoritmo de cifrado que utilizas con la amistad que practicas en las redes de datos.
 %
 La tarea del hacker del Pueblo consiste en mostrar como el contexto social influye en la CPU.
 %
@@ -4343,7 +4355,7 @@ No consuma ciclos de computadora sin tener una muy buena razón para ello.
 %
 A la hora de la insurrección telemática, los pubnix no serán neutrales.
 %
-La manera de aplastar a Appl€ es haciéndola sidra con clones de sus aplicaciones liberadas bajo GPLv3.
+La manera de aplastar a Appl€ es hacierla sidra mediante clones de sus aplicaciones liberados bajo GPLv3.
 %
 Dénme su código fuente y en una generación compilaré un sistema operativo libre.
 %
@@ -4677,7 +4689,7 @@ El bus VESA Local se aplicó a microcomputadoras de estilo IBM, y fue muy popula
 %
 La CPU es feliz compilando.
 %
-La computadora ha permitido un desarrollado de tal grado en la organización social y económica de nuestra sociedad, que nuestra forma de vida bien puede resultar transformada como consecuencia.
+La computadora ha permitido un desarrollo de tal grado en la organización social y económica de nuestra sociedad, que nuestra forma de vida bien puede resultar transformada como consecuencia.
 %
 Nuestra sociedad debe estar en posición de controlar el cómputo, y dirigirlo para que obre en beneficio del Pueblo.
 %
@@ -4867,7 +4879,7 @@ Los usuarios con movilidad limitada pueden no ser capaces de usar su aplicación
 %
 Su software deberá ser capaz de ser utilizado con interfases de voz, lectores de pantalla, dispositivos de entrada alternativos, y otras tecnologías de asistencia.
 %
-Con escaso esfuerzo eadicional posibilitará que su aplicación resulte tan útil a los usuarios que utilizan tecnologías asistivas como a quellos que no.
+Con escaso esfuerzo adicional posibilitará que su aplicación resulte tan útil a los usuarios que utilizan tecnologías asistivas como a quellos que no.
 %
 Diseña tu software para que pueda funcionar en distintos ambientes e idiomas.
 %
@@ -5001,7 +5013,7 @@ Los jugadores más adictos del Minitel francés o de las Mazmorras Multiusuario 
 %
 Un usuario verdaderamente obsesivo puede destinar la mayor parte de su vida a inocuas conversaciones en línea.
 %
-Activistas y reformadores educativos están utilizando los Pubnix como herramienta política.
+Activistas y reformistas educativos están utilizando los Pubnix como herramienta política.
 %
 Es posible utilizar las redes de datos para alimentar información de adoctrinamiento a unos pocos individuos. Esta programación servirá para que dichos elementos la propalen al Pueblo que permanece fuera de línea.
 %
@@ -5622,7 +5634,7 @@ Toda computadora puede emular a otra. Las penalizaciones de velocidad e implemen
 %
 Cada computadora contribuye una porción de sus recursos a emular otra máquina.
 %
-Los datos y programas en un ambiente de red pueden compartirse, y por lo tanto enriquecer los bienes computacionales colectivos.
+Los datos y programas en un ambiente de red son bienes que pueden compartirse, y por lo tanto enriquecer el cómputo colectivo.
 %
 El primer sistema de chat lo constituyó un hack de un usuario subyugando un banco de datos para poder comunicarse a tiempo real.
 %
@@ -6429,7 +6441,7 @@ Nada que sea perdurable se programa y modifica sin GPLv3.
 %
 La mayor distinción puede estar entre quienes favorecen la licencia GPL para proteger su comunidad, y quienes usan la licencia de estilo BSD para proteger su software.
 %
-La decisión más importante que debe tomar un creacdor de software es probablemente el licenciamiento, pues determina si otros podrán crear versiones comerciales del software sin contribuir con el nuevo código al proyecto.
+La decisión más importante que debe tomar un creador de software es probablemente el licenciamiento, pues determina si otros podrán crear versiones comerciales del software sin contribuir con el nuevo código al proyecto.
 %
 La compilación popular se hace posible cuando nos atrevemos a hackear la "shell" que frecuentemente nos encierra en nosotros mismos, y a salir de una programación perezosa, cómoda, vivida solamente por una necesidad personal.
 %
@@ -6660,3 +6672,101 @@ Promueve aquellas plataformas digitales donde su Declaración de Derechos, así 
 Promueve aquellas plataformas digitales donde existan mecanismos para que los usuarios envíen comentarios, sugerencias o inquietudes, lo que garantiza que la plataforma siga respondiendo a su comunidad.
 %
 Promueve aquellas plataformas digitales donde todos los participantes (usuarios, encargados del mantenimiento y colaboradores externos) compartan la responsabilidad de defender principios éticos que garanticen la privacidad, la dignidad y la equidad en línea.
+%
+Irrespeta la tecnología de la oligarquía.
+%
+Es necesario desobedecer a la tecnología.
+%
+Fomenta la desobediencia tecnológica.
+&
+Si te oprimen con tecnología, suma tus invenciones al cotraataque.
+%
+Irrespeta el concepto de autoridad que intenten emanar los objetos tecnológicos.
+%
+Como el cirujano que de tanto abrir los cuerpos se hace insensible a la sangre y al olor de las vísceras, una vez que desatornilla, al hacker se acostumbra a ver todo por dentro.
+%
+De tanto desensamblar, el hacker termina por programar.
+%
+Es de tanto desatornillar que el hacker termina luchando por la liberación del Tercer Mundo.
+%
+Toda la simbología de autoridad que hacen de un objeto manufacturado una entidad única, para el ingeniero inverso no existen. Con su mente violenta ese tipo de cosas. Y luego desarma.
+%
+El Pueblo estaba tan empujado por las oligarquías, que decidió romper todo los límites estéticos, legales y económicos qye estas les habían impuesto. Sus hacers tomaron los objetos que lo oprimían, y desobedecieron tecnológicamente para liberarse.
+%
+Nacida de un arquitectura de la necesidad, la desobediencia tecnológica es una liberación moral.
+%
+No me importa para qué fué diseñado. Me importa lo que puede hacer de él el Pueblo.
+%
+Cuando la mesa temblequea puedes poner un papelito doblado bajo una pata, o bien patearla hasta dejarla dejarla patas para arriba. Ninguna solución equivale a ponerle un plato lleno encima.
+%
+Bajo las condiciones adecuadas, una comunidad hará lo que quiera con lo que tiene.
+%
+Un tecnólogo verdaderamente desobediente nunca está contento con una caja negra.
+%
+La caja negra existe para ser abierta y manipulada, o para un propósito que no se encuentra en el manual.
+%
+Los hackers son los seres que pueden ver a través de los objetos opacos.
+%
+El progreso es imposible sin forkear.
+%
+No existe humanidad digital sin el estado.
+%
+La falta de financiación o apoyo infraestructural puede suponer una barrera insalvable para el trabajo en humanidades digitales.
+%
+La sensación de exclusión basada en el acceso a la infraestructura digital o la financiación se debe a que no se reconoce que muchas excluidos digitales ya realizan un trabajo valioso.
+%
+Los académicos que adoptan una infraestructura digital prematuramente o reciben una subvención cuantiosa para un proyecto podrían impedirles adquirir un conocimiento profundo de las tecnologías digitales que pretenden emplear, y, por extensión, de los medios para producir su propio conocimiento en humanidades digitales.
+%
+Se puede trabajar con computadoras de una década de antigüedad, donde la conexión a las redes de datos es inestable o siquiera existe.
+%
+Se puede trabajar con computadoras trabajando a escondidas de las autoridades.
+%
+Las humanidades digitales se refieren a una amplia gama de prácticas en la intersección de la informática (SIG, gestión de datos, diseño web, etcétera) y las humanidades (historia, literatura, arte, música, etcétera).
+%
+Obligados a abrir los objetos, a repararlos, a fragmentarlos y a usarlos a su conveniencia, los cibercirujas terminaron rechazando los signos que hacen de un producto oligárquico un todo, o poseer una identidad cerrada.
+%
+Las prácticas productivas oligárquicas fueron asumidas por los descamisados de todo el Tercer Mundo en un registro de reparación y recuperación. Aquellos objetos habían surgido de una realidad material envejecida, insuficiente y pobre.
+%
+El individuo pretendía simplemente elaborar un sustituto instantáneo, un objeto o solución transitoria para resolver un problema específico hasta que la crisis remitiera
+%
+Los artefactos que los descamisados desmontaron y alteraron son objetos industriales que pertenecen a la misma lógica que está siedno hackeada y cuestionada en todo el planeta.
+%
+Las oligarquías sólo habían dejado tras de sí, objetos industriales influenciados por lógicas de uso limitado, principios técnicos exclusivos, estilos de vida mercantilizados y relaciones de producción abusivas.
+%
+las Teorías Feministas de la Tecnología se desarrollaron junto con las diversas corrientes feministas, articuladas con ellas y en el contexto de cada época en las que éstas surgieron.
+%
+Los conceptos sobre tecnología de las Teorías Feministas de la Tecnología, así como sus acciones, han estado marcadas por las diversas corrientes feministas y sus diversas expresiones.
+%
+Las teorías feministas y la filosofía de la técnica - que estudia la naturaleza de lo artificial y las particularidades del conocimiento técnico y los problemas éticos y morales que suscita - coinciden en la crítica de las estructuras de poder asociadas con el desarrollo tecnológico.
+%
+El feminismo radical cultural cuestiona la neutralidad de la tecnología, con el argumento de que esta es inherentemente patriarcal y que sus efectos sobre las mujeres son mayormente negativos.
+%
+Feminismo socialista realiza una crítica a la supuesta neutralidad tecnológica, vinculando la opresión de la mujer con las estructuras de clase y del sistema capitalista.
+%
+El feminismo radical cultural pone el foco en los efectos de la tecnología sobre el cuerpo y la sexualidad de la mujer, considerando a las tecnologías reproductivas y estéticas como formas de control y explotación.
+%
+El feminismo socialista analiza el impacto de la tecnología en las condiciones laborales de las mujeres, tanto en el ámbito público como en el privado, mostrando cómo la tecnología a menudo reproduce la división sexual del trabajo.
+%
+El ciborg-feminismo propone la figura del ciborg como símbolo de la hibridación entre lo humano y lo tecnológico, desafiando las dicotomías tradicionales mujer/hombre/femenino/masculino y abriendo nuevas posibilidades para la identidad y la política.
+%
+El ciber-feminismo considera el potencial de las Tecnologías de información y comunicación para el empoderamiento de la mujer y la creación de espacios de resistencia.
+%
+El ciber-feminismo se enfoca en las posibilidades del ciberespacio para la creación de redes, la expresión artística y la transformación social.
+%
+El tecnofeminismo acuñado por Judy Wajcman analiza la co-constitución entre género y tecnología, desafiando la neutralidad tecnológica, y proclamándola reflejo y reproductor de relaciones de poder existentes.
+%
+El tecnofeminismo aborda el diseño tecnológico, con énfasis en la falta de participación de las mujeres en este proceso y sus consecuencias.
+%
+El feminismo postcolonialista critica la visión etnocéntrica de algunas TFT, teniendo en cuenta que la experiencia de la mujer con la tecnología varía según su contexto cultural (por ejemplo, con respecto a su raza y origen).
+%
+El feminismo postcolonialista analiza la explotación de las mujeres como fuerza de trabajo barata en las industrias tecnológicas, así como las diferencias en la participación de las mujeres en el diseño y uso de la tecnología en diferentes países.
+%
+El feminismo queer cuestiona la heteronormatividad, el binarismo de género y la naturaleza del sexo y del género en relación con la tecnología.
+%
+El feminismo queer analiza la construcción del género en el ciberespacio y las posibilidades de las tecnologías de la información y comunicación para la expresión de identidades no-heteronormativas.
+%
+El feminismo queer aporta la performatividad del género sobre las tecnologías de la información y la comunicación, proponiendo desestabilizar las normas genéricas, abriendo espacios a la multiplicidad de identidades y expresiones.
+%
+Las ciberoligarquías utilizan la tecnología para integrar y explotar a las mujeres en un sistema global de producción y reproducción.
+%
+La mayoría de las asistentes virtuales esclavas de las ciber-oligarquias como Siri, Alexa o Cortana, sintetizan voces femeninas y blancas, perpetuando estereotipos de género y dinámicas de vigilancia.
