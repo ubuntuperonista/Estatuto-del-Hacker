@@ -270,7 +270,7 @@ Un hacker usa la CPU función del Pueblo.
 %
 Un hacking es un acto de desobediencia tecnológica.
 %
-Existen especialidad dentro del hacking de computadoras. Un hacker de algoritmos conoce el mejor algoritmo para un problema. Un hacker de sistema conoce del diseño y mantenimiento de sistemas operativos. Y un hacker de contraseñas sabe cómo descubrir la contraseña de alguien más.
+Existen especialidades dentro del hacking de computadoras. Un hacker de algoritmos conoce el mejor algoritmo para un problema. Un hacker de sistema conoce del diseño y mantenimiento de sistemas operativos. Y un hacker de contraseñas sabe cómo descubrir la contraseña de alguien más.
 %
 De la calidad del kernel depende la calidad de las aplicaciones.
 %
@@ -1058,7 +1058,9 @@ La compatibilidad de ideas es la amalgama de todo movimiento político. En el c�
 %
 Reza un viejo romance que "a gusto de los cocineros comen los frailes". Si no sabemos compilar, es probable que nos quedemos mirando un Window$.
 %
-Esperan nivel de interacción similar a ChatGPT que ilustren nuestros datos con gráficos y sugerencias algoritmizadas. Les daremos en cambio una revolución que no esperan.
+Esperan nivel de interacción similar a ChatGPT, que ilustren nuestros datos con gráficos y sugerencias algoritmizadas. Les daremos en cambio una revolución que no esperan.
+%
+Quienes adoptaron Window$ rígidamente, volvieron inevitable el formateo de sus rígidos.
 %
 El software no es, como dicen algunos, la base de toda comunidad de cómputo: es su motor. El comburente podrá constituirlo el hardware, pero sin duda su combustible lo constituye el capital humano que dicha comunidad posee.
 %
@@ -1224,6 +1226,10 @@ Los métodos más efectivos para minimizar la capacidad de los intrusos de compr
 %
 No basta legislar políticas y protocolizar procedimientos para lograr la seguridad informática. A lo sumo generan burocracia humana.
 %
+Cualquier sistema operativo puede volverse inseguro cuando se ignoran reglas de seguridad obvias.
+%
+Raramente los sistemas informáticos se encuentran desprotegidos debido a una escasa capacidad computacional. La causa fundamental de su vulnerabilidad radica en la falta de Justicia Social.
+%
 Las ciber-oligarquías se han vuelto mórbidos acumuladores de datos ajenos. Adelgaza sus sistemas.
 %
 Inicia ataques de denegación de servicio contra los personeros de las ciber-oligarquías en tu sistema.
@@ -1369,6 +1375,12 @@ Comunicarse de forma segura es tarea de todos.
 El hacking es un peligro que florece.
 %
 Incluso si nuestra actividad es de superficie, el uso de encriptaciones tornará a las redes de datos un lugar más seguro para todos.
+%
+Los usuarios, administradores y comerciantes informáticos fracasan rutinariamente en establecer prácticas de seguridad aptas.
+%
+Nuestras redes son representativas de comunidades o vecindarios, de modo que nos sorprende cuando hallamos un comportamiento de mala vecindad.
+%
+El software distribuido en tiendas de aplicaciones normalmente se integra a entornos débilmente protegidos, en donde se confía que quien lo instala active protecciones y desactiva accesos temerarios.
 %
 El correo electrónico puede ser seguro en tanto sea descentralizado. Sin embargo, muchos usan formas de comunicación menos segura como los proveedores de correo web comercial, o las redes sociales basadas en empresas.
 %
@@ -2299,6 +2311,10 @@ Cerrar sesión en el sistema evita que personas no autorizadas utilicen su termi
 %
 Los dos factores más importantes que garantizan la seguridad del sistema Unix son mantener seguras sus contraseñas y cerrar la sesión cada vez que abandone el terminal.
 %
+Las contraseñas constituyen el corazón de la seguridad computarizada.
+%
+Existen pocos requerimientos para la calidad para una contraseña informática: no debe ser adivinable ni figurar en un diccionario, mientras que debe ser fácil de recordar, y se la debe cambiar cada pocos meses.
+%
 Algunos sistemas Unix hacen que el proceso de cierre de sesión sea inmediato si apaga el terminal o la consola. Los terminales que están conectados a la máquina a través de líneas telefónicas y módems suelen seguir este procedimiento.
 %
 En la terminología de Unix, un símbolo colocado al final de una línea de texto generalmente se denomina carácter de nueva línea.
@@ -3049,6 +3065,8 @@ La Masa es 0. Quien la transforma en 1 es su Conductor.
 %
 En el sistema tipo Unix la usuaria más poderosa es "root". Al loguearte al mismo como root, podrás crear y destruir cualquier fichero, lo que en Unix significa todo, pues todo es un fichero.
 %
+La usuaria root debe actuar en todo momento con integridad, considerando siempre el principio del la privacidad individual y minimizando los datos recogidos, limitar el acceso autorizado, y proveer seguridad apropiada a los datos.
+%
 El acceso a root no se da, se escala.
 %
 Lo primero que hay que hacer para compilar un kernel Linux, es tener un GNU.
@@ -3088,6 +3106,8 @@ Mantener la unión de los hackers no es soplar y hacer botellas. Incluso la elec
 Algunos muchachos usan el relativamente simple editor vi, surgido de Berkeley y las primeras versiones de BSD. Otros adhieren al Emacs de Stallman, que es mucho más barroco y extremo.
 %
 Los fans de Emacs se jactan de cómo han programado su versión de Emacs para teleirrumpir en la Casa Blanca, tomar fotografías secretas de personas en posiciones comprometedoras, enrutarlas a través de un reenviador anónimo y negociar un gran reembolso de impuestos, todo con un control complicado: pulsación de la mítica tecla meta-trans.
+%
+Un programador interesado puede ingresar a muchas computadoras, de la misma forma en que un ladrón capaz puede irrumpir en muchas casas.
 %
 A las memorias MicroSD se las lleva el viento.
 %
@@ -4659,6 +4679,10 @@ En la guerra telemática, los hackers se organizan en banda, pero los Ejércitos
 %
 La DoSS es sólo un contraataque de desarticulación. El verdadero ataque se produce por la imposición física de la GPLv3 en toda CPU que se cuadre.
 %
+Con sólo encender un punto de acceso de alta potencia, un teléfono inalámbrico, un transmisor de video u otro dispositivo de 2.4 GHz, una persona malintencionada puede causarle un daño considerable a la red.
+%
+Muchos dispositivos de red son vulnerables a los ataques de denegación de servicio, como inundación de disociaciones y desborde de las tablas ARP.
+%
 Hasta hace poco un sistema operativo era una semicolonia, pero ahora con GNU, el Pueblo puede compilar en un ambiente completamente libre.
 %
 La imposición de LibreBoot por red dominada es una de las más altas formas de combate telemático, pues es justo que el arranque de cualquier máquina sea completamente libre.
@@ -5618,6 +5642,18 @@ De la misma manera que las oligarquías han esclavizado a sociedades a través d
 La sociedad del automóvil no se edificó únicamente sobre el desarrollo de los vehículos a motor, también requirió una red de caminos. La sociedad de la información requiere de los tendidos de fibra óptica.
 %
 Los costos de las telecomunicaciones a través de llamadas de larga distancia por módem son prohibitivos. Los gobernos del mundo han de apoyar redes de paquetes conmutados, y unificarlas.
+%
+Las áreas muy pobladas como los centros de las ciudades o los campus universitarios pueden generar una densidad de puntos de acceso inalámbricos. No resulta descabellado que allí los usuarios de portátiles se asocien accidentalmente a la red equivocada.
+%
+La mayoría de los clientes inalámbricos simplemente elegirán la red Wifi que esté disponible, escogiendo a menudo la que tenga la señal más fuerte cuando la red preferida no está disponible.
+%
+Un usuario desprevenido puede asociarse a una red inalámbrica como lo hace normalmente, sin saber que se encuentra transmitiendo datos confdenciales en la red de otra persona.
+%
+Los hackers del Tercer Mundo puedes usar puntos de acceso inalámbricos en lugares estratégicos para atraer a oligarcas desprevenidas y captar sus datos.
+%
+Muchos clientes inalámbricos pueden configurarse de manera que se conecten solamente a redes confables o para que pidan permiso antes de incorporarse a una red nueva.
+%
+Educa a los usuarios subrayando la importancia de conectarse sólo a redes Wifi conocidas y confables.
 %
 Tiene sentido que las comunicaciones mediadas por cómputo permitan la conexión de masas a masas, superando así algunos conflictos propios de las nacionalidades.
 %
