@@ -2165,4 +2165,460 @@ La fiesta de instalación debe asesorar a los usuarios que deseen
 remplazar ciertos componentes de sus máquinas por otros que sean
 compatibles con el software libre, e indicarles recursos comerciales o
 no comerciales útiles para obtener una computadora enteramente funcional
-sin paquetes binarios ni controladores que no sean libres.
+sin paquetes binarios ni controladores que no sean libres. David Parkman
+realizó una entrevista a Richard Stallman.
+%
+"GNU no es UNIX".
+%
+GNU es un acrónimo recursivo que significa "GNU no es UNIX". Esto es
+humor de programadores, pero tiene un significado serio, por supuesto.
+%
+GNU es el nombre del sistema operativo cuyo desarrollo lancé en enero de
+1984, y decidí hacerlo similar, es decir, igual que UNIX, un sistema
+operativo ya existente.
+%
+A diferencia de UNIX, lo especial de GNU es que se trat de software
+completamente libre.
+%
+GNU es un software que respetaba por completo la libertad.
+%
+Los usuarios tendrían control total sobre todo lo que contenía, mientras
+que con los sistemas propietarios - como UNIX, Windows, Mac OS o el
+software de estos dispositivos móviles - no se considera software libre.
+%
+Los usuarios no controlan el software no libre; una empresa de hecho
+controla esos programas, y los programas controlan a los usuarios.
+%
+Deberíamos controlar los programas que usamos, y no al revés.
+%
+Todo programa es libre o propietario. Si es libre, significa que los
+usuarios controlan el programa; controlan el programa por separado y lo
+controlan colectivamente, al mismo tiempo. Subyacen ambos tipos de
+control al unísono. Eso es software libre.
+%
+Si los usuarios no controlan el programa, entonces el programa controla
+a los usuarios, y el propietario (normalmente una empresa) controla el
+programa.
+%
+Un programa propietario es un instrumento que le da al propietario poder
+sobre los usuarios. Es una herramienta para subyugar al Pueblo. Esa es
+la injusticia que intentamos erradicar.
+%
+El primer paso para escapar de la injusticia, es liberarnos nosotros
+mismos.
+%
+No uso software propietario. No lo toleraré en este ordenador.
+%
+Es posible comprar una computadora con software libre ya instalado.
+%
+Ni siquiera tienes que instalar el sistema GNU tú mismo. No hace falta
+ser un experto para usar software libre.
+%
+El software que no es libre es una injusticia.
+%
+Tenemos que deshacernos del software que no es libre.
+%
+Hoy en día los propietarios introducen intencionalmente funcionalidades
+maliciosas en su software propietario; empresas de las que has oído
+hablar - como Micro$oft, Appl€, Amazon, Adob€ - introducen
+funcionalidades maliciosas.
+%
+Los propietarios introducen puertas traseras en su software, lo que
+significa que pueden controlarlo remotamente, te guste o no.
+%
+Los propietarios introducen funciones de vigilancia en su software, que
+espían a los usuarios y envían información.
+%
+El software propietario a menudo cuenta con gestión de restricciones
+digitales (DRM), lo que significa que está diseñada para impedir que
+hagas lo que tu deseas con los datos que obtienes.
+%
+Todas las funcionalidades del software propietario son injusticias.
+%
+Los últimos procesadores de Intel están diseñados con una puerta
+trasera, lo que significa que pueden ser controlados remotamente por
+Intel o por cualquier gobierno que pueda obligar a Intel a cooperar, y
+desconocemos quiénes son esos gobiernos.
+%
+No debes confiar en los últimos procesadores de Intel, y si quieres más
+información, consulta stallman.org/intel.html.
+%
+No sabemos cómo solucionar el hardware malicioso; por ahora solo podemos
+usar procesadores más antiguos.
+%
+Se están recaudando fondos para diseñar una nueva computadora que se
+fabricará específicamente para software libre. Tiene un procesador que
+no es de Intel ni de AMD (sus procesadores más nuevos tampoco son
+buenos).
+%
+Ahora puedes comprar un ordenador reacondicionado con solo software
+libre.
+%
+Si este proyecto consigue financiación y tiene éxito, podrás comprar un
+portátil nuevo diseñado para software libre.
+%
+Puedes hacer cómputo con diseños de hardware libres.
+%
+No puedes fabricar tu propio procesador.
+%
+Trazamos la línea entre el software que viene integrado y que los
+usuarios no van a cambiar, y el software en los niveles de instalación
+del sistema.
+%
+En un componente físico de hardware puede haber software integrado cuya
+presencia ni siquiera podemos detectar.
+%
+Cada teclado tiene software integrado. Cada disco tiene software
+integrado. El procesador puede tener software integrado... La cámara, de
+hecho lo tiene, cuenta con software integrado.
+%
+Probablemente taparía la cámara de mi computadora portátil con cinta
+aisladora.
+%
+Cuando he usado un portátil con cámara integrada, la he tapado con cinta
+aisladora.
+%
+Si el dispositivo tiene software libre, puedes asegurarte que no está
+activado.
+%
+No puedes confiar en el desarrollador de un programa propietario.
+%
+Ningún programa propietario ofrece seguridad alguna contra su propio
+propietario.
+%
+La única forma de tener seguridad contra quienes desarrollan el software
+es que tú tengas el control absoluto de tu cómputo.
+%
+Si se trata de software libre, no podemos obligar a los aceptar sin ver
+lo que hemos hecho.
+%
+Quienes contribuimos al software libre, no tenemos su control absoluto.
+%
+Todos los usuarios de software libre pueden ver lo que hemos hecho.
+Pueden comparar versiones. Pueden comprobarlo. Y si no les gusta, pueden
+modificarlo.
+%
+Los usuarios de software libre tienen el control absoluto.
+%
+Los desarrolladores propietarios tienen el poder total sobre los
+usuarios del programa, lo saben y son completamente corruptos.
+%
+El poder de los desarrolladores propietarios corrompe.
+%
+
+Yo diría que introducir funcionalidades maliciosas en el software es
+corrupción.
+%
+Si quieren ver la historia completa sobre las funcionalidades maliciosas
+que conocemos, visiten GNU.org/proprietary; hay docenas de ejemplos,
+cada uno con una referencia en la prensa.
+%
+Cuando cubren tecnología, los medios de comunicación se financian con la
+publicidad de las mismas empresas tecnológicas. Y estas empresas no
+animan a los medios a considerar cuestiones éticas. ¿Cómo podrías
+confiar en ellos?
+%
+Si revisas las reseñas de productos de software, verás que no abordan la
+cuestión de la licencia del programa, que define hasta qué punto los
+usuarios lo controlan.
+%
+Una vez vi una reseña comparativa de un paquete de software GNU que
+escribí con varios programas propietarios similares, y la reseña solo
+consideraba aspectos prácticos. No consideró en absoluto la dimensión
+ética, ni la dimensión de la libertad.
+%
+En 1998, el movimiento del software libre se vio afectado por una
+campaña de cooptación diseñada para separar nuestro software de nuestra
+filosofía de libertad. Esa campaña se conoce como "código abierto".
+%
+La razón por la que se oye hablar tanto del término "código abierto" es
+que muchas empresas preferían que los medios hablaran de él precisamente
+porque eso no les causaba problemas.
+%
+Los medios no criticaron el software propietario... No lo calificaron de
+injusticia.
+%
+Las empresas apoyan con fuerza el uso del término superficial "código
+abierto" puesto que no pone foco sobre problemas éticos.
+%
+Las empresas han hablado tanto de nuestro trabajo en relación con su
+eslogan de "código abierto", que la mayoría de la gente piensa que eso
+es lo que defiendo.
+%
+Normalmente me niego a ir a cualquier evento que use el término "código
+abierto" porque no quiero alimentar errores.
+%
+En 1992, el sistema GNU estaba casi completo; faltaba un componente.
+Entonces el Sr. Torvalds lanzó un programa llamado Linux que lo
+completó, así que Linux llenó el último vacío en el sistema GNU.
+%
+Mucha gente se confundió y pensó que la combinación GNU con Linux era
+una solo componente llamado Linux. Cuando dicen que usan Linux, en
+realidad usan GNU con Linux.
+%
+Me niego a usar varias de esas compañías porque exigen que los usuarios
+se identifiquen.
+%
+No tomo Amtrak, tomo el autobús.
+%
+Pago en efectivo.
+%
+No muestro identificación.
+%
+Tengo una tarjeta de crédito que uso solo para aerolíneas, y si fuera a
+alquilar un coche. La razón de esas excepciones es que, de todas formas,
+te exigen identificarte, así que no conseguiría nada pagando en
+efectivo.
+%
+No deberías tener que identificarte para un vuelo nacional, pero no
+encuentro una alternativa a volar.
+%
+Está mal rastrear a la gente.
+%
+No hay ninguna razón para que la gente se identifique.
+%
+Mi principal razón por la que rechazo a Uber - al que también lo llamo
+Goober porque paga una miseria a los conductores - es que no diré quién
+soy.
+%
+Como Uber requiere que la gente use una aplicación de pago para reservar
+un viaje, no usaré la aplicación de pago y tampoco diré quién soy.
+%
+Uso un taxi normal. No tienes que decir quién eres para viajar con
+ellos.
+%
+A veces uso el buscador de Googl€, pero no me identifico. Me conecto a
+través de Tor y bloqueo el código Java$cript del sitio para que Googl€
+no pueda rastrearme eficazmente.
+%
+Hay funciones en mi navegador que evitan el rastreo.
+%
+Participo en el boicot a Coca-Cola... Coca-Cola Company, no solo a
+Coca-Cola como producto, sino a todo lo que producen.
+%
+En muchos países es obligatorio beber agua embotellada por razones de
+salud, pero me aseguro de que no sea de Coca-Cola Company. No es que
+crea que su agua sea menos segura que cualquier otra agua embotellada,
+sino que participo en un boicot en su contra.
+%
+Existe una analogía correcta es entre una receta de cocina y un
+programa. Así como un programa produce un resultado, la receta produce
+un resultado que es comida, o una bebida.
+%
+No rechazo el resultado de los programas propietarios, lo que rechazo es
+ejecutar programas propietarios para mi cómputo.
+%
+No puedes darle a un cocinero humano una receta sin que la conozca. Para
+hacer una receta, tienes que conocer la receta. Tienes que saber cuál
+es. Eres consciente de lo que estás haciendo. Y no solo eso, verás que
+todos los cocineros comparten recetas cuando quieren.
+%
+Los cocineros tratan las recetas como libres por las mismas razones por
+las que deberías tener libertad para redistribuir el software que
+tienes. Deberías tener libertad para modificarlo, y los cocineros
+cambian las recetas. E incluso ocasionalmente anotan sus cambios en una
+copia de la receta y se la dan a un amigo. Son libres de hacerlo cuando
+quieran. No están necesariamente obligados a hacerlo.
+%
+Cada usuario de un programa debería tener libertad de ejecutar, estudiar
+y modificarlo según desee, hacer copias exactas y darlas o venderlas, y
+hacer copias modificadas y darlas o venderlas cuando quiera.
+%
+Libertad 0: Libertad para ejecutar el programa como quieras.
+%
+Libertad 1: Libertad para estudiar el código fuente del programa y
+modificarlo para que funcione como desees.
+%
+Libertad 2: Libertad para hacer copias exactas del código del programa y
+dárselo o vendérselo a otros cuando quiera.
+%
+Libertad 3: Libertad para hacer copias de sus versiones modificadas del
+código fuente del programa y dárselas o vendérselas a otros cuando
+quieras.
+%
+Notarás que cuando los cocineros hacen eso con las recetas, asumen las
+mismas cuatro libertades con sus recetas.
+%
+Las recetas deberían ser libres.
+%
+Las recetas no distinguen entre código fuente y ejecutable. No hay
+recetas compiladas, porque las recetas las ejecutan seres humanos, no
+computadoras.
+%
+Si hubiera robots de cocina, alguien empezaría a vender —o quizás a
+regalar, es igual de malo— recetas propietarias, donde no se te permite
+saber los pasos y se te impide compartir la receta. Esto sería tan malo
+como un programa propietario, y yo lucharía contra ello de la misma
+manera.
+%
+Pero no me importa que algunos alimentos se hayan cocinado con una
+receta propietaria o privada, así como no rechazaría algo hecho por una
+computadora solo porque alguien más usara un programa propietario.
+%
+No boicoteo a las empresas porque usen Window$ internamente, simplemente
+siento lástima por ellas; son ellas las que están perdiendo la libertad
+si usan Window$, MacO$ o cualquier programa propietario.
+%
+Espero que te liberes. Mereces controlar tu propia informática.
+%
+Yo mismo rechazo el software que no es libre, y no induciré a nadie a
+usarlo porque entonces estaría induciendo a esa persona a perder la
+libertad.
+%
+Hay algunas reuniones a las que me resulta difícil asistir, porque están
+organizadas de tal manera que tienes que usar Eventbrite para
+registrarte, y no puedo hablar con Eventbrite. Eso requiere código
+Java$cript que no es libre, y me niego a ejecutarlo.
+%
+Una empresa no tiene por qué saber quién va a una reunión.
+%
+No hago videollamadas a diario, pero sí tengo una forma de hacerlas con
+software libre.
+%
+Me niego rotundamente a usar $kype porque si lo hiciera estaría hablando
+con alguien que también lo usa. Y estoy presionando a alguien para que
+use $kype, y eso está mal.
+%
+Si usaras $kype solo, serías la víctima. Si lo hicieras de vez en
+cuando, no me avergonzaría. Pero si usas $kype con alguien y provocas
+que alguien más lo use, le estás haciendo algo malo.
+%
+No formes parte de la presión social que empuja a la gente a usar Skype.
+Realmente necesitas usarlo éticamente...
+%
+Es tu responsabilidad configurar GNU Jami para que no instes a otros a
+usar $kype.
+%
+Mi deber es decir "no", para que buscaras otra manera de hacer
+videollamadas. Para no ser cómplice de mantener a $kype en su posición
+de poder.
+%
+Abogo por el software libre y la privacidad.
+%
+La forma en que protegemos la privacidad de las personas es no
+recopilando datos personales.
+%
+Una vez acumulados, los datos personales se pueden usar indebidamente.
+%
+Existen cuatro maneras en que la base de datos puede ser mal utilizada
+por la organización que la recopiló.
+%
+Es muy probable que la organización que recopiló datos personales
+intente usarla indebidamente (por ejemplo, vendiéndola a un
+intermediario de datos o maltratando a las personas).
+%
+Los datos personales pueden ser mal utilizados por empleados deshonestos
+de la organización que los recopilaron, como ocurrió con Uber, por
+cierto.
+%
+Es muy común que los datos personales sean mal utilizada por ladrones,
+crackers que rompen la seguridad de la organización que los recopilaron.
+%
+Los datos personales pueden ser mal utilizados por el Gran Hermano. El
+estado de vigilancia, que inclinará a maltratar a las personas por
+intereses privados.
+%
+Tenemos que negarnos a recopilar datos personales para usarlos.
+%
+Tenemos que organizarnos y decir: "Que no recopilen datos personales".
+%
+Tengo una tarjeta Charlie que uso para pagar el metro y el autobús. Solo
+cargo dinero en efectivo, y de vez en cuando consigo una nueva, así que
+la vigilancia efectiva que pueden hacer con ella es limitada.
+%
+Necesitamos leyes que no permita la realización de reconocimiento
+facial.
+%
+Nadie debería poder hacer reconocimiento facial sistemático con cámaras
+apuntando a lugares públicos, excepto bajo una orden judicial específica
+que identifique un lugar en particular, en un período de tiempo
+determinado.
+%
+Necesitamos leyes que detengan la recopilación de datos, lo que
+constituye una amenaza para disidentes y denunciantes.
+%
+La democracia necesita denunciantes, héroes como Snowden. Porque nos
+dicen lo que el gobierno realmente está haciendo.
+%
+Snowden es un héroe.
+%
+Chelsea Manning es una heroína.
+%
+La NSA estaba tomando el pelo al tribunal FISA. El tribunal FISA no
+podía supervisar eficazmente lo que hacían la NSA y el FBI.
+%
+La justicia va más allá de obedecer las leyes.
+%
+Necesitamos saber qué nos está haciendo el estado, y Snowden nos lo
+contó.
+%
+Snowden es un gran héroe.
+%
+Snowden merece una medalla y ser puesto a cargo de la NSA.
+%
+Cuando se libra una guerra contra los denunciantes ¿cómo se puede tener
+denunciantes? ¿Cómo pueden estar seguros si el gobierno siempre sabe
+quién va a dónde y quién habla con quién?
+%
+Es muy difícil ser un denunciante. Por lo tanto, es difícil tener
+democracia.
+%
+Si no sabemos qué hace el gobierno, no podemos decidir qué debería
+hacer.
+%
+La cantidad de vigilancia que tenemos ahora en los Estados Unidos y en
+muchos otros países pone en peligro la democracia.
+%
+Actualmente tenemos más vigilancia que la que existía en la antigua
+Unión Soviética.
+%
+Debemos reducir el nivel de vigilancia hasta el punto en que los
+denunciantes y los disidentes estén seguros.
+%
+La razón por la que no tengo teléfono móvil es que siempre que están
+encendidos, es posible así rastrear sus movimientos, y todos los
+teléfonos móviles (con algunas excepciones) tienen una puerta trasera
+universal que se puede activar remotamente para convertirlos en un
+dispositivo de escucha permanente.
+%
+Los teléfonos móviles escuchan constantemente y transmiten todas las
+conversaciones a través de la red telefónica a quien sea.
+%
+Una vez que se activan remotamente los teléfonos móviles, tampoco se
+puede apagar. Finge que se apaga, pero en realidad sigue funcionando.
+%
+Llamo a los teléfonos móviles "El sueño de Stalin".
+%
+Consideré comprarme un teléfono móviul, pero cuando descubrí las
+amenazas de vigilancia que significan, decidí que es mi deber como
+ciudadano no tolerarlos, así que no tengo uno.
+%
+No tengo uno teléfono móvil. Uso muchos teléfonos móviles diferentes.
+Muchos de ellos solo una vez. Me refiero a que uso el teléfono móvil de
+otra persona.
+%
+Evito usar teléfonos móviles, y digo: "¿Podrías hacer una llamada o
+enviar un mensaje por mí?". Así, el Gran Hermano no suele saber que soy
+yo. La cuestión es que...
+%
+Cualquiera puede rastrearte con un teléfono móvil, porque hay fallos en
+el protocolo de comunicación entre sistemas de telefonía móvil, que se
+llama "Sistema de Señalización 7".
+%
+Cualquier puede fingir ser otra red de telefonía móvil y hablar con su
+teléfono móvil y preguntarle: "¿Dónde ha estado este teléfono durante
+los últimos seis meses, un año o lo que sea?", "¿Qué llamadas ha hecho y
+recibido? ¿Qué mensajes ha recibido? ¿Cuál era el contenido de esos
+mensajes?".
+%
+Mucha información personal en su teléfono móvil está disponible para
+cualquiera que esté dispuesto a - quizás - infringir alguna ley
+impersonando, así como para el Gran Hermano que no tiene por qué
+infringirla; probablemente recopila todos esos datos masivamente cada
+semana, o cada día, o cada cinco minutos.
+%
+Existe una vigilancia tan extrema que la mayoría de la gente no la
+imagina.
+%
+Si queremos recuperar la democracia, tenemos que detener la vigilancia
+extrema.
