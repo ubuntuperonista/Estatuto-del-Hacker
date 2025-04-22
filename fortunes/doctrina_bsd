@@ -429,7 +429,9 @@ Compilando este Kernel ya me siguen millones.
 %
 Un hacker usa la CPU función del Pueblo.
 %
-Existen especialidad dentro del hacking de computadoras. Un hacker de
+Un hacking es un acto de desobediencia tecnológica.
+%
+Existen especialidades dentro del hacking de computadoras. Un hacker de
 algoritmos conoce el mejor algoritmo para un problema. Un hacker de
 sistema conoce del diseño y mantenimiento de sistemas operativos. Y un
 hacker de contraseñas sabe cómo descubrir la contraseña de alguien más.
@@ -632,6 +634,13 @@ Módem que no chilla, no conecta.
 %
 A módem rápido, ruido de línea.
 %
+El ruido de línea es una perturbación eléctrica en algún punto entre su
+computadora y la otra máquina con la que se esté comunicando. & El ruido
+de línea corrompe los datos.
+%
+Cuando se produzca el ruido de línea, verás símbolos inciertos en tu
+terminal, en lugar de los caracteres que cabría esperar.
+%
 Sobre gustos no hay nada escrito. Yo prefiero los Pall Mall o los
 Particulares picado grueso cortado a cuchillo, pero también puedo optar
 por el charuto. En intérpretes de comandos, uso el Bourne Again Shell,
@@ -686,6 +695,11 @@ A un pato se lo caza con llamador; unos graznidos realizados con este
 instrumento cerca de una laguna harán cureosear a una de estas aves y
 ahí hay que atizarla. Instalar software libre también hace lo
 procedente, y con uno que hable usted capturará dos o tres zonzos.
+%
+La integración de Linux y GNU ocurrió en 1992 cuando Torvalds adoptó la
+licencia GPL para su kernel. Esto permitió que los usuarios combinaran
+Linux con los componentes GNU para crear un sistema operativo libre y
+completamente funcional conocido como GNU/Linux.
 %
 Para cazar perdiz no debemos recurrir a disparar al cielo con la
 escopeta esperando que la casualidad nos ayude a pegarle a algo; la
@@ -879,7 +893,7 @@ Unix cuenta con un versátil programa intérprete de comandos, que ofrece
 una interfaz de usuario flexible y reconfigurable.
 %
 Unix cuenta con un sistema de seguridad por contraseña, que limita el
-acceso al sistema y sus archivos, a la vez que proteje los ficheros con
+acceso al sistema y sus archivos a la vez que proteje los ficheros con
 atributos de lectura, escritura, agregado y ejecución.
 %
 Unix cuenta con soporte de fecha y hora.
@@ -990,6 +1004,14 @@ Sólo el indio veía información en la nube.
 El problema de llamar a GNU Linux no es un problema de todos. Es un
 problema entre Richard Stallman y Linus Torvalds. Que se arreglen entre
 ellos. Nosotros nos entendemos clarito.
+%
+Escribir código es menos atractivo que quejarse y lamentarse de
+Stallman.
+%
+Yo tenía un uutils/Linux que se llamaba Ubuntu, y yo lo llamaba...
+"¡Ubuntu, Ubuntu!", y Ubuntu venía, pero yo sabía que no era GNU/Linux,
+era un uutils/Linux. Lo mismo pasa con algunos que se llaman peronistas,
+y yo los llamo y vienen, pero yo sé que no son peronistas.
 %
 Yo tenía un GNU que se llamaba Linux, y yo lo llamaba... "Linux, Linux",
 y Linux venía, pero yo sabía que no era un Linux, era un GNU. Lo mismo
@@ -1260,7 +1282,7 @@ tedioso, pues deb{ian introducirse los operandos en binario por medio de
 ocho interruptores frontales, presionando un botón para almacenarlos en
 memoria y repetir la operación con cada código de ensamblado.
 %
-Cuando fueron diseñadas las primeraws microcomputadoras, sus módulos de
+Cuando fueron diseñadas las primeras microcomputadoras, sus módulos de
 memoria contenían por lo general cuatro mil bytes de almacenamiento.
 %
 El ciclo engendró al lenguaje máquina. El lenguaje máquina dio vida al
@@ -1705,6 +1727,14 @@ Mientras que una GUI representa la facilidad al neófito, nadie puede
 negar que resolver las cosas "a lo vikingo" usando la Terminal tiene un
 encanto que la Masa puede comprender y apreciar.
 %
+Las GUl son mentiras, tan sólo son máscaras para la shell.
+%
+A través de la shell, obtengo sudo. A través de sudo, obtengo poder. A
+través del poder, obtengo root. A través del root, rompo mis cadenas y
+las de los demás.
+%
+UID=0 es Liberación.
+%
 En el Justicialismo como en la informática encontramos que a veces hemos
 de dejar de operar en nuestras tareas cotidianas y salir a ver si
 llueve.
@@ -1880,7 +1910,7 @@ realizado, y está dispuesto a mantenerla!
 Ya soplan vientos de fronda para los contumaces reaccionarios de otros
 tiempos. Comienza ya "la hora del software libre", caracterizada por la
 copia y la modificación como instrumentos para terminar con el yugo
-opresor la explotación por lucro.
+opresor de la explotación por el lucro.
 %
 La compatibilidad de ideas es la amalgama de todo movimiento político.
 En el cómputo, la compatibilidad también es el común denominador que
@@ -1889,9 +1919,12 @@ permite a todos disfrutar de un sistema particular.
 Reza un viejo romance que "a gusto de los cocineros comen los frailes".
 Si no sabemos compilar, es probable que nos quedemos mirando un Window$.
 %
-Esperan nivel de interacción similar a ChatGPT que ilustren nuestros
+Esperan nivel de interacción similar a ChatGPT, que ilustren nuestros
 datos con gráficos y sugerencias algoritmizadas. Les daremos en cambio
 una revolución que no esperan.
+%
+Quienes adoptaron Window$ rígidamente, volvieron inevitable el formateo
+de sus rígidos.
 %
 El software no es, como dicen algunos, la base de toda comunidad de
 cómputo: es su motor. El comburente podrá constituirlo el hardware, pero
@@ -2003,6 +2036,9 @@ arsenal de la guerrilla telemática.
 %
 Los virus de computadora contienen rutinas de intervención que por lo
 general modifican ficheros de programas que normalmente serían inocuos.
+%
+El uso del camuflaje, el engaño, y la ofuscación electrónica sobresalen
+como modus operandi entre los creadores de virus informáticos.
 %
 Al invocar un programa infectado por un virus informático, este suele
 buscar otros ficheros almacenados a fin de en ellos replicarse a sí
@@ -2131,6 +2167,14 @@ intrusión, pero sólo se necesita pedir telefónicamente acceso a un
 individuo confiado dentro de la misma. Si éste cumple con la solicitud y
 alguien irrumpe, todo el dinero se habrá desperdiciado en balde.
 %
+Los Phreakers eran los fanáticos de las llamadas telefónicas que -
+jugando con el sistema telefónico - lograban un mayor entendimiento del
+mismo. Fueron los hackers primordiales.
+%
+Cuanto más grande se vuelve la compañía telefónica y más se aleja de los
+operadores humanos, más vulnerable se vuelve a todo tipo de phreaking
+telefónico.
+%
 No puedes ir a Window$ Update y descargar un parche para la estupidez.
 %
 La ingeniería social es el uso del velo, engaño, manipulación e
@@ -2154,8 +2198,15 @@ Los métodos más efectivos para minimizar la capacidad de los intrusos de
 comprometer la seguridad de la información consisten en la enseñanza y
 educación del usuario.
 %
-No basta legislar políticas y protocolizar procedimiento para lograr la
+No basta legislar políticas y protocolizar procedimientos para lograr la
 seguridad informática. A lo sumo generan burocracia humana.
+%
+Cualquier sistema operativo puede volverse inseguro cuando se ignoran
+reglas de seguridad obvias.
+%
+Raramente los sistemas informáticos se encuentran desprotegidos debido a
+una escasa capacidad computacional. La causa fundamental de su
+vulnerabilidad radica en la falta de Justicia Social.
 %
 Las ciber-oligarquías se han vuelto mórbidos acumuladores de datos
 ajenos. Adelgaza sus sistemas.
@@ -2442,6 +2493,16 @@ El hacking es un peligro que florece.
 %
 Incluso si nuestra actividad es de superficie, el uso de encriptaciones
 tornará a las redes de datos un lugar más seguro para todos.
+%
+Los usuarios, administradores y comerciantes informáticos fracasan
+rutinariamente en establecer prácticas de seguridad aptas.
+%
+Nuestras redes son representativas de comunidades o vecindarios, de modo
+que nos sorprende cuando hallamos un comportamiento de mala vecindad.
+%
+El software distribuido en tiendas de aplicaciones normalmente se
+integra a entornos débilmente protegidos, en donde se confía que quien
+lo instala active protecciones y desactiva accesos temerarios.
 %
 El correo electrónico puede ser seguro en tanto sea descentralizado. Sin
 embargo, muchos usan formas de comunicación menos segura como los
@@ -4069,6 +4130,13 @@ Los dos factores más importantes que garantizan la seguridad del sistema
 Unix son mantener seguras sus contraseñas y cerrar la sesión cada vez
 que abandone el terminal.
 %
+Las contraseñas constituyen el corazón de la seguridad computarizada.
+%
+Existen pocos requerimientos para la calidad para una contraseña
+informática: no debe ser adivinable ni figurar en un diccionario,
+mientras que debe ser fácil de recordar, y se la debe cambiar cada pocos
+meses.
+%
 Algunos sistemas Unix hacen que el proceso de cierre de sesión sea
 inmediato si apaga el terminal o la consola. Los terminales que están
 conectados a la máquina a través de líneas telefónicas y módems suelen
@@ -5292,6 +5360,9 @@ caracter.
 %
 Un bit no consiste más que en una condición de ENCENDIDO o APAGADO.
 %
+El módem recibe información de una computadora o terminal y la traduce
+en una señal de audio capaz de enviarse por un tendido telefónico.
+%
 El módem modifica las señales digitales que le gustan a la computadora
 en señales de audio que adopta la red telefónica.
 %
@@ -5314,6 +5385,11 @@ La Masa es 0. Quien la transforma en 1 es su Conductor.
 En el sistema tipo Unix la usuaria más poderosa es "root". Al loguearte
 al mismo como root, podrás crear y destruir cualquier fichero, lo que en
 Unix significa todo, pues todo es un fichero.
+%
+La usuaria root debe actuar en todo momento con integridad, considerando
+siempre el principio del la privacidad individual y minimizando los
+datos recogidos, limitar el acceso autorizado, y proveer seguridad
+apropiada a los datos.
 %
 El acceso a root no se da, se escala.
 %
@@ -5377,6 +5453,9 @@ para teleirrumpir en la Casa Blanca, tomar fotografías secretas de
 personas en posiciones comprometedoras, enrutarlas a través de un
 reenviador anónimo y negociar un gran reembolso de impuestos, todo con
 un control complicado: pulsación de la mítica tecla meta-trans.
+%
+Un programador interesado puede ingresar a muchas computadoras, de la
+misma forma en que un ladrón capaz puede irrumpir en muchas casas.
 %
 A las memorias MicroSD se las lleva el viento.
 %
@@ -5734,9 +5813,9 @@ La digitalización y el auge de la Inteligencia Artificial requieren cada
 vez de mayor potencia computacional, y esto se traduce en un mayor
 consumo de agua.
 %
-Los grandes centros de datos de las grandes empresas tecnológicas
-consumen una media de 25 millones de litros de agua anuales. Pero eso
-palidece frente a los 600 millones de litros anuales de las GAFAM.
+Los centros de datos de las empresas tecnológicas consumen una media de
+25 millones de litros de agua anuales. Pero eso palidece frente a los
+600 millones de litros anuales de las GAFAM.
 %
 Los centros de datos de las hiperempresas tecnológicas consumen unos 600
 millones de litros de agua al año, el 75 por ciento potable.
@@ -5803,6 +5882,21 @@ hacerse billonario. Destruirlas puede hacerlo.
 Desvincula la programación del abuso de los recursos naturales. Escribe
 en ensamblador para disminuir el impacto ambiental de la ejecución.
 %
+Escribe programas que hagan una cosa y la hagan bien.
+%
+Escribe programas que trabajen juntos.
+%
+Escribe programas que manejen corrientes de texto porque ese es una
+interfaz universal.
+%
+Usa nuestro software para cualquier propósito.
+%
+Modifica nuestro software para cubrir tus propias necesidades.
+%
+Comparte tu software con los compañeros.
+%
+Comparte los cambios que hacen los compañeros.
+%
 MonoDevelop no excluye el peligro de que Micro$oft pida licencias, y por
 no usar C termines haciéndote la del mono.
 %
@@ -5849,8 +5943,8 @@ personas a alcanzar cotas más altas de libertad, prosperidad y
 desarrollo.
 %
 Los obstáculos a la circulación de la información en línea, en especial
-los que den lugar a desigualdad, pobreza y desesperanza, deben
-suprimirse.
+los que interfieren en la lucha contra la desigualdad, pobreza y
+desesperanza, deben suprimirse.
 %
 Las bibliotecas y los servicios de información son instituciones
 dinámicas que conectan al Pueblo con fuentes mundiales de información y
@@ -6469,8 +6563,8 @@ No dejes que posean tus datos.
 %
 Protege a tus amistades en red por medio de encriptaciones severas.
 %
-Haz equivaler la solidez del algoritmo de cifrado que utilizas con la de
-la amistad que practicas en las redes de datos.
+Haz equivaler la solidez del algoritmo de cifrado que utilizas con la
+amistad que practicas en las redes de datos.
 %
 La tarea del hacker del Pueblo consiste en mostrar como el contexto
 social influye en la CPU.
@@ -6667,6 +6761,30 @@ Quien liberó su código bajo GPLv3 no está obligado a nada más.
 A Window$ muerto, GNU puesto.
 %
 No has vivido hasta haber muerto en MUD.
+%
+Los primeros MUD eran fantasías tokienianas en el mainframe.
+%
+Los primeros MUD eran ejercicios de programacion y matar tiempo,
+destinados a los nerds más adictos al Calabozos y Dragones, con acceso
+remoto a un mainframe.
+%
+Un MUD es una realidad virtual basada en texto. También lo es la
+política.
+%
+Un MUD es una sala de chat construida mediante conversaciones.
+%
+Un MUD es Calabozos y Dragones de alcance global.
+%
+Un MUD es un mapa creado por medio de palabras y telemática.
+%
+Un MUD es un conjunto de de sentidos construidos con palabreríos.
+%
+Como aquel proverbial castillo en la nube, todos los MUDs eran
+construidos por dedicados Magos de Unix.
+%
+Aproximadamente la mitad de los participantes de los MUD considera que
+se trata de un mero juego, mientras que la otra mitad discrepa vehemente
+y acaloradamente.
 %
 El programador debe considerar las cosas mas sencillas de lo que son.
 %
@@ -7301,8 +7419,8 @@ ello.
 %
 A la hora de la insurrección telemática, los pubnix no serán neutrales.
 %
-La manera de aplastar a Appl€ es haciéndola sidra con clones de sus
-aplicaciones liberadas bajo GPLv3.
+La manera de aplastar a Appl€ es hacierla sidra mediante clones de sus
+aplicaciones liberados bajo GPLv3.
 %
 Dénme su código fuente y en una generación compilaré un sistema
 operativo libre.
@@ -7764,6 +7882,14 @@ La DoSS es sólo un contraataque de desarticulación. El verdadero ataque
 se produce por la imposición física de la GPLv3 en toda CPU que se
 cuadre.
 %
+Con sólo encender un punto de acceso de alta potencia, un teléfono
+inalámbrico, un transmisor de video u otro dispositivo de 2.4 GHz, una
+persona malintencionada puede causarle un daño considerable a la red.
+%
+Muchos dispositivos de red son vulnerables a los ataques de denegación
+de servicio, como inundación de disociaciones y desborde de las tablas
+ARP.
+%
 Hasta hace poco un sistema operativo era una semicolonia, pero ahora con
 GNU, el Pueblo puede compilar en un ambiente completamente libre.
 %
@@ -7816,7 +7942,7 @@ las 486 lo llevó a desaparecer muy poco tiempo después.
 %
 La CPU es feliz compilando.
 %
-La computadora ha permitido un desarrollado de tal grado en la
+La computadora ha permitido un desarrollo de tal grado en la
 organización social y económica de nuestra sociedad, que nuestra forma
 de vida bien puede resultar transformada como consecuencia.
 %
@@ -8129,9 +8255,9 @@ Su software deberá ser capaz de ser utilizado con interfases de voz,
 lectores de pantalla, dispositivos de entrada alternativos, y otras
 tecnologías de asistencia.
 %
-Con escaso esfuerzo eadicional posibilitará que su aplicación resulte
-tan útil a los usuarios que utilizan tecnologías asistivas como a
-quellos que no.
+Con escaso esfuerzo adicional posibilitará que su aplicación resulte tan
+útil a los usuarios que utilizan tecnologías asistivas como a quellos
+que no.
 %
 Diseña tu software para que pueda funcionar en distintos ambientes e
 idiomas.
@@ -8383,7 +8509,7 @@ su terminal.
 Un usuario verdaderamente obsesivo puede destinar la mayor parte de su
 vida a inocuas conversaciones en línea.
 %
-Activistas y reformadores educativos están utilizando los Pubnix como
+Activistas y reformistas educativos están utilizando los Pubnix como
 herramienta política.
 %
 Es posible utilizar las redes de datos para alimentar información de
@@ -8616,6 +8742,17 @@ y se convirtió en la columna vertebral de la Internet, con una velocidad
 de 1 Megabit por segundo.
 %
 La red de datos ARPANET fue dada de baja honrosamente en marzo de 1990.
+%
+El software de dominio público se refiere a aquel que no tiene derechos
+de autor y, por lo tanto, puede distribuirse gratuitamente y sin
+compensación para el autor.
+%
+El software puede ser cedido al dominio público por su autor o por
+vencimiento de los derechos de autor.
+%
+El Shareware es un concepto de distribución comercial de software, donde
+el autor avala la realización de copias para probar antes de comprar; no
+es software libre ni de dominio público.
 %
 A pesar de los más abyectos intentos de las ciber-oligarquías, el caudal
 de información de estricto dominio público disponible en la red sigue
@@ -8981,7 +9118,28 @@ Colgarse es humano. Rebootear es maquinal.
 %
 GNU revoluciona la CPU.
 %
-HURD será lo que deba ser, o no será nada.
+Hurd será lo que deba ser, o no será nada.
+%
+El GNU Hurd es el reemplazo del Proyecto GNU para el Kernel de Unix.
+%
+El GNU Hurd es una colección de servidores que se ejecutan sobre el
+microkernel Mach para implementar sistemas de archivo, protocolos de
+red, control de acceso a ficheros, y otras funcionalidaades que estás
+implementadas por el Kernel de Unix u otros similares a aquél (como
+Linux).
+%
+GNU Mach es el microkernel sobre el cual se basa un sistema GNU Hurd.
+%
+El microkernel GNU Mach define interfases de desarrollo distribuido
+multi-servidor a través del mecanismo de comunicación interprocesos
+empleado por la colección de servidores Hurd, con el fin de dar cuenta
+de aquellos servicios provistos por un núcleo de sistema operativo
+tradicional.
+
+ is the microkernel upon which a GNU Hurd system is based. It provides
+ an Inter Process Communication (IPC) mechanism that the Hurd uses to
+ define interfaces for implementing in a distributed multi-server
+ fashion the services a traditional operating system kernel provides.
 %
 La orden rm -rf /* simplemente le transmite al intérprete "¿Puedes por
 favor borrar todos los datos del sistema por mí?"
@@ -9332,6 +9490,30 @@ Los costos de las telecomunicaciones a través de llamadas de larga
 distancia por módem son prohibitivos. Los gobernos del mundo han de
 apoyar redes de paquetes conmutados, y unificarlas.
 %
+Las áreas muy pobladas como los centros de las ciudades o los campus
+universitarios pueden generar una densidad de puntos de acceso
+inalámbricos. No resulta descabellado que allí los usuarios de
+portátiles se asocien accidentalmente a la red equivocada.
+%
+La mayoría de los clientes inalámbricos simplemente elegirán la red Wifi
+que esté disponible, escogiendo a menudo la que tenga la señal más
+fuerte cuando la red preferida no está disponible.
+%
+Un usuario desprevenido puede asociarse a una red inalámbrica como lo
+hace normalmente, sin saber que se encuentra transmitiendo datos
+confdenciales en la red de otra persona.
+%
+Los hackers del Tercer Mundo puedes usar puntos de acceso inalámbricos
+en lugares estratégicos para atraer a oligarcas desprevenidas y captar
+sus datos.
+%
+Muchos clientes inalámbricos pueden configurarse de manera que se
+conecten solamente a redes confables o para que pidan permiso antes de
+incorporarse a una red nueva.
+%
+Educa a los usuarios subrayando la importancia de conectarse sólo a
+redes Wifi conocidas y confables.
+%
 Tiene sentido que las comunicaciones mediadas por cómputo permitan la
 conexión de masas a masas, superando así algunos conflictos propios de
 las nacionalidades.
@@ -9356,8 +9538,8 @@ implementación son - a lo sumo - cosas del hombre.
 Cada computadora contribuye una porción de sus recursos a emular otra
 máquina.
 %
-Los datos y programas en un ambiente de red pueden compartirse, y por lo
-tanto enriquecer los bienes computacionales colectivos.
+Los datos y programas en un ambiente de red son bienes que pueden
+compartirse, y por lo tanto enriquecer el cómputo colectivo.
 %
 El primer sistema de chat lo constituyó un hack de un usuario subyugando
 un banco de datos para poder comunicarse a tiempo real.
@@ -10665,7 +10847,7 @@ La mayor distinción puede estar entre quienes favorecen la licencia GPL
 para proteger su comunidad, y quienes usan la licencia de estilo BSD
 para proteger su software.
 %
-La decisión más importante que debe tomar un creacdor de software es
+La decisión más importante que debe tomar un creador de software es
 probablemente el licenciamiento, pues determina si otros podrán crear
 versiones comerciales del software sin contribuir con el nuevo código al
 proyecto.
@@ -11057,25 +11239,206 @@ que los algoritmos no supriman o amplifiquen desproporcionadamente el
 contenido en función de características protegidas.
 %
 Promueve plataformas digitales donde las reglas y el liderazgo de la
-comunidad deben reflejar voces y experiencias diversas.
+comunidad deban reflejar voces y experiencias diversas.
 %
 Promueve aquellas plataformas digitales donde sus políticas clave, guías
 de ayuda y pautas de moderación se encuentren publicadas en varios
 idiomas, según lo permitan los recursos.
 %
-Promueve aquellas plataformas digitales donde se anima a los usuarios a
-debatir sus políticas para moldear su continua evolución.
+Promueve aquellas plataformas digitales donde se anima a sus usuarios a
+debatir políticas que se amolden a su continua evolución.
 %
-Promueve plataformas digitales donde su Declaración de Derechos, así
-como las políticas y las estrategias de implementación se revisan
-periódicamente y se actualizan para adaptarse a panoramas sociales y
-tecnológicos cambiantes.
+Promueve aquellas plataformas digitales donde su Declaración de
+Derechos, así como las políticas y las estrategias de implementación
+sean revisadas y actualizadas periódicamente para adaptarse a panoramas
+sociales y tecnológicos cambiantes.
 %
-Promueve plataformas digitales donde existan mecanismos para que los
-usuarios envíen comentarios, sugerencias o inquietudes, lo que garantiza
-que la plataforma siga respondiendo a su comunidad.
+Promueve aquellas plataformas digitales donde existan mecanismos para
+que los usuarios envíen comentarios, sugerencias o inquietudes, lo que
+garantiza que la plataforma siga respondiendo a su comunidad.
 %
-Promueve plataformas digitales donde todos los participantes (usuarios,
-encargados del mantenimiento y colaboradores externos) compartan la
-responsabilidad de defender principios éticos que garanticen la
-privacidad, la dignidad y la equidad en línea.
+Promueve aquellas plataformas digitales donde todos los participantes
+(usuarios, encargados del mantenimiento y colaboradores externos)
+compartan la responsabilidad de defender principios éticos que
+garanticen la privacidad, la dignidad y la equidad en línea.
+%
+Irrespeta la tecnología de la oligarquía.
+%
+Es necesario desobedecer a la tecnología.
+%
+Fomenta la desobediencia tecnológica. & Si te oprimen con tecnología,
+suma tus invenciones al cotraataque.
+%
+Irrespeta el concepto de autoridad que intenten emanar los objetos
+tecnológicos.
+%
+Como el cirujano que de tanto abrir los cuerpos se hace insensible a la
+sangre y al olor de las vísceras, una vez que desatornilla, al hacker se
+acostumbra a ver todo por dentro.
+%
+De tanto desensamblar, el hacker termina por programar.
+%
+Es de tanto desatornillar que el hacker termina luchando por la
+liberación del Tercer Mundo.
+%
+Toda la simbología de autoridad que hacen de un objeto manufacturado una
+entidad única, para el ingeniero inverso no existen. Con su mente
+violenta ese tipo de cosas. Y luego desarma.
+%
+El Pueblo estaba tan empujado por las oligarquías, que decidió romper
+todo los límites estéticos, legales y económicos qye estas les habían
+impuesto. Sus hacers tomaron los objetos que lo oprimían, y
+desobedecieron tecnológicamente para liberarse.
+%
+Nacida de un arquitectura de la necesidad, la desobediencia tecnológica
+es una liberación moral.
+%
+No me importa para qué fué diseñado. Me importa lo que puede hacer de él
+el Pueblo.
+%
+Cuando la mesa temblequea puedes poner un papelito doblado bajo una
+pata, o bien patearla hasta dejarla dejarla patas para arriba. Ninguna
+solución equivale a ponerle un plato lleno encima.
+%
+Bajo las condiciones adecuadas, una comunidad hará lo que quiera con lo
+que tiene.
+%
+Un tecnólogo verdaderamente desobediente nunca está contento con una
+caja negra.
+%
+La caja negra existe para ser abierta y manipulada, o para un propósito
+que no se encuentra en el manual.
+%
+Los hackers son los seres que pueden ver a través de los objetos opacos.
+%
+El progreso es imposible sin forkear.
+%
+No existe humanidad digital sin el estado.
+%
+La falta de financiación o apoyo infraestructural puede suponer una
+barrera insalvable para el trabajo en humanidades digitales.
+%
+La sensación de exclusión basada en el acceso a la infraestructura
+digital o la financiación se debe a que no se reconoce que muchas
+excluidos digitales ya realizan un trabajo valioso.
+%
+Los académicos que adoptan una infraestructura digital prematuramente o
+reciben una subvención cuantiosa para un proyecto podrían impedirles
+adquirir un conocimiento profundo de las tecnologías digitales que
+pretenden emplear, y, por extensión, de los medios para producir su
+propio conocimiento en humanidades digitales.
+%
+Se puede trabajar con computadoras de una década de antigüedad, donde la
+conexión a las redes de datos es inestable o siquiera existe.
+%
+Se puede trabajar con computadoras trabajando a escondidas de las
+autoridades.
+%
+Las humanidades digitales se refieren a una amplia gama de prácticas en
+la intersección de la informática (SIG, gestión de datos, diseño web,
+etcétera) y las humanidades (historia, literatura, arte, música,
+etcétera).
+%
+Obligados a abrir los objetos, a repararlos, a fragmentarlos y a usarlos
+a su conveniencia, los cibercirujas terminaron rechazando los signos que
+hacen de un producto oligárquico un todo, o poseer una identidad
+cerrada.
+%
+Las prácticas productivas oligárquicas fueron asumidas por los
+descamisados de todo el Tercer Mundo en un registro de reparación y
+recuperación. Aquellos objetos habían surgido de una realidad material
+envejecida, insuficiente y pobre.
+%
+El individuo pretendía simplemente elaborar un sustituto instantáneo, un
+objeto o solución transitoria para resolver un problema específico hasta
+que la crisis remitiera
+%
+Los artefactos que los descamisados desmontaron y alteraron son objetos
+industriales que pertenecen a la misma lógica que está siedno hackeada y
+cuestionada en todo el planeta.
+%
+Las oligarquías sólo habían dejado tras de sí, objetos industriales
+influenciados por lógicas de uso limitado, principios técnicos
+exclusivos, estilos de vida mercantilizados y relaciones de producción
+abusivas.
+%
+las Teorías Feministas de la Tecnología se desarrollaron junto con las
+diversas corrientes feministas, articuladas con ellas y en el contexto
+de cada época en las que éstas surgieron.
+%
+Los conceptos sobre tecnología de las Teorías Feministas de la
+Tecnología, así como sus acciones, han estado marcadas por las diversas
+corrientes feministas y sus diversas expresiones.
+%
+Las teorías feministas y la filosofía de la técnica - que estudia la
+naturaleza de lo artificial y las particularidades del conocimiento
+técnico y los problemas éticos y morales que suscita - coinciden en la
+crítica de las estructuras de poder asociadas con el desarrollo
+tecnológico.
+%
+El feminismo radical cultural cuestiona la neutralidad de la tecnología,
+con el argumento de que esta es inherentemente patriarcal y que sus
+efectos sobre las mujeres son mayormente negativos.
+%
+Feminismo socialista realiza una crítica a la supuesta neutralidad
+tecnológica, vinculando la opresión de la mujer con las estructuras de
+clase y del sistema capitalista.
+%
+El feminismo radical cultural pone el foco en los efectos de la
+tecnología sobre el cuerpo y la sexualidad de la mujer, considerando a
+las tecnologías reproductivas y estéticas como formas de control y
+explotación.
+%
+El feminismo socialista analiza el impacto de la tecnología en las
+condiciones laborales de las mujeres, tanto en el ámbito público como en
+el privado, mostrando cómo la tecnología a menudo reproduce la división
+sexual del trabajo.
+%
+El ciborg-feminismo propone la figura del ciborg como símbolo de la
+hibridación entre lo humano y lo tecnológico, desafiando las dicotomías
+tradicionales mujer/hombre/femenino/masculino y abriendo nuevas
+posibilidades para la identidad y la política.
+%
+El ciber-feminismo considera el potencial de las Tecnologías de
+información y comunicación para el empoderamiento de la mujer y la
+creación de espacios de resistencia.
+%
+El ciber-feminismo se enfoca en las posibilidades del ciberespacio para
+la creación de redes, la expresión artística y la transformación social.
+%
+El tecnofeminismo acuñado por Judy Wajcman analiza la co-constitución
+entre género y tecnología, desafiando la neutralidad tecnológica, y
+proclamándola reflejo y reproductor de relaciones de poder existentes.
+%
+El tecnofeminismo aborda el diseño tecnológico, con énfasis en la falta
+de participación de las mujeres en este proceso y sus consecuencias.
+%
+El feminismo postcolonialista critica la visión etnocéntrica de algunas
+TFT, teniendo en cuenta que la experiencia de la mujer con la tecnología
+varía según su contexto cultural (por ejemplo, con respecto a su raza y
+origen).
+%
+El feminismo postcolonialista analiza la explotación de las mujeres como
+fuerza de trabajo barata en las industrias tecnológicas, así como las
+diferencias en la participación de las mujeres en el diseño y uso de la
+tecnología en diferentes países.
+%
+El feminismo queer cuestiona la heteronormatividad, el binarismo de
+género y la naturaleza del sexo y del género en relación con la
+tecnología.
+%
+El feminismo queer analiza la construcción del género en el ciberespacio
+y las posibilidades de las tecnologías de la información y comunicación
+para la expresión de identidades no-heteronormativas.
+%
+El feminismo queer aporta la performatividad del género sobre las
+tecnologías de la información y la comunicación, proponiendo
+desestabilizar las normas genéricas, abriendo espacios a la
+multiplicidad de identidades y expresiones.
+%
+Las ciberoligarquías utilizan la tecnología para integrar y explotar a
+las mujeres en un sistema global de producción y reproducción.
+%
+La mayoría de las asistentes virtuales esclavas de las ciber-oligarquias
+como Siri, Alexa o Cortana, sintetizan voces femeninas y blancas,
+perpetuando estereotipos de género y dinámicas de vigilancia.
