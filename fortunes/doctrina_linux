@@ -2763,6 +2763,8 @@ Tradicionalmente, la administración de Unix ha implicado toquetear docenas de f
 %
 Suele creerse que el encargado de hacer funcionar las cosas en Unix es el Kernel. Pero quien realmente las hace funcionar es el SysAdmin.
 %
+Vamos aprendiendo a SysAdmear de a poco. Al principio nos SysAdmeamos encima.
+%
 X refiere a un sistema de gráficas de ventanas basadas en redes de datos según el modelo Cliente-Servidor. En éste la aplicación cliente no accede directamente a la pantalla, sino que se comunica con un programa de presentación intermedio, el servidor.
 %
 Unix es un sistema operativo interactivo, multitarea y multiusuaria.
