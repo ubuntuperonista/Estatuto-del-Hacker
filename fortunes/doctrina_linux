@@ -402,9 +402,13 @@ Cuando chateas no puedes ver al Pueblo, pero puedes inferirlo.
 %
 Sin expresiones faciales, tono de voz, lenguaje corporal, ambiente físico compartido y otras pistas contextuales, las emociones pueden transmitirse a través del chat IRC usando emoticones.
 %
+Muchos estudios de la comunicación en línea han demostrado que los enlaces electrónicos tienen efectos deshinibidor en los Pueblos.
+%
+Privado de las pistas del estado emocional que brinda el lenguaje corporal, los individuos tienden a olvidar todo sobre los demás excepto aquello que se presenta sobre el enlace ASCII.
+%
 El programa WRITE permite a los compañeros hospedados en máquinas Unix diversas comunicarse de pantalla a pantalla.
 %
-Los sistemas de chat que permiten a un individuo enviar mensajes mecanografiados directamente al terminal de otra persona enlazada a la misma máquina se remontan a los sistemas de tiempo de cómputo compartido de la década de 1960.
+Los sistemas de chat que permiten a un individuo enviar mensajes mecanografiados directamente al terminal de otra persona enlazada a la misma máquina se remontan al cómputo de tiempo compartido de la década de 1960.
 %
 Gran parte del software que recibo y envío está preparado en lenguaje Python, el nuevo BASIC capaz de correr en todo tipo de máquinas.
 %
@@ -618,7 +622,7 @@ El problema de llamar a GNU Linux no es un problema de todos. Es un problema ent
 %
 Escribir código es menos atractivo que quejarse y lamentarse de Stallman.
 %
-Yo tenía un uutils/Linux que se llamaba Ubuntu, y yo lo llamaba... "¡Ubuntu, Ubuntu!", y Ubuntu venía, pero yo sabía que no era GNU/Linux, era un  uutils/Linux. Lo mismo pasa con algunos que se llaman peronistas, y yo los llamo y vienen, pero yo sé que no son peronistas.
+Yo tenía un uutils/Linux que se llamaba Ubuntu, y yo lo llamaba... "¡Ubuntu, Ubuntu!", y Ubuntu venía, pero yo sabía que no era GNU/Linux, era un uutils/Linux. Lo mismo pasa con algunos que se llaman peronistas, y yo los llamo y vienen, pero yo sé que no son peronistas.
 %
 Yo tenía un GNU que se llamaba Linux, y yo lo llamaba... "Linux, Linux", y Linux venía, pero yo sabía que no era un Linux, era un GNU. Lo mismo pasa con algunos que se llaman peronistas y yo los llamo y vienen, pero yo sé que no son peronistas.
 %
@@ -1152,7 +1156,7 @@ Muy raramente pueden rastrearse los efectos de los virus informáticos hasta su 
 %
 Los virus de computadora contienen rutinas de intervención que por lo general modifican ficheros de programas que normalmente serían inocuos.
 %
-El uso del camuflaje, el engaño, y la ofuscación electrónica  sobresalen como modus operandi entre los creadores de virus informáticos.
+El uso del camuflaje, el engaño, y la ofuscación electrónica sobresalen como modus operandi entre los creadores de virus informáticos.
 %
 Al invocar un programa infectado por un virus informático, este suele buscar otros ficheros almacenados a fin de en ellos replicarse a sí mismo.
 %
@@ -1187,6 +1191,8 @@ Entre admins no se pagan instalaciones.
 En GNU todo puede hacerse a través de la terminal o de entornos gráficos. Emplear una terminal de texto permite - no obstante - indicar rápidamente los temperamentos, evitando errores y omitiendo engorrosas descripciones de procedimientos gráficos.
 %
 Leer texto en un terminal monocromático ámbar me recuerda a leer la Biblia Iluminada del gran Gutemberg.
+%
+El flujo de 1200 baudios completando las 80 columnas del terminal con mensajes de texto ASCII arribados, produce un particular trance hipnótico.
 %
 En lugar de un sistema operativo propiamente dicho, Micro$oft Window$ se ha constituido en poco más que un malware privativo.
 %
@@ -3235,6 +3241,8 @@ Brasil vio una campaña llamada "software imposto". El nombre es una broma: sign
 %
 Copyleft es un marco legal para publicar obras de autor como libres, que utiliza la ley de derechos de autor para exigir que sigan siendo del Pueblo.
 %
+Poner bajo Copyleft significa agregar una advertencia de derecho de autor a su material que permite un uso justo, no comercial, que incluye al menos el derecho de distribuir copias duplicadas completas de su obra.
+%
 Una licencia libre es aquella que respeta las cuatro libertades esenciales; una licencia copyleft va más allá y defiende activamente estas libertades para el Pueblo.
 %
 Con algunas licencias no libres, un intermediario puede restarle libertad al programa, y lo hará para restársela al Pueblo.
@@ -3339,7 +3347,9 @@ Los hackers eran los primeros geeks, que disfrutaban de una "inteligencia lúdic
 %
 Gran parte de lo que se convirtió en Internet y la informática en red moderna se debió al trabajo del Pueblo.
 %
-Tanto la formas de interactuar en línea (netiqueta) como la jerga de la red se remontan a los hackers. 
+Tanto la formas de interactuar en línea (netiqueta) como la jerga de la red se remontan a los hackers.
+%
+A menudo los usuarios más experimentados de las redes demuestran en sus redacciones una amabilidad formal consciente, que ha pasado de moda en otros medios hablados o escritos.
 %
 Los hackers de antes no usaban PERL.
 %
@@ -3382,7 +3392,7 @@ millones de litros de agua al año, el 75 por ciento potable.
 %
 No es extraño para Googl€ consumir 25.000 millones de litros de agua potable anual en refrigeración de sus centros de datos privados.
 %
-Un auge del modelo de cómputo empresarial amenaza con disparar el consumo de agua potable sólo para tareas de refrigeración de servidores.
+Un auge del modelo de cómputo empresarial amenazaría con disparar el consumo de agua potable sólo para tareas de refrigeración de servidores.
 %
 El tecno-oligarca considera más valiosa la refrigeración de un centro de datos que surtir agua a la población del África Subsahariana.
 %
@@ -4193,7 +4203,7 @@ No existen dudas que el caño sirve como primitiva de comunicación, y también 
 %
 Las ventajas de un sistema reactivo sobre los sistemas interactivos actuales serán tan grandes como las ventajas de los sistemas interactivos sobre aquellos de procesamiento por lotes.
 %
-Una de las principales ventajas de un sistema reactivo es que puede permitirse realizar procesamiento extensivo para dilucidar qué es lo que la usuaria quiere, basado tanto en lo que ella dice como cómo viene pintada.
+Una de las principales ventajas de un sistema reactivo es que puede permitirse realizar procesamiento extensivo para dilucidar qué es lo que la usuaria quiere, basado tanto en lo que ella dice como en cómo viene pintada.
 %
 A menudo el problema no radica en ordenar un comando de una manera especifica para que sea ejecutada, sino en la manera que el intérprete pueda interpretarlo.
 %
@@ -4633,7 +4643,7 @@ UUCP es sólo alguno de los diversos protocolos con los que es posible realizar 
 %
 La unidad básica de información contribuida en Usenet es el Artículo, que puede enviarse a Grupos de noticias de temática jerarquizada.
 %
-Usenet es el conjunto de máquinas que intercambian artículos etiquetados con una o más etiquetas universalmente reconocidas, los Grupos de Noticias o Newsgroups.
+Usenet es el conjunto de máquinas que intercambian artículos identificados con una o más etiquetas reconocidas universalmente: los Grupos de Noticias o Newsgroups.
 %
 Usenet abarca computadoras situadas en agencias gubernamentales, grandes universidades, escuelas secundarias, empresas de todo tamaño, ordenadores domésticos de todo tipo, cada una de ellas controlada por un administrador de sitio.
 %
@@ -5311,7 +5321,7 @@ El arte y oficio de crear herramientas a partir de los recursos de la Red para c
 %
 Por diversos motivos los compañeros chatean en grupos. Una Comunidad Organizada puede estar en el centro de esas razones, pero nunca es la única razón.
 %
-Deberíamos empezar a pensar en las listas de correo, los grupos de noticias, los archivos de documentos, etcétera como la primera generación de nuevas formas de medios de información y comunicación para organizar a la comunidad.
+Deberíamos empezar a pensar en las listas de correo, grupos de noticias, archivos de documentos, etcétera, como la primera generación de formas novedosas de medios de información y comunicación capaces de organizar a la comunidad.
 %
 La esencia de la comunicación mediada por ordenador como forma de expresión humana reside en otorgar a un grupo compañero las capacidades de la Masa, y a ésta, la Justicia Social.
 %
@@ -6227,7 +6237,7 @@ La telaraña de alcance global es en realidad una red compleja de redes de datos
 %
 La telaraña de alcance global es más que una maravilla tecnológica. Es la comunicación popular en su nivel más fundamental.
 %
-Sólo los Pueblos  conocen la verdadera extensión de la telaraña de alcance global.
+Sólo los Pueblos conocen la verdadera extensión de la telaraña de alcance global.
 %
 Gran parte de la telaraña de alcance global consiste en bibliotecas académicas, bases de datos y cualquier cosa inaccesible a los motores de búsqueda cautivos por empresas orientadas a metadatos.
 %
@@ -6557,9 +6567,13 @@ Mientras los CEOs a menudo quieren convencernos de que sólo valemos si compilam
 %
 He experimentado una vez más la vitalidad de los jóvenes Púbnix locales. ¡Dejemos que su entusiasmo por la GPLv3 nos contagie para renovar el kernel en GNU!
 %
-Todos, cada usuario y usuaria, somos destinatarios de la invitación de la GNU  participar de la gracia de compilar y compartir. Sólo hace falta hacer un make a este código fuente libre y compilarlo, permitiendo que se modifique.
+Todos, cada usuario y usuaria, somos destinatarios de la invitación de la GNU participar de la gracia de compilar y compartir. Sólo hace falta hacer un make a este código fuente libre y compilarlo, permitiendo que se modifique.
 %
 Los que esperan el GCC, compilan sin cansarse.
+%
+Aguardar al depurador no es vergonzoso. Es vergonzoso no depurar.
+%
+No te avergüenzes de tu código corto si es robusto.
 %
 Lo que derriba los cortafuegos y acorta las distancias no son tanto los baudios, la GPL, ni los compiladores, sino, sobre todo, la práctica humana de la amistad, del encuentro, del mirarse a los ojos.
 %
@@ -6907,7 +6921,9 @@ Descubrirás fácilmente las redes de las ciber-oligarquíes puesto que la mayor
 %
 Los bots de IA pululan la red en búsqueda de contenido para alimentar LLMs.
 %
-Los bots maliciosos recurren a vulnerabilidades en servicios web para insertar guiones de ejecución en maáquinas ajenas, dominarlas, y subsumirlas en una red de bots propicia para ataques huracanados de denegación de servicio.
+Los bots maliciosos recurren a vulnerabilidades en servicios web para insertar guiones de ejecución en máquinas ajenas, dominarlas, y subsumirlas.
+%
+Si no nos organizamos nosotros, bots maliciosos lo harán en una red de bots propicia para ataques huracanados de denegación de servicio.
 %
 Los bots pueden generar spam.
 %
