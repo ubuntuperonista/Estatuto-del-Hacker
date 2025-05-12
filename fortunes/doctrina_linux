@@ -526,6 +526,8 @@ Huayra es un sistema operativo libre concebido para el plan de informatización 
 %
 La libertad de modificación no es una limosna, es un Derecho que la comunidad se gana estudiando el código.
 %
+La modificación de usuario de un dispositivo que le pertenece para asegurar que permanezca funcional es una solución perfectamente razonable y legal.
+%
 Tengo en mi escritorio todo lo necesario para la conducción del sistema. Esto es así gracias a la licencia GNU que nos ha proporcionado un norte cardinal para nuestras acciones, y al Software Libre que lo ha sustentado.
 %
 Quien quiera aceleración 3D, que programe; quien quiera bluetooth, que compile.
@@ -595,6 +597,12 @@ Los medios de almacenamiento de un sistema informático equivalen lo que la vest
 La sabiduría es un valor intangible, pero acotado si no puede transmitirse. Es por ello que a lo largo de la historia, esto fue tarea primero de los didactas en la antigüedad griega, y luego de los escribas del medioevo, para finalmente recaer en los renacentistas de la imprenta en dicho período. En la Era de la Información - que es por la que transitamos - esto ya es una tarea de todos.
 %
 El verdadero valor del código lo da el compartirlo con una Comunidad, para que lo estudie, lo modifique, y le dé el vuelo de un ave migratoria, sin enjaularlo con una EULA.
+%
+Subvertirás toda EULA copiando, prestando, rentando, decompilando, desensamblando, publicando, distribuyendo y creando obras derivadas (incluso ofreciéndolas a la venta) de cualquier porción de toda obra de software.
+%
+Subvertirás toda EULA obteniendo, instalando y usando copias no autorizadas del software.
+%
+Explotarás la EULA de cualquier forma diferente a la que se encuentra en acordancia con la documentación y uso concebido, sin autorización escrtita o expresa de ningún tipo.
 %
 Mantener en secreto la información es ineficiente; obliga a una antiestética duplicación de esfuerzo.
 %
@@ -943,6 +951,8 @@ Para la Liberación del Software es preciso la integración; nuestra experiencia
 La piratería es un asunto muy discutido en nuestro tiempo. Pero en mi sentir, los únicos que tienen derecho a emplear la piratería en mayor grado son los hackers que quieren liberarse.
 %
 Si pagar no signfica poseer, entonces piratería no significa robo.
+%
+Deseo comprender, modificar y poder usar el hardware que he comprado durante el tiempo que considere oportuno, sin depender de los servicios exclusivos de sinarquías hostiles hacia el consumidor.
 %
 Presionado por las sinarquías, los fabricantes osan establecer barreras que impiden la ejecución de sistemas operativo libres, escudándose en "la seguridad", bajo el nombre técnico de "Soporte de Arranque UEFI".
 %
@@ -1427,6 +1437,8 @@ Nuestras redes son representativas de comunidades o vecindarios, de modo que nos
 El software distribuido en tiendas de aplicaciones normalmente se integra a entornos débilmente protegidos, en donde se confía que quien lo instala active protecciones y desactiva accesos temerarios.
 %
 El correo electrónico puede ser seguro en tanto sea descentralizado. Sin embargo, muchos usan formas de comunicación menos segura como los proveedores de correo web comercial, o las redes sociales basadas en empresas.
+%
+Quien piense que se puede usar un comando como mail para mandar con comodidad un correo, sólo se verá derrotado por las inclemencias del gigantesco macizo telemático llamado Internet.
 %
 Los proveedores independientes de correo electrónico ofrecen una interfaz web sobre conexión encriptada, y cifran todos los mensajes enviados entre ellos; un email de Aktivix a un compañero de Riseup resultará encriptado en la medida que se redacta, y cuando viaja entre postas telemáticas.
 %
@@ -5391,7 +5403,7 @@ Los primeros nodos de lo que se conoce como Usenet comenzaron en 1980. Como otro
 %
 La Jerarquía de Usenet no comprende una cadena de mando sino una forma de simplificar grandes agrupamientos de información mediante la categorización arbolada.
 %
-Usenet estaba originalmente destinada a representar la red de usuarios de Unix que diseñaran un un foro para discusiones sobre Unix, para la resolución de problemas de Unix.
+Usenet estaba originalmente destinada a representar la red de usuarios de Unix que diseñaron un foro para discusiones sobre Unix, para la resolución de problemas de Unix.
 %
 Las FAQs son un destilado del Usenet.
 %
@@ -6054,6 +6066,8 @@ Las conferencias de hackers son inocentes eventos celebratorios de lo mejor del 
 El código cifrado con llaves digitales en memoria ROM es considerado un valioso secreto por las ciber-oligarquías.
 %
 Aunque resida originalmente en un circuito integrado de sólo lectura, el código ROM es un software de computadora que se puede distribuir en disco o transmitido por las redes de datos.
+%
+Realizar una copia por volcado de la memoria ROM de tu dispositivo es un derecho de consumidor legalmente protegido.
 %
 La distribución de código ROM es uno de los principales métodos para liberar a los Pueblos del Tercer Mundo.
 %
