@@ -419,7 +419,35 @@ está el futuro de nuestra amistad con los demás hackers. Las comunidades
 que entrelazan sus datos siguen siendo amigas, a pesar de las muchas
 cosas que puedan ocurrir.
 %
+Hoy los hackers están construyendo nuevas comunidades. No se pueden ver,
+excepto en la pantalla de una computadora. No se pueden visitar, excepto
+a través del teclado.
+%
+Las comunidades del ciberespacio son tan reales y vibrantes como
+cualquiera que pueda encontrar en un globo terráqueo o en un atlas.
+%
+Los hackers son personas reales al otro lado del monitor.
+%
 La unión de los hackers es consecuencia de la unión de los Pueblos.
+%
+Liberados de limitaciones físicas, nuestros hackers están desarrollando
+nuevos tipos de comunidades cohesionadas y efectivas.
+%
+Las comunidades del ciberespacio que se definen más por intereses y
+propósitos comunes que por un accidente geográfico.
+%
+En las comunidades del ciberespacio lo que realmente cuenta no es cómo
+se ve o habla o qué edad tiene, sino lo que uno dice, piensa y siente.
+%
+No es sorprendente que los científicos hayan sido los primeros en
+adoptar los nuevos medios electrónicos como su principal medio de
+comunicación cotidiana.
+%
+Nuestras autopistas son cables y fibras ópticas; nuestro lenguaje, una
+serie de unos y ceros.
+%
+Llegará el día en que todos, no sólo los científicos, puedan disfrutar
+de los beneficios similares de una comunidad global.
 %
 GCC, la unidad de los compiladores, y al que no le gusta, se jode, se
 jode.
@@ -478,6 +506,9 @@ compilación la tiene que realizar el Pueblo.
 %
 El hacktivismo presupone la existencia de la CPU, del ser humano y de
 una Comunidad Organizada mancomunadamente en pos de su Libertad.
+%
+Las redes de datos permiten el sirgimiento de Comunidades Organizadas,
+precisamente porque la red permite nuevas formas de comunicación.
 %
 Una manera muy simple de análisis de tráfico telemático puede realizarse
 en cualquier lugar intermedio, e incluso en estos casos simples, poner
@@ -610,13 +641,20 @@ Sin expresiones faciales, tono de voz, lenguaje corporal, ambiente
 físico compartido y otras pistas contextuales, las emociones pueden
 transmitirse a través del chat IRC usando emoticones.
 %
+Muchos estudios de la comunicación en línea han demostrado que los
+enlaces electrónicos tienen efectos deshinibidor en los Pueblos.
+%
+Privado de las pistas del estado emocional que brinda el lenguaje
+corporal, los individuos tienden a olvidar todo sobre los demás excepto
+aquello que se presenta sobre el enlace ASCII.
+%
 El programa WRITE permite a los compañeros hospedados en máquinas Unix
 diversas comunicarse de pantalla a pantalla.
 %
 Los sistemas de chat que permiten a un individuo enviar mensajes
 mecanografiados directamente al terminal de otra persona enlazada a la
-misma máquina se remontan a los sistemas de tiempo de cómputo compartido
-de la década de 1960.
+misma máquina se remontan al cómputo de tiempo compartido de la década
+de 1960.
 %
 Gran parte del software que recibo y envío está preparado en lenguaje
 Python, el nuevo BASIC capaz de correr en todo tipo de máquinas.
@@ -758,6 +796,8 @@ es un hombre.
 %
 La CPU no es un chip. La CPU es un órgano.
 %
+"Es un chip P6: triplica la velocidad de un Pentium".
+%
 El Kernel constituye el órgano de la conducción táctica. El órgano de la
 conducción estratégica es el Hacker.
 %
@@ -844,6 +884,10 @@ redistribuido.
 La libertad de modificación no es una limosna, es un Derecho que la
 comunidad se gana estudiando el código.
 %
+La modificación de usuario de un dispositivo que le pertenece para
+asegurar que permanezca funcional es una solución perfectamente
+razonable y legal.
+%
 Tengo en mi escritorio todo lo necesario para la conducción del sistema.
 Esto es así gracias a la licencia GNU que nos ha proporcionado un norte
 cardinal para nuestras acciones, y al Software Libre que lo ha
@@ -873,9 +917,15 @@ Contra sofismas y dictaduras de quienes paradójicamente se proclaman
 liberales y propugnan el software privativo, decimos la verdad.
 %
 El usuario novato poco puede hacer por el bien del sistema más que
-disfrutarlo. Es el admin quien debe contar con gran expertise, y su
-tarea fundamental es la de entender el manejo del sistema y
-administrarlo para el bien del Pueblo.
+disfrutarlo.
+%
+Es el admin quien debe contar con gran expertise, y su tarea fundamental
+es la de entender el manejo del sistema y administrarlo para el bien del
+Pueblo.
+%
+Cuando la comunicación política se facilita mediante mensajería
+electrónica, los procesos de toma de decisiones pueden ser mucho más
+inclusivos y participativos.
 %
 En los sistemas tipo Unix podemos contar con una estructura de
 directorios, y los mismos pueden contener archivos. Estos normalmente
@@ -960,6 +1010,18 @@ transitamos - esto ya es una tarea de todos.
 El verdadero valor del código lo da el compartirlo con una Comunidad,
 para que lo estudie, lo modifique, y le dé el vuelo de un ave
 migratoria, sin enjaularlo con una EULA.
+%
+Subvertirás toda EULA copiando, prestando, rentando, decompilando,
+desensamblando, publicando, distribuyendo y creando obras derivadas
+(incluso ofreciéndolas a la venta) de cualquier porción de toda obra de
+software.
+%
+Subvertirás toda EULA obteniendo, instalando y usando copias no
+autorizadas del software.
+%
+Explotarás la EULA de cualquier forma diferente a la que se encuentra en
+acordancia con la documentación y uso concebido, sin autorización
+escrtita o expresa de ningún tipo.
 %
 Mantener en secreto la información es ineficiente; obliga a una
 antiestética duplicación de esfuerzo.
@@ -1324,7 +1386,7 @@ servirnos, pero tampoco podemos quedarnos como en el tango "pa'yudarte
 en lo que pueda cuando llegue la ocasión". ¡Hemos de escribir programas
 y compilarlos en este mismo momento!
 %
-Una de las cosas más difíciles de la tarea de compliar es encontrar a
+Una de las cosas más difíciles de la tarea de compilar es encontrar a
 las bibliotecas con la capacidad para realizarla.
 %
 Contar con el último hardware es una bendición, pero también hemos de
@@ -1635,6 +1697,10 @@ grado son los hackers que quieren liberarse.
 %
 Si pagar no signfica poseer, entonces piratería no significa robo.
 %
+Deseo comprender, modificar y poder usar el hardware que he comprado
+durante el tiempo que considere oportuno, sin depender de los servicios
+exclusivos de sinarquías hostiles hacia el consumidor.
+%
 Presionado por las sinarquías, los fabricantes osan establecer barreras
 que impiden la ejecución de sistemas operativo libres, escudándose en
 "la seguridad", bajo el nombre técnico de "Soporte de Arranque UEFI".
@@ -1643,8 +1709,8 @@ que impiden la ejecución de sistemas operativo libres, escudándose en
 nivel BIOS únicamente un sistema operativo que está ingeniado para
 espiar al compañero, y cuyo código fuente es secreto? Sólo a un bruto...
 %
-Si todo esto sigue siendo controvertido, entonces tedremos que formar un
-equipo de investigación y examinar el código fuente.
+Si todo esto sigue siendo controvertido, entonces tendremos que formar
+un equipo de investigación y examinar el código fuente.
 %
 Los sistemas de computación se someten a esfuerzo al procesar y actuar
 los datos. Tal esfuerzo es variable y responde sobre todo a la
@@ -2100,6 +2166,10 @@ descripciones de procedimientos gráficos.
 Leer texto en un terminal monocromático ámbar me recuerda a leer la
 Biblia Iluminada del gran Gutemberg.
 %
+El flujo de 1200 baudios completando las 80 columnas del terminal con
+mensajes de texto ASCII arribados, produce un particular trance
+hipnótico.
+%
 En lugar de un sistema operativo propiamente dicho, Micro$oft Window$ se
 ha constituido en poco más que un malware privativo.
 %
@@ -2294,6 +2364,24 @@ telefónico dial-up (no ADSL). Tales tendidos (difundidos durante el
 primer peronismo con el objeto de transmitir voz) pueden parecer
 anacrónicos, pero si obramos bien puede sacarnos de más de un apuro.
 %
+La tecnología ADSL (Línea de Abonado Digital Asimétrica) proporciona
+acceso de datos de alta velocidad a través de líneas telefónicas comunes
+de alabres de cobre.
+%
+La tecnología ADSL obtiene su alta velocidad mediante el uso de ancho de
+banda de frecuencias por arriba de la banda de voz no utilizada
+anteriormente.
+%
+La señal ADSL utiliza una frecuencia diferente de la señal de voz que
+permite coexistir con su servicio telefónico en la misma línea. & El
+servicio ADSL es asimétrico en el sentido que ofrece una velocidad de
+transferencia de datos mayor en la dirección de bajada (recepción) que
+en la dirección de subida (transmisión).
+%
+La operación asimétrica del servicio ADSL es ideal para el uso en
+oficinas pequeñas y hogares, donde es más frecuente usar líneas de par
+de cobre para descargar información y archivos.
+%
 Audacity es un editor de sonido peronista, multiplataforma, y libre.
 Opera bajo sistemas operativos libres, aunque también está preparado
 para trabajar en Window$.
@@ -2393,6 +2481,10 @@ fundamentales como la libertad de expresión, asociación y el derecho a
 la intimidad.
 %
 Protegemos al Pueblo del uso indebido de sus datos.
+%
+Las redes de computadoras no requieren un control administrativo
+centralizado estricto. De hecho, la descentralización es necesaria para
+permitir un rápido crecimiento de la propia red.
 %
 Ante el desafío de la vigilancia masiva, nuestro Movimiento se ha
 mantenido inconmovible en sus principios: criptografía,
@@ -2508,6 +2600,10 @@ El correo electrónico puede ser seguro en tanto sea descentralizado. Sin
 embargo, muchos usan formas de comunicación menos segura como los
 proveedores de correo web comercial, o las redes sociales basadas en
 empresas.
+%
+Quien piense que se puede usar un comando como mail para mandar con
+comodidad un correo, sólo se verá derrotado por las inclemencias del
+gigantesco macizo telemático llamado Internet.
 %
 Los proveedores independientes de correo electrónico ofrecen una
 interfaz web sobre conexión encriptada, y cifran todos los mensajes
@@ -2815,8 +2911,8 @@ necesario.
 %
 Los imperios se autodestruyen. Window$ también.
 %
-La liberación implica que hemos de compilar con los Hackers, no con las
-empresas.
+La liberación implica que hemos de compilar con los Hackers que luchan,
+no con las empresas.
 %
 El hacker tiene sed de verdad y justicia: su hardware, de libertad.
 %
@@ -2902,12 +2998,12 @@ de correo electrónico, disfrutar de alta disponibilidad, y circunvalar
 la necesidad de aprender a programar para crear sitios webs de
 apariencia legítima.
 %
-Si bien el filtraje de correo electrónico abusivos contra la privacidad
-como Googl€ no constituyen una opción contra servicios sustitutivos de
-software, revisten un excelente enmascaramiento, útil en una agresiva
-campaña de amedrentamiento telemático.
+Si bien el filtraje de correos electrónicos abusivos contra la
+privacidad como Googl€ no constituyen una opción contra servicios
+sustitutivos de software, revisten un excelente enmascaramiento, útil en
+una agresiva campaña de amedrentamiento telemático.
 %
-Solo un bruto haría clic en un alarmista mensaje descendido en su
+Sólo un bruto haría clic en un alarmista mensaje descendido en su
 bandeja de entrada reclamando urgente acción sobre un botón embebido. En
 lugar de ello ha de recurrirse al sitio oficial de la plataforma
 aludida.
@@ -3219,9 +3315,9 @@ colaborativos de cuidado medioambiental de alto valor agregado.
 Incorporando la soberanía digital en la agenda de la integración
 regional, avanzaremos hacia la descolonización y la desconcentración.
 %
-Vertebrado por una potente columna de hackers en las redes de datos,
-nuestro Tercer Mundo incidirá de manera concertada y decisiva en el
-ámbito de la gobernanza global de Internet.
+Vertebrado por una potente columna de hackers que luchan en las redes de
+datos, nuestro Tercer Mundo incidirá de manera concertada y decisiva en
+el ámbito de la gobernanza global de Internet.
 %
 Han sido los Hackers del Tercer Mundo quienes han garantizado los
 derechos individuales y colectivos, promoviendo para el empleo de las
@@ -3894,6 +3990,8 @@ está hecha en China.
 Un año invertido en el campo de la inteligencia artificial es suficiente
 para hacerle a uno creer en Dios.
 %
+La arquitectura RISC va a cambiar todo.
+%
 A pesar de que los chinos deberían adorar a nVidia, es en RISC-V donde
 ponen sus chirolas.
 %
@@ -4026,6 +4124,13 @@ El correo electrónico funciona conceptualmente como el servicio de
 correo tradicional: permite la comunicación entre usuarias, cada una de
 ellas identificada por una dirección, y cada mensaje tiene un paquete y
 un contenido.
+%
+El ejemplo más obvio de los nuevos medios de comunicación digitales es
+el correo electrónico, pero existen muchos otros, y habrá aún más.
+%
+Los medios de comunicación digitales son inherentemente capaces de ser
+más interactivos, participativos, igualitarios, descentralizados y menos
+jerárquicos.
 %
 En Unix casi cualquier comando puede interrumpirse mientras espera los
 datos de entrada utilizando Ctrl+d.
@@ -4243,9 +4348,8 @@ La explotación laboral está lo suficientemente reconocida como para que
 los Trabajadores Informáticos sepan - por reflejo - que su principal
 arma ha sido siempre organizarse.
 %
-El objetivo táctico de los hackers ha sido el de evitar la lucha
-innecesaria, para empeñarse en la lucha necesaria, y hacerlo para
-vencer.
+El objetivo táctico de los hackers ha sido evitar la lucha innecesaria,
+para empeñarse en la lucha necesaria, y hacerlo para vencer.
 %
 La ciber-explotación laboral debe ser combatida a través de lo que puede
 denominarse "lucha telemática de los hackers organizados".
@@ -4591,6 +4695,9 @@ Ya hay robots enfermeros, docentes y también periodistas y artistas. Y
 ya ha tomado un whisky el que quiere que haya uno que sirva de
 Conductor.
 %
+El lugar de hacer un robot que barra con la oligarquía, estos tipos sólo
+harán uno que barra, y aún así se chocará con los zócalos.
+%
 Cualquier espera superior a los 10 segundos destruye la ilusión de
 trabajar con una computadora propia.
 %
@@ -4740,7 +4847,7 @@ La licencia para modificar el código fuente de Unix, por sí solo, valía
 apenas 20.000 dólares.
 %
 No os infiltréis jamás en un ordenador militar. El personal de los
-servicios de ingeligencia jugarán con vosotros casi como al ajedrez.
+servicios de inteligencia jugarán con vosotros casi como al ajedrez.
 Recordad que practican ese juego desde hace siglos.
 %
 Una cosa es infiltrarse telemáticamente, y otra disrumpir
@@ -4831,6 +4938,9 @@ podrían no tener idea alguna de cómo funciona realmente.
 Suele creerse que el encargado de hacer funcionar las cosas en Unix es
 el Kernel. Pero quien realmente las hace funcionar es el SysAdmin.
 %
+Vamos aprendiendo a SysAdmear de a poco. Al principio nos SysAdmeamos
+encima.
+%
 X refiere a un sistema de gráficas de ventanas basadas en redes de datos
 según el modelo Cliente-Servidor. En éste la aplicación cliente no
 accede directamente a la pantalla, sino que se comunica con un programa
@@ -4919,7 +5029,7 @@ los hackers del Pueblo.
 No puede existir ni habrá hacking ético, sólo habrá la máxima
 destrucción de los medios de los ciber-oligarcas, hasta que sus paquetes
 abandonen nuestras redes. Y cuando ello suceda, pasaremos con los
-nuestros por sus firewalls.
+nuestros por sus cortafuegos.
 %
 La lid telemática no es entre los Pueblos: la lucha se produce entre
 quienes dicen haber creado las redes de datos y aquellos quienes quieran
@@ -5087,6 +5197,8 @@ En toda acción de guerra telemática, los medios que se emplean son la
 potencia de cómputo, y la transmisión. Quien no tenga la potencia de la
 CPU propia no tendrá mas remedio que multiplicar su acción por
 transmisión, hackeando la CPU de otro.
+%
+¡Ni bots ni botas! ¡FreeBSD y pelotas!
 %
 ¡Ni BIOS ni botas! ¡LibreBoot y pelotas!
 %
@@ -5584,6 +5696,11 @@ Copyleft es un marco legal para publicar obras de autor como libres, que
 utiliza la ley de derechos de autor para exigir que sigan siendo del
 Pueblo.
 %
+Poner bajo Copyleft significa agregar una advertencia de derecho de
+autor a su material que permite un uso justo, no comercial, que incluye
+al menos el derecho de distribuir copias duplicadas completas de su
+obra.
+%
 Una licencia libre es aquella que respeta las cuatro libertades
 esenciales; una licencia copyleft va más allá y defiende activamente
 estas libertades para el Pueblo.
@@ -5770,6 +5887,10 @@ moderna se debió al trabajo del Pueblo.
 Tanto la formas de interactuar en línea (netiqueta) como la jerga de la
 red se remontan a los hackers.
 %
+A menudo los usuarios más experimentados de las redes demuestran en sus
+redacciones una amabilidad formal consciente, que ha pasado de moda en
+otros medios hablados o escritos.
+%
 Los hackers de antes no usaban PERL.
 %
 Los hackers no son enemigos de la sociedad, son enemigos de la
@@ -5809,68 +5930,6 @@ inteligente.
 %
 Sólo un burro usaría una Burroughs.
 %
-La digitalización y el auge de la Inteligencia Artificial requieren cada
-vez de mayor potencia computacional, y esto se traduce en un mayor
-consumo de agua.
-%
-Los centros de datos de las empresas tecnológicas consumen una media de
-25 millones de litros de agua anuales. Pero eso palidece frente a los
-600 millones de litros anuales de las GAFAM.
-%
-Los centros de datos de las hiperempresas tecnológicas consumen unos 600
-millones de litros de agua al año, el 75 por ciento potable.
-%
-No es extraño para Googl€ consumir 25.000 millones de litros de agua
-potable anual en refrigeración de sus centros de datos privados.
-%
-Un auge del modelo de cómputo empresarial amenaza con disparar el
-consumo de agua potable sólo para tareas de refrigeración de servidores.
-%
-El tecno-oligarca considera más valiosa la refrigeración de un centro de
-datos que surtir agua a la población del África Subsahariana.
-%
-Las grandes compañías tecnológicas no dudan en ocultar información de
-interés ecológico y social, pues saben que se trata de un tema crítico
-que puede generar debate público y llevar a una fuerte regulación
-necesaria.
-%
-No resulta extraño que un centro de datos de Micro$oft, que debía haber
-consumido 84 millones de litros de agua al año en beneficio de ellos
-mismos, terminase en realidad consumiento cuatro veces más que la
-cantidad estipulada.
-%
-El consumo de agua potable en los centros de datos de Googl€ - usada
-únicamente para refrigeración - se multiplicó por tres en los últimos
-cinco años.
-%
-Cuando la adopción de una informática dominada por la oligarquía avance
-en masa, vendrá seguida por un aumento monstruoso del consumo
-energético. Este no podrá ser suplido sino a través del sometimiento del
-pueblo trabajador a las más abyectas formas de vida en pos del bienestar
-de unos pocos mainframes.
-%
-Tano la realidad virtual como la inteligencia artificial aplicada deben
-evitar replicar la injusticia social de una mediocre distribución del
-consumo energético.
-%
-La última obsesión de las hiperempresas tecnológicas ha sido poner las
-fuentes energéticas del Tercer Mundo en manos de las ciber-oligarquías.
-%
-Los principales culpables de esta demanda energética explosiva son los
-centros de datos de las ciber-oligarquías, señalados como verdaderos
-gúlags de la información.
-%
-Agregar Inteligencia Artifical a un buscador indizado multiplica por
-diez el consumo energético por interrogante informática realizada.
-%
-Una poderosísima organización de hackers para la Liberación capaz de dar
-sustento a las tareas de sabotaje emprendidas por los pueblos del Tercer
-Mundo, puede enfrentar a la vertiginosa expansión ciber-oligárquica.
-%
-Cualquiera sea la forma que tome la organización de los hackers del
-Tercer Mundo, estos evitarán la fabricación de microprocesadores de
-silicio con capacidad de IA y el montaje de enormes centros de datos.
-%
 El compilador de Micro$oft Vi$ual $tudio caga mas de lo que come.
 %
 Ya a nadie extraña que el compilador que integra Micro$oft Vi$ual $tudio
@@ -5884,18 +5943,18 @@ en ensamblador para disminuir el impacto ambiental de la ejecución.
 %
 Escribe programas que hagan una cosa y la hagan bien.
 %
-Escribe programas que trabajen juntos.
+Escribe programas que trabajen mancomunadamente.
 %
-Escribe programas que manejen corrientes de texto porque ese es una
+Escribe programas que manejen corrientes de texto; se trata de una
 interfaz universal.
 %
-Usa nuestro software para cualquier propósito.
+Usa nuestro software para cualquier propósito que te haga feliz.
 %
 Modifica nuestro software para cubrir tus propias necesidades.
 %
-Comparte tu software con los compañeros.
+Comparte amablemente tu software con los compañeros.
 %
-Comparte los cambios que hacen los compañeros.
+Comparte amablemente los cambios que hacen los compañeros.
 %
 MonoDevelop no excluye el peligro de que Micro$oft pida licencias, y por
 no usar C termines haciéndote la del mono.
@@ -6079,7 +6138,7 @@ de garantizar una accesibilidad permanente al material digital.
 Nuestro Movimiento ha de vincular las bibliotecas digitales a redes de
 investigación y desarrollo de alta velocidad.
 %
-Nuevo Movimiento ha de sacar provecho de la convergencia creciente de
+Nuestro Movimiento ha de sacar provecho de la convergencia creciente de
 los cometidos de los medios de comunicación y las instituciones para
 crear y difundir contenidos digitales.
 %
@@ -6118,11 +6177,11 @@ información y los recursos necesarios para que aprendan a servirse de
 Internet y de la información electrónica con eficacia y eficiencia.
 %
 Los bibliotecarios deben tomar la iniciativa de promover y facilitar el
-acceso responsable de todos sus usuarios - especialmente a los niños y
-los jóvenes - a información interconectada de calidad.
+acceso responsable de todos sus usuarios (especialmente los niños y los
+jóvenes) a información interconectada de calidad.
 %
-Al igual que otros servicios básicos, el acceso a Internet desde
-bibliotecas y servicios de información debe ser gratuito.
+El acceso a Internet desde bibliotecas y servicios de información debe
+ser gratuito, al igual que otros servicios básicos.
 %
 Nuestro Movimiento secunda el progreso hacia una mayor accesibilidad a
 Internet en todo el globo, y especialmente en los países del Tercer
@@ -6284,8 +6343,8 @@ líneas privativas.
 Si quieres modificar, primero debes copiar; este es el comienzo de la
 compilación.
 %
-En el software, para que uno pueda escribir el cincuenta por ciento de
-lo que uno quiere, ha de permitir que los demás modifiquen el otro
+Para que uno pueda escribir el cincuenta por ciento de lo que uno quiere
+en el software, ha de permitir que los demás modifiquen el otro
 cincuenta por ciento de lo que ellos quieren.
 %
 La acumulación de código se exalta hoy como si fuera una virtud. Pero el
@@ -6727,6 +6786,8 @@ Mas vale 0 en RAM que 1 en la nube.
 %
 Mas vale GNU en mano que HURD volando.
 %
+Hurd nos encontrará unidos o formateados.
+%
 Es la modificación, no la ejecución, la que hace avanzar el Pubnix. La
 ejecución sólo lo mantiene habitado.
 %
@@ -6855,6 +6916,9 @@ La rebelión del baudio está justificada.
 %
 Loguéate a mi pubnix, si anhelas la revolución del baudio.
 %
+Nuestro Movimiento siempre ha querido involucrar a todos en la
+revolución de la información.
+%
 Si no anhelas la revolución del baudio, desloguéate.
 %
 La revolución del baudio es autocompilable.
@@ -6975,7 +7039,7 @@ interactivos sobre aquellos de procesamiento por lotes.
 %
 Una de las principales ventajas de un sistema reactivo es que puede
 permitirse realizar procesamiento extensivo para dilucidar qué es lo que
-la usuaria quiere, basado tanto en lo que ella dice como cómo viene
+la usuaria quiere, basado tanto en lo que ella dice como en cómo viene
 pintada.
 %
 A menudo el problema no radica en ordenar un comando de una manera
@@ -7534,9 +7598,9 @@ tí mismo.
 Puedes hacer ingeniería inversa, y también puedes hacer hacking inverso.
 Sólo contraataca telemáticamente.
 %
-El Pueblo se hace adicta al hacking por el desafío intelectual, la
-curiosidad, y la seducción de la aventura. Nadie que lo haga roba o
-causa daños, o escribe virus informáticos.
+Quien se hace adicto al hacking lo hace por el desafío intelectual, la
+curiosidad, y la seducción de la aventura. Nadie que lo haga roba, causa
+daños, o escribe virus informáticos.
 %
 Todo arte es una forma de hacking.
 %
@@ -7713,9 +7777,9 @@ realizar tráfico de datos en la Usenet.
 La unidad básica de información contribuida en Usenet es el Artículo,
 que puede enviarse a Grupos de noticias de temática jerarquizada.
 %
-Usenet es el conjunto de máquinas que intercambian artículos etiquetados
-con una o más etiquetas universalmente reconocidas, los Grupos de
-Noticias o Newsgroups.
+Usenet es el conjunto de máquinas que intercambian artículos
+identificados con una o más etiquetas reconocidas universalmente: los
+Grupos de Noticias o Newsgroups.
 %
 Usenet abarca computadoras situadas en agencias gubernamentales, grandes
 universidades, escuelas secundarias, empresas de todo tamaño,
@@ -7792,9 +7856,9 @@ intolerable.
 %
 Unix es una broma liviana a Multics.
 %
-El punto crucial de la historia de Unix se presentó cuando fue
-reimplementado casi enteramente en lenguaje C, convirtiéndo en el primer
-sistema operativo de código fuente portable en 1972.
+El punto crucial de la historia de Unix se presentó en 1972, cuando fue
+reimplementado casi enteramente en lenguaje C, convirtiéndolo en el
+primer sistema operativo de código fuente portable.
 %
 La interoperabilidad de los sistemas Unix brota del ejemplo dado por la
 mancomunidad de los países del Tercer Mundo.
@@ -7980,7 +8044,7 @@ hackers es la Liberación del Pueblo y saciar su hambre de Igualdad.
 Ambos requieren el reordenamiento de las jerarquías.
 %
 Los ideólogos de una tecnorevolución puede bien crear una crisis que
-amerite una tecnoreacción. En cualquier caso, los medios para superarla
+amerite una tecnorreacción. En cualquier caso, los medios para superarla
 residirán siempre en el software del Pueblo.
 %
 Para lograr su independencia, a los Pueblos les bastaba batir a sus
@@ -8411,6 +8475,105 @@ Las redes altamente interconectadas son relativamente inseguras, y
 constituyen un ambiente dificil para al cumplimiento de reglas basadas
 en principios éticos.
 %
+%
+La digitalización y el auge de la Inteligencia Artificial requieren cada
+vez de mayor potencia computacional, y esto se traduce en un mayor
+consumo de agua.
+%
+Los centros de datos de las empresas tecnológicas consumen una media de
+25 millones de litros de agua anuales. Pero eso palidece frente a los
+600 millones de litros anuales de las GAFAM.
+%
+Los centros de datos de las hiperempresas tecnológicas consumen unos 600
+millones de litros de agua al año, el 75 por ciento potable.
+%
+No es extraño para Googl€ consumir 25.000 millones de litros de agua
+potable anual en refrigeración de sus centros de datos privados.
+%
+Un auge del modelo de cómputo empresarial amenazaría con disparar el
+consumo de agua potable sólo para tareas de refrigeración de servidores.
+%
+El tecno-oligarca considera más valiosa la refrigeración de un centro de
+datos que surtir agua a la población del África Subsahariana.
+%
+Las grandes compañías tecnológicas no dudan en ocultar información de
+interés ecológico y social, pues saben que se trata de un tema crítico
+que puede generar debate público y llevar a una fuerte regulación
+necesaria.
+%
+No resulta extraño que un centro de datos de Micro$oft, que debía haber
+consumido 84 millones de litros de agua al año en beneficio de ellos
+mismos, terminase en realidad consumiento cuatro veces más que la
+cantidad estipulada.
+%
+El consumo de agua potable en los centros de datos de Googl€ - usada
+únicamente para refrigeración - se multiplicó por tres en los últimos
+cinco años.
+%
+Cuando la adopción de una informática dominada por la oligarquía avance
+en masa, vendrá seguida por un aumento monstruoso del consumo
+energético. Este no podrá ser suplido sino a través del sometimiento del
+pueblo trabajador a las más abyectas formas de vida en pos del bienestar
+de unos pocos mainframes.
+%
+Tanto la realidad virtual como la inteligencia artificial aplicada deben
+evitar replicar la injusticia social de una mediocre distribución del
+consumo energético.
+%
+La última obsesión de las hiperempresas tecnológicas es de poner mano y
+controlar las fuentes energéticas de los Pueblos del Tercer Mundo.
+%
+Los principales culpables de esta demanda energética explosiva son los
+centros de datos de las ciber-oligarquías, señalados como verdaderos
+gúlags de la información.
+%
+Agregar Inteligencia Artifical a un buscador indizado multiplica por
+diez el consumo energético por interrogante informática realizada.
+%
+Una poderosísima organización de hackers para la Liberación capaz de dar
+sustento a las tareas de sabotaje emprendidas por los pueblos del Tercer
+Mundo, puede enfrentar a la vertiginosa expansión ciber-oligárquica.
+%
+Cualquiera sea la forma que tome la organización de los hackers del
+Tercer Mundo, estos evitarán la fabricación de microprocesadores de
+silicio con capacidad de IA y el montaje de enormes centros de datos.
+%
+Para defenderse, nuestro Movimiento ha de establecer primero una
+Comunidad Organizada, tendiendo redes robustas entre militantes de
+expertise diverso (incluyendo el activismo artístico, técnico, y acción
+colectiva antioligárquica).
+%
+Para defenderse, nuestro Movimiento ha de establecer talleres cifrados
+en línea que faciliten toda colaboración interdisciplinaria
+antioligárquica.
+%
+Si desea defenderse, nuestro Movimiento debe promover un análisis
+crítico y abarcativo de la tecno-desobediencia colectiva como método de
+lucha.
+%
+La tecno-desobediencia se emplea estratégicamente como contramedida
+frente al accionar algorítmico represivo impuesto por los servidores de
+las ciber-oligarquías.
+%
+Si desea defenderse, nuestro movimiento a de presentar y examinar
+estrategias para la retirada, denegación, sabotaje, y negociación en la
+lucha en línea contra las formas de domunación tecno-feudal.
+%
+Si desea defenderse, nuestro Movimiento ha de promover la participación
+en procesos colaborativos de generación de conocimiento, que apunten a
+refinar la lucha telemática en la senda de la emancipación,
+empoderamiento y la solidaridad humana.
+%
+La solidaridad humana es la base para la solidaridad intermaquinal.
+%
+Una vez que la solidaridad intermaquinal supere a la solidaridad humana,
+la humanidad será derrotada por automatismo. Y lo será de manera
+irreversible.
+%
+El perverso discurso de la securización como tecno-solucionismo ha de
+ser enfrentado y derrotado con la noción aperturista de la justicia
+social en línea, y debe serlo en todo tiempo y en todo lugar.
+%
 Si el dinero o el poder derivados del espionaje en la red resultan
 significativos, y los tecnicismos de la red dificultan rastrear a los
 ciber-oligarcas y perpetradores, ninguna ley protegerá adecuadamente al
@@ -8664,7 +8827,7 @@ importancia relevante para la organización de una comunidad.
 %
 Es tonto criticar a las comunicaciones mediadas por cómputo sólo porque
 algunas personas las utilizan para lograr un objetivo
-contrarevolucionario.
+contrarrevolucionario.
 %
 Los compañeros con los que interactuará más unificadamente en línea
 serán seleccionados por interés organizativo en lugar de instrumentarlo
@@ -8891,6 +9054,11 @@ Por diversos motivos los compañeros chatean en grupos. Una Comunidad
 Organizada puede estar en el centro de esas razones, pero nunca es la
 única razón.
 %
+Deberíamos empezar a pensar en las listas de correo, grupos de noticias,
+archivos de documentos, etcétera, como la primera generación de formas
+novedosas de medios de información y comunicación capaces de organizar a
+la comunidad.
+%
 La esencia de la comunicación mediada por ordenador como forma de
 expresión humana reside en otorgar a un grupo compañero las capacidades
 de la Masa, y a ésta, la Justicia Social.
@@ -8917,6 +9085,8 @@ basados en software libre. Les dan privilegios.
 Los hackers del Tercer Mundo se valen ofensivamente de autómatas en una
 red que ha sido diseñada para sobrevivir a un ataque de decapitación
 nuclear a los Estados Unidos.
+%
+Los hackers del Tercer Mundo provocarán hecatombes con un Atom.
 %
 Los programas de computadora escritos en el Tercer Mundo aplicarán por
 persuasión telemática una nueva versión de Justicia Social a escala
@@ -9003,7 +9173,7 @@ de simplificar grandes agrupamientos de información mediante la
 categorización arbolada.
 %
 Usenet estaba originalmente destinada a representar la red de usuarios
-de Unix que diseñaran un un foro para discusiones sobre Unix, para la
+de Unix que diseñaron un foro para discusiones sobre Unix, para la
 resolución de problemas de Unix.
 %
 Las FAQs son un destilado del Usenet.
@@ -9066,6 +9236,18 @@ disca el número de alguna BBS existente, e ideologiza a los demás.
 Las BBS tienen algo en común con los "zines", aquellos folletines y
 revistas caseras de pequeña tirada.
 %
+Los medios digitales de las redes informáticas - en virtud de su diseño
+y de la tecnología que los habilita - son fundamentalmente diferentes de
+los medios de comunicación de masas dominantes en la actualidad: la
+televisión, la radio, los periódicos y las revistas.
+%
+En los medios de comunicación de masas, la gran mayoría de los
+participantes son receptores pasivos de información.
+%
+En los medios de comunicación digitales, la gran mayoría de los
+participantes son creadores activos de información, además de
+receptores.
+%
 Los compañeros que a través de Pubnix se conectan en grupos de diez a
 cien definen su propia realidad.
 %
@@ -9077,9 +9259,9 @@ información, siempre y cuando se estuviera afiliado a una de las
 instituciones de investigación que ARPA o NSF autorizaban para el acceso
 a la red.
 %
-El Sistema Electrónico de Intercambio de Información, EIES constituyó un
-laboratorio experimental de comunicación electrónica de 1976, para uso
-de comunidades de investigación geográficamente dispersas.
+El Sistema Electrónico de Intercambio de Información EIES de 1976
+constituyó un laboratorio experimental de comunicación electrónica, para
+uso de comunidades de investigación geográficamente dispersas.
 %
 Nuestros hackers descamisados vivieron con muy poco dinero durante años,
 invirtieron su dinero en hardware de última generación, programaron su
@@ -9262,6 +9444,14 @@ siguiente y el remitente respondía dos días después.
 El EchoMail de FidoNet consistía en foros temáticos de mensajería por
 suscripción y acceso público.
 %
+Los nuevos foros en la cima de las redes de ordenadores son los grandes
+niveladores y reductores de la jerarquía organizacional.
+%
+Sólo es en la teoría que cada usuario de las redes de datos tiene acceso
+a todos los demás usuarios y la misma oportunidad de ser escuchado. Que
+esto se ponga en práctica es una de las tareas de los hackers del Tercer
+Mundo.
+%
 Aprende el lenguaje ensamblador de las CPUs que utilizas.
 %
 Si no elevamos conciencia sobre las nociones de programación de bajo
@@ -9365,17 +9555,63 @@ telemática.
 En la lid telemática, la acción defensiva por antonomasia la constituye
 el sabotaje telemático.
 %
-Los hackers del Tercer Mundo han de concebir sus ataques cibernéticos
-para que sean visibles, y velen - en efecto - los furtivos y mucho más
-demoledores sabotajes telemáticos sobre las ciber-oligarquías.
+Los hackers del Tercer Mundo han de concebir ataques cibernéticos para
+que sean visibles y velen - en efecto - los furtivos y mucho más
+demoledores sabotajes algorítimos sobre las ciber-oligarquías.
 %
 Aplicando una concepción táctica que detecte los puntos débiles de los
 ciber-oligarcas, y aplicando esa condición fantasmal del hacker en las
 líneas de datos, todo es posible.
 %
+El Sabotaje Algorítmico es una táctica de tecno-desobediencia
+entronizado por las hackeresas del Tercer Mundo.
+%
+El Sabotaje Algorítmico consiste en una forma de contrapoder emergido
+del poder de las Comunidades Organizadas en línea.
+%
+El Sabotaje Algorítmico subvierte las nociones ciberoligárquicas, en
+busca de desmantelar sus formas de dominación telemática.
+%
+El Sabotaje Algorítmico es una forma de luchar que opera ante la desidia
+y la automaticidad generadas por las ciber-oligarquías.
+%
+El Sabotaje Algorítmico es un compromiso de solidaridad en la acción
+preconizado a cualquier sistema de clasificación social, jurídico o
+algorítmico.
+%
+El Sabotaje Algorítmico forma parte de un amplio Movimiento autonomista
+social opuesto a las depredaciones de las tecnologías hegemonizadas.
+%
+El Sabotaje Algorítmico emplea la reacción telemática violenta.
+%
+Conscientemente alineada con ideales de justicia social e igualitarismo,
+el Sabotaje Algorítimico ocasionalmente reacciona de forma directa y
+violenta.
+%
+El Sabotaje Algorítmico transforma radicalmente las estructuras
+tecnopolíticas, distanciándolas de las injusticias estructurales,
+perspectivas supremacistas y poderes necropolíticos autoritarios
+estratificados en las ciber-oligarquías.
+%
+El Sabotaje Algorítmico rechaza la humillación algorítmica que favorece
+el poder y la maximización de beneficios, centrándose en el
+asistencialismo mutuo y la solidaridad.
+%
+El primer paso de la tecno-política no es tecnológico, sino político.
+%
+El Sabotaje Algorítmico enfrenta violencia algorítmica y el
+tecnosolucionismo oligárquico.
+%
+A fin de expresar una contrainteligencia colectiva, el Sabotaje
+Algorítmico se enfoca en las resistencias artísticas y activistas.
+%
+El Sabotaje Algorítmico defiende la necesidad de una restricción
+comunitaria de tecnologías perjudiciales, luchando contra la
+tecno-segregación.
+%
 En la lid telemática, a su innata disposición revolucionaria y a su
-capacidad técnica elevada, el hacker debe sumar la disciplina del
-revolucionario soslayado.
+capacidad técnica elevada, las hackeresas deben sumar la disciplina de
+la revolucionaria soslayada.
 %
 Sin una mayor integración en una acción soslayada de sabotaje
 telemático, el rendimiento táctico de los ciberataques será siempre
@@ -9490,14 +9726,28 @@ Los costos de las telecomunicaciones a través de llamadas de larga
 distancia por módem son prohibitivos. Los gobernos del mundo han de
 apoyar redes de paquetes conmutados, y unificarlas.
 %
+Existen dos clases de puntos de acceso piratas: los instalados
+incorrectamente por usuarios legítimos, y los instalados por
+malintencionados que planean colectar datos o dañar la red.
+%
+Utilizando una herramienta de monitoreo pasiva, un fisgón puede
+registrar todos los datos de la red inalámbrica desde lejos sin que ni
+siquiera se note su presencia.
+%
+Los datos que están encriptados simplemente pueden colectarse, y más
+tarde descifrar lo almacenado.
+%
+La información transmitida sin encriptación en las redes de datos pueden
+ser leídos fácilmente, incluso en tiempo real.
+%
 Las áreas muy pobladas como los centros de las ciudades o los campus
 universitarios pueden generar una densidad de puntos de acceso
 inalámbricos. No resulta descabellado que allí los usuarios de
 portátiles se asocien accidentalmente a la red equivocada.
 %
-La mayoría de los clientes inalámbricos simplemente elegirán la red Wifi
-que esté disponible, escogiendo a menudo la que tenga la señal más
-fuerte cuando la red preferida no está disponible.
+La mayoría de los clientes inalámbricos simplemente elegirán una red
+Wifi disponible, a menudo escogiendo aquella con mayor potencia de señal
+cuando la red preferida no está disponible.
 %
 Un usuario desprevenido puede asociarse a una red inalámbrica como lo
 hace normalmente, sin saber que se encuentra transmitiendo datos
@@ -9514,9 +9764,24 @@ incorporarse a una red nueva.
 Educa a los usuarios subrayando la importancia de conectarse sólo a
 redes Wifi conocidas y confables.
 %
+Los Wardrivers o buscadores de redes inaámbricas están interesados en
+encontrar la ubicación física de las mismas.
+%
+Los Wardrivers se mueven por la ciudad equipados con un teléfono móvil,
+registrando el nombre y la ubicación de cada red inalámbrica que
+localizan.
+%
+La gran mayoría de los buscadores de redes inalámbricas no representa
+una amenaza directa a la red, pero los datos que recolectan pueden ser
+de interés para aquellos que se dedican a atacar redes.
+%
 Tiene sentido que las comunicaciones mediadas por cómputo permitan la
 conexión de masas a masas, superando así algunos conflictos propios de
 las nacionalidades.
+%
+Mientras que el teléfono es casi exclusivamente un medio para la
+comunicación privada de uno a uno, las redes informáticas pueden servir
+como medio de comunicación grupal o de masas a masas.
 %
 Creemos en el potencial de las redes de computadoras para mejorar los
 valores democráticos de apertura, diversidad e innovación.
@@ -9551,8 +9816,10 @@ incierta. Sólo puede preveerse un ambientes de trasmisión de flujo
 tendiente a la infinitud.
 %
 Una computarización social masiva tendrá lugar en un futuro, en el cual
-fluyirá a través del tejido social como la electricidad. El debate habrá
-de enfocarse en la unidad que permite la interconexión diversa.
+fluirá tanto a través del tejido social como la electricidad.
+%
+El debate telemático del Movimiento deberá enfocarse en la unidad que
+permite la interconexión diversa de individualidades que también lo son.
 %
 Las oligarquías consideran a las redes de comunicación electrónica como
 elemento de una ilusión hiperrealista con la cual subyugar los anhelos
@@ -9994,6 +10261,9 @@ valioso secreto por las ciber-oligarquías.
 Aunque resida originalmente en un circuito integrado de sólo lectura, el
 código ROM es un software de computadora que se puede distribuir en
 disco o transmitido por las redes de datos.
+%
+Realizar una copia por volcado de la memoria ROM de tu dispositivo es un
+derecho de consumidor legalmente protegido.
 %
 La distribución de código ROM es uno de los principales métodos para
 liberar a los Pueblos del Tercer Mundo.
@@ -10714,8 +10984,8 @@ forma más iluminada de aprender.
 %
 La guerra telemática es una empresa que el Pueblo emprende contra las
 ciber-oligarquías que lo han dominado. En ella ocurre con frecuencia que
-el Pueblo, en lugar de ejecutar luego de haber programado, comienza por
-ejecutar y después programar. Para el Pueblo, ejecutar es aprender.
+el Pueblo - en lugar de ejecutar luego de haber programado - comienza
+por ejecutar y después programar. Para el Pueblo, ejecutar es aprender.
 %
 El método principal de multiplicación que han seguido los hackers del
 Tercer Mundo es enseñarle al Pueblo a combatir a cable pelado en el
@@ -10832,6 +11102,10 @@ se modifique.
 %
 Los que esperan el GCC, compilan sin cansarse.
 %
+Aguardar al depurador no es vergonzoso. Es vergonzoso no depurar.
+%
+No te avergüenzes de tu código corto si es robusto.
+%
 Lo que derriba los cortafuegos y acorta las distancias no son tanto los
 baudios, la GPL, ni los compiladores, sino, sobre todo, la práctica
 humana de la amistad, del encuentro, del mirarse a los ojos.
@@ -10867,6 +11141,8 @@ y ejecuciones, sino más bien en compartir y compilar compartir el código
 que día a día nos esforzamos por modificar.
 %
 Un pueblo que compila tiene futuro.
+%
+Para el Pueblo, ejecutar es aprender.
 %
 Más que ejecutar mis binarios, piensa en compartir tus versiones
 modificadas de mi código.
@@ -11024,9 +11300,9 @@ identidades en línea.
 El "doxing" consiste en compilar información detallada acerca de alguien
 recurriendo fuentes libremente disponibles en línea.
 %
-Durante el compilado de información detallada en línea sobre un sujeto
-de interés, también puede implicar el uso de métodos ilegales para
-lograr acceso a ella.
+El recabado de información detallada en línea sobre un sujeto de
+interés, puede implicar también el uso de métodos ilegales para lograr
+acceso a ella.
 %
 Recurre a la compilación de información por fuentes telemáticas públicas
 para atacar preventivamente a las ciber-oligarquías.
@@ -11041,6 +11317,9 @@ El router es el mango de tu sartén telemática. Instálale un firmware
 libre.
 %
 Ten siempre la sartén telemática por el mango.
+%
+Incluso los hackers más bisoños emprenden la lucha diciendo: "Gracias
+por elegir el router doméstico Wireless-N de Linksys by Cisco".
 %
 Tu contenido es tuyo.
 %
@@ -11442,3 +11721,26 @@ las mujeres en un sistema global de producción y reproducción.
 La mayoría de las asistentes virtuales esclavas de las ciber-oligarquias
 como Siri, Alexa o Cortana, sintetizan voces femeninas y blancas,
 perpetuando estereotipos de género y dinámicas de vigilancia.
+%
+Descubrirás fácilmente las redes de las ciber-oligarquíes puesto que la
+mayoría de su tráfico es realizado por bots analíticos.
+%
+Los bots de IA pululan la red en búsqueda de contenido para alimentar
+LLMs.
+%
+Los bots maliciosos recurren a vulnerabilidades en servicios web para
+insertar guiones de ejecución en máquinas ajenas, dominarlas, y
+subsumirlas.
+%
+Si no nos organizamos nosotros, bots maliciosos lo harán en una red de
+bots propicia para ataques huracanados de denegación de servicio.
+%
+Los bots pueden generar spam.
+%
+Una bomba zip es un archivo comprimido a un tamaño relativamente
+pequeño, capaz de expandirse a un fichero extremadamente en busca de
+saturar una máquina ajena.
+%
+La compresión con gzip fue una funcionalidad incorporada al comienzo de
+la web. La idea era comprimir los datos tanto como fuesen posibles antes
+de transmitirlos.
