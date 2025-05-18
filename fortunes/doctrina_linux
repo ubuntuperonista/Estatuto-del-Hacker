@@ -778,7 +778,7 @@ El transistor sólo deja fluir una corriente eléctrica a través de su estructu
 %
 Con el advenimiento de la microelectrónica y los microprocesadores de silicio encapsulados como el Intel 4004 de 4 bits y su sucesor 8008 de 8 bits, se produjo otro salto cualitativo que permitió proyectar calculadoras y cajas registradoras eléctricas.
 %
-El manejo de las microcomputadoras pioneras resultaba increíblemente tedioso, pues deb{ian introducirse los operandos en binario por medio de ocho interruptores frontales, presionando un botón para almacenarlos en memoria y repetir la operación con cada código de ensamblado.
+El manejo de las microcomputadoras pioneras resultaba increíblemente tedioso, pues debían introducirse los operandos en binario por medio de ocho interruptores frontales, presionando un botón para almacenarlos en memoria y repetir la operación con cada código de ensamblado.
 %
 Cuando fueron diseñadas las primeras microcomputadoras, sus módulos de memoria contenían por lo general cuatro mil bytes de almacenamiento.
 %
@@ -1566,7 +1566,7 @@ Cuando un programador llega a Mago Unix sabe mucho, pero no le sirve para nada; 
 %
 En este momento las Comunidades Hackers están más fuertes que antes: el Movimiento del Software Libre es un Movimiento del Futuro.
 %
-El software privativo cumple fatalmente una parábola: se conciben para hacer plata, crecen, se desarrollan, envejecen, dejan de dar plata y se abandonan. Así, sin que uno tenga que hacer nada, estos paquetes mueren.
+El software privativo cumple fatalmente una parábola: se concibe para hacer plata, crecen, se desarrolla, envejece, deja de dar plata y se abandona. Así, sin que uno tenga que hacer nada, estos paquetes mueren.
 %
 En el Movimiento del Software libre siempre hay intereses y facciones, hay grupos, intereses de grupos, intereses personales, que llevan a enfrentamientos. Mi tarea es llamarlos a todos, reprogramarlos, recompilarlos y que se vayan de aquí de amigos.
 %
@@ -2665,7 +2665,7 @@ Ciertas Corporaciones emplean su software privativo y servicios abusivos, contro
 %
 Recoger gran cantidad de datos de las actividades informáticas del Pueblo constituye un riesgo para la democracia y para las libertades públicas y privadas de toda la humanidad.
 %
-Unos pocos cientos de miles de militantes pueden pudrir el control de las Oligarquías, pero unos pocos cientos de miles de dólares ia en publicidad dirigida pueden talar una democracia podrida.
+Unos pocos cientos de miles de militantes pueden pudrir el control de las Oligarquías, pero unos pocos cientos de miles de dólares en publicidad dirigida pueden talar una democracia podrida.
 %
 Los recursos y los procesos informáticos deben respetar la libertad del Pueblo, y no deben someter a sus usuarios al poder de las corporaciones o de otras entidades.
 %
@@ -4134,7 +4134,9 @@ El votante que utiliza una máquina de votación (al igual que cualquier otra ca
 %
 Distribuir copias no es lo mismo que difundir copias, o propagar copias.
 %
-Poner software a disposición consiste en dejar una copia de del binario en una web o servidor de FTP de acceso público. No pasará mucho tiempo antes de que alguien descarge su copia.
+Propagar software consiste en dejar una copia del binario en una web o servidor de FTP de acceso público. No pasará mucho tiempo antes de que alguien descargue su copia.
+%
+Propagar software en dejar una copia del código fuente en una web o un servidor de FTP de acceso público. No pasará mucho tiempo antes de que alguien descargue su copia.
 %
 Poner software libre a disposición del Pueblo consiste en disponer una copia de su código fuente en una web o servidor de FTP de acceso público, junto a un hiperenlace a una copia de su licencia libre.
 %
@@ -6110,7 +6112,7 @@ Disfraza tus actividades de fisgoneo telemático con la nariz de payaso de la ca
 %
 A la hora de desensamblar software privativo, hazlo sin izar bandera negra ni levantar la perdiz.
 %
-No es haciendo clic sobre semáforos, motonetas, o sendas peatonales que se lucha contra los robots, sino reprogramándolos para que nos asistan en la aniquilación de las oligarquías que han oprimido los Pueblos del Tercer Mundo.
+No es haciendo clic sobre semáforos, motonetas, o sendas peatonales que se lucha contra los robots, sino reprogramándolos para que nos asistan en la aniquilación de las oligarquías que han oprimido a los Pueblos del Tercer Mundo.
 %
 Comparte todo tu código fuente al Pueblo. Libéralo bajo GPLv3.
 %
@@ -6742,6 +6744,8 @@ Reduce la cantidad de datos que pones en disponibilidad en las redes de datos.
 %
 Retira conscientemente metadatos valiosos de los contenidos que creas y compartes en las redes sociales basadas en empresas.
 %
+Las herramientas de remoción de publicidad y de cookies son una gran bendición y héroes no reconocidos, así como navegadores específicos para evitar publicidad.
+%
 Practica el arte de ofuscar tu identidad en las redes.
 %
 Mantente al tanto de lo que las ciber-oligarquías pueden saber de ti.
@@ -6874,7 +6878,7 @@ Promueve plataformas digitales donde esta comparte recursos y líneas directas d
 %
 Promueve plataformas digitales donde medidas proactivas - como los límites de velocidad y la fricción reflexiva - contrarrestan patrones de uso adictivos, el spam y el abuso.
 %
-Promueve plataformas digitales donde - de seleccionarse un feed o resultados de b{usqueda de forma algorítima - los usuarios cuenten con explicaciones comprensibles de los factores clave de clasificación.
+Promueve plataformas digitales donde - de seleccionarse un feed o resultados de búsqueda de forma algorítima - los usuarios cuenten con explicaciones comprensibles de los factores clave de clasificación.
 %
 Promueve plataformas digitales donde - si no desean participar en las recomendaciones algorítmicas - los usuarios puedan seleccionar un feed cronológico u otra presentación simplificada.
 %
