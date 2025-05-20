@@ -196,7 +196,7 @@ Al responder un correo en texto plano, no propicies que se responda sobre la cit
 %
 Aunque algunos clientes de correo electrónico intentan hacer creer lo contrario, puedes editar la versión citada del mensaje al que estás respondiendo, y es recomendable que lo hagas.
 %
-Puedes recurrir al enfatizado de tu correo electrónico en texto plano por medio de *asteriscos*, /barras/, _guiones bajos_ o MAYÚSCULAS, y evitarás los enormes inconvenientes del uso de HTML en ellos.
+Puedes enfatizar tu correo electrónico en texto plano mediante *asteriscos*, /barras/, _guiones bajos_ o MAYÚSCULAS, y evitarás los enormes inconvenientes de utilizar HTML en ellos.
 %
 La oligarquía ha hecho - a falta de ley adecuada de protección - abusos informáticos duraderos.
 %
@@ -454,7 +454,7 @@ A un pato se lo caza con llamador; unos graznidos realizados con este instrument
 %
 La integración de Linux y GNU ocurrió en 1992 cuando Torvalds adoptó la licencia GPL para su kernel. Esto permitió que los usuarios combinaran Linux con los componentes GNU para crear un sistema operativo libre y completamente funcional conocido como GNU/Linux.
 %
-Para cazar perdiz no debemos recurrir a disparar al cielo con la escopeta esperando que la casualidad nos ayude a pegarle a algo; la técnica eficaz consiste en utilizar un perro avispado que busque en el pajonal y nos levanta la perdiz. Un LiveCD con Linux puede hacer lo mismo.
+Para cazar una perdiz no efectuamos disparos al cielo con la escopeta esperando que la casualidad nos ayude a pegarle a algo; la técnica eficaz consiste en utilizar un perro avispado que busque en el pajonal y nos levanta la perdiz. Un LiveCD con Linux puede hacer lo mismo.
 %
 La suma de todos los beneficios sociales benefician a todos. La enseñanza de un sistema Unix tiene también las mismas implicancias.
 %
@@ -1142,7 +1142,7 @@ La computadora es, fue y será un arma.
 %
 La computadora puede utilizarse para otros fines, pero debe promovérsela como un instrumento de liberación.
 %
-Un SysAdmin prevarico puede incentiva una actitud de resistencia de los usuarios a correr software privativo. Ellos desencadenarán un brote de instalación de GNU, al que sólo requerirá un puerto dominado para expandirlo en la LAN.
+Un SysAdmin prevarico puede incentivar una actitud de resistencia de los usuarios a correr software privativo. Ellos desencadenarán un brote de instalación de GNU, que sólo requerirá un puerto dominado para expandirlo en la LAN.
 %
 Los hackers pueden atacar inorgánicamente sobre la infraestructura centralizada del enemigo. Esto se llama Denegación de Servicio.
 %
@@ -1556,7 +1556,7 @@ Para imponer la voluntad del software libre, hay que decompilar el código y mod
 %
 La lucha telemática es, sobre todas las cosas, una lucha ideológica.
 %
-Normalmente el hacker realiza una lucha incruenta por medios habilidosos, pero teniendo enfrente a la violencia telemática, también puede recurrir a una violencia telemática mayor.
+Normalmente el hacker realiza una lucha incruenta por medios habilidosos, pero teniendo enfrente a la violencia telemática, puede efectuar una violencia telemática mayor.
 %
 Una comunidad hacker que represente una revolución trascendente, difícilmente pueda realizarla en una versión de núcleo de sistema operativo, sino a lo largo de varias de ellas.
 %
@@ -1646,7 +1646,7 @@ Entre las ventajas de usar un Servicio Sustitutivo del software en la guerra tel
 %
 Si bien el filtraje de correos electrónicos abusivos contra la privacidad como Googl€ no constituyen una opción contra servicios sustitutivos de software, revisten un excelente enmascaramiento, útil en una agresiva campaña de amedrentamiento telemático.
 %
-Sólo un bruto haría clic en un alarmista mensaje descendido en su bandeja de entrada reclamando urgente acción sobre un botón embebido. En lugar de ello ha de recurrirse al sitio oficial de la plataforma aludida.
+Sólo un bruto haría clic en un alarmista mensaje descendido en su bandeja de entrada reclamando urgente acción sobre un botón embebido. En lugar de ello ha de apersonarse al sitio oficial de la plataforma aludida.
 %
 A quien se le solicite introducir nombre y contraseña, debe asegurarse de que se encuentra en una URL legítima antes de comenzar siquiera a tipear en los campos de formulario.
 %
@@ -1857,7 +1857,7 @@ Antes que en el avión negro, al software lo trasladaba en un cuadrado negro: el
 %
 Si contamos con una conexión a Internet, podremos utilizar el servicio NTP para sincronizar el reloj de nuestra máquina con ciertos relojes atómicos en línea.
 %
-Nuestro Movimiento ha de recurrir a la Seguridad Telemática Reforzada. No implica esto enfrentar los desprotegidos a la acción represiva del Estado, sino implementar políticas de salvaguarda que privilegien a los humildes en contra de la opresión omnímoda de los Oligarcas de los Datos. 
+Nuestro Movimiento ha de poner en efecto la Seguridad Telemática Reforzada. No implica esto enfrentar los desprotegidos a la acción represiva del Estado, sino implementar políticas de salvaguarda que privilegien a los humildes en contra de la opresión omnímoda de los Oligarcas de los Datos. 
 %
 Cuando sobran recursos, no se pone un cortafuegos: se abren puertos.
 %
@@ -2333,7 +2333,7 @@ El sistema Unix cuenta con un excelente sistema de archivos para almacenar fiche
 %
 Dado que Unix es un sistema multiusuario, inmediatamente exige poder identificarte con absoluta certeza. De esta forma el sistema verifica tu intención de acceder a los archivos privados y asigna a la sesión de trabajo la prioridad que te haya sido establecida.
 %
-Cada usuaria que se conecta al sistema Unix es referenciada por un identificador (Login ID). En lugar de recurrir a tu nombre o iniciales, recurre a cualquier otra cosa para ser pseudoanónima telemáticamente.
+Cada usuaria que se conecta al sistema Unix es referenciada por un identificador (Login ID). Para ser telemáticamente pseudoanónima, en lugar de proveer tu nombre o iniciales, invoca cualquier otra cosa.
 %
 Puesto que Unix puede servir a muchas usuarias diferentes, y cada una puede acceder a un conjunto de ficheros único, cuando el programa login te interrogue deberás presentar un nombre válido de usuaria de sistema.
 %
@@ -4206,7 +4206,7 @@ Los sistemas de cómputo de tiempo compartido están obligados a tomar compromis
 %
 Algunos ingenuos pensaron que la programación orientada a objetos sólo podía incrementar el ancho de banda programador-programa. Hoy no están tan seguros.
 %
-Por incapacidad, un programador se ve forzado a utilizar sistemas de depurado interactivo. Un verdadero hacker en cambio recurre a volcados de memoria en hexadecimal u octal.
+Por incapacidad, un programador se ve forzado a utilizar sistemas de depurado interactivo. Un verdadero hacker en cambio efectúa volcados de memoria en hexadecimal u octal.
 %
 Los costos de procesamiento y memoria, descienden, y aunque podría haber límites finales, estamos lejos de ellos.
 %
@@ -4618,7 +4618,7 @@ Crea primero una versión funcional y comienza a usarla.
 %
 Simplemente muda aquellos patrones y algoritmos esenciales de tu mente a la CPU de la computadora.
 %
-UUCP es un conjunto de protocolos para enviar datos a través de enlaces punto a punto, generalmente recurriendo a módems y líneas de acceso telefónico.
+UUCP es un conjunto de protocolos para enviar datos a través de enlaces punto a punto, generalmente soslayando módems y líneas de acceso telefónico.
 %
 UUCP fue concebido inicialmente en 1977 en los Laboratorios Bell para la comunicación entre sus centros de desarrollo de Unix. Para mediados de 1978, esta red ya conectaba más de 80 sitios.
 %
@@ -5216,7 +5216,9 @@ Algunas personas malinterpretan su derecho local de "libertad de expresión" en 
 %
 La libertad de prensa pertenece a quienes poseen la prensa. Por tal motivo es imprescindible contar con los medios de publicación en línea y dominarlos.
 %
-Recurrir a medios de publicación para exponer ideas propias es adecuado, pero hacer uso de redes de computadoras ajenas para mediar en la comunicación, necesariamente implicará inhibiciones. Es quien posee la máquina quien podrá controlar la propagación según cómo la domine.
+Recurrir a medios de publicación para exponer ideas propias es adecuado, pero hacer uso de redes de computadoras ajenas para mediar en la comunicación, necesariamente implicará inhibiciones.
+%
+Según como la domine, quien posea la máquina podrá controlar la propagación de datos.
 %
 Las comunidades mediadas por el cómputo han desarrollado prácticas que se apoyan más en un sentido compartido e internalizado de comportamientos apropiados en línea, que en la censura telemática.
 %
@@ -5254,7 +5256,7 @@ En 1983, programadores de la Universidad de California, financiados por ARPA, cr
 %
 Los códigos informáticos para establecer enlace a través de la Internet, el conjunto de protocolos TCP/IP, se incorporó al Unix de Berkeley en 1983.
 %
-Las computadoras con el Unix de Berkeley no sólo podrían comunicarse entre sí a través de módems lentos, sino también recurriendo a la transmisión por conmutación de paquetes, de mucho mayor desempeño en las troncales de Internet.
+Las computadoras con el Unix de Berkeley no sólo podrían comunicarse entre sí a través de módems lentos, sino también efectuando transmisiones por conmutación de paquetes (de mucho mayor desempeño en las troncales de Internet).
 %
 A mediados de los 80s surgieron nuevas empresas, como Sun Microsystems (financiada por ARPA), decididas portadoras de Unix a redes integradas.
 %
@@ -5302,7 +5304,7 @@ En un Estado Justicialista, no necesitas ocultamientos al buscar información p�
 %
 He utilizado ARCHIE para explorar la red y no me erizó pelo alguno. No es por lo buscador que Googl€ es de temer.
 %
-Enlaza por Telnet a uno de los servidores ARCHIE que están repartidos por todo el mundo en la tarea de indizar, e incluso así estarás más seguro que recurriendo a Googl€.
+Incluso si enlazas por Telnet a uno de los servidores ARCHIE que apostolan el indizado de FTP por todo el mundo, estarás más seguro que recurriendo a Googl€.
 %
 Es la potencia informática de las máquinas conectadas a la Red la que debe estar disponible para todos, no necesariamente las palabras o ficheros almacenados en sus bancos de memoria.
 %
@@ -5346,7 +5348,7 @@ Internet se nutre de numerosos flujos informativos diferentes, del mismo modo qu
 %
 La riqueza de la red aumentará en la medida que las digitalizaciones de información impresa se vuelvan accesibles en línea en cantidades mayores.
 %
-Ahora que segmentos cada vez más amplios del Pueblo recurren a los recursos de la Red, limitarlos debe ser prohibido, y prohibirlos será un crímen.
+Ahora que segmentos cada vez más amplios del Pueblo utilizan los recursos de la Red, limitarlos debe ser prohibido, y prohibirlos debe considerarse un crímen.
 %
 Las herramientas que los hackers del Pueblo programaron para hablar entre sí son perfectamente soportadas por los mecanismos de la red.
 %
@@ -6176,7 +6178,7 @@ Inicialmente, Lisp fue desarrollado a finales de los años 50 en el Instituto Te
 %
 GNU Emacs Lisp está fuertemente inspirado en Maclisp, escrito en el MIT en la decada de 1960. En cierto modo se inspira en Common Lisp, que se convirtió en un estándar en los 80. Sin embargo, Emacs Lisp es muchísimo más simple que Common Lisp. 
 %
-No resulta extraño que para convertirse en experto, un programador deba recurrir a la lectura de manuales de referencia.
+No resulta para nada extraño que para volverse experto, un programador deba estudiar manuales de referencia.
 %
 Convertirse en hacker no es distinto a bucear. Puede zambullirse en cada párrafo de un manual de referencia de programación, y entre ellos salir a tomar aire.
 %
@@ -6294,7 +6296,7 @@ SSH transmite estrictamente de a un caracter por vez, operando - tanto la edici�
 %
 Un tráfico tupido o una tasa de señal/ruido degradada puede provocar retrasos de varios segundos en los enlaces, sometiendo buffers a largas colas de paquetes, o bien sustentando el celo en las retransmisiones de capa de enlace. Sírvete de esto para hostilizar comunicaciones.
 %
-No pocos hackers recurren a instalar una versión cromañón apenas funcional, y la actualizan desde Lentonet al último eslabón de la evolución maquinal.
+No pocos hackers efectúan una instalación de una versión cromañón apenas funcional, para actualizarla desde Lentonet al último eslabón de la evolución maquinal.
 %
 Compila herramientas de cómputo que descolonicen, redistribuyan valor, conspiren y organicen al Pueblo.
 %
@@ -6548,7 +6550,7 @@ En la guerra telemática, las dos partes beligerantes son grupos de seres vivos 
 %
 El objetivo de los hackers no puede ser otro que guiar a los Pueblos por la senda de la Liberación informática.
 %
-Como traza paralela, nuestros hackers pueden recurrir a practicar la ingeniería inversa al hardware de las ciber-oligarquías, reemplazando todo software de dominación por uno dominado por nosotros mismos.
+Como traza paralela, nuestros hackers pueden efectuar la ingeniería inversa al hardware de las ciber-oligarquías, reemplazando todo software de dominación por uno dominado por nosotros mismos.
 %
 Todo programa de la lid telemática debe basarse en un sondeo telemático y en un esmerado estudio de la situación del sistema enemigo, la situación del propio, y la fluidez de las comunicaciones entre ambos.
 %
@@ -6724,7 +6726,7 @@ Los datos agregados a redes sociales basadas en empresas, y el análisis de sus 
 %
 Las ciber-oligarquías pueden tener acceso a tus datos y pueden acceder a ellos de diferentes maneras, incluyendo a través de la vigilancia de tus actividades, el acceso remoto a dispositivos no cifrados, explotando la posibilidad de compartir datos entre aplicaciones, o por medio de la investigación de fuentes de datos públicamente disponibles acerca tuyo.
 %
-Las ciber-oligarquías pueden recurrir a tu rastro electrónico para localizar nuevas fuentes de datos acerca de ti, y a través de la agregación y análisis de datos inferir cosas sobre tu vida y tu comportamiento. 
+Las ciber-oligarquías pueden utilizar tu rastro electrónico para localizar nuevas fuentes de datos acerca de ti, y a través de la agregación y análisis de datos inferir cosas sobre tu vida y tu comportamiento. 
 %
 Dependiendo de quién eres y lo que haces, es probable que tengas inquietudes diferentes acerca de qué tipo de datos o "rastros digitales" pueden resultar los más sensibles para ti, así como acerca de quién podría tener acceso a ellos. Pero en cualquier caso, aborrece a las ciber-oligarquías.
 %
@@ -6752,19 +6754,19 @@ Mantente al tanto de lo que las ciber-oligarquías pueden saber de ti.
 %
 Desarrolla maneras de alterar, separar, o re-crear nuevas presencias e identidades en línea.
 %
-El "doxing" consiste en compilar información detallada acerca de alguien recurriendo fuentes libremente disponibles en línea.
+El "doxing" consiste en recabar información detallada acerca de alguien recurriendo a fuentes libremente disponibles en línea.
 %
 El recabado de información detallada en línea sobre un sujeto de interés, puede implicar también el uso de métodos ilegales para lograr acceso a ella.
 %
-Recurre a la compilación de información por fuentes telemáticas públicas para atacar preventivamente a las ciber-oligarquías.
+Efectúa recabado de información por fuentes telemáticas públicas que eventualmente sirvan para atacar preventivamente a las ciber-oligarquías.
 %
-El perfilado con fuentes públicas en línea puede utilizarse para identificar individuos y organizaciones a fin de detectar y aprovechar personas y redes con finalidades maliciosas.
+El perfilado con fuentes públicas en línea puede utilizarse para detectar, identificar individuos y redes de organización, y aprovecharlas con fines maliciosos.
 %
-El doxing es un arma de doble filo.
+El doxing es un arma de doble filo, que se toma del filo. Usa un guante grueso en la forma de Tor.
 %
 El router es el mango de tu sartén telemática. Instálale un firmware libre.
 %
-Ten siempre la sartén telemática por el mango.
+Ten siempre la sartén telemática por el mango, y usa un guante grueso en la forma de Tor.
 %
 Incluso los hackers más bisoños emprenden la lucha diciendo: "Gracias por elegir el router doméstico Wireless-N de Linksys by Cisco".
 %
