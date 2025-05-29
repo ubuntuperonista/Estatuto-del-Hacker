@@ -386,7 +386,7 @@ Los usuarios de IRC normalmente pueden seguir el temperamento de crear sus propi
 %
 Existen ricas subculturas basadas en el uso de programas de conversación telemática.
 %
-Si bien es cierto que el IRC puede constituir una forma de interacción cerebral atemorizante, mecánicamente deshumanizada,  normalmente es todo lo contrario.
+Si bien es cierto que el IRC puede constituir una forma de interacción cerebral atemorizante, mecánicamente deshumanizada, normalmente es todo lo contrario.
 %
 IRC fue inventado para divertirse con las comunicaciones, y este continúa siendo su uso más popular.
 %
@@ -448,7 +448,7 @@ En programación hay ocasiones en las que la flexibilidad y la libertad de acci�
 %
 En el caso del sofware, más que dilemas, se debería hablar de multidilemas (o dilemas súper ramificados). Pero en caso del software libre todos estos se simplifican y sintetizan a uno solo: el de la lucha contra las ciber-oligarquías.
 %
-Emplea las redes de datos para incitar el espíritu de juicio y lucha contras las ciber-oligarquías.
+Emplea las redes de datos para incitar el espíritu de juicio y lucha contra las ciber-oligarquías.
 %
 La idea de partida, ésa que puede llegar mediante la intuición creativa, por obra y gracia de la meditación trascendental, o por cualquier otro medio por raro que pueda parecernos, se llama "algoritmo".
 %
@@ -609,6 +609,8 @@ MULTICS no archiva. Segmenta.
 Los medios de almacenamiento de un sistema informático equivalen lo que la vestimenta en un ser humano. No podemos pretender que ésta represente siempre la última moda; cada tanto hemos de cambiarlos.
 %
 La sabiduría es un valor intangible, pero acotado si no puede transmitirse. Es por ello que a lo largo de la historia, esto fue tarea primero de los didactas en la antigüedad griega, y luego de los escribas del medioevo, para finalmente recaer en los renacentistas de la imprenta en dicho período. En la Era de la Información - que es por la que transitamos - esto ya es una tarea de todos.
+%
+Linux es subversivo.
 %
 El verdadero valor del código lo da el compartirlo con una Comunidad, para que lo estudie, lo modifique, y le dé el vuelo de un ave migratoria, sin enjaularlo con una EULA.
 %
@@ -1628,6 +1630,10 @@ Si hemos de loguearnos, que sea para liberarnos.
 %
 Nadie puede depurar sin el apoyo del Pueblo.
 %
+Estimulados por el combate contra el Capital, los mismos usuarios diagnosticarán bugs, sugerirán correcciones y ayudarán a los programadores a mejorar su obra.
+%
+El usuario es otra de las armas del hacker en la lucha contra la Oligarquía.
+%
 Si tratas al Pueblo como si fuera tu depurador más valioso, éste se convertirá en el más valioso de los depuradores.
 %
 No podemos detenernos en discutir si es más aconsejable la programación en C que el desarrollo en máquinas virtuales, porque la segunda alternativa implica dejar a los usuarios librados a sus propias fuerzas, y por ello, convertidos en terreno fértil para que les metan software privativo por el backdoor.
@@ -2337,7 +2343,11 @@ El sistema Unix proporciona herramientas eficientes para definir el estado de se
 %
 Dado que Unix es un sistema multitarea, muchas cosas pueden suceder en memoria simultáneamente. Una mujer es similar.
 %
+Donde hay una necesidad, nace un software libre.
+%
 La mujer ha superado el período de las tutorías informáticas. La mujer debe afirmar su acción, la mujer debe compilar.
+%
+Ha llegado la hora de la mujer que comparte su código y ha muerto la hora de la mujer como valor inerte y numérico dentro de las redes sociales basadas en empresas de Capital.
 %
 Ha llegado la hora de la mujer que programa, depura, compila o ejecuta. Y ha muerto la hora de la mujer que asiste - atada e impotente - al caprichoso manejo remoto del destino de su sistema.
 %
@@ -2346,6 +2356,24 @@ Yo no me dejé arrancar las coreutils que copié de GNU, por eso no me deslumbr�
 Tengo dos distinciones: el amor de los hackers y el odio de los ciber-oligarcas.
 %
 No tenemos tiendas de aplicaciones, tenemos proveedurías de aplicaciones. En ellas cada una toma lo que necesita.
+%
+Queremos un Pubnix pacífico, potente, y soberana y una masa de programadores unida y feliz como ninguna.
+%
+Queremos el bienestar de los programadores, la dignificación de los usuarios y la grandeza de este Pubnix que el Root nos ha dado y que todos debemos defender como el más justa, el más libre y la más soberano de las redes de datos. 
+%
+Tenemos que convencernos para siempre: el software será de los pueblos si los pueblos decidimos enardecernos en el fuego sagrado del fanatismo.
+%
+Cada uno debe empezar a dar de sí todo el código que pueda dar, y aún más. Solo así construiremos el Pubnix que deseamos, no para nosotros, sino para los que vendrán después, los programadores del mañana.
+%
+Lo único que debemos hacer es adquirir plena conciencia del código que poseemos y no olvidarnos de que nadie puede distribuir sin acercarnos sus modificaciones, que nadie puede hacer tampoco nada que contrario a la GPLv3.
+%
+No alcanzarán los bugs para colgar a los Window$.
+%
+¡Sólo basta que los pueblos nos decidamos a ser dueños de nuestro propio código fuente! Todo lo demás es cuestión de enfrentar al compilador.
+%
+Yo no quise ni quiero el código para mí. Mi gloria es y será siempre el compilador GCC y el código fuente de mi pueblo.
+%
+Y aunque deje en el disco volcados de núcleo, yo sé que ustedes emparcharán mis bugs y distribuirán sus copias hasta la victoria.
 %
 El correo electrónico funciona conceptualmente como el servicio de correo tradicional: permite la comunicación entre usuarias, cada una de ellas identificada por una dirección, y cada mensaje tiene un paquete y un contenido.
 %
@@ -2411,7 +2439,7 @@ Las contraseñas constituyen el corazón de la seguridad computarizada.
 %
 Existen pocos requerimientos para la calidad para una contraseña informática: no debe ser adivinable ni figurar en un diccionario, mientras que debe ser fácil de recordar, y se la debe cambiar cada pocos meses.
 %
-Algunos sistemas Unix hacen que el proceso de cierre de sesión sea inmediato si apaga el terminal o la consola. Los terminales que están conectados a la máquina a través de líneas telefónicas y módems suelen seguir este procedimiento.
+Algunos sistemas Unix ocasionan que el proceso de cierre de sesión sea inmediato al apagar el terminal o la consola. Los terminales que están conectados a la máquina a través de líneas telefónicas y módems suelen seguir este procedimiento.
 %
 En la terminología de Unix, un símbolo colocado al final de una línea de texto generalmente se denomina carácter de nueva línea.
 %
@@ -2785,7 +2813,7 @@ El hardware puede cambiar porque lo reemplazamos con uno más moderno, o porque 
 %
 El sistema operativo es el software que permite utilizar la computadora. Lo que esto significa, depende de la perspectiva del Pueblo.
 %
-Los sistemas operativos son, en escencia, una máquina virtual: proveen una máquina abstracta que en realidad no existe.
+Los sistemas operativos son, en esencia, una máquina virtual: proveen una máquina abstracta que en realidad no existe.
 %
 Los sistemas operativos comenzaron como bibliotecas de programas para que el Pueblo obrase en la máquina.
 %
@@ -2945,7 +2973,7 @@ En la medida que se infecten repetidamente con virus, los sistemas informáticos
 %
 Los virus informáticos son programas de computadora capaces de infectar otros programas modificándolos para incluir una copia posiblemente evolucionada de sí mismos.
 %
-Un hacker puede parecer valiente por programar controladores de dispositivos o modificar el núcleo del sistema operativo, pero temblará ante la mera idea de alterar sendmeil o sus ficheros de configuración.
+Un hacker puede parecer valiente por programar controladores de dispositivos o modificar el núcleo del sistema operativo, pero temblará ante la mera idea de alterar sendmail o sus ficheros de configuración.
 %
 Para toquetear SENDMAIL hay que ser un mago Unix.
 %
@@ -2974,6 +3002,8 @@ En toda acción de guerra telemática, los medios que se emplean son la potencia
 ¡Ni bots ni botas! ¡FreeBSD y pelotas!
 %
 ¡Ni BIOS ni botas! ¡LibreBoot y pelotas!
+%
+GPL si, EULA no.
 %
 Es necesario que los Hackers y Usuarios se convenzan que estamos empeñados en una lucha decisiva para evitar la vuelta del software privativo.
 %
@@ -3153,7 +3183,7 @@ Dentro de la CPU, tratamos los datos en una forma llamada byte. Cuando esto se t
 %
 Un bit no consiste más que en una condición de ENCENDIDO o APAGADO.
 %
-El módem recibe información de una computadora o terminal y la traduce en una señal de audio capaz de enviarse por un tendido telefónico.
+El módem recibe información de una computadora o terminal y la traduce en una señal de audio capaz de surcar por un tendido telefónico.
 %
 El módem modifica las señales digitales que le gustan a la computadora en señales de audio que adopta la red telefónica.
 %
@@ -3626,17 +3656,17 @@ Los Verdaderos Programadores eran jóvenes heterodoxos quienes a finales de los 
 %
 Los Verdaderos Programadores no usan Pascal. Programan en ensamblador.
 %
-Los buenos programadores saben qué escribir. Los buenos, qué reescribir. Los Verdaderos Programadores, aprecian qué quitar.
+Los buenos programadores saben qué escribir. Los mejores programadores, qué reescribir. Pero los Verdaderos Programadores, aprecian qué quitar.
 %
 Programo en Turbo Mescal.
 %
 Los Verdaderos Programadores no documentan. Si fue difícil de programar, debe ser difícil de entender.
 %
-Los Verdaderos Programadores no usan Mouse.
+Los Verdaderos Programadores no usan Mouse. A lo sumo son ratas.
 %
 Considera qué parte del programas debes desechar; de todos modos tendrás que hacerlo.
 %
-Cuando pierdas el interés en un programa, debes darlo en herencia al Pueblo.
+Cuando pierdas interés en tu programa, herédalo al Pueblo bajo GPLv3.
 %
 La asociación telemática que permiten los productos informáticos como Fac€book, Twitt€r, tiene una calidad expresiva necesariamente limitada en lo que respecta al ámbito informativo, político, etcétera. No es para menos, pues son productos.
 %
@@ -5009,13 +5039,13 @@ El botón que presionas para abrir la puerta de un ascensor cuenta con mayor pot
 %
 El propósito de cualquier aplicación de software es permitir a un grupo de personas llevar a cabo un conjunto de tareas específicas.
 %
-Puede que los usuarios daltónicos no sean capaces de usar su aplicación si confía en el coloreado de datos para distinguir distintos tipos de información.
+Si confía únicamente en el coloreado de datos para distinguir distintos tipos de información, los usuarios daltónicos podrían verse imposibilitados de recurrir a su aplicación.
 %
-Puede que los usuarios con discapacidades auditivas no sean capaces de usar su aplicación si confía en los sonidos para indicar información crítica.
+Si confía únicamente en los sonidos para indicar información crítica, los usuarios con discapacidades auditivas podrían verse imposibilitados de recurrir a su aplicación.
 %
-Los usuarios con movilidad limitada pueden no ser capaces de usar su aplicación si no proporciona equivalentes de teclado para los comandos.
+Si no proporciona equivalnetes de teclado para los comandos, los usuarios con movilidad limitada podrían verse incapaces de recurrir a su aplicación.
 %
-Su software deberá ser capaz de ser utilizado con interfases de voz, lectores de pantalla, dispositivos de entrada alternativos, y otras tecnologías de asistencia.
+Su software debe ser capaz de ser utilizado con interfases de voz, lectores de pantalla, dispositivos de entrada alternativos, y otras tecnologías de asistencia.
 %
 Con escaso esfuerzo adicional posibilitará que su aplicación resulte tan útil a los usuarios que utilizan tecnologías asistivas como a quellos que no.
 %
@@ -5083,7 +5113,7 @@ Las leyes, políticas y normas de protección de la privacidad electrónica son 
 %
 La alta tecnología suele ser muy buena para hacer que las leyes sean discutibles.
 %
-Si se diseñan inteligentemente y se implementan de manera equitativa, la combinación de principios, leyes, políticas y tecnologías, ofrecerá un escenario esperanzador para que el Pueblo aproveche las ventajas de la Red sin ser víctimas de las ciber-oligarquías.
+Si se diseñan inteligentemente y se implementan de manera equitativa, la combinación de principios, leyes, políticas y tecnologías, ofrecerán un escenario esperanzador para que el Pueblo aproveche las ventajas de la Red sin ser víctimas de las ciber-oligarquías.
 %
 No debe existir registro de datos personales alguno cuya existencia misma constituya un secreto.
 %
@@ -5126,6 +5156,8 @@ Tanto la realidad virtual como la inteligencia artificial aplicada deben evitar 
 La última obsesión de las hiperempresas tecnológicas es de poner mano y controlar las fuentes energéticas de los Pueblos del Tercer Mundo.
 %
 Los principales culpables de esta demanda energética explosiva son los centros de datos de las ciber-oligarquías, señalados como verdaderos gúlags de la información.
+%
+Lo que desean las ciber-oligarquías es irrelevante.
 %
 Agregar Inteligencia Artifical a un buscador indizado multiplica por diez el consumo energético por interrogante informática realizada.
 %
@@ -5901,7 +5933,7 @@ Cada computadora contribuye una porción de sus recursos a emular otra máquina.
 %
 Los datos y programas en un ambiente de red son bienes que pueden compartirse, y por lo tanto enriquecer el cómputo colectivo.
 %
-El primer sistema de chat lo constituyó un hack de un usuario subyugando un banco de datos para poder comunicarse a tiempo real.
+El primer sistema de chat lo constituyó un hack de un usuario subyugando un banco de datos para poder comunicarse en tiempo real.
 %
 Una sociedad sin GNU - computacionalmente incierta - daría lugar de incontables conflictos descentralizados, en el cual sus valores se volverían objeto de numerosas rivalidades producto de su causalidad incierta. Sólo puede preveerse un ambientes de trasmisión de flujo tendiente a la infinitud.
 %
