@@ -5648,8 +5648,6 @@ El GNU Hurd es una colección de servidores que se ejecutan sobre el microkernel
 GNU Mach es el microkernel sobre el cual se basa un sistema GNU Hurd.
 %
 El microkernel GNU Mach define interfases de desarrollo distribuido multi-servidor a través del mecanismo de comunicación interprocesos empleado por la colección de servidores Hurd, con el fin de dar cuenta de aquellos servicios provistos por un núcleo de sistema operativo tradicional.
-
- is the microkernel upon which a GNU Hurd system is based. It provides an Inter Process Communication (IPC) mechanism that the Hurd uses to define interfaces for implementing in a distributed multi-server fashion the services a traditional operating system kernel provides.
 %
 La orden rm -rf /* simplemente le transmite al intérprete "¿Puedes por favor borrar todos los datos del sistema por mí?"
 %
