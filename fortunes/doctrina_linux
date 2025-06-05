@@ -1436,6 +1436,8 @@ Lo que se ha intentado hacer con el "código abierto" no es ganar plata, sino de
 %
 Las mal llamadas Licencias de Usuario Final no han sido mas que un instrumento legal para desorganizar al hombre que trabaja. Han intentado calificarlo como usuario, pero trabajar una herramienta sin poseerla es lo que haría un tecno-esclavo.
 %
+Pon en la misma oración "gratis", "legal" y "Justicia Social", y aterrorizarás a los tecno-oligarcas.
+%
 Si bien algunos empleadores brindan computadoras portátiles con sistemas operativos privativos y ciertos acuerdos de garantía preinstalados, tales equipos son sus equipos, no el del empleado.
 %
 Si no es posible cambiar libremente el software de un equipo, es menos una herramienta, y más un instrumento de dominación. Ha de evitarse el uso de un equipo encadenados con estas "licencias de usuario final".
@@ -1565,6 +1567,10 @@ Las redes sociales pueden difundir la opinión, y eso puede tener mucha fuerza. 
 La telemática está cavando la tumba de la prensa escrita.
 %
 La telemática, a diferencia de la electricidad, no porta una carga potencial, sino información, es decir, poder.
+%
+Las comunicaciones computarizadas van mucho más allá de las "computadoras hablando con las computadoras".
+%
+El buen software de comunicaciones se juzga por dos estándares complementarios: ¿Cuán buena es la protección de la integridad de los datos transmitidos, y cuán versátil es al comunicar entre computadoras de tal y cual estructura de datos?
 %
 El teleproceso es una de las áreas de crecimiento más acelerado entre las aplicaciones de procesamiento de datos para eficientizar los sindicatos.
 %
@@ -2130,6 +2136,10 @@ Cuando apareció la primer CPU 8086 a finales de los 70s, la tecnología de semi
 Para escribir programas ensambladores verdaderamente superiores, necesitas saber qué hacen las diversas instrucciones y qué instrucciones se ejecutan más rápido. Para ello revisa el manual de tu microprocesador.
 %
 La programadora examina los requisitos de una aplicación, diseña una solución según algún nivel de abstracción y luego hace que ese diseño cobre vida en una implementación de código fuente.
+%
+El software de aplicación se orienta principalmente a tareas específicas en contexto y función.
+%
+El software de aplicación significa, por sobre todas las cosas, la habilidad, de actuar/computar/entretener por sí mismo.
 %
 Los lenguajes de alto nivel proporcionan entornos artificiales que se prestan relativamente bien a las habilidades de programación humana, para facilitar la transición del diseño imaginado a la implementación maquinal.
 %
@@ -3970,6 +3980,8 @@ El que programa, no se equivoca, y si tiene bugs, vuelve a programar.
 %
 Quien a su software agregue lo innecesario, pronto tendrá que comprar el hardware necesario.
 %
+Si comprar no significa poseer; entonces piratear no significa robar.
+%
 Posee los cables.
 %
 Los cables o se poseen o se pelan.
@@ -4441,7 +4453,9 @@ El lenguaje Basic no constituía una sigla. A mediados de los 70s los hackers in
 %
 BASIC permite al usuario escribir y depurar una variedad de programas empleando un lenguaje más "natural" que el hexadecimal absoluto.
 %
-BASIC ha seguido la espiral descendente que atraviesa todo lenguaje de programación deliberadamente diseñado como juguete educativo, y al que alguien ha tomado demasiado en serio.
+BASIC ha seguido la espiral descendente que atraviesa todo lenguaje de programación deliberadamente diseñado como juguete educativo, y al que alguien termina tomado demasiado en serio.
+%
+No necesita un título de Ingeniería Electrónica para entender lo básico de BASIC, o para aprender a mandar a su DOS!
 %
 Un neófito será capaz de escribir programas cortos en BASIC, pero superadas las veinte líneas de código, aprenderá que es un lenguaje sumamemnte engorroso.
 %
@@ -4470,6 +4484,12 @@ Con anteriorirdad incluso a la red de datos Internet, centenas de miles de carte
 La BBS típica era operada desde su hogar por un amateur en búsqueda de diversión que se hacía llamar SysOp, a través una máquina con M$-DO$ dotada de módem. El enlace al sistema telefónico público casi nunca excedía una única línea.
 %
 Los habitantes de la Usenet, la Internet y las grandes carteleras electrónicas comerciales de tiempo compartido, tendían a considerar a las BBS locales como las barriadas marginales de la cultura hacker.
+%
+Los sistemas de carteleras electrónicas BBS no son otra cosa que métodos modernos para compartir ideas, información, problemas y pensamientos profundos con los demás.
+%
+Al igual que muchos de sus contrapartes físicos, las carteleras electrónicas pueden ser abiertas o sumamente selectivas en lo que se publica: objetos a la venta, discusiones sobre política exterior, problemas de hardware, "corazones solitarios", y mucho más.
+%
+Usando una BBS podrás comunicarte con entusiastas del cómputo de todas partes del país, ¡y del mundo si lo deseas!
 %
 Las BBS tuvieron la valiosa función de entretejer a miles de hackers y usuarios de microcomputadoras personales, facilitándoles la tarea de compartir sus experiencias y programas.
 %
@@ -5727,7 +5747,7 @@ La red FidoNet comenzó como un esfuerzo entre compañeros por medio de sus máq
 %
 La FidoNet era un asunto nocturno: era entonces cuando se enlazaba al nodo de referencia, es decir, otra BBS cercana para intercambiaban datos.
 %
-En FidoNet los mensajes públicos se distribuían atravesando toda la red noto por nodo, mientras que los privados llegaban únicamente al BBS de destino.
+Los mensajes públicos se distribuían atravesando toda la red FidoNet nodo a nodo, mientras que los privados llegaban únicamente al BBS de destino.
 %
 Con FidoNet, si todo iba bien, un mensaje llegaba al destinatario al día siguiente y el remitente respondía dos días después.
 %
@@ -5790,6 +5810,8 @@ Un bug es un problema mundano, y a veces hasta deseable para hacer amigos.
 Los privilegios de los usuarios deben ser armónicamente promovidos.
 %
 Para hacer posible la sociedad de la información es necesario tener conocimientos pero también tiempo. El hardware es lo de menos.
+%
+En una sociedad de la información en continuo crecimiento explosivo, el campo de la gestión de base de datos se expande en todas direcciones.
 %
 La guerrilla telemática requiere que las mayorías populares puedan formar comunidades soterradas en constelaciones de máquinas, preparándolas para recopilar y utilizar la información según lo justifique un plan maestro.
 %
@@ -6286,6 +6308,8 @@ GNU Emacs Lisp está fuertemente inspirado en Maclisp, escrito en el MIT en la d
 %
 No resulta para nada extraño que para volverse experto, un programador deba estudiar manuales de referencia.
 %
+Realiza preguntas y refiérete al manual de tus sistemas toda vez que sea posible.
+%
 Convertirse en hacker no es distinto a bucear. Puede zambullirse en cada párrafo de un manual de referencia de programación, y entre ellos salir a tomar aire.
 %
 Aprender a programar una computadora no es tan complicado. Probablemente lograrás el éxito mediante un proceso iterativo: lea parte de un manual, prueba ciertos programas en un Pubnix, y repítalo hasta terminar.
@@ -6536,7 +6560,7 @@ Algunos bugs en el software son bastante difíciles de identificar y duplicar.
 %
 Las miradas no hacen saltar los bugs a la vista. Lo que permite caracterizar los problemas informáticos es la libertad de distribuir copias modificadas.
 %
-Para resolver problemas informáticos interesante, comienza por buscarlos en la lucha telemática contra el Capital.
+Para resolver problemas informáticos interesantes, comienza por buscarlos en la lucha telemática contra el Capital.
 %
 El PIN perfecto no tiene cuatro dígitos ni está asociado con tu vida; es algo que te resulta fácil de recordar y el difícil que tenga sentido para otra gente siquiera.
 %
@@ -6949,6 +6973,8 @@ Si algo sale mal, reinténtalo nuevamente.
 Si nada sucede, siempre puedes desloguearte.
 %
 En el peor de los casos, puedes apagar tu máquina.
+%
+Conoce tu máquina y sus capacidades. Luego sus componentes.
 %
 Respira profundamente, y vuelve a discar.
 %
