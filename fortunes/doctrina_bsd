@@ -147,6 +147,9 @@ organización.
 El kernel no se ejecuta de buenas ideas; se ejecuta de buenas
 compilaciones.
 %
+Antes que las propias, es mejor reconocer las buenas ideas del Pueblo.
+Programa en C lo que el Pueblo desea, y libéralo bajo GPLv3.
+%
 Creo que el software es movimiento, son acción no son solo pensamiento,
 no son sólo concepción. Para mí, la acción está siempre por sobre la
 concepción.
@@ -175,6 +178,8 @@ Primero el Kernel, luego la Shell, y por último las aplicaciones.
 Se vence con inteligencia y organización. Por ello les pido también que
 conserven una calma absoluta y cumplir con lo que es nuestro lema de
 siempre: de /home a /var y de var/ a /home.
+%
+Se compila con inteligencia y con organización.
 %
 Todo sistema informático debería ser infalible, pero no es un arte de
 los Dioses sino una creación humana, y como tal posee sus mismos bugs y
@@ -220,6 +225,8 @@ la tecno-esclavitud, será suprimido. Eso se acabó.
 %
 Si el oligarca no puede pagar los metadatos, deberá vender su centro de
 datos.
+%
+Donde hay una necesidad, nace un software libre.
 %
 La máquina, el servidor, el centro de datos y cualquier establecimiento
 que se encuentre fuera de las leyes del trabajo, no pueden gozar de
@@ -501,6 +508,8 @@ por su inversión, de modo que intentan socavar a Window$.
 %
 A Window$ siempre es mejor formatearlo que emparcharlo.
 %
+En sus bugs se camufla Window$.
+%
 La gran discusión en la que se sumirá el mundo no radica en compilar el
 software, sino quién conduce la compilación del software. Yo digo que la
 compilación la tiene que realizar el Pueblo.
@@ -716,7 +725,7 @@ libre todos estos se simplifican y sintetizan a uno solo: el de la lucha
 contra las ciber-oligarquías.
 %
 Emplea las redes de datos para incitar el espíritu de juicio y lucha
-contras las ciber-oligarquías.
+contra las ciber-oligarquías.
 %
 La idea de partida, ésa que puede llegar mediante la intuición creativa,
 por obra y gracia de la meditación trascendental, o por cualquier otro
@@ -763,6 +772,10 @@ Mi rol como Conductor del Movimiento me impone acercar de forma
 paternalista las soluciones anheladas por las Masas del Pueblo. Por lo
 tanto volcaré esta sapiencia para que cada uno lleve en su mochila el
 bastón de Mariscal.
+%
+Si la conductora del desarrollo de software cuenta con un medio al menos
+tan bueno como lo es Internet, y sabe dirigir sin coerción, muchas
+programadoras serán, inevitablemente, mejor que una.
 %
 Al desarrollar software libre, podemos hacerlo en cualquier punto de su
 escala de aplicación. Para ello nuestro software ha de poder correr en
@@ -1012,6 +1025,8 @@ del medioevo, para finalmente recaer en los renacentistas de la imprenta
 en dicho período. En la Era de la Información - que es por la que
 transitamos - esto ya es una tarea de todos.
 %
+Linux es subversivo.
+%
 El verdadero valor del código lo da el compartirlo con una Comunidad,
 para que lo estudie, lo modifique, y le dé el vuelo de un ave
 migratoria, sin enjaularlo con una EULA.
@@ -1019,19 +1034,19 @@ migratoria, sin enjaularlo con una EULA.
 Subvertirás toda EULA copiando, prestando, rentando, decompilando,
 desensamblando, publicando, distribuyendo y creando obras derivadas
 (incluso ofreciéndolas a la venta) de cualquier porción de toda obra de
-software.
+software privativo.
 %
 Subvertirás toda EULA obteniendo, instalando y usando copias no
-autorizadas del software.
+autorizadas del software privativo.
 %
 Explotarás la EULA de cualquier forma diferente a la que se encuentra en
 acordancia con la documentación y uso concebido, sin autorización
-escrtita o expresa de ningún tipo.
+escrtita o expresa de tipo alguno.
 %
 Mantener en secreto la información es ineficiente; obliga a una
-antiestética duplicación de esfuerzo.
+antiestética duplicación de esfuerzos.
 %
-La información quiere ser libre.
+La información anhela ser libre.
 %
 Nuestra Cultura es permeable a los cambios, y desde el Martín Fierro
 hasta el libro más risueño, hemos de leerlo y compartirlo por Torrent.
@@ -1280,6 +1295,10 @@ La potencia de cómputo avanzada sólo se desplegará con el multihilo
 simultáneo, el cual oficiará de nivelador capaz de sustentar un pedaleo
 de acción pendular entre los núcleos que componen su CPU.
 %
+Unix es un sistema operativo que permite que varias personas usen la
+misma computadora para realizar tareas diferentes, y éste pretende
+ejecutarlas simultáneamente saltando rápidamente de una tarea a otra.
+%
 Los sistemas operativos BSD no son clones, sino derivados de código
 abierto del Unix de Investigación de AT&T, a su vez ancestro del Unix
 System V.
@@ -1299,6 +1318,10 @@ Muchos hackers han creado reimplementaciones más o menos exitosas del
 ideal de Unix, cada una con sus nuevos adornos. Algunos de ellas
 desaparecen rápidamente, otras se fusionan con innovaciones similares y
 paralelas creadas por otros en un mutuo ataque al mismo problema.
+%
+Con frecuencia, las soluciones más innovadoras y espectaculares
+provienen de comprender que la concepción del problema planteado por las
+ciber-oligarqu{ias era errónea.
 %
 Unix se ha ido formulando lentamente alrededor de un núcleo simple y ha
 adquirido una especie de complejidad y asimetría que le es orgánica,
@@ -1686,6 +1709,10 @@ tiempo las herramientas que han sido necesarias para la programación.
 Esta versatilidad es la que nuestros enemigos envidian, pero será
 también la que defina el devenir del Movimiento.
 %
+Toda herramienta es útil empleándose de la forma prevista, pero una gran
+herramienta es la que se presta a ser utilizada de la manera menos
+esperada para combatir al Capital.
+%
 El imperialismo va tras el neocolonialismo de nuestros países, las
 oligarquías vernáculas van tras la explotación de nuestros pueblos -
 como ha sido en sido en nuestro caso desde el Siglo XIX - y el software
@@ -1721,6 +1748,11 @@ Los sistemas de computación se someten a esfuerzo al procesar y actuar
 los datos. Tal esfuerzo es variable y responde sobre todo a la
 complejidad de la tarea a realizar y a la forma en la cual esta se haya
 instruida dentro del programa.
+%
+Una computadora típica con Unix cuenta al menos con 100 tareas
+diferentes en ejecución. Algunas vigilan la red en busca de datos
+entrantes, algunas ejecutan programas para el usuario, algunas otean el
+sistema de archivos y otras efectúan numerosas acciones menores.
 %
 Un buen software no hace otra cosa sino lo que el Usuario quiere, y lo
 realizará de la manera más simple, directa y económica posible. Tal es
@@ -2552,6 +2584,9 @@ instrumento legal para desorganizar al hombre que trabaja. Han intentado
 calificarlo como usuario, pero trabajar una herramienta sin poseerla es
 lo que haría un tecno-esclavo.
 %
+Pon en la misma oración "gratis", "legal" y "Justicia Social", y
+aterrorizarás a los tecno-oligarcas.
+%
 Si bien algunos empleadores brindan computadoras portátiles con sistemas
 operativos privativos y ciertos acuerdos de garantía preinstalados,
 tales equipos son sus equipos, no el del empleado.
@@ -2812,6 +2847,14 @@ La telemática está cavando la tumba de la prensa escrita.
 La telemática, a diferencia de la electricidad, no porta una carga
 potencial, sino información, es decir, poder.
 %
+Las comunicaciones computarizadas van mucho más allá de las
+"computadoras hablando con las computadoras".
+%
+El buen software de comunicaciones se juzga por dos estándares
+complementarios: ¿Cuán buena es la protección de la integridad de los
+datos transmitidos, y cuán versátil es al comunicar entre computadoras
+de tal y cual estructura de datos?
+%
 El teleproceso es una de las áreas de crecimiento más acelerado entre
 las aplicaciones de procesamiento de datos para eficientizar los
 sindicatos.
@@ -2931,6 +2974,16 @@ la felicidad de todos los demás.
 Si hemos de loguearnos, que sea para liberarnos.
 %
 Nadie puede depurar sin el apoyo del Pueblo.
+%
+Estimulados por el combate contra el Capital, los mismos usuarios
+diagnosticarán bugs, sugerirán correcciones y ayudarán a los
+programadores a mejorar su obra.
+%
+El usuario es otra de las armas del hacker en la lucha contra la
+Oligarquía.
+%
+Si tratas al Pueblo como si fuera tu depurador más valioso, éste se
+convertirá en el más valioso de los depuradores.
 %
 No podemos detenernos en discutir si es más aconsejable la programación
 en C que el desarrollo en máquinas virtuales, porque la segunda
@@ -3483,6 +3536,9 @@ utilizamos para aplastar a nuestros enemigos.
 El software libre consiste en miles de verdades, pero todas se reducen a
 una frase: es justo compilar.
 %
+Eel software libre gira en torno a dejar que tu código fuente salga al
+Tercer Mundo.
+%
 Dividan el todo en partes conectables por caños.
 %
 En Unix la unidad la dan los caños. En el Justicialismo, también.
@@ -3522,7 +3578,7 @@ lo suficientemente fuerte, enlaces adecuados para el asalto telemático,
 y los recursos de almacenamiento suficiente para sostener operaciones
 indefinidas.
 %
-La acumulación de Pings aumenta el Lag. Multiplicarlos por uno, cien,
+La acumulación de Pings aumenta el Lag. Multiplicarlos por diez, cien, o
 cien mil millones logra la victoria.
 %
 El tendido es un camino, el enlace es un derrotero.
@@ -3767,8 +3823,17 @@ Los lenguajes de alto nivel como C y Pascal invariablemente introducirán
 ineficientes transformaciones adicionales a una implementación de diseño
 en lenguaje ensamblador, sin importar cuán buena esta sea.
 %
+Los lenguajes de alto nivel proveen un marco de trabajo para el programa
+completo, pero sus huecos deben completarse con funciones esotéricas
+individuales escritas en lenguaje máquina.
+%
 Contrarresta la ineficiencia de la transformación del código fuente al
 lenguaje máquina con la facilidad de uso de un lenguaje de alto nivel.
+%
+La llamada de subrutinas en lenguaje máquina no sólo es útil para
+escribir rutinas propias en lenguaje máquina, sino que permite controlar
+casi todas las funcionalidades del hardware (incluyendo entrada y salida
+directa a sus periféricos).
 %
 Nadie evalúa un hardware al límite con su primer programa "Hola Tercer
 Mundo!"; eso lleva tiempo y práctica.
@@ -3802,6 +3867,12 @@ microprocesador.
 La programadora examina los requisitos de una aplicación, diseña una
 solución según algún nivel de abstracción y luego hace que ese diseño
 cobre vida en una implementación de código fuente.
+%
+El software de aplicación se orienta principalmente a tareas específicas
+en contexto y función.
+%
+El software de aplicación significa, por sobre todas las cosas, la
+habilidad, de actuar/computar/entretener por sí mismo.
 %
 Los lenguajes de alto nivel proporcionan entornos artificiales que se
 prestan relativamente bien a las habilidades de programación humana,
@@ -3901,6 +3972,9 @@ requieren prestar atención a lo irrelevante.
 Es mejor disponer 100 órdenes que operen sobre una estructura de datos
 que 10 funciones en 10 estructuras de datos. El conductor es uno solo, y
 la masa también.
+%
+Las estructuras de datos inteligentes y el código burdo funcionan mucho
+mejor que en el caso inverso.
 %
 La raíz del cómputo es la recursión, donde se cambia descripción por
 tiempo. La raíz de la organización es la doctrina, que evoca el mismo
@@ -4130,6 +4204,61 @@ programas de uso común y ficheros privados.
 Dado que Unix es un sistema multitarea, muchas cosas pueden suceder en
 memoria simultáneamente. Una mujer es similar.
 %
+Donde hay una necesidad, nace un software libre.
+%
+La mujer ha superado el período de las tutorías informáticas. La mujer
+debe afirmar su acción, la mujer debe compilar.
+%
+Ha llegado la hora de la mujer que comparte su código y ha muerto la
+hora de la mujer como valor inerte y numérico dentro de las redes
+sociales basadas en empresas de Capital.
+%
+Ha llegado la hora de la mujer que programa, depura, compila o ejecuta.
+Y ha muerto la hora de la mujer que asiste - atada e impotente - al
+caprichoso manejo remoto del destino de su sistema.
+%
+Yo no me dejé arrancar las coreutils que copié de GNU, por eso no me
+deslumbró jamás la grandeza de las GAFAM y pude ver sus miserias. Por
+eso nunca me olvidé de las necesidades de mi Atom y pude ver sus
+grandezas.
+%
+Tengo dos distinciones: el amor de los hackers y el odio de los
+ciber-oligarcas.
+%
+No tenemos tiendas de aplicaciones, tenemos proveedurías de
+aplicaciones. En ellas cada una toma lo que necesita.
+%
+Queremos un Pubnix pacífico, potente, y soberana y una masa de
+programadores unida y feliz como ninguna.
+%
+Queremos el bienestar de los programadores, la dignificación de los
+usuarios y la grandeza de este Pubnix que el Root nos ha dado y que
+todos debemos defender como el más justa, el más libre y la más soberano
+de las redes de datos.
+%
+Tenemos que convencernos para siempre: el software será de los pueblos
+si los pueblos decidimos enardecernos en el fuego sagrado del fanatismo.
+%
+Cada uno debe empezar a dar de sí todo el código que pueda dar, y aún
+más. Solo así construiremos el Pubnix que deseamos, no para nosotros,
+sino para los que vendrán después, los programadores del mañana.
+%
+Lo único que debemos hacer es adquirir plena conciencia del código que
+poseemos y no olvidarnos de que nadie puede distribuir sin acercarnos
+sus modificaciones, que nadie puede hacer tampoco nada que contrario a
+la GPLv3.
+%
+No alcanzarán los bugs para colgar a los Window$.
+%
+¡Sólo basta que los pueblos nos decidamos a ser dueños de nuestro propio
+código fuente! Todo lo demás es cuestión de enfrentar al compilador.
+%
+Yo no quise ni quiero el código para mí. Mi gloria es y será siempre el
+compilador GCC y el código fuente de mi pueblo.
+%
+Y aunque deje en el disco volcados de núcleo, yo sé que ustedes
+emparcharán mis bugs y distribuirán sus copias hasta la victoria.
+%
 El correo electrónico funciona conceptualmente como el servicio de
 correo tradicional: permite la comunicación entre usuarias, cada una de
 ellas identificada por una dirección, y cada mensaje tiene un paquete y
@@ -4252,8 +4381,8 @@ informática: no debe ser adivinable ni figurar en un diccionario,
 mientras que debe ser fácil de recordar, y se la debe cambiar cada pocos
 meses.
 %
-Algunos sistemas Unix hacen que el proceso de cierre de sesión sea
-inmediato si apaga el terminal o la consola. Los terminales que están
+Algunos sistemas Unix ocasionan que el proceso de cierre de sesión sea
+inmediato al apagar el terminal o la consola. Los terminales que están
 conectados a la máquina a través de líneas telefónicas y módems suelen
 seguir este procedimiento.
 %
@@ -4892,7 +5021,7 @@ porque mudamos nuestro programa a un cómputo diferente.
 El sistema operativo es el software que permite utilizar la computadora.
 Lo que esto significa, depende de la perspectiva del Pueblo.
 %
-Los sistemas operativos son, en escencia, una máquina virtual: proveen
+Los sistemas operativos son, en esencia, una máquina virtual: proveen
 una máquina abstracta que en realidad no existe.
 %
 Los sistemas operativos comenzaron como bibliotecas de programas para
@@ -5171,7 +5300,7 @@ evolucionada de sí mismos.
 %
 Un hacker puede parecer valiente por programar controladores de
 dispositivos o modificar el núcleo del sistema operativo, pero temblará
-ante la mera idea de alterar sendmeil o sus ficheros de configuración.
+ante la mera idea de alterar sendmail o sus ficheros de configuración.
 %
 Para toquetear SENDMAIL hay que ser un mago Unix.
 %
@@ -5217,6 +5346,8 @@ transmisión, hackeando la CPU de otro.
 ¡Ni bots ni botas! ¡FreeBSD y pelotas!
 %
 ¡Ni BIOS ni botas! ¡LibreBoot y pelotas!
+%
+GPL si, EULA no.
 %
 Es necesario que los Hackers y Usuarios se convenzan que estamos
 empeñados en una lucha decisiva para evitar la vuelta del software
@@ -5489,7 +5620,7 @@ caracter.
 Un bit no consiste más que en una condición de ENCENDIDO o APAGADO.
 %
 El módem recibe información de una computadora o terminal y la traduce
-en una señal de audio capaz de enviarse por un tendido telefónico.
+en una señal de audio capaz de surcar por un tendido telefónico.
 %
 El módem modifica las señales digitales que le gustan a la computadora
 en señales de audio que adopta la red telefónica.
@@ -6256,12 +6387,20 @@ los 80s y 90s.
 %
 Los Verdaderos Programadores no usan Pascal. Programan en ensamblador.
 %
+Los buenos programadores saben qué escribir. Los mejores programadores,
+qué reescribir. Pero los Verdaderos Programadores, aprecian qué quitar.
+%
 Programo en Turbo Mescal.
 %
 Los Verdaderos Programadores no documentan. Si fue difícil de programar,
 debe ser difícil de entender.
 %
-Los Verdaderos Programadores no usan Mouse.
+Los Verdaderos Programadores no usan Mouse. A lo sumo son ratas.
+%
+Considera qué parte del programas debes desechar; de todos modos tendrás
+que hacerlo.
+%
+Cuando pierdas interés en tu programa, herédalo al Pueblo bajo GPLv3.
 %
 La asociación telemática que permiten los productos informáticos como
 Fac€book, Twitt€r, tiene una calidad expresiva necesariamente limitada
@@ -6440,6 +6579,10 @@ ellos dirán: "lo hicimos nosotros mismos".
 Usar software libre es sabiduría. Dar código fuente a los demás es
 iluminación.
 %
+Tratar a los usuarios como colaboradores es la forma más apropiada de
+mejorar el código. Tratarlos como militantes es la más efectiva de
+depurarlo.
+%
 Programa sin esforzarte. Modifica sin interferir. Encuentra el sabor a
 una línea de código fuente C.
 %
@@ -6554,6 +6697,10 @@ El andar del compilador tiene el programa.
 %
 Mas tiran dos CPU que dos núcleos.
 %
+Cuando las luces parpadean, datos traen.
+%
+No necesito ver el repositorio para saber que tiene software libre.
+%
 La NTFS de Window$ tiene un escalafón escalofriante: al Sector Failure
 se lo de golpe se lo asciende a General Failure.
 %
@@ -6635,6 +6782,8 @@ El que programa, no se equivoca, y si tiene bugs, vuelve a programar.
 %
 Quien a su software agregue lo innecesario, pronto tendrá que comprar el
 hardware necesario.
+%
+Si comprar no significa poseer; entonces piratear no significa robar.
 %
 Posee los cables.
 %
@@ -6972,9 +7121,9 @@ Propagar software consiste en dejar una copia del binario en una web o
 servidor de FTP de acceso público. No pasará mucho tiempo antes de que
 alguien descargue su copia.
 %
-Propagar software en dejar una copia del código fuente en una web o un
-servidor de FTP de acceso público. No pasará mucho tiempo antes de que
-alguien descargue su copia.
+Propagar software implica dejar una copia del código fuente en un
+servidor web o FTP de acceso público. No pasará mucho tiempo antes de
+que alguien solicite copiarla.
 %
 Poner software libre a disposición del Pueblo consiste en disponer una
 copia de su código fuente en una web o servidor de FTP de acceso
@@ -7047,6 +7196,9 @@ otro proceso hijo. Pero todos son del Pueblo.
 Al dividirse un proceso de cómputo de Unix con la llamada de sistema
 fork, distinguirá cual es el proceso hijo o padre, por su identificador
 de proceso: en el proceso hijo siempre es 0.
+%
+La mayoría de los programadores están principalmente preocupados por las
+bifurcaciones en el proceso político.
 %
 Los procesos de Unix pueden comunicarse con sus procesos emparentados a
 través de llamadas de lectura y escritura conocidas como caños.
@@ -7343,9 +7495,15 @@ El lenguaje Basic no constituía una sigla. A mediados de los 70s los
 hackers inventaron un acrónimo retrógrado: "Código de Instruciones
 Simbólicas de Todo Proósito del Novato".
 %
+BASIC permite al usuario escribir y depurar una variedad de programas
+empleando un lenguaje más "natural" que el hexadecimal absoluto.
+%
 BASIC ha seguido la espiral descendente que atraviesa todo lenguaje de
 programación deliberadamente diseñado como juguete educativo, y al que
-alguien ha tomado demasiado en serio.
+alguien termina tomado demasiado en serio.
+%
+No necesita un título de Ingeniería Electrónica para entender lo básico
+de BASIC, o para aprender a mandar a su DOS!
 %
 Un neófito será capaz de escribir programas cortos en BASIC, pero
 superadas las veinte líneas de código, aprenderá que es un lenguaje
@@ -7395,6 +7553,18 @@ excedía una única línea.
 Los habitantes de la Usenet, la Internet y las grandes carteleras
 electrónicas comerciales de tiempo compartido, tendían a considerar a
 las BBS locales como las barriadas marginales de la cultura hacker.
+%
+Los sistemas de carteleras electrónicas BBS no son otra cosa que métodos
+modernos para compartir ideas, información, problemas y pensamientos
+profundos con los demás.
+%
+Al igual que muchos de sus contrapartes físicos, las carteleras
+electrónicas pueden ser abiertas o sumamente selectivas en lo que se
+publica: objetos a la venta, discusiones sobre política exterior,
+problemas de hardware, "corazones solitarios", y mucho más.
+%
+Usando una BBS podrás comunicarte con entusiastas del cómputo de todas
+partes del país, ¡y del mundo si lo deseas!
 %
 Las BBS tuvieron la valiosa función de entretejer a miles de hackers y
 usuarios de microcomputadoras personales, facilitándoles la tarea de
@@ -7502,9 +7672,9 @@ datos se ocupa de insertar un bloque de dos bytes en la locación 0 del
 espacio de datos. De este modo, ningún objeto de datos puede obtener la
 dirección de memoria 0 y confundirse con el puntero nulo de C.
 %
-Pocas veces será retribuido un programa gratuito, sin importar cuan
-decorado de mensajes explicativos de lo largo y dificultoso que fue el
-trabajo de creación esté.
+Los programas gratuitos pocas veces se verán retribuidos, sin importar
+cuan decorado de mensajes explicativos de lo largo y dificultoso que fue
+el trabajo de creación estén.
 %
 No consuma ciclos de computadora sin tener una muy buena razón para
 ello.
@@ -8259,15 +8429,15 @@ Si piensas como una computadora, el lenguaje C realmente tiene sentido.
 Depuro programas de vez en cuando, más a menudo escribo HTML, y escribo
 guiones para que hagan cosas.
 %
-C ha declinado su uso comparado con C++, y tal vez Java, pero tal vez
-incluso más comparados con los niveles de guionado de alto nivel. Es aún
-bastante fuerte en lo que respecta a las cosas básicas del sistema.
+C ha declinado su uso comparado con C++, y tal vez Java, e incluso más
+comparados con los niveles de guionado de alto nivel. Es aún bastante
+fuerte en lo que respecta a las cosas básicas del sistema.
 %
 Cuando leo comentarios sobre sugerencias para la senda que debería
 seguir C, a menudo agradezco que no fue desarrollado a consejo de una
 muchedumbre de alcance global.
 %
-La noción de registro no es mas que un remanente obsoleto de los días de
+La noción de registro no es mas que un obsoleto remanente de los días de
 las tarjetas de 80 columnas.
 %
 Si comparamos el escenario al comienzo de Unix, Los nichos ecológicos
@@ -8332,18 +8502,19 @@ mayor potencia de cómputo que ambas sondas Voyager.
 El propósito de cualquier aplicación de software es permitir a un grupo
 de personas llevar a cabo un conjunto de tareas específicas.
 %
-Puede que los usuarios daltónicos no sean capaces de usar su aplicación
-si confía en el coloreado de datos para distinguir distintos tipos de
-información.
+Si confía únicamente en el coloreado de datos para distinguir distintos
+tipos de información, los usuarios daltónicos podrían verse
+imposibilitados de recurrir a su aplicación.
 %
-Puede que los usuarios con discapacidades auditivas no sean capaces de
-usar su aplicación si confía en los sonidos para indicar información
-crítica.
+Si confía únicamente en los sonidos para indicar información crítica,
+los usuarios con discapacidades auditivas podrían verse imposibilitados
+de recurrir a su aplicación.
 %
-Los usuarios con movilidad limitada pueden no ser capaces de usar su
-aplicación si no proporciona equivalentes de teclado para los comandos.
+Si no proporciona equivalnetes de teclado para los comandos, los
+usuarios con movilidad limitada podrían verse incapaces de recurrir a su
+aplicación.
 %
-Su software deberá ser capaz de ser utilizado con interfases de voz,
+Su software debe ser capaz de ser utilizado con interfases de voz,
 lectores de pantalla, dispositivos de entrada alternativos, y otras
 tecnologías de asistencia.
 %
@@ -8415,7 +8586,7 @@ puertas, sino permitiendo vender por intermedio de aplicaciones que
 dominan, comerciando información sobre las transacciones, e ilegalizando
 medidas que el Pueblo podría utilizar para protegerse.
 %
-En lugar de escuchas telefónicas, la represión ciber-oligárquica
+En lugar de escuchas telefónicas, la represión tecno-oligárquica
 incluirá programas informáticos que vinculen códigos QR, tarjetas
 inteligentes, números de DNI y todos los demás indicadores electrónicos
 que dejamos en nuestra existencia en una sociedad de la información.
@@ -8474,7 +8645,7 @@ La alta tecnología suele ser muy buena para hacer que las leyes sean
 discutibles.
 %
 Si se diseñan inteligentemente y se implementan de manera equitativa, la
-combinación de principios, leyes, políticas y tecnologías, ofrecerá un
+combinación de principios, leyes, políticas y tecnologías, ofrecerán un
 escenario esperanzador para que el Pueblo aproveche las ventajas de la
 Red sin ser víctimas de las ciber-oligarquías.
 %
@@ -8552,15 +8723,21 @@ La última obsesión de las hiperempresas tecnológicas es de poner mano y
 controlar las fuentes energéticas de los Pueblos del Tercer Mundo.
 %
 Los principales culpables de esta demanda energética explosiva son los
-centros de datos de las ciber-oligarquías, señalados como verdaderos
+centros de datos de las tecno-oligarquías, señalados como verdaderos
 gúlags de la información.
 %
+Los tecno-oligarcas desean que abandonemos la comunión del software y el
+hardware y nos entremguemos al imperio pleno de la EULA, a la
+disociación de los hackers, y al formateo final.
+%
+Lo que desean las tecno-oligarquías es irrelevante.
+%
 Agregar Inteligencia Artifical a un buscador indizado multiplica por
-diez el consumo energético por interrogante informática realizada.
+diez el consumo energético por interrogante informático realizado.
 %
 Una poderosísima organización de hackers para la Liberación capaz de dar
 sustento a las tareas de sabotaje emprendidas por los pueblos del Tercer
-Mundo, puede enfrentar a la vertiginosa expansión ciber-oligárquica.
+Mundo, puede enfrentar a la vertiginosa expansión tecno-oligárquica.
 %
 Cualquiera sea la forma que tome la organización de los hackers del
 Tercer Mundo, estos evitarán la fabricación de microprocesadores de
@@ -8588,7 +8765,7 @@ estrategias para la retirada, denegación, sabotaje, y negociación en la
 lucha en línea contra las formas de domunación tecno-feudal.
 %
 Si desea defenderse, nuestro Movimiento ha de promover la participación
-en procesos colaborativos de generación de conocimiento, que apunten a
+en procesos colaborativos de generación de conocimientos, que apunten a
 refinar la lucha telemática en la senda de la emancipación,
 empoderamiento y la solidaridad humana.
 %
@@ -8602,10 +8779,10 @@ El perverso discurso de la securización como tecno-solucionismo ha de
 ser enfrentado y derrotado con la noción aperturista de la justicia
 social en línea, y debe serlo en todo tiempo y en todo lugar.
 %
-Si el dinero o el poder derivados del espionaje en la red resultan
-significativos, y los tecnicismos de la red dificultan rastrear a los
-ciber-oligarcas y perpetradores, ninguna ley protegerá adecuadamente al
-Pueblo.
+En cuanto el capital o el poder derivados del espionaje en la red
+resulte significativo y los tecnicismos de la red dificulten rastrear a
+los ciber-oligarcas y perpetradores, no habrá ley capaz de proteger
+adecuadamente al Pueblo.
 %
 Hoy en día, las capacidades tecnológicas para la recopilación y
 clasificación de información son formidables.
@@ -8676,8 +8853,8 @@ posible que no siga así por mucho tiempo mas.
 El hacker del Pueblo ha de ser vínculo de unión entre tecnologías
 vastas, poderosas y costosamente desarrolladas y las Masas obreras.
 %
-Logueado a las redes de datos, nuestros Hackers logran acceso
-instantáneo a un púlpito intimidante para las ciber-oligarquías.
+Logueados a las redes de datos, nuestros Hackers logran acceso
+instantáneo a un púlpito intimidante para las tecno-oligarquías.
 %
 Lo que hacemos actualmente es importante pues aún es posible que los
 Hackers se aseguren de que esta nueva esfera del discurso humano vital
@@ -8694,16 +8871,16 @@ Todo lo integran.
 %
 Los jugadores más adictos del Minitel francés o de las Mazmorras
 Multiusuario en las redes internacionales, sobrepasan las ochenta horas
-semanales fingiendo ser otra persona, viviendo una vida inocua fuera de
-su terminal.
+semanales fingiendo ser otras personas, viviendo una vida inocua fuera
+de su terminal.
 %
 Un usuario verdaderamente obsesivo puede destinar la mayor parte de su
 vida a inocuas conversaciones en línea.
 %
-Activistas y reformistas educativos están utilizando los Pubnix como
-herramienta política.
+Activistas y reformistas educativos se encuentran utilizando los Pubnix
+como herramienta política.
 %
-Es posible utilizar las redes de datos para alimentar información de
+Es posible obrar en las redes de datos para alimentar información de
 adoctrinamiento a unos pocos individuos. Esta programación servirá para
 que dichos elementos la propalen al Pueblo que permanece fuera de línea.
 %
@@ -9466,8 +9643,8 @@ La FidoNet era un asunto nocturno: era entonces cuando se enlazaba al
 nodo de referencia, es decir, otra BBS cercana para intercambiaban
 datos.
 %
-En FidoNet los mensajes públicos se distribuían atravesando toda la red
-noto por nodo, mientras que los privados llegaban únicamente al BBS de
+Los mensajes públicos se distribuían atravesando toda la red FidoNet
+nodo a nodo, mientras que los privados llegaban únicamente al BBS de
 destino.
 %
 Con FidoNet, si todo iba bien, un mensaje llegaba al destinatario al día
@@ -9573,6 +9750,9 @@ Los privilegios de los usuarios deben ser armónicamente promovidos.
 %
 Para hacer posible la sociedad de la información es necesario tener
 conocimientos pero también tiempo. El hardware es lo de menos.
+%
+En una sociedad de la información en continuo crecimiento explosivo, el
+campo de la gestión de base de datos se expande en todas direcciones.
 %
 La guerrilla telemática requiere que las mayorías populares puedan
 formar comunidades soterradas en constelaciones de máquinas,
@@ -9839,7 +10019,7 @@ Los datos y programas en un ambiente de red son bienes que pueden
 compartirse, y por lo tanto enriquecer el cómputo colectivo.
 %
 El primer sistema de chat lo constituyó un hack de un usuario subyugando
-un banco de datos para poder comunicarse a tiempo real.
+un banco de datos para poder comunicarse en tiempo real.
 %
 Una sociedad sin GNU - computacionalmente incierta - daría lugar de
 incontables conflictos descentralizados, en el cual sus valores se
@@ -9932,7 +10112,7 @@ está unido licenciatariamente, para que resista al tiempo y a la lucha.
 Esto puede lograrse con una mancomunión federada de hombres que lo
 corren en sus máquinas.
 %
-Instalado GNU nosotros hemos realizado una reforma casi integral de los
+Instalando GNU nosotros hemos realizado una reforma casi integral de los
 distintos sectores del disco.
 %
 Todos los hackers pusieron su código a disposición de esta naciente
@@ -9958,10 +10138,6 @@ Nuestra comunidad, a la que debemos aspirar, es aquella donde la
 libertad y la responsabilidad sean causa y efecto, en que exista una
 alegría de compilar, fundada en la persuasión de compartir el código
 dignamente.
-%
-Los ciber-oligarcas desean que abandonemos la comunión del software y el
-hardware y nos entremguemos al imperio pleno de la EULA, a la
-disociación de los hackers, y al formateo final.
 %
 El amor entre el código y el compilador habría conseguido mejores frutos
 y en menos tiempo, si algunos desalmados no hubiesen querido imponerle
@@ -10038,6 +10214,9 @@ avasallador de las cuatro libertades del software: de ejecutar el
 código, de estudiarlo, modificarlo, y distribuir las versiones
 modificadas.
 %
+Toda vez que dos versiones diferentes del programa despunten en la red,
+competirán entre sí por los corazones y las CPU del Pueblo.
+%
 El GCC tiene una misión creadora: compilar.
 %
 Programar es crear, es producir grandes obras. Simplemente copiar y
@@ -10090,7 +10269,7 @@ Cuando Window$ esté lento, formateadlo. Cuando esté rápido, también.
 Cuando una mujer libera su software bajo GPLv3, estoy predispuesto a
 pensar bien de ella.
 %
-Cuanto más podrido esté el código, mas bugs tendrá revoloteando.
+Cuanto más podrido esté el código, mas bugs le revolotearán alrededor.
 %
 Elige Abortar, Reintentar y Fallar.
 %
@@ -10277,6 +10456,8 @@ Tercer Mundo.
 %
 Comparte todo tu código fuente al Pueblo. Libéralo bajo GPLv3.
 %
+Comparte tu código fuente rápido y a menudo, y oye al Pueblo.
+%
 Los SysOps de las redes de conmutación de paquetes X.25 optaban por la
 amenaza leguleya rayana con las admoniciones de un antiguo sacerdote
 egipcio para disuadir las irrupciones telemáticas.
@@ -10377,6 +10558,9 @@ más simple que Common Lisp.
 %
 No resulta para nada extraño que para volverse experto, un programador
 deba estudiar manuales de referencia.
+%
+Realiza preguntas y refiérete al manual de tus sistemas toda vez que sea
+posible.
 %
 Convertirse en hacker no es distinto a bucear. Puede zambullirse en cada
 párrafo de un manual de referencia de programación, y entre ellos salir
@@ -10525,6 +10709,9 @@ socióloga, obrera y soldada. Opcionalmente, ovula.
 No sólo la seguridad, sino también la justicia informática debe
 divulgarse. Para ello debemos educar, comunicar y adoctrinar a todo
 aquél que se loguee.
+%
+No existe sistema de seguridad seguro, puesto que ninguno es secreto.
+Cuídese de los secretos a medias.
 %
 Tenemos que formar programadores capaces de comentar y programadores
 capaces de compilar.
@@ -10744,6 +10931,16 @@ inteligentes.
 %
 Reprograma tu router para que tenga mil ojos y mil oídos. Que todos
 sensibilicen al Pueblo.
+%
+Algunos bugs en el software son bastante difíciles de identificar y
+duplicar.
+%
+Las miradas no hacen saltar los bugs a la vista. Lo que permite
+caracterizar los problemas informáticos es la libertad de distribuir
+copias modificadas.
+%
+Para resolver problemas informáticos interesantes, comienza por
+buscarlos en la lucha telemática contra el Capital.
 %
 El PIN perfecto no tiene cuatro dígitos ni está asociado con tu vida; es
 algo que te resulta fácil de recordar y el difícil que tenga sentido
@@ -11072,8 +11269,9 @@ Los verdaderos usuarios no esperan que el finger del SysOp diga algo
 diferente a "No disponible".
 %
 Los verdaderos usuarios no solicitan constantemente al SysOp nuevos
-privilegios. $ Los verdaderos usuarios no hacen las cosas para merecer
 privilegios.
+%
+Los verdaderos usuarios no hacen las cosas para merecer privilegios.
 %
 Los verdaderos usuarios no dejan interrogantes inefables en la cartelera
 de mensajes públicos, ni aguardan respuestas a sus preguntas.
@@ -11455,6 +11653,8 @@ Si nada sucede, siempre puedes desloguearte.
 %
 En el peor de los casos, puedes apagar tu máquina.
 %
+Conoce tu máquina y sus capacidades. Luego sus componentes.
+%
 Respira profundamente, y vuelve a discar.
 %
 Vuelva a discar, e inténtalo nuevamente.
@@ -11821,7 +12021,7 @@ núcleo de nuestro pensamiento. Nos liberaremos así de las
 ciber-oligarquías. Compilando nuestras utopías en código máquina,
 podremos luego liberar las CPUs de los compañeros.
 %
-Las promesas de fría eficiencia impulsada por datos en poder de las
+La promesa de fría eficiencia impulsada por datos en poder de las
 ciber-oligaquías no nos sirve; únicamente sirve a las ciber-oligarquías.
 No es necesario una fría eficiencia, es necesario poseer los datos.
 %
@@ -11862,10 +12062,105 @@ Nuestra Comunidad de Programadores guarda derechos de root sobre las
 máquinas que computan para la liberación del Tercer Mundo.
 %
 Nuestra Comunidad de Programadores promueve el principio de
-virtualización "una máquina x86, dos sistemas operativos", para inalizar
-con una futura reunificación bajo una BIOS completa bajo GNU GPLv3.
+virtualización "una máquina x86, dos sistemas operativos", para lograr
+una futura reunificación de un hardware con BIOS completa bajo GNU
+GPLv3.
 %
 Nuestra Comunidad de programadores promueve un destino común entre los
 hackers que luchan y los otros pueblos del Tercer Mundo.
 %
 Nuestra Comunidad de programadores es leal a la GPLv3.
+%
+Es Nuestro Movimiento el que sienta las bases para una infraestructura
+digital democrática y soberana.
+%
+Es Nuestro Movimiento el que construye un futuro digital centrado en los
+Pueblos.
+%
+Es Nuestro Movimiento el que combate la excesiva dependencia a los
+monopolios de las grandes empresas tecnológicas ciber-oligárquicas
+mediante el desarrollo de una sólida infraestrcutura digital para el
+Tercer Mundo.
+%
+Es Nuestro Movimiento el que ha establecido principios clave para la
+soberanía tecnológica del Tercer Mundo.
+%
+Es Nuestro Movimiento el que reconoce la necesidad de crear un cimiento
+de Infraestrcuturas Digitales Populares (IDP) que garanticen la
+soberanía de los Pueblos del Tercer Mundo.
+%
+Es Nuestro Movimiento el que reconoce la necesidad de adoptar
+interoperabilidades e interconexiones en las Infraestructuras Digitales
+Populares, garantizando la privacidad y la seguridad por defecto en los
+ambientes computacionales habitados.
+%
+Es Nuestro Movimiento que ha desarrollado soluciones de cómputo de
+acceso público que ofrecen los mayores niveles de contralor sobre datos
+sensibles de los Militantes.
+%
+Es Nuestro Movimiento el que permite a los Pueblos del Tercer Mundo
+optar y cambiar de proveedor en pos de satisfacer sus propias
+necesidades.
+%
+Es Nuestro Movimiento el que promueve la contratación pública para
+apoyar el despliegue y la escalabilidad de soluciones digitales de
+alcance popular, abierto e interoperable.
+%
+Es Nuestro Movimiento el que brinda su apoyo político a una
+infraestructura digital que beneficie a los Pueblos, sus trabajadores, y
+las empresas del Tercer Mundo, donde pueden prosperar la creatividad y
+la cooperación, a la vez que se protegen los derechos fundamentales bajo
+una democracia participativa sólida e inclusiva.
+%
+Nuestro Movimiento impulsa la contratación pública para promover
+alternativas respetuosas de los derechos de los Pueblos, enfrentando
+organizadamente a los monopolios de las grandes tecnológicas
+ciber-oligárquicas.
+%
+Nuestro Movimiento exalta la contratación pública como poderoso
+herramental estratégico para la implementación de soluciones digitales
+abiertas e interoperables, según las necesidades computacionales del
+Tercer Mundo.
+%
+Nuestro Movimiento exige que las normas de contratación incluyan
+condiciones vinculantes basadas en el complimiento de los derechos
+fundamentales, los derechos de los consumidores, y los más altos
+estándares de la protección de los datos para los Pueblos del Tercer
+Mundo.
+%
+Hemos hecho rechinar nuestros módems contra la narrativa
+tecnosoucionista que impulsan las ciber-oligarquías.
+%
+Nuestro Movimiento reconocer las plataformas de redes sociales como
+infraestructura digital y establece el pluralismo algorítmico como
+principio motor para engendrar tecnologías soberanas de los Pueblos del
+Tercer Mundo.
+%
+Si las plataformas de redes sociales basadas en empresas funcionan como
+infraestructura esencial para el debate público y los procesos
+democráticos, estas deben ser expropiadas, pues no pueden ser
+apropiadas.
+%
+Así como el pluralismo algorítmico protege la democracia, resulta vital
+para nuestra infraestructura de consulta en redes sociales.
+%
+Garantizar que los Pueblos puedan elegir los algoritmos que les
+proporcionan información y cambiar de proveedor sin perder datos ni
+redes es uno de los objetivos de nuestro Movimiento. Somos
+algorítmicamente pluralistas.
+%
+Nuestro Movimiento utiliza aquellas vías legales que obligan a los
+guardianes de acceso a ofrecer acceso no discriminatorio a sus gráficas
+sociales y APIs. Si nos sofrenan, sondearemos las que no lo son.
+%
+Nuestro Movimiento propugna abrir las plataformas en línea dominantes a
+algoritmos e interfases competitivas para los usuarios, como paso
+fundamental para el empoderamiento del usuario así como para la
+resiliencia democrática frente a la desinformación.
+%
+Nuestro Movimiento avanza hacia la construcción reflexiva de nuevas
+instituciones, alianzas e infraestrcturas digitales basadas en el
+interés común de los Pueblos del Tercer Mundo.
+%
+La soberanía Tecnológica del Tercer Mundo no constituye solo un desafío
+técnico o económico, sino un imperativo democrático.
