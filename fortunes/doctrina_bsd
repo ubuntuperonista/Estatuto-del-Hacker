@@ -160,8 +160,8 @@ libre.
 %
 No hay peor cosa que un Window$ero con inquietudes.
 %
-El consumo del software sube en ascensor, la potencia del hardware por
-escalera.
+Los requerimientos del software suben en ascensor, la potencia del
+hardware por escalera.
 %
 ¡Programadores! Únanse. Sobre la unidad de los que programan, ha de
 levantarse en este hermoso server la unión de todas las aplicaciones.
@@ -388,6 +388,8 @@ alguna.
 Si por absoluta necesidad debes almacenar información en una computadora
 ajena que publicitan como "nube", asegúrate de encriptar dichos datos
 muy severamente.
+%
+Toda nube es humo. Comunícate con humo.
 %
 Yo no persuadía al Pueblo con kernels, porque un kernel poco persuade.
 Yo persuadí al Pueblo con compiladores y con el cubo 3D de Compiz.
@@ -1321,14 +1323,14 @@ paralelas creadas por otros en un mutuo ataque al mismo problema.
 %
 Con frecuencia, las soluciones más innovadoras y espectaculares
 provienen de comprender que la concepción del problema planteado por las
-ciber-oligarqu{ias era errónea.
+ciber-oligarquías era errónea.
 %
 Unix se ha ido formulando lentamente alrededor de un núcleo simple y ha
 adquirido una especie de complejidad y asimetría que le es orgánica,
 como las raíces de un árbol o las ramificaciones de una arteria
 coronaria.
 %
-Compender el desarrollo de Unix es cosa más de la anatomía que de la
+Compender el desarrollo de Unix es cosa más de la proctología que de la
 ciencia del cómputo.
 %
 Ninguna persona o empresa es dueña de BSD. Es creado y distribuido por
@@ -2107,9 +2109,9 @@ La Comunidad Organizada utiliza la Denegación de Servicio como
 demostración de masas, huelga y acción de protesta contra las
 ciber-oligarquías.
 %
-Las ciber-oligarquías se encuentran pergueñando - como mínimo absoluto -
-la tración a los derechos de todos los individuos del Tercer Mundo. Y lo
-están haciendo en este mismo momento.
+Las ciber-oligarquías se encuentran pergeñando - como mínimo absoluto -
+la retracción de los derechos de todos los individuos del Tercer Mundo.
+Y lo están haciendo en este mismo momento.
 %
 Por protocolo TCP, los mismos paquetes que marchan por las troncales
 pueden confluir en una politizada demostración de masas: la Denegación
@@ -2289,7 +2291,7 @@ telefónico.
 No puedes ir a Window$ Update y descargar un parche para la estupidez.
 %
 La ingeniería social es el uso del velo, engaño, manipulación e
-influencia para convencer a un actor humano con acceso a un sisteam de
+influencia para convencer a un actor humano con acceso a un sistema de
 cómputo de hacer algo.
 %
 La ingeniería social puede sobrepasar a todas las demás ingenierías,
@@ -3802,7 +3804,7 @@ límites inherentes del hardware.
 %
 El programador examina los requerimientos de una solución, en algún
 nivel de abstracción diseña una solución, y luego hace que el diseño
-cobre vida en un a implementación de código fuente.
+cobre vida en una implementación de código fuente.
 %
 El programador de ensamblador debe realizar la transformación de la
 especificación de la aplicación a código máquina enteramente por sí
@@ -8440,9 +8442,10 @@ muchedumbre de alcance global.
 La noción de registro no es mas que un obsoleto remanente de los días de
 las tarjetas de 80 columnas.
 %
-Si comparamos el escenario al comienzo de Unix, Los nichos ecológicos
-están hoy bastante llenos, y es difícil salir con nuevas ideas frescas
-para un sistema operativo, o al menos propagarlas.
+Si comparamos el escenario al comienzo de Unix, los basurales
+tecnológicos de José León Suárez están hoy bastante llenos de
+tecnologías fusiladas, y es difícil salir con ideas frescas, y menos
+propagarlas.
 %
 Veinte porciento de todas las formas de entrada humana contienen datos
 malos.
@@ -8597,7 +8600,7 @@ erosionen lo que queda de los derechos de los ciudadanos a la
 privacidad.
 %
 Actualmente se han instalado sistemas de televisión interactiva que
-permiten los tecno-esclavos ponerse grilletes a sí mismos mediante la
+permiten a los tecno-esclavos ponerse grilletes a sí mismos mediante la
 carga de vídeos, en lugar de hacerlo en máquinas de su propiedad.
 %
 Las capacidades de comunicación digital de alta velocidad que otorgarán
@@ -9524,11 +9527,6 @@ multi-servidor a través del mecanismo de comunicación interprocesos
 empleado por la colección de servidores Hurd, con el fin de dar cuenta
 de aquellos servicios provistos por un núcleo de sistema operativo
 tradicional.
-
- is the microkernel upon which a GNU Hurd system is based. It provides
- an Inter Process Communication (IPC) mechanism that the Hurd uses to
- define interfaces for implementing in a distributed multi-server
- fashion the services a traditional operating system kernel provides.
 %
 La orden rm -rf /* simplemente le transmite al intérprete "¿Puedes por
 favor borrar todos los datos del sistema por mí?"
@@ -10523,6 +10521,8 @@ La manera de hacer es compilar.
 %
 No agregues línea de código donde no hay comentario.
 %
+La labor principal de un kernel consiste en no estorbar.
+%
 Aquél que quiera compilar microkernels, primero deberá permanecer largo
 tiempo programando kernels.
 %
@@ -10832,7 +10832,7 @@ pergenió una que facilitara aceptar, elaborar y devolver información.
 Si puedes fabricar tus propias herramientas, hardware y software,
 ¡entonces hazlo!
 %
-Cada invención ha ser ingenieada para 100 usuarias del Tercer Mundo.
+Cada invención ha ser ingeniada para 100 usuarias del Tercer Mundo.
 %
 El destino de nuestras computadoras es convertirse en amplificadores
 intelectuales interactivos, para que una red de datos de área amplia
@@ -12131,10 +12131,9 @@ Mundo.
 Hemos hecho rechinar nuestros módems contra la narrativa
 tecnosoucionista que impulsan las ciber-oligarquías.
 %
-Nuestro Movimiento reconocer las plataformas de redes sociales como
-infraestructura digital y establece el pluralismo algorítmico como
-principio motor para engendrar tecnologías soberanas de los Pueblos del
-Tercer Mundo.
+Nuestro Movimiento reconoce las plataformas de redes sociales como
+infraestructura digital del Pueblo, y establece el pluralismo
+algorítmico como principio motor para engendrar tecnologías soberanas.
 %
 Si las plataformas de redes sociales basadas en empresas funcionan como
 infraestructura esencial para el debate público y los procesos
