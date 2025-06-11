@@ -1436,6 +1436,8 @@ El sistema de archivado de Unix tiene muchas buenas cosas, y de otras carece. Y 
 %
 Lo que se ha intentado hacer con el "código abierto" no es ganar plata, sino destruir el sentido comunitario del trabajo del programador.
 %
+Ningún software es malo: la diferencia está en la licencia.
+%
 Las mal llamadas Licencias de Usuario Final no han sido mas que un instrumento legal para desorganizar al hombre que trabaja. Han intentado calificarlo como usuario, pero trabajar una herramienta sin poseerla es lo que haría un tecno-esclavo.
 %
 Pon en la misma oración "gratis", "legal" y "Justicia Social", y aterrorizarás a los tecno-oligarcas.
@@ -1599,6 +1601,8 @@ Las aplicaciones evolucionan solas y cuando están imbuídas de una ideología y
 Cuando un programador llega a Mago Unix sabe mucho, pero no le sirve para nada; al conocimiento hay que pasárselo a quien le pueda servir. Eso es el trasvasamiento generacional del que nosotros hablamos.
 %
 En este momento las Comunidades Hackers están más fuertes que antes: el Movimiento del Software Libre es un Movimiento del Futuro.
+%
+El Movimiento del Software libre es uno de los anticuerpos que se dan las sociedades vibrantes y los sistemas políticos sanos contra los oligarcas del dato.
 %
 El software privativo cumple fatalmente una parábola: se concibe para hacer plata, crecen, se desarrolla, envejece, deja de dar plata y se abandona. Así, sin que uno tenga que hacer nada, estos paquetes mueren.
 %
@@ -1857,6 +1861,8 @@ En el espacio de direccionamiento de un microprocesador 8080, la ROM está mapea
 %
 El objetivo del router es que cualquier paquete llegue a buen puerto TCP.
 %
+A los paquetes TCP se los lleva el router.
+%
 Con Jitsi Meet podremos ofrecer clases virtuales, establecer enlaces cifrados con terceros, presentar el contenido de nuestra pantalla o aplicaciones en él, "dar la palabra" autorizando el uso del micrófono (o "cerrar " micrófono o webcam).
 %
 Cualquiera puede hacer videoconferencia ahora mismo sin tener que desplegar infraestructura de servidor alguna; simplemente apuntando el navegador a una web servida por Jitsi que haya sido creada de antemano.
@@ -1958,6 +1964,8 @@ La insurrección telemática y un clúster del pueblo libre no son sólo natural
 Toda programación genuina se origina de la compilación in mente.
 %
 Esta lucha requiere una Masa de Hackers decididos y organizados, una CPU lo suficientemente fuerte, enlaces adecuados para el asalto telemático, y los recursos de almacenamiento suficiente para sostener operaciones indefinidas.
+%
+Sobrecarga la CPU del oligarca. AL DOBLE.
 %
 La acumulación de Pings aumenta el Lag. Multiplicarlos por diez, cien, o cien mil millones logra la victoria.
 %
@@ -2121,7 +2129,7 @@ Los lenguajes de alto nivel proveen un marco de trabajo para el programa complet
 %
 Contrarresta la ineficiencia de la transformación del código fuente al lenguaje máquina con la facilidad de uso de un lenguaje de alto nivel.
 %
-La llamada de subrutinas en lenguaje máquina no sólo es útil para escribir rutinas propias en lenguaje máquina, sino que permite controlar casi todas las funcionalidades del hardware (incluyendo entrada y salida directa a sus periféricos).
+La llamada a subrutinas en lenguaje máquina no sirve sólo para escribir rutinas propias en dicho lenguaje, sino que otorga control sobre casi todas las funcionalidades del hardware (incluyendo entrada y salida directa a sus periféricos).
 %
 Nadie evalúa un hardware al límite con su primer programa "Hola Tercer Mundo!"; eso lleva tiempo y práctica.
 %
@@ -2389,7 +2397,7 @@ Tenemos que convencernos para siempre: el software será de los pueblos si los p
 %
 Cada uno debe empezar a dar de sí todo el código que pueda dar, y aún más. Solo así construiremos el Pubnix que deseamos, no para nosotros, sino para los que vendrán después, los programadores del mañana.
 %
-Lo único que debemos hacer es adquirir plena conciencia del código que poseemos y no olvidarnos de que nadie puede distribuir sin acercarnos sus modificaciones, que nadie puede hacer tampoco nada que contrario a la GPLv3.
+Lo único que debemos hacer es adquirir plena conciencia del código que poseemos y no olvidarnos de que nadie puede distribuir sin acercarnos sus modificaciones, que nadie puede hacer tampoco nada que contraríe a la GPLv3.
 %
 No alcanzarán los bugs para colgar a los Window$.
 %
@@ -3788,7 +3796,7 @@ La CPU no anhela, el código fuente lo hace.
 %
 En el código fuente, mantente en lo simple.
 %
-En el software, se justo y generoso.
+En el software, sé justo y generoso.
 %
 En el Pubnix, compila lo que disfrutes.
 %
@@ -3910,7 +3918,7 @@ Cuando las luces parpadean, datos traen.
 %
 No necesito ver el repositorio para saber que tiene software libre.
 %
-La NTFS de Window$ tiene un escalafón escalofriante: al Sector Failure se lo de golpe se lo asciende a General Failure.
+La NTFS de Window$ tiene un escalafón escalofriante: al Sector Failure de golpe se lo asciende a General Failure.
 %
 Cambia tiempo de programación por tiempo de ejecución.
 %
@@ -4557,7 +4565,7 @@ No consuma ciclos de computadora sin tener una muy buena razón para ello.
 %
 A la hora de la insurrección telemática, los pubnix no serán neutrales.
 %
-La manera de aplastar a Appl€ es hacierla sidra mediante clones de sus aplicaciones liberados bajo GPLv3.
+La manera de aplastar a Appl€ es hacerla sidra mediante clones de sus aplicaciones liberados bajo GPLv3.
 %
 Dénme su código fuente y en una generación compilaré un sistema operativo libre.
 %
@@ -4607,6 +4615,8 @@ Depurando es como se programa.
 %
 Cuando el tiempo de formatear Window$ llegue, no faltará el bruto que quiera cobrarnos los discos.
 %
+No soluciona el problema del software privativo cambiar un software privativo por otro software privativo.
+%
 Sólo aboliendo las patentes del software es que podremos resolver el problema del software privativo.
 %
 La mejor estrategia para instalar GNU es posponer el formateo de Window$ hasta que la desintegración del mismo convierta su reemplazo en un deseo ardiente, tanto para quien lo pagó, como para quien lo pirateó.
@@ -4652,6 +4662,8 @@ Un hacker puede controlar una CPU, pero dificilmente pueda controlar su pasión 
 Este es nuestro mundo ahora. El mundo del electrón y del conmutador, la belleza del baudio.
 %
 Quien ve la belleza en el electrón, ve la belleza en el cuanto.
+%
+La belleza perece en la vida, pero es inmortal en el software libre.
 %
 El conformismo lleva al aburrimiento, a fumar, a la programación de software privativo, y otros malos hábitos.
 %
@@ -4810,6 +4822,8 @@ No hay revolución en las redes sin hackers.
 Trabajamos para que el 0 sea 1, y el 1 sea 0.
 %
 Mataría mi proceso antes de compilar un software con EULA que se pudiera interpretar por ambición.
+%
+Sé amable con tu proceso, pero si no muere, mátalo.
 %
 Puedo atender mis necesidades con la mitad de la RAM que poseo.
 %
@@ -5401,7 +5415,7 @@ La primer política de "uso aceptable" limitaba la ARPANET a los investigadores 
 %
 La Fundación Nacional de la Ciencia experimentó una red de alta velocidad para conectar los centros de supercomputadoras de los EE.UU. a principios de los 80s.
 %
-La red de supercómputo científico NSFNET entró en funcionamiento en 1986 y se convirtió en la columna vertebral de la Internet, con una velocidad de 1 Megabit por segundo.
+La red de supercómputo científico NSFNET entró en funcionamiento en 1986 con una velocidad de 1 Megabit por segundo, y se convirtió en la columna vertebral de la Internet.
 %
 La red de datos ARPANET fue dada de baja honrosamente en marzo de 1990.
 %
@@ -5701,7 +5715,7 @@ Aprende a salir de Vim y comprenderás la única verdad.
 %
 Existe sólo una manera sana de desconectarte, pero infinitas insanas.
 %
-El manual de enseñanza, la ingeniería inversa, comprensión.
+Al manual de enseñanza y la ingeniería inversa, comprensión.
 %
 El usuario aprende el programa, el hacker lo comprende.
 %
@@ -5837,7 +5851,7 @@ El Sabotaje Algorítmico forma parte de un amplio Movimiento autonomista social 
 %
 El Sabotaje Algorítmico emplea la reacción telemática violenta.
 %
-Conscientemente alineada con ideales de justicia social e igualitarismo, el Sabotaje Algorítimico ocasionalmente reacciona de forma directa y violenta.
+Conscientemente alineado con ideales de justicia social e igualitarismo, el Sabotaje Algorítimico ocasionalmente reacciona de forma directa y violenta.
 %
 El Sabotaje Algorítmico transforma radicalmente las estructuras tecnopolíticas, distanciándolas de las injusticias estructurales, perspectivas supremacistas y poderes necropolíticos autoritarios estratificados en las ciber-oligarquías.
 %
@@ -6265,6 +6279,8 @@ Uno de los principales medios ofensivos con que cuentan los Pueblos en la guerra
 Cuando el entretejido de relaciones humanas florece junto con el banco de datos, puede lograrse el potencial para el cambio cultural y político.
 %
 Publicar el código "para que te lo depuren por amor al arte" no le resultó a nadie que le gustara el dinero más que del código fuente. Tampoco a nadie que le gustara depurar.
+%
+El arte de depurar se aprende de los bugs.
 %
 El Capital se convierte con frecuencia en ladrón de nuestro código fuente.
 %
@@ -7088,7 +7104,7 @@ No existe humanidad digital sin el Estado.
 %
 La falta de financiación o apoyo infraestructural puede suponer una barrera insalvable para el trabajo en humanidades digitales.
 %
-La sensación de exclusión basada en el acceso a la infraestructura digital o la financiación se debe a que no se reconoce que muchas excluídos digitales ya realizan un trabajo valioso.
+La sensación de exclusión basada en el acceso a la infraestructura digital o la financiación se debe a que no se reconoce que muchos excluídos digitales ya realizan un trabajo valioso.
 %
 Los académicos que adoptan una infraestructura digital en forma de subvención prematura, podrían a cambio verse impedidos de adquirir conocimientos profundos concerniente a las mismas tecnologías que pretenden emplear, y - por extensión - a los medios para producir su propio conocimiento en humanidades digitales.
 %
