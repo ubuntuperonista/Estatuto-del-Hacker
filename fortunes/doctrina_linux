@@ -1062,6 +1062,10 @@ El anhelo de Justicia Social 2.0 es algo que no puede saciarse con aire y curars
 %
 Frente a las noxas que genera el software privativo, frente a los backdoors, la privatización del conocimiento y el ataque a la privacidad digital de los pueblos, los virus informáticos -como causas de inconvenientes- son unas pobres causas...
 %
+Cualquier profesional competente debe comprender que un sólido conocimiento técnico es la base de toda defensa contra virus.
+%
+Siempre habrá virus que los programas antivirus no puedan detectar.
+%
 Las puertas traseras para las autoridades son puertas traseras para todos.
 %
 Del mismo modo que no puede haber una política social sin una economía organizada en beneficio de la mayoría, sólo sirven las conquistas del software libre sobre nuestro hardware si éste es operativamente accesible al Pueblo.
@@ -1188,11 +1192,19 @@ La creación de virus informáticos cobró condición de necesidad, pues la luch
 %
 Un virus informático es un trozo de código de programación que adjunta copias de si mismo a otros programas, incorporándose a ellos de modo que - una vez modificados - estos se vean capaces de cumplir aún su función pensada, mientras que subrepticiamente realicen otras eventuales.
 %
+Un virus informático es un programa de computadora que se reproduce. Al ejecutarse, simplemente crea una o más copias de sí mismo. Dichas copias pueden ejecutarse posteriormente para crear aún más copias, indefinidamente.
+%
+Normalmente, un virus informático se adhiere a otro programa, o se instala en su interior, para facilitar su reproducción. Este enfoque distingue a los virus informáticos de otros programas que se reproducen a sí mismos, ya que les permite reproducirse sin el consentimiento del operador.
+%
 Los programas corrompidos por virus informáticos suelen buscar otros a los cuales adjuntar copias del virus, propagando de esta manera la infección.
 %
 Los virus informáticos más exitosos son aquellos que mantienen oculta su infiltración al sistema huésped, y sólo revelan su presencia en el daño desatado.
 %
+Los virus informáticos pueden, sin duda, introducirse en tu ordenador y hacer cosas que no quieres. Algunos de los más destructivos borrarán todo lo almacenado en tu disco duro, mientras que cualquiera de ellos consumirá al menos algunos ciclos de CPU aquí y allá.
+%
 Muy raramente pueden rastrearse los efectos de los virus informáticos hasta su originador. Por tal motivo constituyen armas atractivas en el arsenal de la guerrilla telemática.
+%
+Algunos programadores de virus informáticos tienen el único objetivo de destruir los datos de nuestro ordenador. Desean que sus virus sean experiencias memorables para nosotros.
 %
 Los virus de computadora contienen rutinas de intervención que por lo general modifican ficheros de programas que normalmente serían inocuos.
 %
@@ -1200,7 +1212,9 @@ El uso del camuflaje, el engaño, y la ofuscación electrónica sobresalen como 
 %
 Al invocar un programa infectado por un virus informático, este suele buscar otros ficheros almacenados a fin de en ellos replicarse a sí mismo.
 %
-La acción virósica de muchos virus informáticos se produce programando la inserción - en el punto de inicio del programa antiguo - de una instrucción de ramificación orientada hacia su propia copia localizada en algún otro lugar.
+La acción virósica de muchos virus informáticos se produce programando la inserción - en el punto de inicio del programa antiguo - de una instrucción de ramificación orientada hacia una propia copia localizada en algún otro lugar.
+%
+Los ejemplares que han dado a los virus informáticos el nombre de destructivos generalmente contienen bombas lógicas que se activan en una fecha determinada y luego muestran un mensaje o hacen algo molesto o desagradable.
 %
 Como la información compartida es información diseminada, un virus informático puede diseminarse al compartir información digitalizada.
 %
@@ -1209,6 +1223,8 @@ Un sistema multiusuario con facilidades de compartición de medios de almacenami
 El correo electrónico es un vector común de infección, especialmente cuando sus mas poderosos clientes terminan corriendo arbitrariamente microprogramas capaces de oficiar de virus.
 %
 Un Caballo de Troya es cualquier función subrepticia no deseada, insertada en un programa informático que aprovecha - por medio de ingeniería social sobre la confianza humana - el estado de confianza de su huésped maquinal.
+%
+El hecho de que un programa antivirus le ayude a identificar un virus no significa que le sea de mucha ayuda para deshacerse de él. Especialmente con las variedades menos comunes de virus, podría descubrir que el remedio es mucho peor que el propio virus.
 %
 Desarrollar virus informáticos en ensamblador, además de permitir descubrir las vulnerabilidades del sistema operativo oligárquico para atacarlo, permitía a su vez consagrar un sistema propio que fuese libre y absolutamente inmune a dichas noxas.
 %
@@ -3976,6 +3992,8 @@ La CPU está rodeada por elementos que no piensan sino en ocupar espacio y evita
 %
 Sabio es aquél que compila en su mente antes de escribir el programa.
 %
+La pregunta que realmente importa no es cómo las computadoras pueden enriquecernos o darnos poder sobre los demás, sino cómo pueden hacernos sabios.
+%
 La arquitectura es inmortal, eternamente servirá. El procesador, en cambio, es un producto que a lo sumo dura un poquito y se quema.
 %
 El programa debe expandirse en proporción a los recursos disponibles para que pueda ejecutarse.
@@ -4044,6 +4062,10 @@ Nunca interrumpas a Window$ mientras esté cometiendo errores.
 Vivimos en una era donde nuestra sociedad confía más y más en ordenadores con información clausurada, que en una monja de clausura.
 %
 Jamás cesará la amenaza de un usuario malicioso al sistema.
+%
+Debe ser capaz de gestionar una amenaza cuando se presente, lo que demanda conocimientos técnicos detallados.
+%
+Existen muchos casos en los que un fallo en la integridad de los datos informáticos podría costar, grandes sumas de dinero, provocar caos o incluso costar la vida. Utilízalo para combatir al Capital.
 %
 Al activar la funcionalidad de contraseña, se restringe el acceso no autorizado a la consola de terminal de computadora, mitigando de cierta manera los ataques telemáticos.
 %
@@ -4715,9 +4737,13 @@ Un compilador puede escoger cualquier forma arbitraria para interpretar el códi
 %
 El código de los virus informáticos más apreciados conjuga entendimiento técnico con la habilidad social de lograr ingenio, sorpresa y humor en su actuar inofensivo.
 %
+Después del susto de Michelángelo, el público en general se volvió cínico respecto a los virus de computadora, considerándolos un problema mucho más nimio de lo que a los expertos en antivirus les gustaría.
+%
 Jamás necesité cambiar lynx por Nutscrap€ Fornicator o Internet €xploiter.
 %
 ¿Qué otra cosa podría esperarse de un compilador diseñado en Nueva Jersey?
+%
+¿Sería posible un mundo completamente nuevo de formas de vida artificial electrónica, de las cuales los virus informáticos son solo la especie más rudimentaria?
 %
 El primer 90 porciento del código da cuenta del primer 90 porciento del tiempo de desarrollo. El 10 porciento del código restante da cuenta del otro 90 porciento del tiempo de desarrollo.
 %
@@ -4869,7 +4895,11 @@ Siento que su dignidad es atacada por el contenido de la EULA del software que t
 %
 En la guerra telemática, la CPU no es decisiva. Los hackers lo son.
 %
+En la guerra telemática, se depende cada vez menos de las computadoras y la información, y más de los hackers y del Pueblo.
+%
 El desarrollo de la guerra telemática se decide por sus hackers, no por dos o tres nuevas arquitecturas de cómputo.
+%
+Detener las computadoras o convencerlas de que reporten información errónea puede convertirse en una parte importante de cualquier estrategia para la Liberación del Tercer Mundo.
 %
 En la guerra telemática, los hackers se organizan en banda, pero los Ejércitos pueden organizar divisiones enteras que algunos pretenden imposibles de rodear. Esos ingenuos desconocen sin embargo el ataque de denegación de servicio tifón de baudios.
 %
@@ -4894,6 +4924,8 @@ Instala subrepticiamente firmware libre para dominar un router enemigo. A la hor
 A las GAFAM hemos de hacerle una guerra telemática lenta, pero que les resulte impunemente fatigosa y perjudicial.
 %
 Lanzo mis paquetes sobre sus routers como Güemes a sus infernales. Mi moro es sólo un 386sx.
+%
+Lanzados en guerra ¿qué hacen nuestros paquetes TCP, además de dañar programas y datos valiosos? Son implacables al intentar acceder a los recursos del sistema informático, y a menudo, cuanto más implacables son, más éxito tienen.
 %
 No dudes en volverte planero. Plan9 te permitirá realizar tu cómputo en comunidad.
 %
@@ -4961,7 +4993,13 @@ La telemática puede facilitar la llegada de una nueva sociedad, pero no puede e
 %
 En un tiempo fabricante de las máquinas, IBM pronto deseará administrar las telecomunicaciones. Seguirá una estrategia que le permita establecer una red de comunicaciones y controlarla.
 %
+El Estado Orwelliano es un monopolio de la información. Su poder se basa en saberlo todo sobre todos. Las armas de la información en manos del Pueblo podrían fácilmente convertirlo en algo imposible.
+%
 Cuando por ausencia de una política adecuada Googl€ tome la esfera tradicional de los poderes de un Gobierno, enhebrará alianzas para volverse en administrador de las redes del Estado, y prentenderá enlazarlas a los bancos de datos norteamericanos, aduciendo facilidad de acceso.
+%
+El Estado Orwelliano es vulnerable a ataques, y debe ser atacado.
+%
+Hay un momento en que las leyes que ordenan suministrar datos se vuelven inmorales, y obedecerlas es inmoral. En tal caso, luchar no solo contra las leyes individuales, sino contra todo el sistema que las crea, es bueno y correcto.
 %
 Unicamente a través de la acción del Pueblo, estandarizando las redes de datos, lanzando satélites de comunicación y creando bancos de datos a través de sus organizaciones, podrá conjugarse un modelo original de desarrollo que ofrezca soberanía tecnológica plena.
 %
@@ -5936,9 +5974,13 @@ Las redes de fibra óptica constituyen la más ancha alameda de la información.
 %
 En años recientes se ha vuelto aparente que la fibra óptica está reemplazando velozmente al cable de núcleo de cobre como medio apropiado para la transmisión de señales de comunicación.
 %
-De la misma manera que las oligarquías han esclavizado a sociedades a través de una red de caminos maquinadas para otorgarle una ilusión de libertad, una sociedad de consumo en línea sólo podrá transitar su vida sobre la ilusión que de los troncales de fibra óptica.
+De la misma manera que las oligarquías han esclavizado sociedades enteras a través de una red de caminos maquinadas para subrogarle una ilusión de libertad, una sociedad de consumo en línea sólo podrá transitar su existir sobre la ilusión que den los troncales de fibra óptica.
 %
 La sociedad del automóvil no se edificó únicamente sobre el desarrollo de los vehículos a motor, también requirió una red de caminos. La sociedad de la información requiere de los tendidos de fibra óptica.
+%
+La idea de que una computadora pudiera, de alguna manera, "cobrar vida" y volverse bastante autónoma del hombre era ciencia ficción de los años cincuenta y sesenta.
+%
+La vida basada en el carbono es tan compleja que resulta muy difícil experimentar con ella, excepto de forma rudimentaria. La vida artificial no tiene por qué ser tan compleja.
 %
 Los costos de las telecomunicaciones a través de llamadas de larga distancia por módem son prohibitivos. Los gobernos del mundo han de apoyar redes de paquetes conmutados, y unificarlas.
 %
@@ -6872,6 +6914,8 @@ En base a los registros rastros digitales que realicen las redes sociales basada
 %
 Las redes sociales basadas en empresas venden datos que le pertenecen a usted y análisis acerca de usted a otras empresas e incluso a gobiernos con fines de lucro.
 %
+No piense que el Gobierno dejará de recopilar información sobre usted, o de exigirle a usted (o su banco, compañía telefónica, etc.) que le envíe información sobre sí mismo.
+%
 Ciertos individuos pueden desear la información en poder de empresas que gestionan redes sociales en línea para acosar, chantajear, o espiar a miembros de sus organizaciones y sus redes afectivas.
 %
 Las ciber-oligarquías se han impuesto conocer los detalles íntimos de la vida de millones de personas a través de la recopilación de datos y su análisis.
@@ -7244,9 +7288,9 @@ Nuestro Movimiento impulsa la contratación pública para promover alternativas 
 %
 Nuestro Movimiento exalta la contratación pública como poderoso herramental estratégico para la implementación de soluciones digitales abiertas e interoperables, según las necesidades computacionales del Tercer Mundo.
 %
-Nuestro Movimiento exige que las normas de contratación incluyan condiciones vinculantes basadas en el complimiento de los derechos fundamentales, los derechos de los consumidores, y los más altos estándares de la protección de los datos para los Pueblos del Tercer Mundo.
+Nuestro Movimiento exige que las normas de contratación de la informática pública incluyan condiciones vinculantes basadas en el complimiento de los derechos fundamentales, los derechos de los consumidores, y los más altos estándares de la protección de los datos para los Pueblos del Tercer Mundo.
 %
-Hemos hecho rechinar nuestros módems contra la narrativa tecnosoucionista que impulsan las ciber-oligarquías.
+Hemos hecho rechinar nuestros módems contra la narrativa tecnosolucionista que impulsan las ciber-oligarquías.
 %
 Nuestro Movimiento reconoce las plataformas de redes sociales como infraestructura digital del Pueblo, y establece el pluralismo algorítmico como principio motor para engendrar tecnologías soberanas.
 %
