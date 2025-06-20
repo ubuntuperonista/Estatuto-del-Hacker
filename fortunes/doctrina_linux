@@ -696,7 +696,7 @@ Nunca le ha servido a nadie el software de otro.
 %
 Los EULA son como los dioses del Antiguo Testamento, repletos de reglas y faltos de piedad.
 %
-En computación no hay que emular experiencias. La experiencia es invalorable, pero también se encuentra situada en tiempo y espacio, y este es intransferible. Este insoslayable implicó aquél viejo apotegma que dice que la experiencia es un peine que la vida nos da cuando nos quedamos pelados.
+En computación no hay que emular experiencias. La experiencia es invalorable, pero también se encuentra situada en tiempo y espacio, y este es intransferible. Este insoslayable implica aquél viejo apotegma que dice que la experiencia es un peine que la vida nos da cuando nos quedamos pelados.
 %
 Emular es meter la mula.
 %
@@ -5047,7 +5047,7 @@ Unix ha retrasado 10 años la investigación en sistemas operativos. Linux la ha
 %
 Es mas fácil programar en un lenguaje que no tiene todo que en algunos que lo tienen.
 %
-Casi todo en la web usa estas dos cosas: C y Unix.
+Casi todo en la web usa estas dos cosas: C y GNU.
 %
 C++ y Java, presumiblemente pueden crecer más rápido que C, pero apuesto que C seguirá viviendo.
 %
@@ -5990,7 +5990,7 @@ Utilizando una herramienta de monitoreo pasiva, un fisgón puede registrar todos
 %
 Los datos que están encriptados simplemente pueden colectarse, y más tarde descifrar lo almacenado.
 %
-La información transmitida sin encriptación en las redes de datos pueden ser leídos fácilmente, incluso en tiempo real.
+La información transmitida sin encriptación en las redes de datos pueden ser leída fácilmente, incluso en tiempo real.
 %
 Las áreas muy pobladas como los centros de las ciudades o los campus universitarios pueden generar una densidad de puntos de acceso inalámbricos. No resulta descabellado que allí los usuarios de portátiles se asocien accidentalmente a la red equivocada.
 %
@@ -6089,7 +6089,7 @@ Todos los hackers pusieron su código a disposición de esta naciente comunidad 
 %
 En la guerra Unix, cada uno puso cuanto tenía, incluso código y binarios, y era de esperar que obtenido el triunfo, el beneficio habría de repartirse también poseyendo cada programador en la medida en que había perdido. Pero en la pirinola salió "Gana Torvalds".
 %
-Donde hay una Shell, hay una senda para la Liberación.
+Donde existe una Shell, hay un sendero luminoso para la Liberación.
 %
 Que la línea de comandos viva por siempre.
 %
@@ -6171,7 +6171,7 @@ El Sistema de Telefonía Móvil Avanzada (AMPS), no difería al indio gritando a
 %
 El 5G de alcance social ha dejado al 4G demoliberal probando la dieta de polvo.
 %
-Al protocolo de telefonía celular AMPS podríamos llamarlo 1G; ha sido superado por el GSM 2G, 3G, 4G y el 5G de alcance social.
+El protocolo de telefonía celular AMPS que podríamos llamar 1G, ha sido superado por el GSM 2G, 3G, 4G y el 5G de alcance social.
 %
 Corro como compilo.
 %
@@ -6870,7 +6870,7 @@ La compilación popular se hace posible cuando nos atrevemos a hackear la "shell
 %
 En el kernel de GNU, las periferias de la existencia son el centro: el Hurd está poblado de servicios que se hallan en los márgenes, en los confines, pero que son convocadas por GNU y se convierten en protagonistas del software que el GCC ha venido a compilar.
 %
-La belleza de compartir no se experimenta tanto en los grandes binarios y ejecuciones, sino más bien en compartir y compilar compartir el código que día a día nos esforzamos por modificar.
+La belleza de compartir no se experimenta tanto en los grandes binarios y ejecuciones, sino más bien en compilar y compartir el código que día a día nos esforzamos por modificar.
 %
 Un pueblo que compila tiene futuro.
 %
