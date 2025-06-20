@@ -117,3 +117,24 @@ _____________________________________
    \        \   \/   _/        /
     \_____   \  /   /   ______/
 ```
+O más fácil aún: puedes hacer todo automatizado ingresando simplemente:
+
+<code bash>vaca</code bash>
+
+```
+ __________________________________
+/ IA adoctrinada con Justicialismo \
+\ producirá Justicia Social.       /
+ ----------------------------------
+   \
+    \  ,,~~~,       .
+      (( 6,6)  __ ,ml
+      @"\_g/  {FF}:_;
+       /"\"/;--TT/ /
+      | 1_Y+-+"||""
+      -----"-" ||
+       >   <   ||
+      /     \  || 
+----------------------+
+                      |
+```
