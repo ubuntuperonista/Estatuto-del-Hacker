@@ -35,10 +35,12 @@ sudo cp /tmp/Estatuto-del-Hacker/cows/*.cow /usr/share/cowsay/cows/ ;
 cd /usr/share/games/fortunes/es/ ;
 sudo strfile /usr/share/games/fortunes/es/doctrina ;
 sudo strfile /usr/share/games/fortunes/es/rms ;
+sudo strfile /usr/share/games/fortunes/es/theo ;
 sudo cp /tmp/Estatuto-del-Hacker/doctrina.sh /usr/local/bin/doctrina ;
 sudo cp /tmp/Estatuto-del-Hacker/vaca.sh /usr/local/bin/vaca ;
 sudo cp /tmp/Estatuto-del-Hacker/rms.sh /usr/local/bin/rms ;
-sudo chmod +x /usr/local/bin/doctrina /usr/local/bin/vaca /usr/local/bin/rms ;
+sudo cp /tmp/Estatuto-del-Hacker/theo.sh /usr/local/bin/theo ;
+sudo chmod +x /usr/local/bin/doctrina /usr/local/bin/vaca /usr/local/bin/rms /usr/local/bin/theo  ;
 sudo cp /tmp/Estatuto-del-Hacker/actualizar_doctrinas.sh /usr/local/sbin/actualizar_doctrinas ;
 sudo chmod +x /usr/local/sbin/actualizar_doctrinas
 ```
@@ -60,6 +62,7 @@ sudo cp /tmp/Estatuto-del-Hacker/vaca.sh /usr/local/bin/vaca
 cd /usr/share/games/fortune/ ;
 sudo strfile /usr/share/games/fortune/doctrina ;
 sudo strfile /usr/share/games/fortune/rms
+sudo strfile /usr/share/games/fortune/theo
 ```
   
 ## Uso
