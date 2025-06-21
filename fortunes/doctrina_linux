@@ -433,7 +433,7 @@ Módem que no chilla, no conecta.
 A módem rápido, ruido de línea.
 %
 El ruido de línea es una perturbación eléctrica en algún punto entre su computadora y la otra máquina con la que se esté comunicando.
-&
+%
 El ruido de línea corrompe los datos.
 %
 Cuando se produzca el ruido de línea, verás símbolos inciertos en tu terminal, en lugar de los caracteres que cabría esperar.
@@ -1094,7 +1094,15 @@ Las secuencias de ejecución no son sonidos digitalizados propiamente dichos, si
 %
 Vivimos una era tecnológica en la que las máquinas tocan cada parte de nuestras vidas e incluso reverberan en el alma. Por lo tanto, no debería soprendernos que la música haya sido también influenciada por la tecnología.
 %
-MIDI propuso un código fuente estándar para la música computada, parte de un lenguaje interpretable.
+La música electrónica y la producción de partituras basadas en computadoras existeron por décadas, y florecieron en los 70s, pero el equipamiento era tan costoso que sólo académicos y artistas avant-garde podían experimentar con ella.
+%
+La primer IBM PC podía producir clicks y beeps a través de un altavoz de 50 centavos, apenas capaz de generar tonos suficientes para concertar simples melodías. Sin embargo, este audio descamisado difícilmente podía ser llamado música, ni producir voz inteligible o efectos de sonido decentes.
+%
+Tras la introducción de la PC en 1981, varios músicos repararon en la humildad de su audio. La computadora personal debería ser capaz de concertar melodías superiores, después de todo - opinaban - ordenadores de Atari, Apple y Commodore eran capaces de hacerlo.
+%
+Las ventas de placas de sonido se aceleraron a finales de los 80s, y comenzaron realmente a despegar en los 90s, impulsadas por las ventas masivas de software lúdico para PC.
+%
+El estándar MIDI propuso un código fuente estándar para la música computada, parte de un lenguaje interpretable.
 %
 El sonido digitalizado comprende un muestreo numérico de vibraciones sonoras (con o sin compresión por pérdida), y como tales, los datos ocupan una cuantiosa cantidad de memoria en el ordenador.
 %
@@ -1363,7 +1371,7 @@ La tecnología ADSL (Línea de Abonado Digital Asimétrica) proporciona acceso d
 La tecnología ADSL obtiene su alta velocidad mediante el uso de ancho de banda de frecuencias por arriba de la banda de voz no utilizada anteriormente.
 %
 La señal ADSL utiliza una frecuencia diferente de la señal de voz que permite coexistir con su servicio telefónico en la misma línea.
-&
+%
 El servicio ADSL es asimétrico en el sentido que ofrece una velocidad de transferencia de datos mayor en la dirección de bajada (recepción) que en la dirección de subida (transmisión).
 %
 La operación asimétrica del servicio ADSL es ideal para el uso en oficinas pequeñas y hogares, donde es más frecuente usar líneas de par de cobre para descargar información y archivos.
@@ -3598,7 +3606,7 @@ El acceso a los recursos informativos y los medios de comunicación constribuye 
 %
 La difusión de información permite al Pueblo beneficiarse de un aprendizaje y una educación a lo largo de toda la vida.
 %
-La información sobre los logros de los hackers hace posible que todos participen de manera constructiva en la creación de un entoprno de red social propio.
+La información sobre los logros de los hackers hace posible que todos participen de manera constructiva en la creación de un entorno de red social propio.
 %
 El acceso equitativo al patrimonio cultural y científico del Pueblo es un derecho, y contribuye a promover el aprendizaje y la comprensión de la riqueza y diversidad que goza su software.
 %
@@ -7111,7 +7119,7 @@ Irrespeta la tecnología de la oligarquía.
 Es necesario desobedecer a la tecnología oligárquica.
 %
 Fomenta la desobediencia tecnológica.
-&
+%
 Si te oprimen con tecnología, suma tus invenciones al cotraataque.
 %
 Irrespeta el concepto de autoridad que intenten emanar los objetos tecnológicos.
