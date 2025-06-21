@@ -25,10 +25,12 @@ mv $PREFIX/tmp/theo2 $PREFIX/share/games/fortunes/theo
 echo "Creando ejecutables..."
 echo "fortune $PREFIX/share/games/fortunes/doctrina" > $PREFIX/bin/doctrina
 echo "fortune $PREFIX/share/games/fortunes/rms" > $PREFIX/bin/rms
+echo "fortune $PREFIX/share/games/fortunes/theo" > $PREFIX/bin/theo
 wget https://caja.texto-plano.xyz/peron/fortune-phrases/vaca_android.sh
 mv vaca_android.sh $PREFIX/bin/vaca
 chmod +x $PREFIX/bin/doctrina
 chmod +x $PREFIX/bin/rms
+chmod +x $PREFIX/bin/theo
 chmod +x $PREFIX/bin/vaca
 
 #Dispara una fortune adoctrinante de demostración
