@@ -5,6 +5,8 @@ echo "Descargando Fortunes para Android..."
 cd $PREFIX/tmp/ ;
 wget https://caja.texto-plano.xyz/peron/fortune-phrases/doctrina2
 wget https://caja.texto-plano.xyz/peron/fortune-phrases/rms2
+wget https://caja.texto-plano.xyz/peron/fortune-phrases/theo2
+
 
 echo "Descargando cowfiles para Android..."
 wget https://caja.texto-plano.xyz/peron/fortune-phrases/cows/cows.tar.gz
@@ -17,6 +19,8 @@ rm -r $PREFIX/tmp/cows
 echo "Moviendo fortunes..."
 mv $PREFIX/tmp/doctrina2 $PREFIX/share/games/fortunes/doctrina
 mv $PREFIX/tmp/rms2 $PREFIX/share/games/fortunes/rms
+mv $PREFIX/tmp/theo2 $PREFIX/share/games/fortunes/theo
+
 
 echo "Creando ejecutables..."
 echo "fortune $PREFIX/share/games/fortunes/doctrina" > $PREFIX/bin/doctrina
