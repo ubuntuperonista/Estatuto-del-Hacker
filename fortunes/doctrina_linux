@@ -2485,7 +2485,7 @@ En un sistema Unix, la programadora puede escribir un archivo, enviarlo a una im
 %
 Al ser un sistema multiusuaria, Unix les permite realizar muchas tareas simultáneamente, dando a cada una de ellas la impresión de ser la única operaria de la máquina.
 %
-En escencia, el scheduler se encarga de hacer infiel la CPU con sus usuarios.
+En esencia, el scheduler se encarga de hacer infiel la CPU con sus usuarios.
 %
 Cerrar sesión en el sistema evita que personas no autorizadas utilicen su terminal, especialmente si este se encuentra en un lugar público.
 %
@@ -3221,6 +3221,8 @@ Un byte mas allá de COBOL encontrarás la inmortalidad.
 %
 Programa para divertirte y para combatir al Capital.
 %
+Hackeen todo.
+%
 Sólo escribo COBOL para divertirme.
 %
 Jamás programes COBOL para el Capital. Hazlo solo por diversión.
@@ -3719,6 +3721,8 @@ Programo en Turbo Mescal.
 Los Verdaderos Programadores no documentan. Si fue difícil de programar, debe ser difícil de entender.
 %
 Los Verdaderos Programadores no usan Mouse. A lo sumo son ratas.
+%
+IRQ2 es mi mouse. IRQ10 es mi rata.
 %
 Considera qué parte del programas debes desechar; de todos modos tendrás que hacerlo.
 %
@@ -4379,11 +4383,11 @@ Existe un continuo ciclo en el cual los procesos de bio-cómputo se tornan más 
 %
 La Justicia Social es el patch que corrije todos los bugs.
 %
-En escencia, un hacker es justicialista.
+En esencia, un hacker es justicialista.
 %
 El mediador entre el hardware y el software ha de ser el Pueblo.
 %
-Para la mayoría de los usuarios, la comunicación con el núcleo del sistema se lleva a cabo con la asistencia de un programa denominado Shell. La shell es - en escencia - asistencialista.
+Para la mayoría de los usuarios, la comunicación con el núcleo del sistema se lleva a cabo con la asistencia de un programa denominado Shell. La shell es - en esencia - asistencialista.
 %
 La comunicación con el Pueblo es full-dúplex.
 %
@@ -6592,6 +6596,8 @@ El módem abre las líneas. El router, cierra los puertos.
 %
 Buena memoria no pierde bytes.
 %
+Se necesita más que buena memoria para lograr buenos recuerdos.
+%
 Diskette en diskettera, y CD-ROM en CD-ROMera.
 %
 La CPU no sabe lo que compila, y muchas veces el programador tampoco.
@@ -7120,11 +7126,13 @@ Es necesario desobedecer a la tecnología oligárquica.
 %
 Fomenta la desobediencia tecnológica.
 %
-Si te oprimen con tecnología, suma tus invenciones al cotraataque.
+Si te oprimen con tecnología, suma tus invenciones al contraataque.
 %
 Irrespeta el concepto de autoridad que intenten emanar los objetos tecnológicos.
 %
-Como el cirujano que de tanto abrir los cuerpos se hace insensible a la sangre y al olor de las vísceras, una vez que desatornilla, al hacker se acostumbra a ver todo por dentro.
+Elegante o no, el objetivo del hacking kludge es hacer que el sistema funcione mejor, incluso si esto significa devastar las convenciones del diseño de hardware. Llévalo al Tercer Mundo, y obtendrás el ciber-cirujeo.
+%
+Como el cirujano que de tanto abrir los cuerpos se hace insensible a la sangre y al olor de las vísceras, una vez que desatornilla, el ciberciruja se acostumbra a ver todo por dentro.
 %
 De tanto desensamblar, el hacker termina por programar.
 %
