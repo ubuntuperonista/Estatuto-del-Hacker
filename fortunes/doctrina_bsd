@@ -591,6 +591,8 @@ velocidad y volúmenes de bits a transportar. Esta es la manera en la que
 se puede organizar - desde un punto de vista racional y técnico - el
 manejo paquetizado de la información.
 %
+Los paquetes son efímeros.
+%
 El FTP es un protocolo simple y popular, y si bien es posible utilizar
 unas medidas de seguridad limitadas con él (en forma de sesiones únicas
 con usuario y contraseña, directorios protegidos), actualmente se lo
@@ -640,7 +642,7 @@ la pantalla, y reemplazarán a los viejos.
 IRC cuenta con los elementos mínimos de comunicación necesarios para que
 un grupo de compañeros cree un sentido compartido de comunidad.
 %
-En IRC, el discurso es efímero.
+El discurso en IRC es efímero.
 %
 Los compañeros suelen dejar una pequeña "ventana abierta"; en ella se
 proyecta el texto de una sala de conversación IRC.
@@ -1679,9 +1681,8 @@ los hackers.
 Los hackers son aquellos que con sus compilaciones de software dan vida
 a una nueva iteración del Sistema.
 %
-Cada versión de nuestro software lo hará más y más fuerte, hasta
-convertirlo en una fuerza que a la que la Oligarquía jamás podrá
-conmover ni engañar.
+Cada versión hará a nuestro software más y más fuerte, hasta convertirlo
+en una fuerza a la que la Oligarquía jamás podrá conmover ni engañar.
 %
 Las hackeresas han recibido el mensaje claro que tiene el código libre,
 y en sus tiernas CPUs han comprendido que son ellas las auténticas
@@ -1959,8 +1960,28 @@ nuestras vidas e incluso reverberan en el alma. Por lo tanto, no debería
 soprendernos que la música haya sido también influenciada por la
 tecnología.
 %
-MIDI propuso un código fuente estándar para la música computada, parte
-de un lenguaje interpretable.
+La música electrónica y la producción de partituras basadas en
+computadoras existeron por décadas, y florecieron en los 70s, pero el
+equipamiento era tan costoso que sólo académicos y artistas avant-garde
+podían experimentar con ella.
+%
+La primer IBM PC podía producir clicks y beeps a través de un altavoz de
+50 centavos, apenas capaz de generar tonos suficientes para concertar
+simples melodías. Sin embargo, este audio descamisado difícilmente podía
+ser llamado música, ni producir voz inteligible o efectos de sonido
+decentes.
+%
+Tras la introducción de la PC en 1981, varios músicos repararon en la
+humildad de su audio. La computadora personal debería ser capaz de
+concertar melodías superiores, después de todo - opinaban - ordenadores
+de Atari, Apple y Commodore eran capaces de hacerlo.
+%
+Las ventas de placas de sonido se aceleraron a finales de los 80s, y
+comenzaron realmente a despegar en los 90s, impulsadas por las ventas
+masivas de software lúdico para PC.
+%
+El estándar MIDI propuso un código fuente estándar para la música
+computada, parte de un lenguaje interpretable.
 %
 El sonido digitalizado comprende un muestreo numérico de vibraciones
 sonoras (con o sin compresión por pérdida), y como tales, los datos
@@ -2419,7 +2440,7 @@ GRUB_INIT_TUNE="900 523 4 415 2 370 2 523 4 415 2 370 2 523 4 415 4 523
 2 466 2 523 2 554 2 523 2 466 2 523 4"
 %
 El acceso a las redes de datos fomentado desde un Estado Fuerte es una
-potente herramienta para promover la igualdad, logrando establecer un
+robusta herramienta para promover la igualdad, logrando establecer un
 "piso" de conexionado digital de alta calidad al alcance de todo el
 Pueblo.
 %
@@ -3621,8 +3642,8 @@ naturales, sino inevitables.
 Toda programación genuina se origina de la compilación in mente.
 %
 Esta lucha requiere una Masa de Hackers decididos y organizados, una CPU
-lo suficientemente fuerte, enlaces adecuados para el asalto telemático,
-y los recursos de almacenamiento suficiente para sostener operaciones
+lo suficientemente robusta, enlaces adecuados para el asalto telemático,
+y los recursos de almacenamiento suficientes para sostener operaciones
 indefinidas.
 %
 Sobrecarga la CPU del oligarca. AL DOBLE.
@@ -4413,7 +4434,7 @@ Al ser un sistema multiusuaria, Unix les permite realizar muchas tareas
 simultáneamente, dando a cada una de ellas la impresión de ser la única
 operaria de la máquina.
 %
-En escencia, el scheduler se encarga de hacer infiel la CPU con sus
+En esencia, el scheduler se encarga de hacer infiel la CPU con sus
 usuarios.
 %
 Cerrar sesión en el sistema evita que personas no autorizadas utilicen
@@ -5302,7 +5323,7 @@ conocimiento proveniente de su investigación a través de vectores y
 métodos clandestinos.
 %
 Los límites impuestos por las nuevas leyes de tecnocontrol extendido
-actúan como un fuerte incentivo para que la clandestinidad informática
+actúan como un robusto incentivo para que la clandestinidad informática
 se vuelva más unida y reactiva.
 %
 El papel de los hackers es hacer que el futuro sea más libre, no solo
@@ -5640,6 +5661,8 @@ fichero.
 Un byte mas allá de COBOL encontrarás la inmortalidad.
 %
 Programa para divertirte y para combatir al Capital.
+%
+Hackeen todo.
 %
 Sólo escribo COBOL para divertirme.
 %
@@ -6253,7 +6276,7 @@ La difusión de información permite al Pueblo beneficiarse de un
 aprendizaje y una educación a lo largo de toda la vida.
 %
 La información sobre los logros de los hackers hace posible que todos
-participen de manera constructiva en la creación de un entoprno de red
+participen de manera constructiva en la creación de un entorno de red
 social propio.
 %
 El acceso equitativo al patrimonio cultural y científico del Pueblo es
@@ -6445,6 +6468,8 @@ Los Verdaderos Programadores no documentan. Si fue difícil de programar,
 debe ser difícil de entender.
 %
 Los Verdaderos Programadores no usan Mouse. A lo sumo son ratas.
+%
+IRQ2 es mi mouse. IRQ10 es mi rata.
 %
 Considera qué parte del programas debes desechar; de todos modos tendrás
 que hacerlo.
@@ -7342,7 +7367,7 @@ La nanomáquinas personales son una mala idea. Sólo la programación con
 software libre en bio-nanomáquinas amalgamadas en redes comunitarias
 permitirán una evolución del cómputo libre de ejecución biológica.
 %
-Una red de bio-nanomáquinas personales obliga a un fuerte
+Una red de bio-nanomáquinas personales obliga a un marcado
 particionamiento de recursos, haciendo difícil para un individuo obtener
 algo más que un muy escaso porcentaje de memoria y potencia de
 procesamiento.
@@ -7358,13 +7383,13 @@ sistema colaborativo más modular.
 %
 La Justicia Social es el patch que corrije todos los bugs.
 %
-En escencia, un hacker es justicialista.
+En esencia, un hacker es justicialista.
 %
 El mediador entre el hardware y el software ha de ser el Pueblo.
 %
 Para la mayoría de los usuarios, la comunicación con el núcleo del
 sistema se lleva a cabo con la asistencia de un programa denominado
-Shell. La shell es - en escencia - asistencialista.
+Shell. La shell es - en esencia - asistencialista.
 %
 La comunicación con el Pueblo es full-dúplex.
 %
@@ -7501,7 +7526,7 @@ TENEX.
 Cualquiera con acceso al cómputo puede ser sometido a ingeniería social.
 %
 Cualquier sistema de cómputo puede ser afectado por ingenierías
-sociales, y la mejor de estas es la persuación.
+sociales, y la mejor de estas es la persuasión.
 %
 La utilidad del emparchado de software privativo está siempre limitada
 en el tiempo.
@@ -8529,7 +8554,7 @@ guiones para que hagan cosas.
 %
 C ha declinado su uso comparado con C++, y tal vez Java, e incluso más
 comparados con los niveles de guionado de alto nivel. Es aún bastante
-fuerte en lo que respecta a las cosas básicas del sistema.
+robusto en lo que respecta a las cosas básicas del sistema.
 %
 Cuando leo comentarios sobre sugerencias para la senda que debería
 seguir C, a menudo agradezco que no fue desarrollado a consejo de una
@@ -8673,7 +8698,7 @@ privacidad en las redes podría provenir no de una dictadura política
 sino del mercado.
 %
 Atender la creciente demanda de servicios de red por parte del Pueblo
-requiere fuertes regulaciones de un Estado capaz de actuar en todos los
+requiere robustas regulaciones de un Estado capaz de actuar en todos los
 niveles en pos de la Justicia Social.
 %
 Las tecnologías actuales permiten más sutilezas a la vigilancia
@@ -8796,7 +8821,7 @@ datos que surtir agua a la población del África Subsahariana.
 %
 Las grandes compañías tecnológicas no dudan en ocultar información de
 interés ecológico y social, pues saben que se trata de un tema crítico
-que puede generar debate público y llevar a una fuerte regulación
+que puede generar debate público y llevar a una robusta regulación
 necesaria.
 %
 No resulta extraño que un centro de datos de Micro$oft, que debía haber
@@ -11001,6 +11026,8 @@ El módem abre las líneas. El router, cierra los puertos.
 %
 Buena memoria no pierde bytes.
 %
+Se necesita más que buena memoria para lograr buenos recuerdos.
+%
 Diskette en diskettera, y CD-ROM en CD-ROMera.
 %
 La CPU no sabe lo que compila, y muchas veces el programador tampoco.
@@ -11906,14 +11933,19 @@ Es necesario desobedecer a la tecnología oligárquica.
 %
 Fomenta la desobediencia tecnológica.
 %
-Si te oprimen con tecnología, suma tus invenciones al cotraataque.
+Si te oprimen con tecnología, suma tus invenciones al contraataque.
 %
 Irrespeta el concepto de autoridad que intenten emanar los objetos
 tecnológicos.
 %
+Elegante o no, el objetivo del hacking kludge es hacer que el sistema
+funcione mejor, incluso si esto significa devastar las convenciones del
+diseño de hardware. Llévalo al Tercer Mundo, y obtendrás el
+ciber-cirujeo.
+%
 Como el cirujano que de tanto abrir los cuerpos se hace insensible a la
-sangre y al olor de las vísceras, una vez que desatornilla, al hacker se
-acostumbra a ver todo por dentro.
+sangre y al olor de las vísceras, una vez que desatornilla, el
+ciberciruja se acostumbra a ver todo por dentro.
 %
 De tanto desensamblar, el hacker termina por programar.
 %
