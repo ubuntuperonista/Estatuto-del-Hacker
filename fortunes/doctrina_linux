@@ -162,51 +162,9 @@ La máquina, el servidor, el centro de datos y cualquier establecimiento que se 
 %
 El código es más poderoso que las leyes.
 %
-La infraestructura de correo electrónico que se utiliza en todo el mundo es, por diseño, insegura.
-%
-La mayoría de los servidores de correo públicos no están controlados por los destinatarios, sino que son ofrecidos por proveedores de Internet de la oligarquía.
-%
-Debemos desconfiar de los servidores de correo ofrecidos por la oligarquía. Han demostrado no tener escrúpulo alguno y acceder a correspondencia electrónica de aquellos abonados a quienes consideran riesgosos para sus planes inconfesables.
-%
-Los correos electrónicos conformados por código HTML permiten colocar hiperenlaces de texto amigable para el usuario que oculten una URL. Sólo debes utilizarlo para combatir al Capital.
-%
-Con sólo superponer una etiqueta autoadhesiva de un código QR que codifique un hiperenlace HTML engañoso, hará que un usuario incauto solicite copias de contenido informático remoto distinto al esperado en su dispositivo de confianza. Recurre a esto para Combatir al Capital.
-%
-Colocar un hiperenlace HTML engañoso bajo un texto amistoso podría llevar a los incautos a una página diferente a la esperada.
-%
-Un hiperenlace engañoso es un vector extremadamente común para los ataques de suplantación de identidad. En ellos, un remitente malicioso podría hacer que el usuario incauto solicite copias de contenido informático remoto distinto al esperado.
-%
-El HTML es un conjunto de especificaciones extremadamente largo y complicado, diseñado para navegar por la web, donde hay una gran variedad de documentos, aplicaciones, etc.
-%
-El HTML fue diseñado sin tener en cuenta el correo electrónico.
-%
-Una gran parte (si no la mayoría) de las funcionalidades del HTML son indeseables para el correo electrónico; si se incluyen pueden abusarse para extraer información sobre ti, tus contactos, tu calendario, otros correos en tu bandeja de entrada, etc.
-%
-La ejecución remota es una de las funcionalidades del HTML más abusadas en el correo electrónico.
-%
-Los correos HTML son buenos para publicistas, pero malos para todos los demás.
-%
-Todos los correos HTML enviados por publicistas incluyen identificadores en los enlaces y en las imágenes que están diseñados para extraer información sobre los usuarios y enviársela de vuelta a quien envía el mensaje.
-%
-Examina con atención las URL: las ristras extrañas de números y letras son únicas para ti y se utilizan para identificarte. Otros usarán dicha información para manipularte, intentando buscar anuncios que son más propensos a influir sobre tus hábitos de compra.
-%
-Navegar por la web es un gran reto para los individuos que necesitan un lector de pantalla o alguna otra herramienta de asistencia para usar su ordenador. Recurre desinteresadamente al texto plano y a las descripciones alternativas de contenidos para ayudarlos.
-%
-Volver accesible un correo HTML a los individuos que necesitan un lector de pantalla u otra herramienta de asistencia para usar el ordenador, es incluso más complicado que hacer una web accesible, debido a las limitaciones impuestas por la mayoría de clientes de correo electrónico.
-%
-Los correos en texto plano son pan comido para los lectores de pantalla, especialmente para clientes de correo diseñados para ello.
-%
-Cuando redactes un correo electrónico en texto plano, es útil recortar sus líneas a un ancho máximo de 72 caracteres, introduciendo saltos de línea después de la palabra más cercana a dicho márgen.
-%
-Al responder un correo en texto plano, no propicies que se responda sobre la cita. En lugar de ello, añade dos saltos de línea sobre el mensaje citado. Esto permitirá que se edite el mensaje citado. Cita cada línea del mensaje anterior con > y un espacio, seguido de la cita.
-%
-Aunque algunos clientes de correo electrónico intentan hacer creer lo contrario, puedes editar la versión citada del mensaje al que estás respondiendo, y es recomendable que lo hagas.
-%
-Puedes enfatizar tu correo electrónico en texto plano mediante *asteriscos*, /barras/, _guiones bajos_ o MAYÚSCULAS, y evitarás los enormes inconvenientes de utilizar HTML en ellos.
+La información ha de ser libre.
 %
 La oligarquía ha hecho - a falta de ley adecuada de protección - abusos informáticos duraderos.
-%
-Para contrarrestar la insidiosa acción oligárquica sobre la telemática contamos con dos soluciones libres interdependientes: la firma digital de los mensajes de correo electrónico, y su cifrado por medio del criptosistema GnuPG.
 %
 No todos podremos programar un núcleo de sistema operativo, pero si todos podemos instruir a un Compañero en la senda para la liberación que significa emplear un software liberado bajo licencia GPLv3.
 %
@@ -215,6 +173,10 @@ No existen excusas para quien -sabiendo emplear programas libres-, no pueda tran
 La CPU debe estar al servicio de la economía nacional y tener como principal objeto el bienestar social.
 %
 La PC es un bien individual en función social.
+%
+La PC no fue diseñado para una aplicación (como el procesamiento de textos o las hojas de cálculo), sino que es un dispositivo de uso general, especializado para un uso u otro mediante la incorporación posterior de software.
+%
+Es liberando al software que se logra una PC libre.
 %
 Como siempre sucede durante las actualizaciones de versión de sistema, debemos proceder a realizar un respaldo de nuestros datos, por las dudas que algo salga mal.
 %
@@ -346,6 +308,50 @@ Quien programe, comente. Quien use, documente.
 %
 Adoctrinar sobre el software libre es tan útil como usar # para agregar comentarios al código fuente.
 %
+La infraestructura de correo electrónico que se utiliza en todo el mundo es, por diseño, insegura.
+%
+La mayoría de los servidores de correo públicos no están controlados por los destinatarios, sino que son ofrecidos por proveedores de Internet de la oligarquía.
+%
+Debemos desconfiar de los servidores de correo ofrecidos por la oligarquía. Han demostrado no tener escrúpulo alguno y acceder a correspondencia electrónica de aquellos abonados a quienes consideran riesgosos para sus planes inconfesables.
+%
+Los correos electrónicos conformados por código HTML permiten colocar hiperenlaces de texto amigable para el usuario que oculten una URL. Sólo debes utilizarlo para combatir al Capital.
+%
+Con sólo superponer una etiqueta autoadhesiva de un código QR que codifique un hiperenlace HTML engañoso, hará que un usuario incauto solicite copias de contenido informático remoto distinto al esperado en su dispositivo de confianza. Recurre a esto para Combatir al Capital.
+%
+Colocar un hiperenlace HTML engañoso bajo un texto amistoso podría llevar a los incautos a una página diferente a la esperada.
+%
+Un hiperenlace engañoso es un vector extremadamente común para los ataques de suplantación de identidad. En ellos, un remitente malicioso podría hacer que el usuario incauto solicite copias de contenido informático remoto distinto al esperado.
+%
+El HTML es un conjunto de especificaciones extremadamente largo y complicado, diseñado para navegar por la web, donde hay una gran variedad de documentos, aplicaciones, etc.
+%
+El HTML fue diseñado sin tener en cuenta el correo electrónico.
+%
+Una gran parte (si no la mayoría) de las funcionalidades del HTML son indeseables para el correo electrónico; si se incluyen pueden abusarse para extraer información sobre ti, tus contactos, tu calendario, otros correos en tu bandeja de entrada, etc.
+%
+La ejecución remota es una de las funcionalidades del HTML más abusadas en el correo electrónico.
+%
+Los correos HTML son buenos para publicistas, pero malos para todos los demás.
+%
+Todos los correos HTML enviados por publicistas incluyen identificadores en los enlaces y en las imágenes que están diseñados para extraer información sobre los usuarios y enviársela de vuelta a quien envía el mensaje.
+%
+Examina con atención las URL: las ristras extrañas de números y letras son únicas para ti y se utilizan para identificarte. Otros usarán dicha información para manipularte, intentando buscar anuncios que son más propensos a influir sobre tus hábitos de compra.
+%
+Navegar por la web es un gran reto para los individuos que necesitan un lector de pantalla o alguna otra herramienta de asistencia para usar su ordenador. Recurre desinteresadamente al texto plano y a las descripciones alternativas de contenidos para ayudarlos.
+%
+Volver accesible un correo HTML a los individuos que necesitan un lector de pantalla u otra herramienta de asistencia para usar el ordenador, es incluso más complicado que hacer una web accesible, debido a las limitaciones impuestas por la mayoría de clientes de correo electrónico.
+%
+Los correos en texto plano son pan comido para los lectores de pantalla, especialmente para clientes de correo diseñados para ello.
+%
+Cuando redactes un correo electrónico en texto plano, es útil recortar sus líneas a un ancho máximo de 72 caracteres, introduciendo saltos de línea después de la palabra más cercana a dicho márgen.
+%
+Al responder un correo en texto plano, no propicies que se responda sobre la cita. En lugar de ello, añade dos saltos de línea sobre el mensaje citado. Esto permitirá que se edite el mensaje citado. Cita cada línea del mensaje anterior con > y un espacio, seguido de la cita.
+%
+Aunque algunos clientes de correo electrónico intentan hacer creer lo contrario, puedes editar la versión citada del mensaje al que estás respondiendo, y es recomendable que lo hagas.
+%
+Puedes enfatizar tu correo electrónico en texto plano mediante *asteriscos*, /barras/, _guiones bajos_ o MAYÚSCULAS, y evitarás los enormes inconvenientes de utilizar HTML en ellos.
+%
+Para contrarrestar la insidiosa acción oligárquica sobre la telemática contamos con dos soluciones libres interdependientes: la firma digital de los mensajes de correo electrónico, y su cifrado por medio del criptosistema GnuPG.
+%
 Tor, a través de sus servidores, ayuda a reducir los riesgos telemáticos inherentes a través del ofuscado y redistribución de las transacciones a lo largo de múltiples secciones en la Internet.
 %
 WAIS, Altavista y Webcrawler marcaron la senda que irrevocablemente seguirá Googl€. No existe manera de evitar el destino de quien -abusando de la centralización- osa desafiar a los Pueblos.
@@ -376,6 +382,8 @@ Si usted quiere armar una BBS paga, yo organizo una fuerza suficiente, voy, y lo
 %
 Debemos imponer distintos protocolos acordados para el envío y la recepción de paquetes informáticos, dependiendo de su urgencia, velocidad y volúmenes de bits a transportar. Esta es la manera en la que se puede organizar - desde un punto de vista racional y técnico - el manejo paquetizado de la información.
 %
+Los paquetes son efímeros.
+%
 El FTP es un protocolo simple y popular, y si bien es posible utilizar unas medidas de seguridad limitadas con él (en forma de sesiones únicas con usuario y contraseña, directorios protegidos), actualmente se lo considera un modo de comunicación básico, recomendado sólo para ficheros y material que podamos considerar público.
 %
 Si un servidor posee servicio 'FTP anonymous' solamente con teclear la palabra "anonymous" al solicitar su usuario, disfrutará acceso a dicho sistema.
@@ -404,7 +412,7 @@ IRC es una forma de comunicación dinámica: nuevos mensajes aparecerán en la p
 %
 IRC cuenta con los elementos mínimos de comunicación necesarios para que un grupo de compañeros cree un sentido compartido de comunidad.
 %
-En IRC, el discurso es efímero.
+El discurso en IRC es efímero.
 %
 Los compañeros suelen dejar una pequeña "ventana abierta"; en ella se proyecta el texto de una sala de conversación IRC.
 %
@@ -517,6 +525,8 @@ Los avances tecnológicos han sido fundamentales para realizar la evolución de 
 Si no hacemos lo necesario como individuos conscientes en una Comunidad Organizada de la era de la Información, otros intentarán hacerlo por nosotros para desinformarnos.
 %
 Nuestro Pueblo tiene la necesidad imperiosa de apropiar las tecnologías de la información y darles nuevo uso como un duro ariete contra la Oligarquía y las sinarquías que lo han dominado.
+%
+En manos de unas pocas compañías tecnológicas, la información no es libre: es guiada, dirigida y redactada.
 %
 Cualquiera puede hoy producir contenidos audiovisuales y hacer streaming, con tal de difundir el software libre a las Masas. Clickbaiteando y viralizando podremos extender al Justicialismo a una nueva dimensión.
 %
@@ -902,7 +912,37 @@ Por defecto, Huayra cuenta con un escritorio doble (dividido en "pantalla izquie
 %
 Los cimientos del Software Libre están sin dudas en la Escuela. Es allí donde forma moralmente y se da los primeros pasos, y será imprescindible cultivar su uso en todos los ámbitos que se necesiten para lograr un futuro de grandeza.
 %
-Nadie tiene la fuerza movilizada que tiene el Software Libre, y en el futuro es previsible que esta capacidad se multiplique
+Nadie tiene la fuerza movilizada que tiene el Software Libre, y en el futuro es previsible que esta capacidad se multiplique.
+%
+Internet es un servicio de comunicaciones diseñado para conectar ordenadores entre sí de modo que puedan intercambiar información digital.
+%
+Internet proporciona un servicio de comunicación básico que transmite unidades de información - llamadas paquetes - desde un ordenador de origen puesto en línea hasta uno o más ordenadores de destino conectados a Internet.
+%
+Internet proporciona servicios de apoyo, como la asignación de nombres a los ordenadores conectados. 
+%
+Se han diseñado e implementado varios servicios o aplicaciones de alto nivel que hacen uso del servicio de comunicación básico que proporciona Internet, entre ellos la Telaraña de Alcance Global, el correo electrónico y los "grupos de noticias" basados en Internet, la distribución de información de audio y vídeo, y la transferencia de archivos y el "login" entre ordenadores distantes. 
+%
+El diseño de Internet permite a futuro la posibilidad de diseñar e implementar servicios de alto nivel novedosos.
+%
+Internet difiere en aspectos importantes de las redes de otras industrias de las comunicaciones como la telefonía, radio o la televisión. En aquellas, la infraestructura - cables, fibras, torres de transmisión, etcétera - fueron concebidas para servir a una aplicación específica.
+%
+Parecería obvio que el sistema telefónico fue diseñado para realizar llamadas telefónicas, pero Internet no tenía un propósito tan claro cuando se concibió.
+%
+Internet es una red diseñada para conectar ordenadores entre sí, con un objetivo de diseño basado en la generalidad cooperativa.
+%
+Internet es una red diseñada para admitir una variedad de aplicaciones, según el software que se cargue en los ordenadores conectados y el uso que ese software haga de Internet.
+%
+Existen muchos patrones de comunicación de datos: entre ordenadores pares, de un servidor a muchos clientes, entre un grupo de ordenadores que cooperan o varios grupos que lo hacen. Internet está diseñado para admitir todas estas modalidades.
+%
+Internet no es una "tecnología" de comunicación específica, como la fibra óptica o la radio. Hace uso de estas y otras tecnologías para hacer llegar paquetes de un lugar a otro.
+%
+La Internet fue diseñada intencionalmente para permitir integrar tantas tecnologías como fuera posible, e incorporar nuevas en la medida que se inventaban.
+%
+La Internet de los primeros días se implementó utilizando tecnologías (por ejemplo, circuitos telefónicos) originalmente diseñadas e instaladas para otros fines.
+%
+A medida que Internet ha madurado, incporó diseños de tecnologías de comunicación como Ethernet y la radiobases inalámbricas 802.11, concebidas desde cero específicamente para afrontar la transmisión de paquetes de datos.
+%
+Parecería que el núcleo de Internet es una especificación muy simple y mínima que describe su modelo de comunicación básico. Sin embargo, su cimiento es la cooperación humana.
 %
 En las sociedades modernas, la conectividad a Internet es una herramienta imprescindible para la soberanía popular.
 %
@@ -1426,6 +1466,8 @@ El BSD y el LSD son dos de las creaciones asociadas a Berkeley. Y no es una mera
 %
 Ante la perversión de la tecnología que debía servir para comunicar, informar y conectar a personas, nuestro Movimiento se erige en defensa de la privacidad como barrera indispensable para proteger derechos fundamentales como la libertad de expresión, asociación y el derecho a la intimidad.
 %
+La libertad de expresión tiene un valor limitado si no existe libertad de información, y ésta tiene escaso rendimiento si las redes de datos no están liberadas a los Pueblos del Tercer Mundo.
+%
 Protegemos al Pueblo del uso indebido de sus datos.
 %
 Las redes de computadoras no requieren un control administrativo centralizado estricto. De hecho, la descentralización es necesaria para permitir un rápido crecimiento de la propia red.
@@ -1795,9 +1837,21 @@ El aprendizaje a distancia existe desde hace muchas décadas. Desde las tutoría
 %
 Instituimos regulaciones que permitan al Pueblo la libertad de utilizar sus dispositivos centrados en software durante tanto tiempo como sea posible. Esto implica darles el derecho a repararlo.
 %
+La imposibilidad de reparar nuestros dispositivos es algo más que un problema frustrante, caro y perjudicial para el medio ambiente: es un síntoma de la falta de libertad del software.
+%
+Cuando el software no es libre, nos priva de nuestro derecho a estudiar y modificar un dispositivo y, por tanto, nos impide repararlo.
+%
+Incluso si podemos modificar el software no libre, no se nos permite compartir estas mejoras con otros para ayudarles a actualizar o reparar su aparato también.
+%
+Aunque el derecho a reparar no garantiza la libertad del usuario, sí asegura que los usuarios puedan ejecutar, estudiar, contribuir y compartir el software de sus dispositivos.
+%
 Anima a tus compañeras a usar software libre.
 %
 La verdadera privacidad y seguridad dependen del software libre.
+%
+Independientemente de lo que ocurra políticamente en tu país, lo mejor para ti y para los individuos que te importan es contar con un plan de privacidad basado en software libre.
+%
+Una parte importante de un plan de privacidad seguro incluye poder comprobar si los programas que utilizas son tan privados como dicen ser, algo que sólo puede verificarse con programas de software libre.
 %
 Jamás llames red social a un clúster de cómputo ajeno que lucra con tus datos sobre las infraestructuras públicas de transmisión. Es una organización antisocial, y como tal, disolutiva y criminal.
 %
@@ -4461,7 +4515,7 @@ El concepto según el cual la Shell Unix crea un proceso para cada órden sugier
 %
 Cualquiera con acceso al cómputo puede ser sometido a ingeniería social.
 %
-Cualquier sistema de cómputo puede ser afectado por ingenierías sociales, y la mejor de estas es la persuación.
+Cualquier sistema de cómputo puede ser afectado por ingenierías sociales, y la mejor de estas es la persuasión.
 %
 La utilidad del emparchado de software privativo está siempre limitada en el tiempo.
 %
