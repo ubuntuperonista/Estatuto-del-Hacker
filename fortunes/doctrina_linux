@@ -458,7 +458,7 @@ Yo no soy partidario de empezar a programar en grande para, muchas veces, termin
 %
 En programación hay ocasiones en las que la flexibilidad y la libertad de acción se traducen en tragedia, peor incluso que la del célebre burro que, puesto ante dos montones de heno, murió de hambre por no saber por cual decidirse.
 %
-En el caso del sofware, más que dilemas, se debería hablar de multidilemas (o dilemas súper ramificados). Pero en caso del software libre todos estos se simplifican y sintetizan a uno solo: el de la lucha contra las ciber-oligarquías.
+En el caso del software, más que dilemas, se debería hablar de multidilemas (o dilemas súper ramificados). Pero en caso del software libre todos estos se simplifican y sintetizan a uno solo: el de la lucha contra las ciber-oligarquías.
 %
 Emplea las redes de datos para incitar el espíritu de juicio y lucha contra las ciber-oligarquías.
 %
@@ -860,7 +860,7 @@ El instrumento para realizar la Revolución del Software Libre son las Comunidad
 %
 La compilación que ha de llevar a cabo la CPU no nace de un repollo: es consecuencia de la formación que el programador posea, nutrida en su conciencia libre, y - no lo dudemos - del óleo sagrado de Samuel con que haya sido ungido al nacer.
 %
-La libertad del software se lleva en el corazón del programador. Las ideas volcadas en lenguaje de programación se tienen en la mente del individuo. Finalmente, el proceso de compilación tiene lugar en la CPU del mainframe. Todo esto conforma la unión del hombre y la máquina.
+La libertad del software se lleva en el corazón del programador. Las ideas volcadas en lenguaje de programación se generan en la mente del individuo. Finalmente, el proceso de compilación tiene lugar en la CPU del mainframe. Todo esto conforma la unión del hombre y la máquina.
 %
 Un hacker es un individuo que ha reprogramado colectivamente su conciencia para trascender su individualidad.
 %
@@ -1552,7 +1552,7 @@ Visitar un sitio web deja un rastro de información, tanto en tu dispositivo com
 %
 La denegación de servicio, en manos de los Hackers, no es violencia. Es Justicia.
 %
-La ingeniería inversa es un asunto muy discutido en nuestros días, Los hackers deben saberla, y los hackers deben empeñarse en realizarla. Por las buenas si es posible, y si no por las malas.
+La ingeniería inversa es un asunto muy discutido en nuestros días. Los hackers deben saberla, y los hackers deben empeñarse en realizarla. Por las buenas si es posible, y si no por las malas.
 %
 En mi sentir, los únicos que tienen derecho en emplear la decompilación en mayor grado son los hackers que quieren liberarse. Esa decompilación, en manos de los hackers no es pirateo, es justicia.
 %
@@ -1570,7 +1570,11 @@ Desmitificar la Inteligencia Artificial reducirá inevitablemente su atractivo.
 %
 Disipando el aura de magia que rodea la Inteligencia Artificial reduciremos su nivel de adopción.
 %
-Un ordenador nunca puede ser considerado responsable, por lo tanto, nunca debe tomar decisiones de gestión.
+Puesto que un ordenador nunca podrá ser considerado responsable, jamás debe tomar decisiones de gestión.
+%
+Los Pueblos necesitan comprender las implicaciones locales, nacionales y geoestratégicas de la Inteligencia Artificial, previendo que la falta de capacidad o aptitud en esta materia podría ser perjudicial desde perspectivas económicas, políticas, sociales y militares.
+%
+Las Inteligencia Artificiales ya no son neutrales: los Pueblos las están utilizando como un activo estratégico, similar a la energía o la capacidad militar.
 %
 La primer etapa contra estos fascinerosos que pagan por software ajeno se ha hecho sola: todos se preguntan ya cuán protegida está su información, y qué tipo de prácticas de seguridad informática llevan adelante en sus empresas e instituciones.
 %
@@ -2295,6 +2299,8 @@ Si manipulas gran cantidad de datos, hazlo de una única forma: peronista.
 %
 Es mucho más simple escribir un programa incorrecto que entender el correcto.
 %
+Hazlo bien, hazlo con claridad y hazlo sin desperdicio.
+%
 Un lenguaje de programación es de bajo nivel cuando sus rutinas requieren prestar atención a lo irrelevante.
 %
 Es mejor disponer 100 órdenes que operen sobre una estructura de datos que 10 funciones en 10 estructuras de datos. El conductor es uno solo, y la masa también.
@@ -2409,6 +2415,8 @@ Adaptar viejos programas para que funcionen en máquinas nuevas a menudo implica
 %
 Cuando alguien diga "Quiero un lenguaje de programación al cual sólo necesite decirle lo que quiero hacer", denle un chupetín.
 %
+Un buen lenguaje de programación no solo debe ser poderoso, también debe respetar la inteligencia de quien lo usa.
+%
 Un buen sistema no puede tener un lenguaje de programación débil.
 %
 Todo debe construirse de arriba a abajo. Excepto la primera vez.
@@ -2476,6 +2484,8 @@ Tenemos que convencernos para siempre: el software será de los pueblos si los p
 Cada uno debe empezar a dar de sí todo el código que pueda dar, y aún más. Solo así construiremos el Pubnix que deseamos, no para nosotros, sino para los que vendrán después, los programadores del mañana.
 %
 Lo único que debemos hacer es adquirir plena conciencia del código que poseemos y no olvidarnos de que nadie puede distribuir sin acercarnos sus modificaciones, que nadie puede hacer tampoco nada que contraríe a la GPLv3.
+%
+Escribir código puede también ser un acto de conciencia.
 %
 No alcanzarán los bugs para colgar a los Window$.
 %
@@ -2561,7 +2571,7 @@ La shell es el programa que aguarda los mandatos ingresados por la terminal. Ord
 %
 La shell recibe sus órdenes y las traduce en instrucciones en la sintaxis interna del sistema operativo. Debéis conducir la Shell.
 %
-No hay código fuente para armar una comunidad. Esta debe dárselo.
+No hay código fuente cierto para armar una comunidad. Aquellos que existen deben ser modificados.
 %
 Muchas de las funciones que ofrece Unix derivan de la shell, que por lo tanto puede considerarse una parte integral del sistema.
 %
@@ -2831,7 +2841,7 @@ La cooperación entre los movimientos del software libre y de la economía solid
 %
 La autogestión de actividades informáticas requiere que el software que se utilice sea libre.
 %
-La filosofía ética del software libre - la libertad para comprender, usar, modificar, reproducir y distribuir el software - hace del software libre un instrumento de liberación económica.
+La filosofía ética del software libre - la libertad para comprender, usar, modificar, reproducir y distribuir el software - hace del mismo un herramienta instrumento de liberación económica.
 %
 Ciertas Corporaciones emplean su software privativo y servicios abusivos, controlan las actividades informáticas de los Pueblos, colectan datos en todas las esferas de la vida individual, y lucran con ellos con el fin de obtener ventajas y ganancias.
 %
@@ -3550,7 +3560,6 @@ A menudo los usuarios más experimentados de las redes demuestran en sus redacci
 De ser posible, sea breve al remitir mensajes a listas de correo limitándolos a 14 líneas. De esta forma - incluyendo encabezados y demás texto estándar - queparán en una sola pantalla.
 %
 Si lo que tienes que decir no cabe en una sola pantalla, incluye una sinopsis o una lista de palabras clave en la primera pantalla.
-
 %
 Los hackers de antes no usaban PERL.
 %
@@ -3954,7 +3963,7 @@ El costo de transporte jamás es cero.
 %
 La red de datos es heterogénea.
 %
-Un huésped de red rufianizado puede anunciarse a si mismo ante un servidor Anycast como proveedor de un servicio de red vital, para solo dar información falsa o simplemente denegarla.
+Es posible a un huésped de red rufianizado anunciarse a si mismo ante un servidor Anycast como proveedor de un servicio vital de red, para solo dar información falsa o simplemente denegarla.
 %
 Una vez establecida una arquitectura de clúster, es posible agregar clústers adicionales para obtener mayor desempeño.
 %
@@ -4482,6 +4491,8 @@ Creemos que un sistema interactivo propiamente diseñado es mucho más productiv
 Un sistema de cómputo interactivo resulta bastante sencillo de adaptar al uso no interactivo, toda vez que la noción inversa es imposible.
 %
 Dado el antagonismo entre una eficiencia razonable y la expresividad del cómputo que provoca, la limitación de potencia de cómputo no sólo ha incentivado una economía de recursos, sino también cierta elegancia en nuestro diseño de sistema.
+%
+Incluso en el mundo de la tecnología, el buen diseño es una forma de respeto.
 %
 Al igual que la Justicia Social, casi desde un comienzo el sistema Unix pudo sostenerse con el esfuerzo de los trabajadores.
 %
@@ -6193,7 +6204,11 @@ Si las modificaciones del software no obedecen a la congruencia armónica, provo
 %
 Las modificaciones del software no han de ser tan distantes que quiten al programa su perfectibilidad, ni deben ser tan frecuentes que le resten estabilidad.
 %
-En el ambiente de cómputo donde las diferencias desaparecen, nace una camaradería superior a todas las otras, que da forma al software superior - aquel compilado en una CPU conquistada con grandeza minimalista - que es lo único que los hombres deben conquistar en la máquina.
+Las modificaciones del software privativo no están diseñadas para liberarte. Son meras válvulas de escape, pequeñas concesiones para reducir la revuelta.
+%
+Las modificaciones al software privativo pueden consistir en una funcionalidad adicional, una mayor depuración que aumente el rendimiento computacional u ofrezca menos retrasos. Pero la arquitectura de control permanece intacta: continúas en una jaula, tal vez una más sólida.
+%
+En un ambiente de cómputo donde las diferencias desaparecen, nace una camaradería superior a las demás. Esta da forma a un software superior - aquel compilado en una CPU conquistada con grandeza minimalista - que es lo único que los hombres deben conquistar en la máquina.
 %
 Que el código fuente de cada cual pueda disfrutar de las bellezas de nuestra CPU, que es de todos, de pobres y ricos por igual.
 %
@@ -6440,7 +6455,7 @@ Realiza preguntas y refiérete al manual de tus sistemas toda vez que sea posibl
 %
 Convertirse en hacker no es distinto a bucear. Puede zambullirse en cada párrafo de un manual de referencia de programación, y entre ellos salir a tomar aire.
 %
-Aprender a programar una computadora no es tan complicado. Probablemente lograrás el éxito mediante un proceso iterativo: lea parte de un manual, prueba ciertos programas en un Pubnix, y repítalo hasta terminar.
+Aprender a programar una computadora no es tan complicado. Probablemente logre tener éxito mediante un proceso iterativo: comprenda parte de un manual de programación, compruebe sus propias modificaciones de dichos programas en un Pubnix, y repítalo hasta terminar.
 %
 Leer un manual de programación le ayudará a escribir su propio programa. A su vez, escribir y correr un programa propio sumará a su comprensión del texto del manual de programación.
 %
