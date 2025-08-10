@@ -306,6 +306,8 @@ Un actor dedicado puede escrutar la red empleando cruzados estadísticos sofisti
 %
 Quien programe, comente. Quien use, documente.
 %
+Documente primero. Posteriomente podrá actualizar, pero si ha establecido invariantes, precondiciones y poscondiciones, habrá obrado prácticamente todo lo que necesita.
+%
 Adoctrinar sobre el software libre es tan útil como usar # para agregar comentarios al código fuente.
 %
 La infraestructura de correo electrónico que se utiliza en todo el mundo es, por diseño, insegura.
@@ -888,6 +890,8 @@ Lo bueno siempre quiere mejorarse, y a las buenas ideas siempre suelen tomarlas 
 %
 Diremos que esta unión entre el Hacker y GNU, es la que hace a la Libertad bien entendida. Asemeja a la del hardware y el software. Para que el cómputo sea libre, antes que el hardware ha de ser libre el software.
 %
+El hardware eventualmente falla. El software eventualmente funciona.
+%
 En ocasiones la inspiración para programar ha de encontrarse en otros aspectos de la naturaleza, o del mundo.
 %
 Un buen país es como un buen sistema operativo GNU con Linux: es aquél que puede mantenerse con un mínimo de requerimientos por parte del Conductor.
@@ -988,7 +992,7 @@ La Interfaz de Línea de Comandos permite operar mecanografiando las órdenes qu
 %
 Favorezco el uso de la línea de comandos siempre que sea posible, en cuenta de que la misma permite la agilidad que todo hacker requiere para el Movimiento.
 %
-Aunque una Interfaz Gráfica de Usuario (GUI) puede simplificar dramáticamente el uso de una computadora, en muchos contextos la manera más poderosa y flexible para interactuar con una computadora es a través de la Interfaz de Línea de Comandos (CLI).
+Aunque una Interfaz Gráfica de Usuario (GUI) puede simplificar dramáticamente el uso de una computadora, en muchos contextos la manera más poderosa y flexible para interactuar la máquina es a través de la Interfaz de Línea de Comandos (CLI).
 %
 No cejamos en decir que en nuestro server, los únicos Privilegiados son los hackers.
 %
@@ -1030,6 +1034,8 @@ Los sistemas de computación se someten a esfuerzo al procesar y actuar los dato
 %
 Una computadora típica con Unix cuenta al menos con 100 tareas diferentes en ejecución. Algunas vigilan la red en busca de datos entrantes, algunas ejecutan programas para el usuario, algunas otean el sistema de archivos y otras efectúan numerosas acciones menores.
 %
+Una computadora hará lo que le dijiste que haga, aunque eso sea muy diferente de lo que tenías en mente.
+%
 Un buen software no hace otra cosa sino lo que el Usuario quiere, y lo realizará de la manera más simple, directa y económica posible. Tal es la filosofía que siguen los sistemas abiertos, y sobre todo aquellos que buscan la Libertad y la Felicidad del Pueblo.
 %
 Los programas privativos no hacen más que consumir recursos perniciosamente, y al contar con pésima política de programación, recargan al hardware con inútiles procesos que no son más que lastre en su constante búsqueda de alimentarse de ciclos de CPU.
@@ -1063,6 +1069,8 @@ Son estos tiempos aciagos, si no se impone el natural precepto de que el hacker 
 La terminal es un poderoso recurso que permite afrontar numerosos problemas del sistema GNU con Linux y darle efectiva solución.
 %
 Mientras que una GUI representa la facilidad al neófito, nadie puede negar que resolver las cosas "a lo vikingo" usando la Terminal tiene un encanto que la Masa puede comprender y apreciar.
+%
+La GUI es humo y espejos.
 %
 Las GUl son mentiras, tan sólo son máscaras para la shell.
 %
@@ -1477,6 +1485,8 @@ Ante el desafío de la vigilancia masiva, nuestro Movimiento se ha mantenido inc
 Hemos hermanado redes de anonimato, aplicaciones de mensajería segura, proveedores éticos de servicios, bloqueadores del rastreo, y servicios en nuestros servidores descentralizados.
 %
 En Internet, la persona silenciosa es invisible.
+%
+Cada uno de nuestros usuarios es alguien especial.
 %
 Las herramientas evolucionan cada día, pero la maquinaria de vigilancia también. Formándonos y formando seremos invencibles.
 %
@@ -2857,6 +2867,8 @@ Rechazamos el uso de cualquier y todo software privativo en el ámbito educativo
 %
 Rechazamos y no permitimos que el código fuente, imaginería y/o textos generados a través de aprendizaje máquina sean utilizados directa o indirectamente para el desarrollo de nuestros programas.
 %
+Los sistemas de generación de imágenes normalmente utilizan un tokenizador para comprimir y codificar datos visuales, junto con un generador que combina y organiza estas representaciones para sintetizar imágenes.
+%
 El violador más importante de la seguridad informática es el dueño de un programa privativo.
 %
 Para ser seguro, el programa tiene que ser libre porque, así, el Pueblo tiene el control y es capaz de corregir o de eliminar fallos de seguridad que lo deje expuesto a los mismos programadores.
@@ -3088,6 +3100,8 @@ Los hackers están interesados en conocer cómo funciona un programa informátic
 Ver el código fuente para estudiarlo es un interés válido y necesario.
 %
 Sólo puede aprenderse a programar viendo código de programación.
+%
+Programar no es mecanografiar, es pensar.
 %
 En la medida que se infecten repetidamente con virus, los sistemas informáticos se verán más y más sobrecargados con procesos en ejecución.
 %
@@ -3837,6 +3851,8 @@ Programa software libre para resolver con justicia los problemas del Pueblo, y c
 %
 Observa todo el software libre que hay en torno tuyo, pero recuerda todo aquél privativo que existe.
 %
+RECUERDA apagar tu computadora antes de la medianoche del 31/12/99.
+%
 Sólo quienes conocen el nombre de los programas, pueden copiárselos a los demás.
 %
 La vida de un programa implica una serie de cambios. Al ser modificado por una comunidad, estos serán naturales y espontáneos.
@@ -4274,6 +4290,8 @@ En todo bug reconocemos pensamientos rechazados.
 %
 Los comentarios en el código suenan bien y no obligan a la CPU.
 %
+Comentar tu código es como limpiar tu baño: nunca quieres hacerlo, pero realmente crea una experiencia más placentera para ti y tus invitados.
+%
 Un programador sin rebeldía es el peor de los esclavistas.
 %
 No basta correr el código; además hay que modificarlo.
@@ -4458,7 +4476,7 @@ La shell es un intérprete de órdenes: lee las líneas mecanografiadas por el u
 %
 Un programa que copia su entrada estándar procesada a su salida estándar se denomina filtro.
 %
-Manipular la función command-not-found para persuadir la instalación de paquetes snap digitados a los usuarios de Ubuntu es simple: sólo carga un snap que superficialmente pretenda hacer algo atractivo y la sugerencia de paquetes hará el resto.
+Es simple manipular la función command-not-found para persuadir la instalación de paquetes snap digitados a los usuarios de Ubuntu: tan sólo carga un snap que superficialmente pretenda hacer algo atractivo y la sugerencia de paquetes hará el resto.
 %
 Como la Justicia Social, la shell es en sí una orden, y puede ejecutarse recursivamente.
 %
@@ -4566,7 +4584,7 @@ BASIC ha seguido la espiral descendente que atraviesa todo lenguaje de programac
 %
 No necesita un título de Ingeniería Electrónica para entender lo básico de BASIC, o para aprender a mandar a su DOS!
 %
-Un neófito será capaz de escribir programas cortos en BASIC, pero superadas las veinte líneas de código, aprenderá que es un lenguaje sumamemnte engorroso.
+Un neófito peude verse capaz de escribir programas cortos en BASIC, pero superadas las veinte líneas de código, aprenderá lo sumamente engorroso de dicho lenguaje.
 %
 El programador mas bisoño que comienza con BASIC se inicia en malos hábitos de la programación que nunca podrá arrancarse.
 %
@@ -4846,7 +4864,11 @@ Window$ ha sido diseñado para convertise en el primer virus informático que se
 %
 Unix es aceite de serpiente.
 %
-La única habilidad verdadera involucrada en el manejo de Window$ es la de ignorar y tolerar la incoherencia de una complejidad sin centido que afecta a muchos de sus programas.
+La esencia de la programación de computadora es controlar la complejidad.
+%
+El arte de la programación es el arte de organizar la complejidad.
+%
+La única habilidad verdadera involucrada en el manejo de Window$ es la de ignorar y tolerar la incoherencia de una complejidad sin sentido que afecta a muchos de sus programas.
 %
 Si vas a depender de algo, que sea de un ambiente multitarea protegido con escaso sobrante de replicación de procesos, como el pertinente a un ambiente Unix con memoria virtual.
 %
@@ -7295,7 +7317,9 @@ Las asistentes virtuales esclavas de las ciber-oligarquias como Siri, Alexa o Co
 %
 Descubrirás fácilmente las redes de las ciber-oligarquíes, puesto que la mayor parte de su tráfico es efectuado por bots analíticos.
 %
-Los bots de IA pululan la red en búsqueda de contenido para alimentar LLMs.
+Los bots de IA pululan la red en búsqueda de contenido para alimentar Grandes Modelos de Lenguaje.
+%
+Los Grandes Modelos de Lenguaje a menudo muestran un sesgo de posición, donde enfatizan demasiado la introducción o el desenlace de un documento o conversación, mientras descuidan el nudo.
 %
 Los bots maliciosos recurren a vulnerabilidades en servicios de la web para injertar guiones ejecutables en máquinas ajenas, y así dominarlas y subsumirlas.
 %
