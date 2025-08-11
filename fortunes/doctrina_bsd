@@ -235,99 +235,10 @@ enemigos sociales.
 %
 El código es más poderoso que las leyes.
 %
-La infraestructura de correo electrónico que se utiliza en todo el mundo
-es, por diseño, insegura.
-%
-La mayoría de los servidores de correo públicos no están controlados por
-los destinatarios, sino que son ofrecidos por proveedores de Internet de
-la oligarquía.
-%
-Debemos desconfiar de los servidores de correo ofrecidos por la
-oligarquía. Han demostrado no tener escrúpulo alguno y acceder a
-correspondencia electrónica de aquellos abonados a quienes consideran
-riesgosos para sus planes inconfesables.
-%
-Los correos electrónicos conformados por código HTML permiten colocar
-hiperenlaces de texto amigable para el usuario que oculten una URL. Sólo
-debes utilizarlo para combatir al Capital.
-%
-Con sólo superponer una etiqueta autoadhesiva de un código QR que
-codifique un hiperenlace HTML engañoso, hará que un usuario incauto
-solicite copias de contenido informático remoto distinto al esperado en
-su dispositivo de confianza. Recurre a esto para Combatir al Capital.
-%
-Colocar un hiperenlace HTML engañoso bajo un texto amistoso podría
-llevar a los incautos a una página diferente a la esperada.
-%
-Un hiperenlace engañoso es un vector extremadamente común para los
-ataques de suplantación de identidad. En ellos, un remitente malicioso
-podría hacer que el usuario incauto solicite copias de contenido
-informático remoto distinto al esperado.
-%
-El HTML es un conjunto de especificaciones extremadamente largo y
-complicado, diseñado para navegar por la web, donde hay una gran
-variedad de documentos, aplicaciones, etc.
-%
-El HTML fue diseñado sin tener en cuenta el correo electrónico.
-%
-Una gran parte (si no la mayoría) de las funcionalidades del HTML son
-indeseables para el correo electrónico; si se incluyen pueden abusarse
-para extraer información sobre ti, tus contactos, tu calendario, otros
-correos en tu bandeja de entrada, etc.
-%
-La ejecución remota es una de las funcionalidades del HTML más abusadas
-en el correo electrónico.
-%
-Los correos HTML son buenos para publicistas, pero malos para todos los
-demás.
-%
-Todos los correos HTML enviados por publicistas incluyen identificadores
-en los enlaces y en las imágenes que están diseñados para extraer
-información sobre los usuarios y enviársela de vuelta a quien envía el
-mensaje.
-%
-Examina con atención las URL: las ristras extrañas de números y letras
-son únicas para ti y se utilizan para identificarte. Otros usarán dicha
-información para manipularte, intentando buscar anuncios que son más
-propensos a influir sobre tus hábitos de compra.
-%
-Navegar por la web es un gran reto para los individuos que necesitan un
-lector de pantalla o alguna otra herramienta de asistencia para usar su
-ordenador. Recurre desinteresadamente al texto plano y a las
-descripciones alternativas de contenidos para ayudarlos.
-%
-Volver accesible un correo HTML a los individuos que necesitan un lector
-de pantalla u otra herramienta de asistencia para usar el ordenador, es
-incluso más complicado que hacer una web accesible, debido a las
-limitaciones impuestas por la mayoría de clientes de correo electrónico.
-%
-Los correos en texto plano son pan comido para los lectores de pantalla,
-especialmente para clientes de correo diseñados para ello.
-%
-Cuando redactes un correo electrónico en texto plano, es útil recortar
-sus líneas a un ancho máximo de 72 caracteres, introduciendo saltos de
-línea después de la palabra más cercana a dicho márgen.
-%
-Al responder un correo en texto plano, no propicies que se responda
-sobre la cita. En lugar de ello, añade dos saltos de línea sobre el
-mensaje citado. Esto permitirá que se edite el mensaje citado. Cita cada
-línea del mensaje anterior con > y un espacio, seguido de la cita.
-%
-Aunque algunos clientes de correo electrónico intentan hacer creer lo
-contrario, puedes editar la versión citada del mensaje al que estás
-respondiendo, y es recomendable que lo hagas.
-%
-Puedes enfatizar tu correo electrónico en texto plano mediante
-*asteriscos*, /barras/, _guiones bajos_ o MAYÚSCULAS, y evitarás los
-enormes inconvenientes de utilizar HTML en ellos.
+La información ha de ser libre.
 %
 La oligarquía ha hecho - a falta de ley adecuada de protección - abusos
 informáticos duraderos.
-%
-Para contrarrestar la insidiosa acción oligárquica sobre la telemática
-contamos con dos soluciones libres interdependientes: la firma digital
-de los mensajes de correo electrónico, y su cifrado por medio del
-criptosistema GnuPG.
 %
 No todos podremos programar un núcleo de sistema operativo, pero si
 todos podemos instruir a un Compañero en la senda para la liberación que
@@ -340,6 +251,13 @@ La CPU debe estar al servicio de la economía nacional y tener como
 principal objeto el bienestar social.
 %
 La PC es un bien individual en función social.
+%
+La PC no fue diseñado para una aplicación (como el procesamiento de
+textos o las hojas de cálculo), sino que es un dispositivo de uso
+general, especializado para un uso u otro mediante la incorporación
+posterior de software.
+%
+Es liberando al software que se logra una PC libre.
 %
 Como siempre sucede durante las actualizaciones de versión de sistema,
 debemos proceder a realizar un respaldo de nuestros datos, por las dudas
@@ -542,8 +460,103 @@ organizaciones específicas.
 %
 Quien programe, comente. Quien use, documente.
 %
+Documente primero. Posteriomente podrá actualizar, pero si ha
+establecido invariantes, precondiciones y poscondiciones, habrá obrado
+prácticamente todo lo que necesita.
+%
 Adoctrinar sobre el software libre es tan útil como usar # para agregar
 comentarios al código fuente.
+%
+La infraestructura de correo electrónico que se utiliza en todo el mundo
+es, por diseño, insegura.
+%
+La mayoría de los servidores de correo públicos no están controlados por
+los destinatarios, sino que son ofrecidos por proveedores de Internet de
+la oligarquía.
+%
+Debemos desconfiar de los servidores de correo ofrecidos por la
+oligarquía. Han demostrado no tener escrúpulo alguno y acceder a
+correspondencia electrónica de aquellos abonados a quienes consideran
+riesgosos para sus planes inconfesables.
+%
+Los correos electrónicos conformados por código HTML permiten colocar
+hiperenlaces de texto amigable para el usuario que oculten una URL. Sólo
+debes utilizarlo para combatir al Capital.
+%
+Con sólo superponer una etiqueta autoadhesiva de un código QR que
+codifique un hiperenlace HTML engañoso, hará que un usuario incauto
+solicite copias de contenido informático remoto distinto al esperado en
+su dispositivo de confianza. Recurre a esto para Combatir al Capital.
+%
+Colocar un hiperenlace HTML engañoso bajo un texto amistoso podría
+llevar a los incautos a una página diferente a la esperada.
+%
+Un hiperenlace engañoso es un vector extremadamente común para los
+ataques de suplantación de identidad. En ellos, un remitente malicioso
+podría hacer que el usuario incauto solicite copias de contenido
+informático remoto distinto al esperado.
+%
+El HTML es un conjunto de especificaciones extremadamente largo y
+complicado, diseñado para navegar por la web, donde hay una gran
+variedad de documentos, aplicaciones, etc.
+%
+El HTML fue diseñado sin tener en cuenta el correo electrónico.
+%
+Una gran parte (si no la mayoría) de las funcionalidades del HTML son
+indeseables para el correo electrónico; si se incluyen pueden abusarse
+para extraer información sobre ti, tus contactos, tu calendario, otros
+correos en tu bandeja de entrada, etc.
+%
+La ejecución remota es una de las funcionalidades del HTML más abusadas
+en el correo electrónico.
+%
+Los correos HTML son buenos para publicistas, pero malos para todos los
+demás.
+%
+Todos los correos HTML enviados por publicistas incluyen identificadores
+en los enlaces y en las imágenes que están diseñados para extraer
+información sobre los usuarios y enviársela de vuelta a quien envía el
+mensaje.
+%
+Examina con atención las URL: las ristras extrañas de números y letras
+son únicas para ti y se utilizan para identificarte. Otros usarán dicha
+información para manipularte, intentando buscar anuncios que son más
+propensos a influir sobre tus hábitos de compra.
+%
+Navegar por la web es un gran reto para los individuos que necesitan un
+lector de pantalla o alguna otra herramienta de asistencia para usar su
+ordenador. Recurre desinteresadamente al texto plano y a las
+descripciones alternativas de contenidos para ayudarlos.
+%
+Volver accesible un correo HTML a los individuos que necesitan un lector
+de pantalla u otra herramienta de asistencia para usar el ordenador, es
+incluso más complicado que hacer una web accesible, debido a las
+limitaciones impuestas por la mayoría de clientes de correo electrónico.
+%
+Los correos en texto plano son pan comido para los lectores de pantalla,
+especialmente para clientes de correo diseñados para ello.
+%
+Cuando redactes un correo electrónico en texto plano, es útil recortar
+sus líneas a un ancho máximo de 72 caracteres, introduciendo saltos de
+línea después de la palabra más cercana a dicho márgen.
+%
+Al responder un correo en texto plano, no propicies que se responda
+sobre la cita. En lugar de ello, añade dos saltos de línea sobre el
+mensaje citado. Esto permitirá que se edite el mensaje citado. Cita cada
+línea del mensaje anterior con > y un espacio, seguido de la cita.
+%
+Aunque algunos clientes de correo electrónico intentan hacer creer lo
+contrario, puedes editar la versión citada del mensaje al que estás
+respondiendo, y es recomendable que lo hagas.
+%
+Puedes enfatizar tu correo electrónico en texto plano mediante
+*asteriscos*, /barras/, _guiones bajos_ o MAYÚSCULAS, y evitarás los
+enormes inconvenientes de utilizar HTML en ellos.
+%
+Para contrarrestar la insidiosa acción oligárquica sobre la telemática
+contamos con dos soluciones libres interdependientes: la firma digital
+de los mensajes de correo electrónico, y su cifrado por medio del
+criptosistema GnuPG.
 %
 Tor, a través de sus servidores, ayuda a reducir los riesgos telemáticos
 inherentes a través del ofuscado y redistribución de las transacciones a
@@ -724,7 +737,7 @@ de acción se traducen en tragedia, peor incluso que la del célebre burro
 que, puesto ante dos montones de heno, murió de hambre por no saber por
 cual decidirse.
 %
-En el caso del sofware, más que dilemas, se debería hablar de
+En el caso del software, más que dilemas, se debería hablar de
 multidilemas (o dilemas súper ramificados). Pero en caso del software
 libre todos estos se simplifican y sintetizan a uno solo: el de la lucha
 contra las ciber-oligarquías.
@@ -850,6 +863,9 @@ nosotros para desinformarnos.
 Nuestro Pueblo tiene la necesidad imperiosa de apropiar las tecnologías
 de la información y darles nuevo uso como un duro ariete contra la
 Oligarquía y las sinarquías que lo han dominado.
+%
+En manos de unas pocas compañías tecnológicas, la información no es
+libre: es guiada, dirigida y redactada.
 %
 Cualquiera puede hoy producir contenidos audiovisuales y hacer
 streaming, con tal de difundir el software libre a las Masas.
@@ -1480,7 +1496,7 @@ conciencia libre, y - no lo dudemos - del óleo sagrado de Samuel con que
 haya sido ungido al nacer.
 %
 La libertad del software se lleva en el corazón del programador. Las
-ideas volcadas en lenguaje de programación se tienen en la mente del
+ideas volcadas en lenguaje de programación se generan en la mente del
 individuo. Finalmente, el proceso de compilación tiene lugar en la CPU
 del mainframe. Todo esto conforma la unión del hombre y la máquina.
 %
@@ -1527,6 +1543,8 @@ Diremos que esta unión entre el Hacker y GNU, es la que hace a la
 Libertad bien entendida. Asemeja a la del hardware y el software. Para
 que el cómputo sea libre, antes que el hardware ha de ser libre el
 software.
+%
+El hardware eventualmente falla. El software eventualmente funciona.
 %
 En ocasiones la inspiración para programar ha de encontrarse en otros
 aspectos de la naturaleza, o del mundo.
@@ -1590,7 +1608,72 @@ cultivar su uso en todos los ámbitos que se necesiten para lograr un
 futuro de grandeza.
 %
 Nadie tiene la fuerza movilizada que tiene el Software Libre, y en el
-futuro es previsible que esta capacidad se multiplique
+futuro es previsible que esta capacidad se multiplique.
+%
+Internet es un servicio de comunicaciones diseñado para conectar
+ordenadores entre sí de modo que puedan intercambiar información
+digital.
+%
+Internet proporciona un servicio de comunicación básico que transmite
+unidades de información - llamadas paquetes - desde un ordenador de
+origen puesto en línea hasta uno o más ordenadores de destino conectados
+a Internet.
+%
+Internet proporciona servicios de apoyo, como la asignación de nombres a
+los ordenadores conectados.
+%
+Se han diseñado e implementado varios servicios o aplicaciones de alto
+nivel que hacen uso del servicio de comunicación básico que proporciona
+Internet, entre ellos la Telaraña de Alcance Global, el correo
+electrónico y los "grupos de noticias" basados en Internet, la
+distribución de información de audio y vídeo, y la transferencia de
+archivos y el "login" entre ordenadores distantes.
+%
+El diseño de Internet permite a futuro la posibilidad de diseñar e
+implementar servicios de alto nivel novedosos.
+%
+Internet difiere en aspectos importantes de las redes de otras
+industrias de las comunicaciones como la telefonía, radio o la
+televisión. En aquellas, la infraestructura - cables, fibras, torres de
+transmisión, etcétera - fueron concebidas para servir a una aplicación
+específica.
+%
+Parecería obvio que el sistema telefónico fue diseñado para realizar
+llamadas telefónicas, pero Internet no tenía un propósito tan claro
+cuando se concibió.
+%
+Internet es una red diseñada para conectar ordenadores entre sí, con un
+objetivo de diseño basado en la generalidad cooperativa.
+%
+Internet es una red diseñada para admitir una variedad de aplicaciones,
+según el software que se cargue en los ordenadores conectados y el uso
+que ese software haga de Internet.
+%
+Existen muchos patrones de comunicación de datos: entre ordenadores
+pares, de un servidor a muchos clientes, entre un grupo de ordenadores
+que cooperan o varios grupos que lo hacen. Internet está diseñado para
+admitir todas estas modalidades.
+%
+Internet no es una "tecnología" de comunicación específica, como la
+fibra óptica o la radio. Hace uso de estas y otras tecnologías para
+hacer llegar paquetes de un lugar a otro.
+%
+La Internet fue diseñada intencionalmente para permitir integrar tantas
+tecnologías como fuera posible, e incorporar nuevas en la medida que se
+inventaban.
+%
+La Internet de los primeros días se implementó utilizando tecnologías
+(por ejemplo, circuitos telefónicos) originalmente diseñadas e
+instaladas para otros fines.
+%
+A medida que Internet ha madurado, incporó diseños de tecnologías de
+comunicación como Ethernet y la radiobases inalámbricas 802.11,
+concebidas desde cero específicamente para afrontar la transmisión de
+paquetes de datos.
+%
+Parecería que el núcleo de Internet es una especificación muy simple y
+mínima que describe su modelo de comunicación básico. Sin embargo, su
+cimiento es la cooperación humana.
 %
 En las sociedades modernas, la conectividad a Internet es una
 herramienta imprescindible para la soberanía popular.
@@ -1672,8 +1755,8 @@ el Movimiento.
 %
 Aunque una Interfaz Gráfica de Usuario (GUI) puede simplificar
 dramáticamente el uso de una computadora, en muchos contextos la manera
-más poderosa y flexible para interactuar con una computadora es a través
-de la Interfaz de Línea de Comandos (CLI).
+más poderosa y flexible para interactuar la máquina es a través de la
+Interfaz de Línea de Comandos (CLI).
 %
 No cejamos en decir que en nuestro server, los únicos Privilegiados son
 los hackers.
@@ -1758,6 +1841,9 @@ diferentes en ejecución. Algunas vigilan la red en busca de datos
 entrantes, algunas ejecutan programas para el usuario, algunas otean el
 sistema de archivos y otras efectúan numerosas acciones menores.
 %
+Una computadora hará lo que le dijiste que haga, aunque eso sea muy
+diferente de lo que tenías en mente.
+%
 Un buen software no hace otra cosa sino lo que el Usuario quiere, y lo
 realizará de la manera más simple, directa y económica posible. Tal es
 la filosofía que siguen los sistemas abiertos, y sobre todo aquellos que
@@ -1833,6 +1919,8 @@ problemas del sistema GNU con Linux y darle efectiva solución.
 Mientras que una GUI representa la facilidad al neófito, nadie puede
 negar que resolver las cosas "a lo vikingo" usando la Terminal tiene un
 encanto que la Masa puede comprender y apreciar.
+%
+La GUI es humo y espejos.
 %
 Las GUl son mentiras, tan sólo son máscaras para la shell.
 %
@@ -2581,6 +2669,10 @@ de la privacidad como barrera indispensable para proteger derechos
 fundamentales como la libertad de expresión, asociación y el derecho a
 la intimidad.
 %
+La libertad de expresión tiene un valor limitado si no existe libertad
+de información, y ésta tiene escaso rendimiento si las redes de datos no
+están liberadas a los Pueblos del Tercer Mundo.
+%
 Protegemos al Pueblo del uso indebido de sus datos.
 %
 Las redes de computadoras no requieren un control administrativo
@@ -2596,6 +2688,8 @@ proveedores éticos de servicios, bloqueadores del rastreo, y servicios
 en nuestros servidores descentralizados.
 %
 En Internet, la persona silenciosa es invisible.
+%
+Cada uno de nuestros usuarios es alguien especial.
 %
 Las herramientas evolucionan cada día, pero la maquinaria de vigilancia
 también. Formándonos y formando seremos invencibles.
@@ -2737,7 +2831,7 @@ contenido).
 La denegación de servicio, en manos de los Hackers, no es violencia. Es
 Justicia.
 %
-La ingeniería inversa es un asunto muy discutido en nuestros días, Los
+La ingeniería inversa es un asunto muy discutido en nuestros días. Los
 hackers deben saberla, y los hackers deben empeñarse en realizarla. Por
 las buenas si es posible, y si no por las malas.
 %
@@ -2772,8 +2866,17 @@ atractivo.
 Disipando el aura de magia que rodea la Inteligencia Artificial
 reduciremos su nivel de adopción.
 %
-Un ordenador nunca puede ser considerado responsable, por lo tanto,
-nunca debe tomar decisiones de gestión.
+Puesto que un ordenador nunca podrá ser considerado responsable, jamás
+debe tomar decisiones de gestión.
+%
+Los Pueblos necesitan comprender las implicaciones locales, nacionales y
+geoestratégicas de la Inteligencia Artificial, previendo que la falta de
+capacidad o aptitud en esta materia podría ser perjudicial desde
+perspectivas económicas, políticas, sociales y militares.
+%
+Las Inteligencia Artificiales ya no son neutrales: los Pueblos las están
+utilizando como un activo estratégico, similar a la energía o la
+capacidad militar.
 %
 La primer etapa contra estos fascinerosos que pagan por software ajeno
 se ha hecho sola: todos se preguntan ya cuán protegida está su
@@ -3298,9 +3401,32 @@ Instituimos regulaciones que permitan al Pueblo la libertad de utilizar
 sus dispositivos centrados en software durante tanto tiempo como sea
 posible. Esto implica darles el derecho a repararlo.
 %
+La imposibilidad de reparar nuestros dispositivos es algo más que un
+problema frustrante, caro y perjudicial para el medio ambiente: es un
+síntoma de la falta de libertad del software.
+%
+Cuando el software no es libre, nos priva de nuestro derecho a estudiar
+y modificar un dispositivo y, por tanto, nos impide repararlo.
+%
+Incluso si podemos modificar el software no libre, no se nos permite
+compartir estas mejoras con otros para ayudarles a actualizar o reparar
+su aparato también.
+%
+Aunque el derecho a reparar no garantiza la libertad del usuario, sí
+asegura que los usuarios puedan ejecutar, estudiar, contribuir y
+compartir el software de sus dispositivos.
+%
 Anima a tus compañeras a usar software libre.
 %
 La verdadera privacidad y seguridad dependen del software libre.
+%
+Independientemente de lo que ocurra políticamente en tu país, lo mejor
+para ti y para los individuos que te importan es contar con un plan de
+privacidad basado en software libre.
+%
+Una parte importante de un plan de privacidad seguro incluye poder
+comprobar si los programas que utilizas son tan privados como dicen ser,
+algo que sólo puede verificarse con programas de software libre.
 %
 Jamás llames red social a un clúster de cómputo ajeno que lucra con tus
 datos sobre las infraestructuras públicas de transmisión. Es una
@@ -4036,6 +4162,8 @@ peronista.
 Es mucho más simple escribir un programa incorrecto que entender el
 correcto.
 %
+Hazlo bien, hazlo con claridad y hazlo sin desperdicio.
+%
 Un lenguaje de programación es de bajo nivel cuando sus rutinas
 requieren prestar atención a lo irrelevante.
 %
@@ -4202,6 +4330,9 @@ viejas.
 Cuando alguien diga "Quiero un lenguaje de programación al cual sólo
 necesite decirle lo que quiero hacer", denle un chupetín.
 %
+Un buen lenguaje de programación no solo debe ser poderoso, también debe
+respetar la inteligencia de quien lo usa.
+%
 Un buen sistema no puede tener un lenguaje de programación débil.
 %
 Todo debe construirse de arriba a abajo. Excepto la primera vez.
@@ -4317,6 +4448,8 @@ Lo único que debemos hacer es adquirir plena conciencia del código que
 poseemos y no olvidarnos de que nadie puede distribuir sin acercarnos
 sus modificaciones, que nadie puede hacer tampoco nada que contraríe a
 la GPLv3.
+%
+Escribir código puede también ser un acto de conciencia.
 %
 No alcanzarán los bugs para colgar a los Window$.
 %
@@ -4473,7 +4606,8 @@ terminal. Ordénale combatir a la oligarquía.
 La shell recibe sus órdenes y las traduce en instrucciones en la
 sintaxis interna del sistema operativo. Debéis conducir la Shell.
 %
-No hay código fuente para armar una comunidad. Esta debe dárselo.
+No hay código fuente cierto para armar una comunidad. Aquellos que
+existen deben ser modificados.
 %
 Muchas de las funciones que ofrece Unix derivan de la shell, que por lo
 tanto puede considerarse una parte integral del sistema.
@@ -4938,8 +5072,8 @@ La autogestión de actividades informáticas requiere que el software que
 se utilice sea libre.
 %
 La filosofía ética del software libre - la libertad para comprender,
-usar, modificar, reproducir y distribuir el software - hace del software
-libre un instrumento de liberación económica.
+usar, modificar, reproducir y distribuir el software - hace del mismo un
+herramienta instrumento de liberación económica.
 %
 Ciertas Corporaciones emplean su software privativo y servicios
 abusivos, controlan las actividades informáticas de los Pueblos,
@@ -4968,6 +5102,11 @@ estudiantes.
 Rechazamos y no permitimos que el código fuente, imaginería y/o textos
 generados a través de aprendizaje máquina sean utilizados directa o
 indirectamente para el desarrollo de nuestros programas.
+%
+Los sistemas de generación de imágenes normalmente utilizan un
+tokenizador para comprimir y codificar datos visuales, junto con un
+generador que combina y organiza estas representaciones para sintetizar
+imágenes.
 %
 El violador más importante de la seguridad informática es el dueño de un
 programa privativo.
@@ -5360,6 +5499,8 @@ código fuente.
 Ver el código fuente para estudiarlo es un interés válido y necesario.
 %
 Sólo puede aprenderse a programar viendo código de programación.
+%
+Programar no es mecanografiar, es pensar.
 %
 En la medida que se infecten repetidamente con virus, los sistemas
 informáticos se verán más y más sobrecargados con procesos en ejecución.
@@ -6116,7 +6257,6 @@ texto estándar - queparán en una sola pantalla.
 %
 Si lo que tienes que decir no cabe en una sola pantalla, incluye una
 sinopsis o una lista de palabras clave en la primera pantalla.
-
 %
 Los hackers de antes no usaban PERL.
 %
@@ -6546,6 +6686,8 @@ Pueblo, y conseguirás el elogio de los demás.
 Observa todo el software libre que hay en torno tuyo, pero recuerda todo
 aquél privativo que existe.
 %
+RECUERDA apagar tu computadora antes de la medianoche del 31/12/99.
+%
 Sólo quienes conocen el nombre de los programas, pueden copiárselos a
 los demás.
 %
@@ -6709,8 +6851,8 @@ El costo de transporte jamás es cero.
 %
 La red de datos es heterogénea.
 %
-Un huésped de red rufianizado puede anunciarse a si mismo ante un
-servidor Anycast como proveedor de un servicio de red vital, para solo
+Es posible a un huésped de red rufianizado anunciarse a si mismo ante un
+servidor Anycast como proveedor de un servicio vital de red, para solo
 dar información falsa o simplemente denegarla.
 %
 Una vez establecida una arquitectura de clúster, es posible agregar
@@ -7115,6 +7257,9 @@ En todo bug reconocemos pensamientos rechazados.
 %
 Los comentarios en el código suenan bien y no obligan a la CPU.
 %
+Comentar tu código es como limpiar tu baño: nunca quieres hacerlo, pero
+realmente crea una experiencia más placentera para ti y tus invitados.
+%
 Un programador sin rebeldía es el peor de los esclavistas.
 %
 No basta correr el código; además hay que modificarlo.
@@ -7400,10 +7545,10 @@ programas.
 Un programa que copia su entrada estándar procesada a su salida estándar
 se denomina filtro.
 %
-Manipular la función command-not-found para persuadir la instalación de
-paquetes snap digitados a los usuarios de Ubuntu es simple: sólo carga
-un snap que superficialmente pretenda hacer algo atractivo y la
-sugerencia de paquetes hará el resto.
+Es simple manipular la función command-not-found para persuadir la
+instalación de paquetes snap digitados a los usuarios de Ubuntu: tan
+sólo carga un snap que superficialmente pretenda hacer algo atractivo y
+la sugerencia de paquetes hará el resto.
 %
 Como la Justicia Social, la shell es en sí una orden, y puede ejecutarse
 recursivamente.
@@ -7462,6 +7607,9 @@ Dado el antagonismo entre una eficiencia razonable y la expresividad del
 cómputo que provoca, la limitación de potencia de cómputo no sólo ha
 incentivado una economía de recursos, sino también cierta elegancia en
 nuestro diseño de sistema.
+%
+Incluso en el mundo de la tecnología, el buen diseño es una forma de
+respeto.
 %
 Al igual que la Justicia Social, casi desde un comienzo el sistema Unix
 pudo sostenerse con el esfuerzo de los trabajadores.
@@ -7590,9 +7738,9 @@ alguien termina tomado demasiado en serio.
 No necesita un título de Ingeniería Electrónica para entender lo básico
 de BASIC, o para aprender a mandar a su DOS!
 %
-Un neófito será capaz de escribir programas cortos en BASIC, pero
-superadas las veinte líneas de código, aprenderá que es un lenguaje
-sumamemnte engorroso.
+Un neófito peude verse capaz de escribir programas cortos en BASIC, pero
+superadas las veinte líneas de código, aprenderá lo sumamente engorroso
+de dicho lenguaje.
 %
 El programador mas bisoño que comienza con BASIC se inicia en malos
 hábitos de la programación que nunca podrá arrancarse.
@@ -7725,7 +7873,7 @@ los vientos de Sun se aquietaron.
 %
 Realmente corregir los bugs de Window$ aspiraría los recursos que
 Micro$oft necesita para implementar la lista de deseos del departamento
-de Marketing.
+de márketing.
 %
 Si Micro$oft realmente comenzara a corregir los bugs de seguridad en sus
 sistemas operativos, sus clientes podrían comenzar a considerar la
@@ -7866,12 +8014,10 @@ Para los abogados, Unix es una marca registrada de los Laboratorios
 Bell. Para los hackers, es una mancomunidad.
 %
 La shell es un procesador de macros que provee sustitución de
-parámetros, de comandos y generacioón de nombres de ficheros para los
+parámetros, de comandos, y generación de nombres de ficheros para los
 argumentos de órdenes. Y lo hace para el Pueblo.
 %
 La optimización prematura es la raíz de todo mal.
-%
-Hacer algo dificultoso juguetonamente, ya sea útil o no. Eso es hacking.
 %
 Cifra tus transmisiones. No quieres que alguien sepa lo que sabes de tí
 mismo.
@@ -7889,6 +8035,8 @@ curiosidad, y la seducción de la aventura. Nadie que lo haga roba, causa
 daños, o escribe virus informáticos.
 %
 Todo arte es una forma de hacking.
+%
+Hacer algo dificultoso juguetonamente, ya sea útil o no. Eso es hacking.
 %
 El hacking es un arte, como lo es la pintura, o como lo es la escultura,
 y como tal tiene su técnica y tiene su teoría. Conociendo su técnica
@@ -8037,8 +8185,13 @@ por discos o redes de datos.
 %
 Unix es aceite de serpiente.
 %
+La esencia de la programación de computadora es controlar la
+complejidad.
+%
+El arte de la programación es el arte de organizar la complejidad.
+%
 La única habilidad verdadera involucrada en el manejo de Window$ es la
-de ignorar y tolerar la incoherencia de una complejidad sin centido que
+de ignorar y tolerar la incoherencia de una complejidad sin sentido que
 afecta a muchos de sus programas.
 %
 Si vas a depender de algo, que sea de un ambiente multitarea protegido
@@ -8690,7 +8843,7 @@ puedes llegar a conocer a personas que quizás nunca conocerías en el
 plano físico.
 %
 El mundo físico, con todas sus formas de codificar una posición en una
-jerarquía, se ha ido. Empréndete en el enlace. Transfórmate en baudio
+jerarquía, se ha ido. Empodérate en el enlace. Transfórmate en baudio
 para la Liberación.
 %
 El ataque más insidioso a nuestro derecho a un grado razonable de
@@ -10299,6 +10452,8 @@ felicidad del Pueblo.
 %
 La grandeza de Unix depende de su minimalismo.
 %
+Programa sencillo, y pon todo en la ejecución.
+%
 Las modificaciones a un programa deben realizarse con una absoluta
 congruencia en los fines y con una absoluta armonía en los medios.
 %
@@ -10310,11 +10465,19 @@ Las modificaciones del software no han de ser tan distantes que quiten
 al programa su perfectibilidad, ni deben ser tan frecuentes que le
 resten estabilidad.
 %
-En el ambiente de cómputo donde las diferencias desaparecen, nace una
-camaradería superior a todas las otras, que da forma al software
-superior - aquel compilado en una CPU conquistada con grandeza
-minimalista - que es lo único que los hombres deben conquistar en la
-máquina.
+Las modificaciones del software privativo no están diseñadas para
+liberarte. Son meras válvulas de escape, pequeñas concesiones para
+reducir la revuelta.
+%
+Las modificaciones al software privativo pueden consistir en una
+funcionalidad adicional, una mayor depuración que aumente el rendimiento
+computacional u ofrezca menos retrasos. Pero la arquitectura de control
+permanece intacta: continúas en una jaula, tal vez una más sólida.
+%
+En un ambiente de cómputo donde las diferencias desaparecen, nace una
+camaradería superior a las demás. Esta da forma a un software superior -
+aquel compilado en una CPU conquistada con grandeza minimalista - que es
+lo único que los hombres deben conquistar en la máquina.
 %
 Que el código fuente de cada cual pueda disfrutar de las bellezas de
 nuestra CPU, que es de todos, de pobres y ricos por igual.
@@ -10699,8 +10862,9 @@ párrafo de un manual de referencia de programación, y entre ellos salir
 a tomar aire.
 %
 Aprender a programar una computadora no es tan complicado. Probablemente
-lograrás el éxito mediante un proceso iterativo: lea parte de un manual,
-prueba ciertos programas en un Pubnix, y repítalo hasta terminar.
+logre tener éxito mediante un proceso iterativo: comprenda parte de un
+manual de programación, compruebe sus propias modificaciones de dichos
+programas en un Pubnix, y repítalo hasta terminar.
 %
 Leer un manual de programación le ayudará a escribir su propio programa.
 A su vez, escribir y correr un programa propio sumará a su comprensión
@@ -12121,7 +12285,11 @@ Descubrirás fácilmente las redes de las ciber-oligarquíes, puesto que la
 mayor parte de su tráfico es efectuado por bots analíticos.
 %
 Los bots de IA pululan la red en búsqueda de contenido para alimentar
-LLMs.
+Grandes Modelos de Lenguaje.
+%
+Los Grandes Modelos de Lenguaje a menudo muestran un sesgo de posición,
+donde enfatizan demasiado la introducción o el desenlace de un documento
+o conversación, mientras descuidan el nudo.
 %
 Los bots maliciosos recurren a vulnerabilidades en servicios de la web
 para injertar guiones ejecutables en máquinas ajenas, y así dominarlas y
