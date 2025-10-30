@@ -124,7 +124,7 @@ _____________________________________
 ```
 O más fácil aún: puedes hacer todo automatizado ingresando simplemente:
 
-<code bash>vaca</code bash>
+<code bash>vaca</code>
 
 ```
  __________________________________
