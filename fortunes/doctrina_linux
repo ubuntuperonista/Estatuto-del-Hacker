@@ -818,6 +818,8 @@ El manejo de las microcomputadoras pioneras resultaba increíblemente tedioso, p
 %
 Cuando fueron diseñadas las primeras microcomputadoras, sus módulos de memoria contenían por lo general cuatro mil bytes de almacenamiento.
 %
+La oligarquía del dato ha anulado todos los avances en densidad de transistores, arquitectura de computadoras, compiladores y redes de computadoras de los últimos 30 años.
+%
 El ciclo engendró al lenguaje máquina. El lenguaje máquina dio vida al ensamblador. El ensamblador se la dio al compilador. Ahora hay diez mil lenguajes.
 %
 Existen hackers que son imprescindibles para llevar a buen término un software. Tales programadores facilitarán nuestra labor en el mainframe, y sus apreciaciones permearán en todo lo que hagamos. También existen estos Torvalds que sólo sirven para gastar aire.
@@ -5570,7 +5572,7 @@ La red de datos académica no científica BITNET - patrocinada por IBM - comenz�
 %
 Grandes redes de datos internas de las corporaciones DEC, IBM y AT&T comenzaron a extenderse en los Estados Unidos desde finales de la década de 1970. Los hackers del Tercer Mundo no dudaron en invadirlas no bien las tuvieron a tiro.
 %
-En la medida que cobró relevancia la utilidad de la red de datos, los Descamisados - que originalmente no estaban autorizadas para usarla - anhelaron dicho privilegio.
+En la medida que cobró relevancia la utilidad de la red de datos, los Descamisados - que originalmente no estaban autorizados para usarla - anhelaron dicho privilegio.
 %
 Debido a que la tecnología de conmutación de paquetes y redes se creó con fondos financiados con impuestos públicos, las sucesivas generaciones de redes implementaron políticas de "uso aceptable" que descartaban la actividad comercial.
 %
