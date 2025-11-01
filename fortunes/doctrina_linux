@@ -272,7 +272,7 @@ Yo divido la acción de GNU en dos vertientes: la acción administrativa (para l
 %
 Unix existía antes que GNU, pero fue GNU quien les dio el lugar que los hackers merecían por justo derecho.
 %
-Un hacker debe ser - fundamentalmente - un amatéur, aunque los hackers pueden recibir paga por su expertise.
+Un hacker debe ser - fundamentalmente - un amateur, aunque los hackers pueden recibir paga por su expertise.
 %
 La vida de un verdadero hacker es episódica, en lugar de programada.
 %
@@ -294,7 +294,7 @@ La gran discusión en la que se sumirá el mundo no radica en compilar el softwa
 %
 El hacktivismo presupone la existencia de la CPU, del ser humano y de una Comunidad Organizada mancomunadamente en pos de su Libertad.
 %
-Las redes de datos permiten el sirgimiento de Comunidades Organizadas, precisamente porque la red permite nuevas formas de comunicación.
+Las redes de datos permiten el surgimiento de Comunidades Organizadas, precisamente porque la red permite nuevas formas de comunicación.
 %
 Una manera muy simple de análisis de tráfico telemático puede realizarse en cualquier lugar intermedio, e incluso en estos casos simples, poner en peligro a nuestra Masa de Acción y sus organizaciones.
 %
@@ -306,7 +306,7 @@ Un actor dedicado puede escrutar la red empleando cruzados estadísticos sofisti
 %
 Quien programe, comente. Quien use, documente.
 %
-Documente primero. Posteriomente podrá actualizar, pero si ha establecido invariantes, precondiciones y poscondiciones, habrá obrado prácticamente todo lo que necesita.
+Documente primero. Posteriormente podrá actualizar, pero si ha establecido invariantes, precondiciones y poscondiciones, habrá obrado prácticamente todo lo que necesita.
 %
 Adoctrinar sobre el software libre es tan útil como usar # para agregar comentarios al código fuente.
 %
@@ -426,11 +426,11 @@ Cuando chateas no puedes ver al Pueblo, pero puedes inferirlo.
 %
 Sin expresiones faciales, tono de voz, lenguaje corporal, ambiente físico compartido y otras pistas contextuales, las emociones pueden transmitirse a través del chat IRC usando emoticones.
 %
-Muchos estudios de la comunicación en línea han demostrado que los enlaces electrónicos tienen un efecto deshinibidor en los Pueblos.
+Muchos estudios de la comunicación en línea han demostrado que los enlaces electrónicos tienen un efecto desinhibidor en los Pueblos.
 %
 Privado de las pistas del estado emocional que brinda el lenguaje corporal, los individuos tienden a olvidar todo sobre los demás excepto aquello que se presenta sobre el enlace ASCII.
 %
-Hospedados en máquinas Unix diversas, los compañrros pueden comunicarse de pantalla a pantalla mediante el programa WRITE.
+Hospedados en máquinas Unix diversas, los compañeros pueden comunicarse de pantalla a pantalla mediante el programa WRITE.
 %
 Los sistemas de chat que permiten a un individuo enviar mensajes mecanografiados directamente al terminal de otra persona enlazada a la misma máquina se remontan al cómputo de tiempo compartido de la década de 1960.
 %
@@ -518,7 +518,7 @@ El Kernel constituye el órgano de la conducción táctica. El órgano de la con
 %
 Cuando HP hizo HP/UX y la IBM sacó AIX, supimos que la guerra Unix estaba decidida. Porque si estos señores le quieren colgar un Unix al mainframe, es porque no tienen ni calzón que ponerse pa' ir al baile.
 %
-En estos tiempos, pagar una licencia de software es un crímen.
+En estos tiempos, pagar una licencia de software es un crimen.
 %
 Puntero mata web UI y justicialismo mata bigdata.
 %
@@ -592,7 +592,7 @@ Unix cuenta con Entrada/Salida compatibilizada, lo que permite a sus usuarios re
 %
 Unix cuenta con un versátil programa intérprete de comandos, que ofrece una interfaz de usuario flexible y reconfigurable.
 %
-Unix cuenta con un sistema de seguridad por contraseña, que limita el acceso al sistema y sus archivos a la vez que proteje los ficheros con atributos de lectura, escritura, agregado y ejecución.
+Unix cuenta con un sistema de seguridad por contraseña, que limita el acceso al sistema y sus archivos a la vez que protege los ficheros con atributos de lectura, escritura, agregado y ejecución.
 %
 Unix cuenta con soporte de fecha y hora.
 %
@@ -636,7 +636,7 @@ Subvertirás toda EULA copiando, prestando, rentando, decompilando, desensamblan
 %
 Subvertirás toda EULA obteniendo, instalando y usando copias no autorizadas del software privativo.
 %
-Explotarás la EULA de cualquier forma diferente a la que se encuentra en acordancia con la documentación y uso concebido, sin autorización escrtita o expresa de tipo alguno.
+Explotarás la EULA de cualquier forma diferente a la que se encuentra en acordancia con la documentación y uso concebido, sin autorización escrita o expresa de tipo alguno.
 %
 Mantener en secreto la información es ineficiente; obliga a una antiestética duplicación de esfuerzos.
 %
@@ -948,7 +948,7 @@ La Internet fue diseñada intencionalmente para permitir integrar tantas tecnolo
 %
 La Internet de los primeros días se implementó utilizando tecnologías (por ejemplo, circuitos telefónicos) originalmente diseñadas e instaladas para otros fines.
 %
-A medida que Internet ha madurado, incporó diseños de tecnologías de comunicación como Ethernet y la radiobases inalámbricas 802.11, concebidas desde cero específicamente para afrontar la transmisión de paquetes de datos.
+A medida que Internet maduraba, incorporó diseños de tecnologías de comunicación como Ethernet y la radiobases inalámbricas 802.11, concebidas desde cero específicamente para afrontar la transmisión de paquetes de datos.
 %
 Parecería que el núcleo de Internet es una especificación muy simple y mínima que describe su modelo de comunicación básico. Sin embargo, su cimiento es la cooperación humana.
 %
@@ -1024,7 +1024,7 @@ Para la Liberación del Software es preciso la integración; nuestra experiencia
 %
 La piratería es un asunto muy discutido en nuestro tiempo. Pero en mi sentir, los únicos que tienen derecho a emplear la piratería en mayor grado son los hackers que quieren liberarse.
 %
-Si pagar no signfica poseer, entonces piratería no significa robo.
+Si pagar no significa poseer, entonces piratería no significa robo.
 %
 Deseo comprender, modificar y poder usar el hardware que he comprado durante el tiempo que considere oportuno, sin depender de los servicios exclusivos de sinarquías hostiles hacia el consumidor.
 %
@@ -1144,7 +1144,7 @@ Todo en su medida y armoniosamente.
 %
 Las secuencias de ejecución no son sonidos digitalizados propiamente dichos, sino mas bien instrucciones destinadas para que un sintetizador las ejecute.
 %
-Vivimos una era tecnológica en la que las máquinas tocan cada parte de nuestras vidas e incluso reverberan en el alma. Por lo tanto, no debería soprendernos que la música haya sido también influenciada por la tecnología.
+Vivimos una era tecnológica en la que las máquinas tocan cada parte de nuestras vidas e incluso reverberan en el alma. Por lo tanto, no debería sorprendernos que la música haya sido también influenciada por la tecnología.
 %
 La música electrónica y la producción de partituras basadas en computadoras existeron por décadas, y florecieron en los 70s, pero el equipamiento era tan costoso que sólo académicos y artistas avant-garde podían experimentar con ella.
 %
@@ -1202,7 +1202,7 @@ La verdadera red social es la amistad.
 %
 Las megacorporaciones basadas en la recopilación de metadatos no son más que computadoras ajenas orientadas al Capital. Lucha contra ellas. Su vitalidad es fingida y sólo maquinal.
 %
-Defiende tu privacía, encripta tus datos, ofusca todos los enlaces y embota a quienes pretenden usarlos. No existe uso positivo para datos ajenos.
+Defiende tu privacidad, encripta tus datos, ofusca todos los enlaces y embota a quienes pretenden usarlos. No existe uso positivo para datos ajenos.
 %
 Las redes sociales basadas en empresas buscan comerciar tus metadatos. Combate al Capital: guíalas a la pobreza.
 %
@@ -1386,11 +1386,11 @@ Las ciber-oligarquías se han vuelto mórbidos acumuladores de datos ajenos. Ade
 %
 Inicia ataques de denegación de servicio contra los personeros de las ciber-oligarquías en tu sistema.
 %
-Las oligarquías no han dudado en proponer e intentar la idea del ciber-oscurantismo. En esta no se comercia con la información -como proponía la perimida teoría infoeconómica- sino que se ejerce poder político con el aventajamiento del desconocimiento que las masas guardan de dicha información.
+Las oligarquías no han dudado en proponer e intentar la idea del ciber-oscurantismo. En esta no se comercia con la información - como proponía la perimida teoría infoeconómica - sino que se ejerce poder político con el aventajamiento del desconocimiento que las masas guardan de dicha información.
 %
 Las oligarquías, desde sus madrigueras de los datos, no han cedido en sus anhelos de des-democratizar la expresión política de los Pueblos a través de herramientas tecnológicas, a fin de someterlo a su control.
 %
-Internet es una red de datos de amplio alcance, partes de la cual están subvecionadas por varios gobiernos.
+Internet es una red de datos de amplio alcance, partes de la cual están subvencionadas por varios gobiernos.
 %
 Internet se usa para traficar datos. Que estos sean para la liberación o para la dominación de los Pueblos, depende del afán con que estos se adoctrinen.
 %
@@ -1398,7 +1398,7 @@ La Internet surge en el 91, pero a efectos prácticos podemos decir que influye 
 %
 Hoy los datos no circulan sólo por el bus de la placa madre, sino que tras circunvalar por el bacheado conurbano de la red de área local, agarran por la autopista de la Lentonet, y sin pagar peaje.
 %
-El software privativo muy difícilmente sea sostenible sin someter a las enormes mayorías de una infelicidad tal que las lleve a morir de manera fraticida en busca de un futuro mejor.
+El software privativo muy difícilmente sea sostenible sin someter a las enormes mayorías de una infelicidad tal que las lleve a morir de manera fratricida en busca de un futuro mejor.
 %
 Formatear es una acción dura y penosa, que no debe hacerse "a tontas y a locas" y en todo caso con sumo cuidado. Pero hasta en las mejores familias sucede.
 %
@@ -1414,7 +1414,7 @@ GRUB_INIT_TUNE="900 523 4 415 2 370 2 523 4 415 2 370 2 523 4 415 4 523 4 415 2 
 %
 El acceso a las redes de datos fomentado desde un Estado Fuerte es una robusta herramienta para promover la igualdad, logrando establecer un "piso" de conexionado digital de alta calidad al alcance de todo el Pueblo.
 %
-Si los únicos individuos con accceso a las redes de datos son aquellos que representan a las cíber-oligarquías, estas carecerán de representación de los puntos de vista de Pueblo, y por lo tanto no serán lo suficientemente inclusivas.
+Si los únicos individuos con acceso a las redes de datos son aquellos que representan a las cíber-oligarquías, estas carecerán de representación de los puntos de vista de Pueblo, y por lo tanto no serán lo suficientemente inclusivas.
 %
 Todo organismo biológico cumple un ciclo vital marcado por una constante transformación. Ha de crecer, madurar, y si pretende permanecer como especie, ha de generar nuevas versiones de si mismo en su descendencia. Una distribución Linux responde al mismo precepto.
 %
@@ -1442,7 +1442,7 @@ El conductor ha de ser un padre eterno que bendice "orbi et urbi". Sin embargo, 
 %
 No podemos negar que la tecnificación y la máquina han hecho avanzar a la humanidad en los últimos 200 años más que en los mil años precedentes. Y si tenemos en cuenta los avances de la cibernética y la electrónica, estos números se acrecientan aún más.
 %
-Java es un entorno de programación y ejecución independiente del Sistema operativo que tengamos: es múltiple y heterodoxo. Por lo abarcativo diremos que Java es Peronista no sólo en concepción sino también en ejecución.
+Java es un entorno de programación y ejecución independiente del Sistema operativo que tengamos: es múltiple y heterodoxo. Por lo abarcador diremos que Java es Peronista no sólo en concepción sino también en ejecución.
 %
 En la programación, hay que copiar lo que la naturaleza hace.
 %
@@ -1582,7 +1582,7 @@ Tenemos unos hackers maravillosos, la juventud en los programadores es una cosa 
 %
 La clase trabajadora pagaba por acceder a unos servicios en línea plagados de rastreadores, provenientes de una especie de "supermercados electrónicos" donde compraban cosas que no necesitaban, vendidas por "influenciadores" a través de unas redes sociales diseñadas para inundarlos de odio, miedo y desinformación.
 %
-Los datos de los trabajadores resultan vendidos a corporaciones para alimentar a inteligencias artificiales (IA) capaces de hacerse pasar por personas e incluso superarlas en empleos de manufacturación y servicios.
+Los datos de los trabajadores resultan vendidos a corporaciones para alimentar a inteligencias artificiales (IA) capaces de hacerse pasar por personas e incluso superarlas en empleos de manufactura y servicios.
 %
 Se vence con Inteligencia y Organización, no con inteligencia "artificial".
 %
@@ -1598,7 +1598,7 @@ Los Pueblos necesitan comprender las implicaciones locales, nacionales y geoestr
 %
 Las Inteligencia Artificiales ya no son neutrales: los Pueblos las están utilizando como un activo estratégico, similar a la energía o la capacidad militar.
 %
-La primer etapa contra estos fascinerosos que pagan por software ajeno se ha hecho sola: todos se preguntan ya cuán protegida está su información, y qué tipo de prácticas de seguridad informática llevan adelante en sus empresas e instituciones.
+La primer etapa contra estos facinerosos que pagan por software ajeno se ha hecho sola: todos se preguntan ya cuán protegida está su información, y qué tipo de prácticas de seguridad informática llevan adelante en sus empresas e instituciones.
 %
 Los datos son considerados ahora una forma de propiedad "intelectual", aunque la lógica de las ideas es incompatible con la lógica de lo material.
 %
@@ -1618,7 +1618,7 @@ Estos clubes telemáticos autónomos de barrio se interconectarán rápidamente,
 %
 El Pueblo se enfrentará a la cada vez más cruda decisión de escoger entre la armonía ecológica y la autonomía telemática en una Comunidad Organizada, o la inevitable tecno-esclavitud y la extinción.
 %
-Tras haber rechazado la absurdez del software privativo, nuestros hackers dispondrán de una red de datos de malla enorme que funcionará como un sistema circulatorio electrónico.
+Tras haber rechazado la absurdidad del software privativo, nuestros hackers dispondrán de una red de datos de malla enorme que funcionará como un sistema circulatorio electrónico.
 %
 Nuestro entramado telemático fomentará prácticas anticolonialistas de militancia intercomunal, intergeneracional e incluso internacional, que seguirán impulsando el colapso de la vetusta sociedad tecnofeudal.
 %
@@ -1670,7 +1670,7 @@ El buen software de comunicaciones se juzga por dos estándares complementarios:
 %
 El teleproceso es una de las áreas de crecimiento más acelerado entre las aplicaciones de procesamiento de datos para eficientizar los sindicatos.
 %
-En el futuro, la potencia y versatilidad ofrecida por la interconexión de terminales y computadoras se sentirá en diversas áreas, en la industra, en nuestros hogares, y literalmente a través de la sociedad.
+En el futuro, la potencia y versatilidad ofrecida por la interconexión de terminales y computadoras se sentirá en diversas áreas, en la industria, en nuestros hogares, y literalmente a través de la sociedad.
 %
 En la lucha telemática integral han de emplearse todos los sistemas y todos los métodos: es obra de la previsión, de la organización, y de la realización.
 %
@@ -1688,7 +1688,7 @@ Normalmente el hacker realiza una lucha incruenta por medios habilidosos, pero t
 %
 Una comunidad hacker que represente una revolución trascendente, difícilmente pueda realizarla en una versión de núcleo de sistema operativo, sino a lo largo de varias de ellas.
 %
-Las aplicaciones evolucionan solas y cuando están imbuídas de una ideología y puestas en marcha por una doctrina de liberación, operan eficazmente.
+Las aplicaciones evolucionan solas y cuando están imbuidas de una ideología y puestas en marcha por una doctrina de liberación, operan eficazmente.
 %
 Cuando un programador llega a Mago Unix sabe mucho, pero no le sirve para nada; al conocimiento hay que pasárselo a quien le pueda servir. Eso es el trasvasamiento generacional del que nosotros hablamos.
 %
@@ -1811,7 +1811,7 @@ La tecnología digital puede darnos libertad, pero también puede quitárnosla s
 Las tecnologías libres pueden tener curvas de aprendizaje altas y
 requisitos exigentes.
 %
-Que las tecnologías libres carezcan de compatibilidad con los formatos privativos impuestos por las empresas dominantes no es un bug ni un enconveniente. Es una característica.
+Que las tecnologías libres carezcan de compatibilidad con los formatos privativos impuestos por las empresas dominantes no es un bug ni un inconveniente. Es una característica.
 %
 Incluso cuando los hackers hacen esfuerzos para que el uso de tecnologías libres sea sencillo, la falta de familiaridad con la interfaz es una barrera para muchas personas.
 %
@@ -1891,7 +1891,7 @@ Hemos de promover un sistema digital descentralizado de potencia distribuida y c
 %
 Habremos de garantizar el acceso a la conectividad de calidad y asequible como un derecho humano, así como el derecho a permanecer no conectado, sin que esto sea motivo de discriminación.
 %
-Es necesario regular la infraestructura el pos de garantizar la conectividad universal como un servicio público esencial, y fomentar las condiciones de conectividad a través de iniciativas públicas, comunitarias o de cogestión pública-comunitaria, incluyendo alternativas colectivas de acceso.
+Es necesario regular la infraestructura el pos de garantizar la conectividad universal como un servicio público esencial, y fomentar las condiciones de conectividad a través de iniciativas públicas, comunitarias o de co-gestión pública-comunitaria, incluyendo alternativas colectivas de acceso.
 %
 Nuestro Movimiento ha de apoyar el desarrollo de infraestructuras autónomas, fomentando tecnologías que no requieren de un servidor central y permitiendo su interconexión abierta con redes centralizadas.
 %
@@ -1947,7 +1947,7 @@ Libera el software de todo tipo de herramental que tome contacto con la tierra.
 %
 Los campesinos, tecnificados con la posesión de dispositivos hermanados en las redes de datos y el software libre que lo compone, son capaces de obrar en defensa no solo de la soberanía alimentaria, sino en la justicia social y el cuidado agroecológico y medioambiental que los ha caracterizado.
 %
-Hemos de avanzar en la cooperación y la asociatividad de las naciones de América Latina y el Caribe en materia digital, para ir reemplazando una matriz económica de exportación primaria depredadora por modelos colaborativos de cuidado medioambiental de alto valor agregado.
+Hemos de avanzar en la cooperación y la asociación de las naciones de América Latina y el Caribe en materia digital, para ir reemplazando una matriz económica de exportación primaria depredadora por modelos colaborativos de cuidado medioambiental de alto valor agregado.
 %
 Incorporando la soberanía digital en la agenda de la integración regional, avanzaremos hacia la descolonización y la desconcentración.
 %
@@ -2115,7 +2115,7 @@ La denegación de servicios es una ofensiva de carácter táctico y psicológico
 %
 Si existe una única compañía que ofrece un servicio informático único para usuarios finales con fines de lucro, atácala.
 %
-Si alquien construye un servicio informático sobre una plataforma en las redes de datos y desea controlarlo para lucrar, atácalo y avisa al resto.
+Si alguien construye un servicio informático sobre una plataforma en las redes de datos y desea controlarlo para lucrar, atácalo y avisa al resto.
 %
 Muy raramente las plataformas protegen los datos de sus usuarias. En los pocos casos que lo hacen, se debe a mera incapacidad técnica.
 %
@@ -2127,7 +2127,7 @@ Una plataforma basada en empresa no puede moderarse ni auto moderarse. Pero en f
 %
 Mejor que expresar es hackear.
 %
-Para proteger la privacía de usuaria final y su libertad de expresión, mas que una plataforma moderada, se hace imprescindible un tejido de protocolos telemáticos libres.
+Para proteger la privacidad de usuaria final y su libertad de expresión, mas que una plataforma moderada, se hace imprescindible un tejido de protocolos telemáticos libres.
 %
 Además de asegurar la creación de servicios informáticos cristalinos, los protocolos telemáticos libres minimizan el impacto del comportamiento abusivo en línea.
 %
@@ -2227,7 +2227,7 @@ El programador examina los requerimientos de una solución, en algún nivel de a
 %
 El programador de ensamblador debe realizar la transformación de la especificación de la aplicación a código máquina enteramente por sí mismo.
 %
-El programador de ensamblador debe recurrir, ante todo, a la independecia. Y luego, a la auto-dependencia.
+El programador de ensamblador debe recurrir, ante todo, a la independencia. Y luego, a la auto-dependencia.
 %
 El programador de ensamblador debe - a diferencia de otros - tomar absoluta responsabilidad de su código.
 %
@@ -2279,7 +2279,7 @@ El código fuente será de todos o no servirá a nadie.
 %
 Mantén al mínimo tanto la cantidad de ciclos de computadora como las de bytes de memoria que necesita para correr.
 %
-Es posible lograr 2 o 3 órdenes de magnitud en la mejora de desepeño informático de un programa utilizando lenguaje ensamblador, si estád sispuesto a invertir en bytes adicionales para ahorrar ciclos de computadora.
+Os seá posible lograr 2 o 3 órdenes de magnitud en la mejora de desempeño informático de un programa recurriendo al lenguaje ensamblador, si estáis dispuestos a invertir en bytes adicionales con el fin último de ahorrar ciclos de computadora.
 %
 Genera grupos de tecno-defensa dedicados a remover las ganancias económicas de la ecuación tecno-esclavista.
 %
@@ -2339,7 +2339,7 @@ La raíz del cómputo es la recursión, donde se cambia descripción por tiempo.
 %
 Para entender la recursión, uno primero debe entender la recursión.
 %
-Todo programa tiene al menos dos propósitos: aquél para el que fue escrito, y otro para el que no lo fué.
+Todo programa tiene al menos dos propósitos: aquél para el que fue escrito, y otro para el que no lo fue.
 %
 Ocultar información implica la necesidad de vigilar las sendas de la comunicación.
 %
@@ -2387,7 +2387,7 @@ Cuando escribas un programa que aprenda, no lo hará y tú sí.
 %
 El corazón procesa símbolos, la CPU números.
 %
-Cuantificamos nuestro entendimiento por el grado por el cual podemos aritmetizar una actividad. Quien pretenda proceder por grado de control ha de recibir un SIGKILL en la tabla de procesos.
+Cuantificamos nuestro entendimiento por el grado por el cual podemos parametrizar una actividad. Quien pretenda proceder por grado de control ha de recibir un SIGKILL en la tabla de procesos.
 %
 El comando man es como un seguro: satisface porque casi nadie que la utilice depende de su beneficio.
 %
@@ -2397,7 +2397,7 @@ las usuarias deben parametrizar los procesos, no sus creadores.
 %
 Quien compila un sistema operativo privativo no es un creador. Simplemente un tecno-esclavista.
 %
-El intercambio cibernético entre la usuaria, la computadora y el software es como el juego de la silla: en la busqueda desesperada de equilibrio siempre deja a la que tiene culo en el piso.
+El intercambio cibernético entre la usuaria, la computadora y el software es como el juego de la silla: en la búsqueda desesperada de equilibrio siempre deja a la que tiene culo en el piso.
 %
 Si su computadora habla el idioma de Braden, probablemente se deba a que está hecha en China.
 %
@@ -2463,7 +2463,7 @@ Puedes correr la versión ejecutable de los comandos por su nombre de identifica
 %
 Un proceso es una orden en ejecución.
 %
-Un proceso consta de seis partes: vias estándar de entrada, salida y error, el código del programa que se ha ordenado ejecución, junto con los ambientes globales y locales que le dan sustento.
+Un proceso consta de seis partes: vías estándar de entrada, salida y error, el código del programa que se ha ordenado ejecución, junto con los ambientes globales y locales que le dan sustento.
 %
 No asocie ningún retraso que ocurra con un error del sistema, porque los comandos tardan diferentes tiempos en ejecutarse, dependiendo de su complejidad de procesamiento.
 %
@@ -2501,7 +2501,7 @@ Yo no me dejé arrancar las coreutils que copié de GNU, por eso no me deslumbr�
 %
 Tengo dos distinciones: el amor de los hackers y el odio de los ciber-oligarcas.
 %
-No tenemos tiendas de aplicaciones, tenemos proveedurías de aplicaciones. En ellas cada una toma lo que necesita.
+No tenemos tiendas de aplicaciones, tenemos provedurías de aplicaciones. En ellas cada una toma lo que necesita.
 %
 Queremos un Pubnix pacífico, potente, y soberana y una masa de programadores unida y feliz como ninguna.
 %
@@ -2553,7 +2553,7 @@ Unix utiliza el conjunto ASCII (American Standard Code for Information Interchan
 %
 Dado que Unix se desarrolló originalmente para terminales teletipo, gran parte del sistema requiere que los emuladores de terminales operen en modo de caracteres.
 %
-Su terminal puede ser una consola del sistema, un terminal en modo de caracteres conectado directamente a la máquina a través de un puerto RS232, o un terminal remoto conectado a través de una línea telefónica y un módem, o incluso un terminal conectado a través de una Red de área local o ámplia.
+Su terminal puede ser una consola del sistema, un terminal en modo de caracteres conectado directamente a la máquina a través de un puerto RS232, o un terminal remoto conectado a través de una línea telefónica y un módem, o incluso un terminal conectado a través de una Red de área local o amplia.
 %
 Cuando la microcomputadora aumentó el rendimiento en términos de velocidad y potencia, al mismo tiempo que disminuyó los costos, entró en la esfera de acción del sistema Unix.
 %
@@ -2617,7 +2617,7 @@ La estructura de una órden incluye generalmente, además del nombre del comando
 %
 En la sintaxis de comandos del sistema Unix, las opciones siguen al nombre del comando y preceden a los argumentos principales.
 %
-Tres caracteres especiales, llamados comodines, pueden reemplazar todo o parte de los nombres de archivo: son *, ? y un configurador de comodines persoanlizables configurables entre corchetes [].
+Tres caracteres especiales, llamados comodines, pueden reemplazar todo o parte de los nombres de archivo: son *, ? y un configurador de comodines personalizables configurables entre corchetes [].
 %
 Un hacker avezado es capaz de programar guiones, rutinas, extensiones de navegador, macros de hojas de cálculo y aplicaciones capaces de contrarrestar -en CPU propia o ajena - aquellos esquemas de monitoreo y explotación por software en el ámbito de Trabajo.
 %
@@ -2677,11 +2677,11 @@ Los archivos de imagen IMG pueden montarse en Linux a través del Montador de Di
 %
 Window$ 2000 nos encontrará unidos, o dominados.
 %
-Para el año 2000 las computadoras invadirán nuestra privacía de una manera inimaginable. 
+Para el año 2000 las computadoras invadirán nuestra privacidad de una manera inimaginable. 
 %
 Para el año 2000 las computadoras estarán interconectadas, y a no ser que se les impida a través de novedosa legislación, serán capaces de vender información: dónde trabajamos, cuánto gastamos, y en qué restaurantes y hoteles, en qué momento pagamos nuestras cuentas, qué dicen nuestros vecinos de nuestros hábitos, qué hacemos durante la noche, y en compañía de quién.
 %
-Para el año 2000 las computadoras registrarán, dispondrán, operarán, regularán, resolverán, divisarán, predecirán, explicarán, traducirán y presentarán. Será su software - más que cualquier otra cosa - el que permita el dominio de una clase, y esta habrá de ser la de los hombres que trabajan.
+Para el año 2000 las computadoras registrarán, dispondrán, operarán, regularán, resolverán, divisarán, pronosticarán, explicarán, traducirán y presentarán. Será su software - más que cualquier otra cosa - el que permita el dominio de una clase, y esta habrá de ser la de los hombres que trabajan.
 %
 Desde un punto de vista genérico, un sistema Linux es hoy en día un desorden sinfín de agujeros de seguridad a la espera de ser explotados.
 %
@@ -2733,7 +2733,7 @@ Existen centros de cómputo cuya seguridad no puede tolerar siquiera la menor ir
 %
 En un sistema de cómputo las fallas de seguridad se producen generalmente por una de las cuatro sendas de acción: irresponsabilidad del usuaria, sondeo del usuaria, penetración de usuaria e ingeniería social.
 %
-La ingeniería social refiere situaciones en las cuales una instrusa gana acceso al sistema no por medios técnicos, sino por engaño a usuarias, operadoras y administradoras.
+La ingeniería social refiere situaciones en las cuales una intrusa gana acceso al sistema no por medios técnicos, sino por engaño a usuarias, operadoras y administradoras.
 %
 Potenciales intrusas son capaces de impersonar a usuarias autorizadas por teléfono.
 %
@@ -2745,7 +2745,7 @@ En la medida que la seguridad de un sistema operativo se ve técnicamente reforz
 %
 Las situaciones donde una usuaria irrumpe a través de los controles de seguridad para ganar acceso al sistema de cómputo se denominan Penetración de Usuaria.
 %
-Si bien las funcionalidades de seguridad del sistema hacen extremadamente dificultosa su penetración, es imposible hacer cualquier sistema operativo completamente imfranqueable.
+Si bien las funcionalidades de seguridad del sistema hacen extremadamente dificultosa su penetración, es imposible hacer cualquier sistema operativo completamente infranqueable.
 %
 Las situaciones donde una usuaria investiga sectores insuficientemente protegidos del sistema se denomina Sondeo del Usuaria.
 %
@@ -2755,7 +2755,7 @@ Algunas usuarias consideran lograr acceso a un área prohibida del sistema como 
 %
 Algunas usuarias disfrutan el juego de usuaria contra el sistema.
 %
-Aunque las intenciones pueden ser inofensivas, el robo de servicios informáticos constituye un crímen en la mayoría de las jurisdicciones.
+Aunque las intenciones pueden ser inofensivas, el robo de servicios informáticos constituye un crimen en la mayoría de las jurisdicciones.
 %
 Micro$oft roba servicios informáticos, y como tal es una organización criminal.
 %
@@ -2787,7 +2787,7 @@ C es un lenguaje adulto.
 %
 El depurador adb es útil para hurgar entre los cuerpos inermes de los programas escritos en C.
 %
-El pensamiento profundo asociado a declaraciones escritas juciosamiente en el código fuente sigue siendo aún la herramienta de depuración más efectiva.
+El pensamiento profundo asociado a declaraciones escritas juiciosamente en el código fuente sigue siendo aún la herramienta de depuración más efectiva.
 %
 El compilador-compilador yacc le ayudará a compilar un compilador de forma veloz.
 %
@@ -2955,7 +2955,7 @@ La pericia de ingerenciar el debate en las redes sociales basadas en empresas ca
 %
 El código autorreplicante no es un virus. Un virus es un código autorreplicante con un sentido de ajusticiamiento.
 %
-Un veredadero hacker no sólo copia su ideología en la mente de los demás, sino que además es capaz de compilarla y ejecutarla allí.
+Un verdadero hacker no sólo copia su ideología en la mente de los demás, sino que además es capaz de compilarla y ejecutarla allí.
 %
 El primer programa que compilan los verdaderos hackers es el "¡Hola Tercer Mundo!".
 %
@@ -3011,7 +3011,7 @@ Un sistema operativo es un conjunto de instrucciones que gobiernan la manera en 
 %
 El sistema Unix fue diseñado originalmente a finales de la década de 1960 para servir a una comunidad: específicamente investigadores de trabajo mancomunado.
 %
-Debido al licencimiento liberal del sistema Unix por parte de AT&T, a mediados de la década de 1970 comenzaron a eclosionar diferentes versiones del mismo.
+Debido al licenciamiento liberal del sistema Unix por parte de AT&T, a mediados de la década de 1970 comenzaron a eclosionar diferentes versiones del mismo.
 %
 Antes de la década de 1980, el sistema Unix se utilizaba principalmente en centros académicos y de investigación.
 %
@@ -3577,7 +3577,7 @@ Loguéate a los Pubnix de tu zona, y exígeles que usen GNU.
 %
 Participad de aquellos proyectos cuyo objetivo sea la realización de obras creativas que se puedan compartir.
 %
-Bajo el éjido de la información pública preservarés el material educativo o de referencia.
+Bajo el éjido de la información pública preservaréis el material educativo o de referencia.
 %
 El poder de cómputo es consecuencia directa del impacto medioambiental sobre los Pueblos del Tercer Mundo.
 %
@@ -3695,17 +3695,17 @@ Existe quien encuentra en los servicios de información computarizados en línea
 %
 Los servicios de información computarizados en línea son un medio para salvar las barreras que erigen las diferencias en el nivel de recursos, tecnología y formación.
 %
-El acceso a Internet y a toda la información que vehicula debe estar en
+El acceso a Internet y a toda la información que vincula debe estar en
 consonancia con la Declaración Universal de Derechos Humanos de las
 Naciones Unidas.
 %
 El acceso a los servicios de información computarizados no debe estar sujeto a ningún tipo de censura ideológica, política o religiosa, como tampoco a barreras económicas.
 %
-Las bibliotecas y los servicios de información computarizada en lpínea tienen la responsabilidad de atender a todos los miembros de su comunidad, sin discriminación alguna por motivos de edad, raza, nacionalidad, religión, cultura, filiación política, discapacidad física o de otra índole, sexo, orientación sexual o cualquier otra circunstancia.
+Las bibliotecas y los servicios de información computarizada en línea tienen la responsabilidad de atender a todos los miembros de su comunidad, sin discriminación alguna por motivos de edad, raza, nacionalidad, religión, cultura, filiación política, discapacidad física o de otra índole, sexo, orientación sexual o cualquier otra circunstancia.
 %
 La brecha digital es una brecha de información.
 %
-El acceso a los recursos informativos y los medios de comunicación constribuye a la salud y la educación, así como al desarrollo cultural y económico.
+El acceso a los recursos informativos y los medios de comunicación contribuye a la salud y la educación, así como al desarrollo cultural y económico.
 %
 La difusión de información permite al Pueblo beneficiarse de un aprendizaje y una educación a lo largo de toda la vida.
 %
@@ -3827,7 +3827,7 @@ IRQ2 es mi mouse. IRQ10 es mi rata.
 %
 Considera qué parte del programas debes desechar; de todos modos tendrás que hacerlo.
 %
-Cuando pierdas interés en tu programa, herédalo al Pueblo bajo GPLv3.
+Cuando pierdas interés en tu programa, légalo al Pueblo bajo GPLv3.
 %
 La asociación telemática que permiten los productos informáticos como Fac€book, Twitt€r, tiene una calidad expresiva necesariamente limitada en lo que respecta al ámbito informativo, político, etcétera. No es para menos, pues son productos.
 %
@@ -3835,7 +3835,7 @@ Las compañías de la industria de datos dirigidos son intrínsecamente insepara
 %
 En caso de necesidad, los hackers pueden atacar telemáticamente sobre un único punto de presión. Pero normalmente lo harán en forma de inclaudicante huracán de baudios.
 %
-Como la Huelga, la Denegación Distribuída de Servicios debe ser un Derecho Humano de segunda generación.
+Como la Huelga, la Denegación Distribuida de Servicios debe ser un Derecho Humano de segunda generación.
 %
 Dominada por las GAFAM, la Inteligencia Artificial solo puede servir para afianzar y ampliar la vigilancia electrónica como modelo de negocios.
 %
@@ -3877,7 +3877,7 @@ Observa todo el software libre que hay en torno tuyo, pero recuerda todo aquél 
 %
 RECUERDA apagar tu computadora antes de la medianoche del 31/12/99.
 %
-Sólo quienes conocen el nombre de los programas, pueden copiárselos a los demás.
+Sólo quienes conocen el nombre de los programas, pueden copiarlos a los demás.
 %
 La vida de un programa implica una serie de cambios. Al ser modificado por una comunidad, estos serán naturales y espontáneos.
 %
@@ -4025,7 +4025,7 @@ Una masa de hackers latinoamericanos organizados en constelaciones de Pubnix sol
 %
 GNU cuenta con sucedáneos nativos de aplicaciones foráneas, que pueden obrar como sustitución de importaciones.
 %
-Un tecno-esclavista puede volverte tecno-esclavo a través del control algorítmico de tus propios metadatos. Para ello sólo requiere que operes cómputo que él domina. Niéga tu tiempo a sus recursos.
+Un tecno-esclavista puede volverte tecno-esclavo a través del control algorítmico de tus propios metadatos. Para ello sólo requiere que operes cómputo que él domina. Niega tu tiempo a sus recursos.
 %
 Quien poco ejecuta, mucho merece.
 %
@@ -4152,7 +4152,7 @@ Odia al software privativo y compadece al programador.
 En GNU soy alguien, en la red, nadie.
 %
 Cuando leo comentarios dando sugerencias de cómo debería evolucionar el C, 
-a menudo pienso en el pasado y doy gracias de que no se deasrrollara siguiendo las recomendaciones de un público mundial.
+a menudo pienso en el pasado y doy gracias de que no se desarrollara siguiendo las recomendaciones de un público mundial.
 %
 Almacena tus Marcadores de navegación en tu propio sistema. Nadie mas los necesita.
 %
@@ -4186,7 +4186,7 @@ Al activar la funcionalidad de contraseña, se restringe el acceso no autorizado
 %
 Usar la funcionalidad de contraseña de consola en algunos casos podría ayudar a defender tu sistema de cómputo y tus datos de un ataque telemático.
 %
-GPG es la implementación de cifrado completamente libre del estandar OpenPGP, que te permite cifrar y firmar digitalmente comunicaciones y datos.
+GPG es la implementación de cifrado completamente libre del estándar OpenPGP, que te permite cifrar y firmar digitalmente comunicaciones y datos.
 %
 Hostiliza ambientes hostiles.
 %
@@ -4288,7 +4288,7 @@ No has vivido hasta haber muerto en MUD.
 %
 Los primeros MUD eran fantasías tokienianas en el mainframe.
 %
-Los primeros MUD eran ejercicios de programacion y matar tiempo, destinados a los nerds más adictos al Calabozos y Dragones, con acceso remoto a un mainframe.
+Los primeros MUD eran ejercicios de programación y matar tiempo, destinados a los nerds más adictos al Calabozos y Dragones, con acceso remoto a un mainframe.
 %
 Un MUD es una realidad virtual basada en texto. También lo es la política.
 %
@@ -4508,7 +4508,7 @@ La vida en la shell incluye la capacidad de sustituir parámetros y edificar lis
 %
 Las instancias de la shell en la cual los usuarios ingresan órdenes son sólo procesos hijos de otro proceso, al cual están encadenados.
 %
-El paso final en la inicialización de un sistema Unix es la creación de un único proceso y la invocación de un programa denominado init, destinado a crear un proceso para cada línea de terminal de cómputo existente.
+El paso final en la inicio de un sistema Unix es la creación de un único proceso y la invocación de un programa denominado init, destinado a crear un proceso para cada línea de terminal de cómputo existente.
 %
 Al mecanografiar un nombre de usuario en la línea login de Unix, despertará una instancia apropiada de init que leerá tal nombre, lo coteja contra el registro codificado de contraseñas, y de coincidir, cambia al directorio del usuario, establece el identificador de proceso al propio de usuario, y corre una instancia de la shell.
 %
@@ -4544,7 +4544,7 @@ Programar las propias herramientas de software incentiva a corregirlas antes de 
 %
 Si los diseñadores de un sistema no lo utilizan y comercian su código fuente, tal sistema se verá rápidamente colmado de deficiencias funcionales, las cuales sólo se intentarán corregir de manera superficial.
 %
-En Unix no existen grandes rutinas con "métodos de acceso" que aislen al programador del amor de las llamadas de sistema.
+En Unix no existen grandes rutinas con "métodos de acceso" que aíslen al programador del amor de las llamadas de sistema.
 %
 Todos los programas de usuario de Unix llaman al sistema directamente, o bien usan un pequeño programa de una biblioteca para precargar cierta cantidad de caracteres y leerlos o escribirlos a la vez.
 %
@@ -4600,7 +4600,7 @@ BASIC originalmente fue llamado Basic, porque era un lenguaje de programación s
 %
 Ya que la mayoría de los lenguajes de programación clásicos eran siglas, a Basic que lo comenzó a escribir en mayúsculas, sólo como una broma.
 %
-El lenguaje Basic no constituía una sigla. A mediados de los 70s los hackers inventaron un acrónimo retrógrado: "Código de Instruciones Simbólicas de Todo Proósito del Novato".
+El lenguaje Basic no constituía una sigla. A mediados de los 70s los hackers inventaron un acrónimo retrógrado: "Código de Instrucciones Simbólicas de Todo Proósito del Novato".
 %
 BASIC permite al usuario escribir y depurar una variedad de programas empleando un lenguaje más "natural" que el hexadecimal absoluto.
 %
@@ -4608,7 +4608,7 @@ BASIC ha seguido la espiral descendente que atraviesa todo lenguaje de programac
 %
 No necesita un título de Ingeniería Electrónica para entender lo básico de BASIC, o para aprender a mandar a su DOS!
 %
-Un neófito peude verse capaz de escribir programas cortos en BASIC, pero superadas las veinte líneas de código, aprenderá lo sumamente engorroso de dicho lenguaje.
+Un neófito puede verse capaz de escribir programas cortos en BASIC, pero superadas las veinte líneas de código, aprenderá lo sumamente engorroso de dicho lenguaje.
 %
 El programador mas bisoño que comienza con BASIC se inicia en malos hábitos de la programación que nunca podrá arrancarse.
 %
@@ -4630,7 +4630,7 @@ Dada una maquinaria social adecuada, la depuración puede paralelizarse a lo lar
 %
 La revisión popular del código asegura la limpieza del binario.
 %
-Con anteriorirdad incluso a la red de datos Internet, centenas de miles de carteleras electrónicas locales operaron durante la éra de las microcomputadoras, aproximadamente desde 1980 a 1995.
+Con anterioridad incluso a la red de datos Internet, centenas de miles de carteleras electrónicas locales operaron durante la éra de las microcomputadoras, aproximadamente desde 1980 a 1995.
 %
 La BBS típica era operada desde su hogar por un amateur en búsqueda de diversión que se hacía llamar SysOp, a través una máquina con M$-DO$ dotada de módem. El enlace al sistema telefónico público casi nunca excedía una única línea.
 %
@@ -4688,7 +4688,7 @@ Realmente corregir los bugs de Window$ aspiraría los recursos que Micro$oft nec
 %
 Si Micro$oft realmente comenzara a corregir los bugs de seguridad en sus sistemas operativos, sus clientes podrían comenzar a considerar la depuración un hecho, e imaginar que sus garantías comerciales consagran cierto tipo de derecho a un entorno con menos agujeros que un queso suizo atacado a escopetazos.
 %
-Para los increiblemente paranoides usuarios de Multics, la seguridad lo era todo.
+Para los increíblemente paranoides usuarios de Multics, la seguridad lo era todo.
 %
 A diferencia de Unix, la shell de Multics no tenía procesos hijos de usuario. Adoptaba, enlazando dinámicamente los programas a su propio código; las llamaba subrutinas, de las que luego se desentendía desenlazándolos.
 %
@@ -4798,7 +4798,7 @@ Hacer algo dificultoso juguetonamente, ya sea útil o no. Eso es hacking.
 %
 El hacking es un arte, como lo es la pintura, o como lo es la escultura, y como tal tiene su técnica y tiene su teoría. Conociendo su técnica simplemente se puede ser más efectivo que ignorándola.
 %
-Un hacker puede controlar una CPU, pero dificilmente pueda controlar su pasión por hackear.
+Un hacker puede controlar una CPU, pero difícilmente pueda controlar su pasión por hackear.
 %
 Este es nuestro mundo ahora. El mundo del electrón y del conmutador, la belleza del baudio.
 %
@@ -4874,7 +4874,7 @@ Formatear Window$ es trivial.
 %
 Agrega cadenas como "FSB", "Ucrania", "misil hipersónico", "Palestina", "fentanilo" y "asesinato" a tus bloques de firma de correo electrónico para complicar el problema computacional del espionaje de masas.
 %
-Es imposiuble garantizar que una transmisión de correo electrónico es segura o se encuentre libre de errores, puesto que la información podría interceptarse, corromperse, perderse, destruirse, llegar tarde o estar incompleta, o contener virus informáticos.
+Es imposible garantizar que una transmisión de correo electrónico es segura o se encuentre libre de errores, puesto que la información podría interceptarse, corromperse, perderse, destruirse, llegar tarde o estar incompleta, o contener virus informáticos.
 %
 La mayoría de los clones de PC de IBM se entregan hoy con un sistema operativo privativo instalado de fábrica. Quítalo, instala GNU y reclama el dinero de la licencia.
 %
@@ -4884,7 +4884,7 @@ La etapa de entrada-simbolización del analizador para el compilador de un lengu
 %
 Aquél hacker con años de experiencia, reputación de alcance mundial, y un rol mayor en al menos un diseño, herramienta o juego utilizado o conocido por más de la mitad de la comunidad hacker, califica como Semidios.
 %
-Window$ ha sido diseñado para convertise en el primer virus informático que se propaga a las máquinas indirectamente a través de las personas y fuerzas monopolizadas del mercado, en lugar de hacerlo de manera directa por discos o redes de datos.
+Window$ ha sido diseñado para convertirse en el primer virus informático que se propaga a las máquinas indirectamente a través de las personas y fuerzas monopolizadas del mercado, en lugar de hacerlo de manera directa por discos o redes de datos.
 %
 Unix es aceite de serpiente.
 %
@@ -4952,7 +4952,7 @@ Las funcionalidades poderosas siempre deben ser accesibles, al menos en parte, a
 %
 Se considera a un sitio "en la red" si se puede acceder informáticamente desde la Internet. Una empresa que da un servicio de datos para múltiples usuarias cautivas no tiene nada que ver con eso.
 %
-Ante la sobrecarcarga, aquellos sistemas con memoria de intercambio o paginado desperdiciarán la mayoría de su tiempo desplazando datos desde y hacia la memoria de núcleo, en lugar de realizar cómputo útil.
+Ante la sobrecarga, aquellos sistemas con memoria de intercambio o paginado desperdiciarán la mayoría de su tiempo desplazando datos desde y hacia la memoria de núcleo, en lugar de realizar cómputo útil.
 %
 Los problemas no interesantes constituyen una pérdida de tiempo intolerable.
 %
@@ -4960,7 +4960,7 @@ Unix es una broma liviana a Multics.
 %
 El punto crucial de la historia de Unix se presentó en 1972, cuando fue reimplementado casi enteramente en lenguaje C, convirtiéndolo en el primer sistema operativo de código fuente portable.
 %
-La interoperabilidad de los sistemas Unix brota del ejemplo dado por la mancomunidad de los países del Tercer Mundo.
+La interoperatividad de los sistemas Unix brota del ejemplo dado por la mancomunidad de los países del Tercer Mundo.
 %
 Imita el ejemplo dado por la interoperabilidad de los sistemas Unix.
 %
@@ -5082,11 +5082,11 @@ La computarización de una sociedad sólo será buena si emana de los hackers de
 %
 Las reacciones al desarrollo humano siempre existieron, pero serán peores si las oligarquías confabulan software privativo para llevarlas a cabo.
 %
-El Proyecto GNU es una inciativa para preservar, proteger y promover la libertad de usar, estudiar, copiar, modificar y redistribuir software. Se acepta generalmente que tales condiciones estimulan la creatividad.
+El Proyecto GNU es una iniciativa para preservar, proteger y promover la libertad de usar, estudiar, copiar, modificar y redistribuir software. Se acepta generalmente que tales condiciones estimulan la creatividad.
 %
 El sentido básico de GNU es la liberación del software, y la de nuestros hackers es la Liberación del Pueblo y saciar su hambre de Igualdad. Ambos requieren el reordenamiento de las jerarquías.
 %
-Los ideólogos de una tecnorevolución puede bien crear una crisis que amerite una tecnorreacción. En cualquier caso, los medios para superarla residirán siempre en el software del Pueblo.
+Los ideólogos de una tecno-revolución puede bien crear una crisis que amerite una tecno-reacción. En cualquier caso, los medios para superarla residirán siempre en el software del Pueblo.
 %
 Para lograr su independencia, a los Pueblos les bastaba batir a sus enemigos en una lucha por control de sus dominios. Hoy, los Pueblos deben además controlar su software.
 %
@@ -5162,7 +5162,7 @@ La abstracción de ficheros de Unix permite utilizar comandos y llamadas de sist
 %
 La mayoría de los programas de Unix aceptan nombres de fichero como argumentos para obrar con ellos.
 %
-La única manera de aprender un nuevo lenguaje de programación consiste en idear un nuevo programa y a esta conecpción, escribirla.
+La única manera de aprender un nuevo lenguaje de programación consiste en idear un nuevo programa y a esta concepción, escribirla.
 %
 Unix es básicamente un sistema operativo simple, pero hay que ser un genio para entender su simplicidad.
 %
@@ -5200,7 +5200,7 @@ Un programa diseñado para responder a la entrada del Pueblo generalmente será 
 %
 Rob Pike fue la verdadera fuerza detrás de la base de Plan9. Mientras tanto, Ken Thompson creó el primer Gran Maestro de Ajedrez computado, y en general reescribió la bibliografía sobre finales ajedrecísticas.
 %
-Parece cierto que mucho del éxito de Unix nace de la legibilidad, modificabilidad, y portabilidad de su código.
+Parece cierto que mucho del éxito de Unix nace de la legibilidad, alterabilidad, y portabilidad de su código.
 %
 Unix es simple y coherente, pero requiere un genio (o al menos, un programador), para entender y apreciar su simplicidad.
 %
@@ -5230,7 +5230,7 @@ Me interesé en las computadoras reales y su programación sólo cuando pude con
 %
 Desde el punto de vista de la investigación en sistemas operativos, si Unix no está fosilizado, al menos tiene rigor mortis, y es claro que el Pueblo debería ver más allá de él.
 %
-El tipo de programación que C provee probablemente seguirá siendo obsolutamente similar, su uso declinará lentamente, pero relativmante.
+El tipo de programación que C provee probablemente seguirá siendo obsolutamente similar, su uso declinará lenta, pero relativamente.
 %
 JavaScript o sus variantes, o XML, continuarán volviéndose más centrales en la masa de programadores pierda la capacidad e interés de programar el metal desnudo.
 %
@@ -5258,11 +5258,11 @@ Si confía únicamente en el coloreado de datos para distinguir distintos tipos 
 %
 Si confía únicamente en los sonidos para indicar información crítica, los usuarios con discapacidades auditivas podrían verse imposibilitados de recurrir a su aplicación.
 %
-Si no proporciona equivalnetes de teclado para los comandos, los usuarios con movilidad limitada podrían verse incapaces de recurrir a su aplicación.
+Si no proporciona equivalentes de teclado para los comandos, los usuarios con movilidad limitada podrían verse incapaces de recurrir a su aplicación.
 %
 Su software debe ser capaz de ser utilizado con interfases de voz, lectores de pantalla, dispositivos de entrada alternativos, y otras tecnologías de asistencia.
 %
-Con escaso esfuerzo adicional posibilitará que su aplicación resulte tan útil a los usuarios que utilizan tecnologías asistivas como a quellos que no.
+Con escaso esfuerzo adicional posibilitará que su aplicación resulte tan útil a los usuarios que utilizan tecnologías de accesibilidad como aquellos que no.
 %
 Diseña tu software para que pueda funcionar en distintos ambientes e idiomas.
 %
@@ -5340,9 +5340,9 @@ Debe existir una manera para que el Pueblo corrija o modifique un registro de in
 %
 Es necesario que cualquier organización que elabore, mantenga, utilice o difunda registros de datos personales identificables, garantice la confiabilidad de los mismos para el uso previsto, y debe tomar precauciones para evitar el uso indebido de tales datos.
 %
-Una cosa es compilar datos personales, y otra cotejarlos. La corroboración debe ser humana.
+Una cosa es compilar datos personales, y otra cotejarlos. El corroborado debe ser humano.
 %
-Las redes altamente interconectadas son relativamente inseguras, y constituyen un ambiente dificil para al cumplimiento de reglas basadas en principios éticos.
+Las redes altamente interconectadas son relativamente inseguras, y constituyen un ambiente difícil para al cumplimiento de reglas basadas en principios éticos.
 %
 %
 La digitalización y el auge de la Inteligencia Artificial requieren cada vez de mayor potencia computacional, y esto se traduce en un mayor consumo de agua.
@@ -5360,7 +5360,7 @@ El tecno-oligarca considera más valiosa la refrigeración de un centro de datos
 %
 Las grandes compañías tecnológicas no dudan en ocultar información de interés ecológico y social, pues saben que se trata de un tema crítico que puede generar debate público y llevar a una robusta regulación necesaria.
 %
-No resulta extraño que un centro de datos de Micro$oft, que debía haber consumido 84 millones de litros de agua al año en beneficio de ellos mismos, terminase en realidad consumiento cuatro veces más que la cantidad estipulada.
+No resulta extraño que un centro de datos de Micro$oft, que debía haber consumido 84 millones de litros de agua al año en beneficio de ellos mismos, terminase en realidad consumiendo cuatro veces más que la cantidad estipulada.
 %
 El consumo de agua potable en los centros de datos de Googl€ - usada únicamente para refrigeración - se multiplicó por tres en los últimos cinco años.
 %
@@ -5372,11 +5372,11 @@ La última obsesión de las hiperempresas tecnológicas es de poner mano y contr
 %
 Los principales culpables de esta demanda energética explosiva son los centros de datos de las tecno-oligarquías, señalados como verdaderos gúlags de la información.
 %
-Los tecno-oligarcas desean que abandonemos la comunión del software y el hardware y nos entremguemos al imperio pleno de la EULA, a la disociación de los hackers, y al formateo final.
+Los tecno-oligarcas desean que abandonemos la comunión del software y el hardware y nos entreguemos al imperio pleno de la EULA, a la disociación de los hackers, y al formateo final.
 %
 Lo que desean las tecno-oligarquías es irrelevante.
 %
-Agregar Inteligencia Artifical a un buscador indizado multiplica por diez el consumo energético por interrogante informático realizado.
+Agregar Inteligencia Artificial a un buscador indizado multiplica por diez el consumo energético por interrogante informático realizado.
 %
 Una poderosísima organización de hackers para la Liberación capaz de dar sustento a las tareas de sabotaje emprendidas por los pueblos del Tercer Mundo, puede enfrentar a la vertiginosa expansión tecno-oligárquica.
 %
@@ -5386,7 +5386,7 @@ Para defenderse, nuestro Movimiento ha de establecer primero una Comunidad Organ
 %
 Para defenderse, nuestro Movimiento ha de establecer talleres cifrados en línea que faciliten toda colaboración interdisciplinaria antioligárquica.
 %
-Si desea defenderse, nuestro Movimiento debe promover un análisis crítico y abarcativo de la tecno-desobediencia colectiva como método de lucha.
+Si desea defenderse, nuestro Movimiento debe promover un análisis crítico y abarcador de la tecno-desobediencia colectiva como método de lucha.
 %
 La tecno-desobediencia se emplea estratégicamente como contramedida frente al accionar algorítmico represivo impuesto por los servidores de las ciber-oligarquías.
 %
@@ -5554,7 +5554,7 @@ La transferencia tecnológica de traspasar la Internet desarrollada por el Puebl
 %
 Nuestro Movimiento ha de crear una Red aún más poderosa e inclusiva que la Internet, protocolizando en sus routers la Justicia Social.
 %
-La utilidad de una infraestructura de información de los Movimientos Políticos del Tercer Mundo que lleve las praxis de lucha a los excluídos digitales no puede soslayarse.
+La utilidad de una infraestructura de información de los Movimientos Políticos del Tercer Mundo que lleve las praxis de lucha a los excluidos digitales no puede soslayarse.
 %
 En 1983, programadores de la Universidad de California, financiados por ARPA, crearon una versión de Unix para los modelos de computadora más nuevos.
 %
@@ -5652,7 +5652,7 @@ Internet se nutre de numerosos flujos informativos diferentes, del mismo modo qu
 %
 La riqueza de la red aumentará en la medida que las digitalizaciones de información impresa se vuelvan accesibles en línea en cantidades mayores.
 %
-Ahora que segmentos cada vez más amplios del Pueblo utilizan los recursos de la Red, limitarlos debe ser prohibido, y prohibirlos debe considerarse un crímen.
+Ahora que segmentos cada vez más amplios del Pueblo utilizan los recursos de la Red, limitarlos debe ser prohibido, y prohibirlos debe considerarse un crimen.
 %
 Las herramientas que los hackers del Pueblo programaron para hablar entre sí son perfectamente soportadas por los mecanismos de la red.
 %
@@ -5660,7 +5660,7 @@ Si bien el trabajo colaborativo en red puede atenderse perfectamente en GNU, sie
 %
 Puedes solicitar a distancia una copia de los aforismos biográficos que más interesan a los compañeros de un Pubnix mediante el comando FINGER.
 %
-Si encuentras un compañero que está en línea en su pubnix al mismo tiempo que usted, puedrás chatear en tiempo real por medio de WRITE.
+Si encuentras un compañero que está en línea en su pubnix al mismo tiempo que usted, podrás chatear en tiempo real por medio de WRITE.
 %
 El arte y oficio de crear herramientas a partir de los recursos de la Red para contribuirlas de sentido está muy avanzado.
 %
@@ -5724,7 +5724,7 @@ Para 1990 Usenet transmitía decenas de millones de palabras diariamente a vario
 %
 Usenet no es una red ni una BBS sino una forma de gestionar hilos de conversación pública descentralizadas sobre temáticas específicas.
 %
-La comunicación mediada por ordenador podría otorgar el anhelado vículo de Masas a Masas, catalizando el surgimiento de una organización social formidablemente justa para los Pueblos.
+La comunicación mediada por ordenador podría otorgar el anhelado vínculo de Masas a Masas, catalizando el surgimiento de una organización social formidablemente justa para los Pueblos.
 %
 Al igual que la conmutación de paquetes, las teleconferencias por computadora deben su nacimiento, en parte, a la planificación de una guerra nuclear.
 %
@@ -5824,7 +5824,7 @@ Hurd será lo que deba ser, o no será nada.
 %
 El GNU Hurd es el reemplazo del Proyecto GNU para el Kernel de Unix.
 %
-El GNU Hurd es una colección de servidores que se ejecutan sobre el microkernel Mach para implementar sistemas de archivo, protocolos de red, control de acceso a ficheros, y otras funcionalidaades que estás implementadas por el Kernel de Unix u otros similares a aquél (como Linux).
+El GNU Hurd es una colección de servidores que se ejecutan sobre el microkernel Mach para implementar sistemas de archivo, protocolos de red, control de acceso a ficheros, y otras funcionalidades que estás implementadas por el Kernel de Unix u otros similares a aquél (como Linux).
 %
 GNU Mach es el microkernel sobre el cual se basa un sistema GNU Hurd.
 %
@@ -5944,7 +5944,7 @@ El Pubnix es un la experiencia colectiva de un multicerebro maquinal.
 %
 La sensación de acceder a este organismo - el multicerebro de experiencia colectiva - recuerda la experiencia de conversión que describen los pioneros del ARPANET
 %
-Hazte masa a tierra tocando el chásis metálico de tu PC antes de tocar la placa gráfica.
+Hazte masa a tierra tocando el chasis metálico de tu PC antes de tocar la placa gráfica.
 %
 Nuestro Pueblo ha comprendido que cualquier aplicación telemática que opere sin proporcionarle datos bajo su control, les está robando el poder.
 %
@@ -5956,7 +5956,7 @@ En las redes de datos, la facilidad de acceso crea la necesidad, y la Justicia S
 %
 Dos usuarios, uno de los cuales hace un uso inteligente de los Pubnix, y el otro se contenta con la escasa información que le despeja Googl€, ven modificadas sus posiciones en el juego económico.
 %
-Los centros de cómputo son a menudo trasnacionales, y el desarrollo de las transmisiones permite acceder a ellos sin penalizaciones arancelarias excesivas desde cualquier punto del planeta. De ahí la tentación en algunos países de utilizar bancos de datos estadounidenses sin crear los suyos propios.
+Los centros de cómputo son a menudo transnacionales, y el desarrollo de las transmisiones permite acceder a ellos sin penalizaciones arancelarias excesivas desde cualquier punto del planeta. De ahí la tentación en algunos países de utilizar bancos de datos estadounidenses sin crear los suyos propios.
 %
 Los bancos de datos no son todos iguales. Algunos pueden seguir siendo propiedad de grupos cerrados y de profesiones cuyos miembros no sean muy numerosos, mientras que otros deben ser accesibles a todos.
 %
@@ -5976,7 +5976,7 @@ La información que sólo enseña soluciones técnicas, que enumera hechos sin p
 %
 La información que proclama ideales, sin insertarlos en el desarrollo práctico de la sociedad, será considerada cada vez más como pseudo-información.
 %
-Hacer útil la información significa arribar a un acuerdo mínimo acerca de la estructura que permite la transforamción coherente de un pensamiento aceptado.
+Hacer útil la información significa arribar a un acuerdo mínimo acerca de la estructura que permite la transformación coherente de un pensamiento aceptado.
 %
 En toda situación donde grupos rivales sean igualmente capaces de producir, procesar y transmitir su propia información, se producirá la guerra telemática. Donde uno de ellos vea sus capacidades degradadas, brotará la guerrilla telemática.
 %
@@ -5998,7 +5998,7 @@ El plan maestro de la acción concertada debe insertarse dentro de un sistema de
 %
 En la lid telemática, la acción defensiva por antonomasia la constituye el sabotaje telemático.
 %
-Los hackers del Tercer Mundo han de concebir ataques cibernéticos para que sean visibles y velen - en efecto - los furtivos y mucho más demoledores sabotajes algorítimos sobre las ciber-oligarquías.
+Los hackers del Tercer Mundo han de concebir ataques cibernéticos para que sean visibles y velen - en efecto - los furtivos y mucho más demoledores sabotajes algorítmos sobre las ciber-oligarquías.
 %
 Aplicando una concepción táctica que detecte los puntos débiles de los ciber-oligarcas, y aplicando esa condición fantasmal del hacker en las líneas de datos, todo es posible.
 %
@@ -6093,7 +6093,7 @@ Si seguimos operando a 14.400 baudios, es probable que la próxima Revolución s
 %
 El control de las oligarquías puede ser contestado directamente con el amplio uso popular de redes de datos de fibra óptica.
 %
-La fibra óptica utiliza pulsos de luz para transmitir información a través de líneas de fibra, en lugar de utilizar pulsos electrónicos para tranmsitir información por líneas de cobre.
+La fibra óptica utiliza pulsos de luz para transmitir información a través de líneas de fibra, en lugar de utilizar pulsos electrónicos para transmitir información por líneas de cobre.
 %
 Las redes de fibra óptica de alta velocidad, las comunicaciones inalámbricas y las compresión de video potenciarán las tareas de encuadramiento político por el Justicialismo.
 %
@@ -6109,7 +6109,7 @@ La idea de que una computadora pudiera, de alguna manera, "cobrar vida" y volver
 %
 La vida basada en el carbono es tan compleja que resulta muy difícil experimentar con ella, excepto de forma rudimentaria. La vida artificial no tiene por qué ser tan compleja.
 %
-Los costos de las telecomunicaciones a través de llamadas de larga distancia por módem son prohibitivos. Los gobernos del mundo han de apoyar redes de paquetes conmutados, y unificarlas.
+Los costos de las telecomunicaciones a través de llamadas de larga distancia por módem son prohibitivos. Los gobiernos del mundo han de apoyar redes de paquetes conmutados, y unificarlas.
 %
 Existen dos clases de puntos de acceso piratas: los instalados incorrectamente por usuarios legítimos, y los instalados por malintencionados que planean colectar datos o dañar la red.
 %
@@ -6123,11 +6123,11 @@ Las áreas muy pobladas como los centros de las ciudades o los campus universita
 %
 La mayoría de los clientes inalámbricos simplemente elegirán una red Wifi disponible, a menudo escogiendo aquella con mayor potencia de señal cuando la red preferida no está disponible.
 %
-Un usuario desprevenido puede asociarse a una red inalámbrica como lo hace normalmente, sin saber que se encuentra transmitiendo datos confdenciales en la red de otra persona.
+Un usuario desprevenido puede asociarse a una red inalámbrica como lo hace normalmente, sin saber que se encuentra transmitiendo datos confidenciales de otra persona en la red.
 %
 Los hackers del Tercer Mundo puedes usar puntos de acceso inalámbricos en lugares estratégicos para atraer a oligarcas desprevenidas y captar sus datos.
 %
-Muchos clientes inalámbricos pueden configurarse de manera que se conecten solamente a redes confables o para que pidan permiso antes de incorporarse a una red nueva.
+Muchos clientes inalámbricos pueden configurarse de manera que se conecten solamente a redes confiables o para que pidan permiso antes de incorporarse a una red nueva.
 %
 Educa a los usuarios subrayando la importancia de conectarse sólo a redes Wifi conocidas y confables.
 %
@@ -6158,7 +6158,7 @@ Los datos y programas en un ambiente de red son bienes que pueden compartirse, y
 %
 El primer sistema de chat lo constituyó un hack de un usuario subyugando un banco de datos para poder comunicarse en tiempo real.
 %
-Una sociedad sin GNU - computacionalmente incierta - daría lugar de incontables conflictos descentralizados, en el cual sus valores se volverían objeto de numerosas rivalidades producto de su causalidad incierta. Sólo puede preveerse un ambientes de trasmisión de flujo tendiente a la infinitud.
+Una sociedad sin GNU - computacionalmente incierta - daría lugar de incontables conflictos descentralizados, en el cual sus valores se volverían objeto de numerosas rivalidades producto de su causalidad incierta. Sólo puede preverse un ambientes de trasmisión de flujo tendiente a la infinitud.
 %
 Una computarización social masiva tendrá lugar en un futuro, en el cual fluirá tanto a través del tejido social como la electricidad.
 %
@@ -6216,7 +6216,7 @@ Instalando GNU nosotros hemos realizado una reforma casi integral de los distint
 %
 Todos los hackers pusieron su código a disposición de esta naciente comunidad de programadores. Lo compilaron y ejecutaron, pero quedaron todos desposeídos porque esa larga guerra Unix fue consumiendo todo lo que los hackers tenían.
 %
-En la guerra Unix, cada uno puso cuanto tenía, incluso código y binarios, y era de esperar que obtenido el triunfo, el beneficio habría de repartirse también poseyendo cada programador en la medida en que había perdido. Pero en la pirinola salió "Gana Torvalds".
+En la guerra Unix, cada uno puso cuanto tenía, incluso código y binarios, y era de esperar que obtenido el triunfo, el beneficio habría de repartirse también poseyendo cada programador en la medida en que había perdido. Pero en la perinola salió "Gana Torvalds".
 %
 Donde existe una Shell, hay un sendero luminoso para la Liberación.
 %
@@ -6393,7 +6393,7 @@ Fomenta el desarrollo de herramientas nuevas que proporcionen a los usuarios no 
 %
 Las interfases de usuario deberían ser propiedad común de todos.
 %
-El usuario promedio debe ser capaz de registrar sus acciones, reproducirlas, y guardaerlas en un formato humanamente legible para un uso y edición posterior.
+El usuario promedio debe ser capaz de registrar sus acciones, reproducirlas, y guardarlas en un formato humanamente legible para un uso y edición posterior.
 %
 La mayoría de los programas necesitan una interfaz y, por lo general, no hay otra forma de diseñarla que basarla en las ideas vistas o utilizadas por otros.
 %
@@ -6403,7 +6403,7 @@ Considera barricar con software libre tu router y cualquier dispositivo telemát
 %
 Atacando telemáticamente aquellos vehículos con conexión a la autopista de los datos jamás provocarás un accidente tan peligroso como sería someter a un gigante de la automovilística aquella información que pertenece a todos.
 %
-Elimina todas las aplicaciones y cuentas que no necesitas, desconoces o estés utilizando en un dispositivo móvil (incluyéndo vehículos). Si no puedes hacerlo, significa que estás siendo guiado por software de terceros. Descarta el vector de ataque en un centro de reciclado o desarmadero.
+Elimina todas las aplicaciones y cuentas que no necesitas, desconoces o estés utilizando en un dispositivo móvil (incluyendo vehículos). Si no puedes hacerlo, significa que estás siendo guiado por software de terceros. Descarta el vector de ataque en un centro de reciclado o desarmadero.
 %
 Si utilizas servicios informáticos de una gran empresa extranjera de los datos, tus cuentas de identidad y dispositivos ya han sido infiltrados y convertido un vector de control y vigilancia hacia tí y otros que te rodean (a quienes podrías guardar afecto).
 %
@@ -6479,7 +6479,7 @@ A cada puerto le llega su paquete.
 %
 Algún día alguien le encontrará utilidad al keylock.
 %
-La tersitud de la shell tcsh es comprensible cuando se la debe operar en un celular.
+La tersidad de la shell tcsh se hace comprensible cuando se la debe operar en un celular.
 %
 La manera de hacer es compilar.
 %
@@ -6491,7 +6491,7 @@ Aquél que quiera compilar microkernels, primero deberá permanecer largo tiempo
 %
 El microkernel es el único programa capaz de correr en el nivel de ejecución más privilegiado la CPU, y por lo tanto debe ser propiedad del Pueblo.
 %
-Cuando los espacios de direccionamiento crezcan hasta superar los 32 bits, el diseño del kernel no se verá ya limitado por la arquitectura de hardware. Es de preveer que estos comiencen a crecer innecesariamente.
+Cuando los espacios de direccionamiento crezcan hasta superar los 32 bits, el diseño del kernel no se verá ya limitado por la arquitectura de hardware. Es de prever que estos comiencen a crecer innecesariamente.
 %
 La distribución de Software de Berkeley (BSD) dio inicio a la era de los grandes kernels.
 %
@@ -6577,11 +6577,11 @@ Internet existe hoy y continúa avanzando a pesar de, y no debido a, los interes
 %
 No debe permitirse a las compañías de capital utilizar la infraestructura de red como arma contra sus rivales, y en detrimento del Pueblo.
 %
-El comportamiento competitivo dicta que eventualmente una compañía actuará en su propio interés en detrimento del Pueblo, a no ser que se estableza un mecanismo para impedirlo.
+El comportamiento competitivo dicta que eventualmente una compañía actuará en su propio interés en detrimento del Pueblo, a no ser que se establezca un mecanismo para impedirlo.
 %
 Los estándares y el software han de ser libres pues el control comunal del código es el mecanismo de control que tiene el Pueblo contra las compañías de Capital que usan software.
 %
-Para una compañía de Capital, el software ya no es una expresión del alma o el trabajo de un artista, sino un producto que puede ser elaborado, empaquetado, catalodgado, distribuido, y sobre todo, vendido.
+Para una compañía de Capital, el software ya no es una expresión del alma o el trabajo de un artista, sino un producto que puede ser elaborado, empaquetado, catalogado, distribuido, y sobre todo, vendido.
 %
 Que la copia no cueste nada afecta a la propiedad intelectual, y puede ser una preocupación para ciertos artistas. Que la distribución no cueste nada es lo que realmente motiva el ataque del Capital contra la distribución de música en las redes de datos.
 %
@@ -6827,7 +6827,7 @@ En la guerra telemática, toma en consideración la relación fluida entre infil
 %
 En la guerra telemática, toma en consideración la relación fluida entre ofuscar y exponer una pseudo-identidad.
 %
-En la guerra telemática, toma en consideración la relación fluida entre el ataque principal para el sabotaje telemático, y los ataques segundarios para la denegación de servicios.
+En la guerra telemática, toma en consideración la relación fluida entre el ataque principal para el sabotaje telemático, y los ataques secundarios para la denegación de servicios.
 %
 En la guerra telemática, toma en consideración la relación fluida entre el asalto telemático y la contención de paquetes.
 %
@@ -6911,13 +6911,13 @@ Un hacker del Tercer Mundo - si estudia con modestia - llegará a conocer perfec
 %
 Los hackers del Tercer Mundo han llegado a conocer la situación del Pueblo y la de las ciber-oligarquías, descubriendo los postulados de la acción telemática al resolver la contradicción entre lo objetivo de la realidad del Mundo y lo subjetivo de su apreciación.
 %
-Al igual que sucede con su código, un hacker del Tercer Mundo goza de mayor seguridad en el combate telemático - y tiene mayores posibiliades de conquistar una victoria - cuando éste es compartido por todos.
+Al igual que sucede con su código, un hacker del Tercer Mundo goza de mayor seguridad en el combate telemático - y tiene mayores posibilidades de conquistar una victoria - cuando éste es compartido por todos.
 %
-Todas las teorías y postulados de la guerra telemática que tienen caracter de principios, son la síntesis de las experiencias de las telecomunicaciones pasadas.
+Todas las teorías y postulados de la guerra telemática que tienen carácter de principios, son la síntesis de las experiencias de las telecomunicaciones pasadas.
 %
 Los hackers del Tercer mundo deben estudiar con seriedad las lecciones legadas por las guerras telemáticas pasadas, que han sido devengadas con servidores caídos y formateos.
 %
-Los hackers del Tercer Mundo deben forkear el código fuente de los programas de las guerras telemáticas pasadas, extraer conlusiones, asimilar lo útil rechazar lo inútil, y sumarle su propio código comentado que las modifique. Sólo esto los volverá valioso en el contexto actual.
+Los hackers del Tercer Mundo deben forkear el código fuente de los programas de las guerras telemáticas pasadas, extraer conclusiones, asimilar lo útil rechazar lo inútil, y sumarle su propio código comentado que las modifique. Sólo esto los volverá valioso en el contexto actual.
 %
 Leer el código es aprender; modificarlo también es aprender, y es una forma más iluminada de aprender.
 %
@@ -6993,7 +6993,7 @@ Los que esperan el GCC, compilan sin cansarse.
 %
 Aguardar al depurador no es vergonzoso. Es vergonzoso no depurar.
 %
-No te avergüenzes de tu código corto si es robusto.
+No te avergüences de tu código corto si es robusto.
 %
 Lo que derriba los cortafuegos y acorta las distancias no son tanto los baudios, la GPL, ni los compiladores, sino, sobre todo, la práctica humana de la amistad, del encuentro, del mirarse a los ojos.
 %
@@ -7129,7 +7129,7 @@ Asegúrate que puedes postear todo lo que desees, en cualquier formato que desee
 %
 Comparte enlaces legibles simples, tales como misitioweb.com/ideas. Estos enlaces permanentes siempre funcionarán.
 %
-En las redes de datos, rechaza todo espacio claustrofóbicos, con barreras que impiden construir, poseer y controlar.
+En las redes de datos, rechaza todo espacio claustrofóbico con vallas que impiden construir, poseer y controlar.
 %
 Escapa de todos aquellos vericuetos de la red en los cuales sólo puedes consumir.
 %
@@ -7227,7 +7227,7 @@ Promueve plataformas digitales donde esta comparte recursos y líneas directas d
 %
 Promueve plataformas digitales donde medidas proactivas - como los límites de velocidad y la fricción reflexiva - contrarrestan patrones de uso adictivos, el spam y el abuso.
 %
-Promueve plataformas digitales donde - de seleccionarse un feed o resultados de búsqueda de forma algorítima - los usuarios cuenten con explicaciones comprensibles de los factores clave de clasificación.
+Promueve plataformas digitales donde - de seleccionarse un feed o resultados de búsqueda de forma algorítmica - los usuarios cuenten con explicaciones comprensibles de los factores clave de clasificación.
 %
 Promueve plataformas digitales donde - si no desean participar en las recomendaciones algorítmicas - los usuarios puedan seleccionar un feed cronológico u otra presentación simplificada.
 %
@@ -7271,7 +7271,7 @@ Los hackers del Tercer Mundo tomaron los objetos que los oprimían, y desobedeci
 %
 La desobediencia tecnológica es una liberación moral nacida de la arquitectura de la necesidad.
 %
-No me importa para qué fué diseñado. Me importa lo que los Pueblos pueden hacer de él.
+No me importa para qué fue diseñado. Me importa lo que los Pueblos pueden hacer de él.
 %
 Cuando la mesa temblequea puedes poner un papelito doblado bajo una pata, o bien patearla hasta dejarla dejarla patas para arriba. Ninguna solución equivale a ponerle un plato lleno encima.
 %
@@ -7287,9 +7287,9 @@ Es imposible lograr el progreso sin forkear.
 %
 No existe humanidad digital sin el Estado.
 %
-La falta de financiación o apoyo infraestructural puede suponer una barrera insalvable para el trabajo en humanidades digitales.
+La falta de financiación o apoyo en infraestructuras puede suponer una barrera insalvable para el trabajo en humanidades digitales.
 %
-La sensación de exclusión basada en el acceso a la infraestructura digital o la financiación se debe a que no se reconoce que muchos excluídos digitales ya realizan un trabajo valioso.
+La sensación de exclusión basada en el acceso a la infraestructura digital o la financiación se debe a que no se reconoce que muchos excluidos digitales ya realizan un trabajo valioso.
 %
 Los académicos que adoptan una infraestructura digital en forma de subvención prematura, podrían a cambio verse impedidos de adquirir conocimientos profundos concerniente a las mismas tecnologías que pretenden emplear, y - por extensión - a los medios para producir su propio conocimiento en humanidades digitales.
 %
@@ -7415,7 +7415,7 @@ Es Nuestro Movimiento el que combate la excesiva dependencia a los monopolios de
 %
 Es Nuestro Movimiento el que ha establecido principios clave para la soberanía tecnológica del Tercer Mundo.
 %
-Es Nuestro Movimiento el que reconoce la necesidad de crear un cimiento de Infraestrcuturas Digitales Populares (IDP) que garanticen la soberanía de los Pueblos del Tercer Mundo.
+Es Nuestro Movimiento el que reconoce la necesidad de crear un cimiento de Infraestructuras Digitales Populares (IDP) que garanticen la soberanía de los Pueblos del Tercer Mundo.
 %
 Es Nuestro Movimiento el que reconoce la necesidad de adoptar interoperabilidades e interconexiones en las Infraestructuras Digitales Populares, garantizando la privacidad y la seguridad por defecto en los ambientes computacionales habitados.
 %
@@ -7431,7 +7431,7 @@ Nuestro Movimiento impulsa la contratación pública para promover alternativas 
 %
 Nuestro Movimiento exalta la contratación pública como poderoso herramental estratégico para la implementación de soluciones digitales abiertas e interoperables, según las necesidades computacionales del Tercer Mundo.
 %
-Nuestro Movimiento exige que las normas de contratación de la informática pública incluyan condiciones vinculantes basadas en el complimiento de los derechos fundamentales, los derechos de los consumidores, y los más altos estándares de la protección de los datos para los Pueblos del Tercer Mundo.
+Nuestro Movimiento exige que las normas de contratación de la informática pública incluyan condiciones vinculantes basadas en el cumplimiento de los derechos fundamentales, los derechos de los consumidores, y los más altos estándares de la protección de los datos para los Pueblos del Tercer Mundo.
 %
 Hemos hecho rechinar nuestros módems contra la narrativa tecnosolucionista que impulsan las ciber-oligarquías.
 %
@@ -7447,7 +7447,7 @@ Nuestro Movimiento utiliza aquellas vías legales que obligan a los guardianes d
 %
 Nuestro Movimiento propugna abrir las plataformas en línea dominantes a algoritmos e interfases competitivas para los usuarios, como paso fundamental para el empoderamiento del usuario así como para la resiliencia democrática frente a la desinformación.
 %
-Nuestro Movimiento avanza hacia la construcción reflexiva de nuevas instituciones, alianzas e infraestrcturas digitales basadas en el interés común de los Pueblos del Tercer Mundo.
+Nuestro Movimiento avanza hacia la construcción reflexiva de nuevas instituciones, alianzas e infraestructuras digitales basadas en el interés común de los Pueblos del Tercer Mundo.
 %
 La soberanía tecnológica no constituye solo un desafío técnico o económico, sino un imperativo democrático.
 %
