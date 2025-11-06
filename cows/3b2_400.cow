@@ -1,8 +1,7 @@
 # provisto por ~peron <peron@texto-plano.xyz>
 $the_cow = <<"EOC";
-  $thoughts
-   $thoughts 
-       ,__________________________,
+    $thoughts
+     $thoughts ,__________________________,
        |   .______________,       |
        |  | +------------+ |      |
        |  | |    UNIX    | |      |
