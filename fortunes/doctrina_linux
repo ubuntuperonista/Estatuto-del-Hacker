@@ -928,7 +928,7 @@ Internet es un servicio de comunicaciones diseñado para conectar ordenadores en
 %
 Internet proporciona un servicio de comunicación básico que transmite unidades de información - llamadas paquetes - desde un ordenador de origen puesto en línea hasta uno o más ordenadores de destino conectados a Internet.
 %
-Internet proporciona servicios de apoyo, como la asignación de nombres a los ordenadores conectados. 
+Internet depende en mayor medida de servicios de apoyo, entre los que se ecuentra la asignación de nombres a los ordenadores conectados.
 %
 Se han diseñado e implementado varios servicios o aplicaciones de alto nivel que hacen uso del servicio de comunicación básico que proporciona Internet, entre ellos la Telaraña de Alcance Global, el correo electrónico y los "grupos de noticias" basados en Internet, la distribución de información de audio y vídeo, y la transferencia de archivos y el "login" entre ordenadores distantes. 
 %
@@ -2501,7 +2501,7 @@ En Unix existe un delicado contraste entre la libertad de recorrer el sistema ot
 %
 El sistema Unix proporciona herramientas eficientes para definir el estado de seguridad de los identificadores de usuaria, ficheros y programas de uso común y ficheros privados.
 %
-Dado que Unix es un sistema multitarea, muchas cosas pueden suceder en memoria simultáneamente. Una mujer es similar.
+Dado que Unix es un sistema multitarea, muchas cosas pueden suceder en memoria simultáneamente. Una mujer guarda el mismo temperamento.
 %
 Donde hay una necesidad, nace un software libre.
 %
@@ -4143,7 +4143,7 @@ La pregunta que realmente importa no es cómo las computadoras pueden enriquecer
 %
 La arquitectura es inmortal, eternamente servirá. El procesador, en cambio, es un producto que a lo sumo dura un poquito y se quema.
 %
-El programa debe expandirse en proporción a los recursos disponibles para que pueda ejecutarse.
+Para que pueda ejecutarse, el programa debe expandirse en proporción a los recursos disponibles.
 %
 Implementar un contacto de oro en una red no mejora su desempeño.
 %
@@ -4394,7 +4394,7 @@ Suplantemos con nuestro software libre, el de los demás.
 %
 Toma un router y úsalo como un arma.
 %
-Concentra baudios en la liberación de programas y usuarios.
+Destina baudios a la liberación de programas y usuarios.
 %
 Los hackers y sus aprendices se rebelan juntos.
 %
@@ -5726,6 +5726,16 @@ Los hackers del Tercer Mundo se valen ofensivamente de autómatas en una red que
 %
 Los hackers del Tercer Mundo provocarán hecatombes con un Atom.
 %
+Los hackers del Tercer Mundo se oponen a los grandes centros de datos.
+%
+Los hackers del Tercer Mundo defienden nuestras libertades civiles digitales.
+%
+Tan sólo existiendo, los hackers llevan a cabo una Campaña Contra en Analfabetismo Digital en el Tercer Mundo. Esta sólo puede tener características de Lucha de Liberación.
+%
+Los hackers del Tercer Mundo cuentan con la alfabetización tecnológica necesaria para formular las preguntas pertinentes sobre lo que está sucediendo en el ciberespacio.
+%
+? Quizás las personas que llevan más tiempo viviendo allí puedan tener algunas respuestas.
+%
 Los programas de computadora escritos en el Tercer Mundo aplicarán por persuasión telemática una nueva versión de Justicia Social a escala global.
 %
 Si no puedes copiarlos, desensámblalos.
@@ -6419,13 +6429,23 @@ Siempre es mejor el programa que para hacer lo mismo, usa menos líneas de códi
 %
 El ciberespacio es una frontera poblada por unos pocos tecnólogos que - entre ambigüedades culturales y legales - resisten austeramente el salvajismo de interfaces telemáticas, la incompatibilidad de protocolos de comunicación digital, y la generalizada carestía de mapas o metáforas que resulten útiles tras sus cortafuegos barricados.
 %
+El ciberespacio, la red, el no-espacio o la frontera electrónica, llámenlo como quieran, pero está ahí fuera AHORA, extendiéndose por todo el mundo como una opulenta telaraña inmaterial, creciendo a medida que se conecta cada nuevo ordenador, teléfono o fax.
+%
+A medida que los Pueblos avanzan hacia esta frontera electrónica, los ciber-oligarcas están comenzando a ejercer un control cada vez mayor sobre el nuevo ámbito digital, vigilando las sendas de la información con creciente rigor.
+%
 La primer red de datos puede ser una Red Nacional basada en tecnología ISDN existente, accesible gratuitamente a cualquier persona con una conexión telefónica.
 %
 Los viejos conceptos de propiedad, expresión, identidad, movimiento y contexto - basados como están en la manifestación física - no se aplican sucintamente en el ciberespacio.
 %
 La soberanía sobre el ciberespacio no ha sido bien definida. Las grandes compañías reclaman ya latifundios en un territorio cuyos habitantes son independientes y solitarios, y a veces hasta rayanos con la sociopatía.
 %
+Antes de que siquiera nos demos cuenta de que estamos allí, podemos vernos encerrados en un guetto digital, donde se nos niegan derechos simples de acceso, mientras agencias gubernamentales dominadas latifundian su territorio y ciber-oligarcas corporativos deambulan libremente.
+%
 El ciberespacio es el caldo de cultivo perfecto tanto para forajidos como para vigilantes telemáticos.
+%
+La subcultura de los hackers del Tercer Mundo ha sido de las más tergiversadas.
+%
+Aquella prensa dominada por las ciber-oligarquías ha presentado a los hackers del Tercer Mundo como forajidos electrónicos, caracterizándolos como menores vándalos o malévolos cerebrales a sueldo del crimen organizado o de potencias extranjeras.
 %
 Millones de personas operan cajeros automáticos y tarjetas de crédito, realizan llamadas telefónicas, hacen reservas de viajes y acceden a información de variedad ilimitada... y cada día lo hacen sin percibir de forma alguna las maquinaciones ciertas detrás del Capital.
 %
@@ -6697,6 +6717,8 @@ La telaraña de alcance global es en realidad una red compleja de redes de datos
 %
 La telaraña de alcance global es más que una maravilla tecnológica. Es la comunicación popular en su nivel más fundamental.
 %
+A medida que los satélites cierran las divisiones continentales, conectando sistemas telefónicos independientes, la telaraña de alcance global se vuelve casi una entidad viviente: su columna vertebral son los distintos centros de datos, sus extremidades, los enlaces de cobre y fibra óptica.
+%
 Sólo los Pueblos conocen la verdadera extensión de la telaraña de alcance global.
 %
 Gran parte de la telaraña de alcance global consiste en bibliotecas académicas, bases de datos y cualquier cosa inaccesible a los motores de búsqueda cautivos por empresas orientadas a metadatos.
@@ -6838,6 +6860,8 @@ Los postulados de la guerra telemática constituyen un problema que debe estudia
 Estamos haciendo una guerra. Nuestra guerra es una guerra telemática, y esta se desarrolla en las redes de datos, tendidos semicoloniales y semifeudales.
 %
 Conectar un módem casero se castigaba con mayor severidad que activar accidentalmente una explosión nuclear.
+%
+Ey, vamos a iniciar una guerra nuclear, o jugar Ta-Te-Ti, una de dos.
 %
 Las ciber-oligarquías consideran engancharse a un cable de fibra óptica como algo peor que desatar una explosión atómica.
 %
