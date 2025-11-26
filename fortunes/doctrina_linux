@@ -480,7 +480,15 @@ La Justicia Social en el cómputo bien vale inconvenir a los tecno-oligarcas.
 %
 A un pato se lo caza con llamador; unos graznidos realizados con este instrumento cerca de una laguna harán cureosear a una de estas aves y ahí hay que atizarla. Instalar software libre también hace lo procedente, y con uno que hable usted capturará dos o tres zonzos.
 %
+Linux es un pequeño núcleo tipo Unix para computadoras 386-AT, con la ventaja agregada de ser libre.
+%
+Linux es un clon de Unix libremente distribuíble. Implementa un subconjunto de funcionalidades POSIX y System V, y contiene un montón de BSDismos.
+%
+Linux ha sido escrito desde cero, y por lo tanto no contiene código fuente encumbrado de AT&T o Minix (ni en su núcleo, ni en el compilador, las utilidades o sus bibliotecas).
+%
 La integración de Linux y GNU ocurrió en 1992 cuando Torvalds adoptó la licencia GPL para su kernel. Esto permitió que los usuarios combinaran Linux con los componentes GNU para crear un sistema operativo libre y completamente funcional conocido como GNU/Linux.
+%
+Linux fue escrito en un clon de 386, con discos IDE y una pantalla VGA. Debería funcionar en la mayoría de los equipos similares.
 %
 Para cazar una perdiz no efectuamos disparos al cielo con la escopeta esperando que la casualidad nos ayude a pegarle a algo; la técnica eficaz consiste en utilizar un perro avispado que busque en el pajonal y nos levanta la perdiz. Un LiveCD con Linux puede hacer lo mismo.
 %
@@ -2659,7 +2667,7 @@ No resulta extraño que estos programas de gestión laboral agreguen al registro
 %
 En el pasado los dispositivos del empleado resultaban invadidos con metodologías de rastreos, biométrica por control de cámaras de video, perfilado, registro y grabación de llamadas y mensajería instantánea, y todo esto a granel.
 %
-Una vez el trabajador ha sido aislado en las redes de datos, verlo preso de la biométrica como vector de circunstancialismo social, clasismo y racismo no sería de extrañar.
+Una vez el trabajador ha sido aislado en las redes de datos, no sería de extrañar verlo preso de la biométrica como vector de circunstancialismo social, clasismo y racismo.
 %
 Si les damos rienda a estos señores ciber-oligarcas, en poco tiempo veremos el ingerencismo en la gestión de los recursos del Tercer Mundo, tercerizado por megacorporaciones sin patria ni bandera.
 %
@@ -2975,7 +2983,7 @@ No os infiltréis jamás en un ordenador militar. El personal de los servicios d
 %
 Una cosa es infiltrarse telemáticamente, y otra disrumpir telemáticamente. No necesariamente es útil la destrucción, si la exfiltración de información acarrea mayores beneficios para nuestro Movimiento.
 %
-Han de infiltrarse en los ordenadores, explorando las redes de datos y agudizando la acción disruptiva.
+Hemos de infiltrarnos en los ordenadores, explorando las redes de datos y agudizando toda acción disruptiva.
 %
 La pericia de ingerenciar el debate en las redes sociales basadas en empresas carece de todo sentido ante el poderío que implica el dominio de la irrupción telemática.
 %
@@ -3244,6 +3252,8 @@ La shell no es el sistema operativo en sí mismo.
 La shell es la interfaz entre la mujer y la máquina.
 %
 El prompt es un recordatorio para el usuario de que no está sucediendo nada, de que la computadora se encuentra dispuesta a recibir una órden.
+%
+La inyección de prompt no es una vulnerabilidad. Es un incumplimiento del deber.
 %
 sh es la shell de Bourne, estándar en Unix System V, y como tal, lleva el signo $ como prompt.
 %
@@ -5564,6 +5574,8 @@ Las comunidades mediadas por el cómputo han desarrollado prácticas que se apoy
 %
 No existe autoridad legal internacional alguna que proteja la libertad de expresión en las redes de datos transnacionales.
 %
+A comienzo de los 80s, las redes de computadora crecían rápidamente, pero enfrentaron problemas signficativos. Cuando las redes necesitaban sendas alternativas para impedir su fallas, estas creaban bucles. Los paquetes de datos quedarían atrapados en dichos bucles sinfín, eventualmente colgando al sistema entero.
+%
 La red de datos es una apropiación popular de una tecnología diseñada originalmente como escudo ante un arma apocalíptica.
 %
 Cada BBS comenzó como una pequeña comunidad isleña de unas pocas personas que discaban un número en su código de área.
@@ -6516,6 +6528,28 @@ Los SysOps de las redes de conmutación de paquetes X.25 optaban por la amenaza 
 Las conferencias de Hackers no son reuniones del submundo criminal.
 %
 Las conferencias de hackers son inocentes eventos celebratorios de lo mejor del ingenio. Parece más una kermesse de cerebritos mas que una reunión de saboteadores.
+%
+Visita conferencias de hackers para aprender sobre los inicios del movimiento del software libre en el Tercer Mundo y su evolución.
+%
+Visita conferencias de hackers para adquirir nuevas habilidades y conocimientos en pos de la liberación del Tercer Mundo.
+%
+Visita conferencias de hackers para mostrar tu apoyo al software libre del Tercer Mundo.
+%
+Visita conferencias de hackers para tender redes con personas de diversos campos en el Tercer Mundo.
+%
+Visita conferencias de hackers para oír a líderes de los movimientos de software libre y derechos digitales en el Tercer Mundo.
+%
+Visita conferencias de hackers para jugar trivias con otros asistentes.
+%
+Visita conferencias de hackers para descubrir algunas de las muchas maneras en que el software libre hace que nuestro Tercer Mundo sea más libre.
+%
+Visita conferencias de hackers para inspirarte sobre los próximos pasos a seguir para impulsar el software libre en el Tercer Mundo.
+%
+Visita conferencias de hackers para recibir un adelanto de los planes de liberación del Tercer Mundo.
+%
+Visita conferencias de hackers para ser el primero en enterarte de nuevos y emocionantes proyectos de software libre para la Liberación del Tercer Mundo.
+%
+Visita conferencias de hackers para adquirir productos de software libre que ayudan a financiar la labor de los hackers del Tercer Mundo.
 %
 El código cifrado con llaves digitales en memoria ROM es considerado un valioso secreto por las ciber-oligarquías.
 %
@@ -7545,28 +7579,28 @@ Como operación ofensiva en o a través del ciberespacio, los ciberataques puede
 %
 El ciber-riesgo es el efecto de incertidumbre sobre los objetivos de las entidades en el ciberespacio.
 %
-Introduce otra contraseña.
+Introduce otra contraseña...
 %
-Inténtalo de nuevo.
+Inténtalo de nuevo...
 %
-Intenta saltarte el inicio de sesión.
-%
-¡Estamos hackeando!
-%
-Prueba con el apellido de soltera de su primera esposa.
-%
-Esto es más que un juego.
-%
-Es muy divertido, es lo mismo.
+Intenta saltarte el inicio de sesión...
 %
 ¡Estamos hackeando!
 %
-Llamada de sistema. Intenta con una llamada al sistema.
+Prueba con el apellido de soltera de su primera esposa...
+%
+Esto es más que un juego...
+%
+Es muy divertido, es lo mismo...
+%
+¡Estamos hackeando!
+%
+Llamada de sistema... Intenta con una llamada al sistema.
 %
 ¿Recuerdas el gran fallo de la versión 3 de RSX? ¡Aquí está! ¡Hurra!
 %
-Haz otra llamada al sistema.
+Haz otra llamada al sistema...
 %
-Agota las contraseñas y luego vuelve a discar; estamos iniciando sesión.
+Agota las contraseñas y luego vuelve a discar; estamos iniciando sesión...
 %
 ¡Estamos hackeando nuevamente!
