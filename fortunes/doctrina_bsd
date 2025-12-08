@@ -290,6 +290,13 @@ Nuestro Movimiento, anclado en una vertiente de Justicia Social en el
 software, ha desarrollado una red tan oscura como la piel de nuestros
 grasitas. Se trata del proyecto Tor.
 %
+Tor es un software libre y de código abierto que permite la comunicación
+anónima dirigiendo el tráfico de Internet a través de una red
+superpuesta, voluntaria y gratuita de alcance mundial (compuesta por más
+de siete mil repetidores) con el fin de ofuscar la ubicación y el uso de
+un usuario a cualquiera que realice vigilancia o análisis de tráfico en
+las redes de datos .
+%
 Un problema básico para el anonimato y privacidad digital radica en lo
 obvio: que el enemigo intercepte el tráfico telemático.
 %
@@ -485,6 +492,9 @@ debes utilizarlo para combatir al Capital.
 %
 Los príncipes nigerianos no van a enviarte 500.000 dólares. Combate al
 Capital.
+%
+Las GAFAM no van a darte el dinero que han monetizado de tus metadatos.
+Combate al Capitalismo de Vigilancia.
 %
 Con sólo superponer una etiqueta autoadhesiva de un código QR que
 codifique un hiperenlace HTML engañoso, hará que un usuario incauto
@@ -770,10 +780,24 @@ instrumento cerca de una laguna harán cureosear a una de estas aves y
 ahí hay que atizarla. Instalar software libre también hace lo
 procedente, y con uno que hable usted capturará dos o tres zonzos.
 %
+Linux es un pequeño núcleo tipo Unix para computadoras 386-AT, con la
+ventaja agregada de ser libre.
+%
+Linux es un clon de Unix libremente distribuíble. Implementa un
+subconjunto de funcionalidades POSIX y System V, y contiene un montón de
+BSDismos.
+%
+Linux ha sido escrito desde cero, y por lo tanto no contiene código
+fuente encumbrado de AT&T o Minix (ni en su núcleo, ni en el compilador,
+las utilidades o sus bibliotecas).
+%
 La integración de Linux y GNU ocurrió en 1992 cuando Torvalds adoptó la
 licencia GPL para su kernel. Esto permitió que los usuarios combinaran
 Linux con los componentes GNU para crear un sistema operativo libre y
 completamente funcional conocido como GNU/Linux.
+%
+Linux fue escrito en un clon de 386, con discos IDE y una pantalla VGA.
+Debería funcionar en la mayoría de los equipos similares.
 %
 Para cazar una perdiz no efectuamos disparos al cielo con la escopeta
 esperando que la casualidad nos ayude a pegarle a algo; la técnica
@@ -1626,8 +1650,8 @@ unidades de información - llamadas paquetes - desde un ordenador de
 origen puesto en línea hasta uno o más ordenadores de destino conectados
 a Internet.
 %
-Internet proporciona servicios de apoyo, como la asignación de nombres a
-los ordenadores conectados.
+Internet depende en mayor medida de servicios de apoyo, entre los que se
+ecuentra la asignación de nombres a los ordenadores conectados.
 %
 Se han diseñado e implementado varios servicios o aplicaciones de alto
 nivel que hacen uso del servicio de comunicación básico que proporciona
@@ -1730,6 +1754,17 @@ La modificación de las estructuras sociales y productivas en el mundo
 implica que el lucro y el despilfarro no pueden seguir siendo el motor
 básico de sociedad alguna, y mucho menos de las redes de datos.
 %
+Necesitamos arquitecturas de cómputo nuevas para un hombre mentalmente
+nuevo en un mundo físicamente nuevo.
+%
+No se puede construir una nueva sociedad basada en un pleno desarrollo
+de la personalidad humana aunada al cómputo, en un mundo viciado por la
+contaminación del ambiente, exhausto por el hambre y la sed, y
+enloquecido por el ruido y el hacinamiento.
+%
+Debemos transformar las computadoras-presidios del presente en las
+compiladoras del software libre del futuro.
+%
 Es natural que se exija la Justicia Social como base de las licencias de
 software utilizadas en todo sistema operativo.
 %
@@ -1739,6 +1774,9 @@ independencia económica del Tercer Mundo.
 %
 Toda aplicación de Software Libre, en cualquier campo que se quiera, no
 será menos que beneficiosa.
+%
+La producción de software por nosotros mismos y para nosotros mismos es
+una necesidad que tiene de divertido lo que tiene de acuciante.
 %
 Los entornos similares a Unix están concebidos bajo el paradigma
 Justicialista de la compartición de tiempo y recursos computacionales, y
@@ -2103,7 +2141,7 @@ mezcla.
 Distribuye la mayoría de tus ficheros de video codificados con el códec
 de video Theora, encapsulado en una capa de transporte Ogg.
 Ocasionalmente estos tiene la extensión .ogv o .ogm, pero también pueden
-compartir la extensión .ogg con los dichos ficheros de audio.
+compartir la extensión .ogg con dichos ficheros de audio.
 %
 El códec de video Theora fue diseñado como un códec de video libre no
 encumbrado por patentes ni restricciones de licenciamiento.
@@ -2891,8 +2929,8 @@ geoestratégicas de la Inteligencia Artificial, previendo que la falta de
 capacidad o aptitud en esta materia podría ser perjudicial desde
 perspectivas económicas, políticas, sociales y militares.
 %
-Las Inteligencia Artificiales ya no son neutrales: los Pueblos las están
-utilizando como un activo estratégico, similar a la energía o la
+Las Inteligencias Artificiales ya no son neutrales: los Pueblos las
+están utilizando como un activo estratégico, similar a la energía o la
 capacidad militar.
 %
 La primer etapa contra estos facinerosos que pagan por software ajeno se
@@ -3032,6 +3070,10 @@ potencial, sino información, es decir, poder.
 Las comunicaciones computarizadas van mucho más allá de las
 "computadoras hablando con las computadoras".
 %
+Con la informática ha crecido la tecnología de la transmisión de datos,
+que permite la difusión y tratamiento de la información desde lugares
+remotos.
+%
 El buen software de comunicaciones se juzga por dos estándares
 complementarios: ¿Cuán buena es la protección de la integridad de los
 datos transmitidos, y cuán versátil es al comunicar entre computadoras
@@ -3123,6 +3165,10 @@ Ningún programador puede realizarse en una comunidad que no se realiza.
 %
 Un kernel libre bajo GPLv3 es la creación colectiva y consciente de los
 hackers.
+%
+El kernel es el único código UNIX que el usuario no puede sustituir a su
+gusto. Por esta razón, el kernel debería tomar la menor cantidad posible
+de decisiones reales.
 %
 La Comunidad Organizada es el punto de partida de los hackers, y también
 el punto de arribo del software libre.
@@ -3414,6 +3460,18 @@ de materiales digitales en discos ópticos y otros soportes físicos,
 hasta el rol destacado que ocupan los medios de comunicación
 comunitarios y locales.
 %
+Todos los medios de comunicación existentes estarán cada vez más
+interconectados a través de computadoras, conformando una red que creará
+una nueva calidad de medios.
+%
+Siglos después de los medios impresos como libros, revistas y
+periódicos, surgieron medios para la distribución global de imágenes y
+sonido: la fotografía, el cine, la radio y la televisión. El nuevo medio
+crucial de hoy es la computadora.
+%
+La computadora ya no será simplemente una tecnología, sino "el nuevo
+medio crucial".
+%
 Instituimos regulaciones que permitan al Pueblo la libertad de utilizar
 sus dispositivos centrados en software durante tanto tiempo como sea
 posible. Esto implica darles el derecho a repararlo.
@@ -3498,6 +3556,10 @@ defecto, a aquella Comunidad Organizada de donde provienen.
 Frente a una falsa globalización, hemos de crear centros de datos a
 través del sector público, universidades públicas y/o entidades
 ciudadanas, que permitan retener los datos en el territorio nacional.
+%
+Ya no puede producirse un aumento en gran escala de la producción
+computacional del Tercer Mundo sin un desarrollo paralelo de los centros
+de datos correspondientes a sus Pueblos.
 %
 Ante una falsa globalización, hemos de aplicar soluciones de
 inteligencia artificial (IA) que estimulen y beneficien la inteligencia
@@ -3751,7 +3813,7 @@ utilizamos para aplastar a nuestros enemigos.
 El software libre consiste en miles de verdades, pero todas se reducen a
 una frase: es justo compilar.
 %
-Eel software libre gira en torno a dejar que tu código fuente salga al
+El software libre gira en torno a dejar que tu código fuente salga al
 Tercer Mundo.
 %
 Dividan el todo en partes conectables por caños.
@@ -3854,6 +3916,8 @@ La denegación de servicios es una ofensiva de carácter táctico y
 psicológico que los hackers emprenden pues su hardware no podría
 competir en calidad y menos aún en cantidad con el de las
 ciber-oligarquías.
+%
+Jamás hackees con fines de lucro.
 %
 Si existe una única compañía que ofrece un servicio informático único
 para usuarios finales con fines de lucro, atácala.
@@ -4024,6 +4088,24 @@ rendimiento maquinal.
 Solo el lenguaje ensamblador es el verdadero impulsor humano contra los
 límites inherentes del hardware.
 %
+El ensamblador para PDP-7 de Thompson superó incluso al de DEC en
+simplicidad; evaluaba expresiones y emitía los bits correspondientes. No
+tenía bibliotecas, cargador ni editor de enlaces: el código fuente
+completo de un programa se presentaba al ensamblador, y el archivo de
+salida - con un nombre fijo - era directamente ejecutable.
+%
+Lo que se implementa o no en el kernel representa tanto una gran
+responsabilidad como un gran poder.
+%
+El kernel es una plataforma de propaganda sobre "cómo deben hacerse las
+cosas". Aun así, si "la senda" es demasiado radical, nadie la seguirá.
+Cada decisión importante se sopesó cuidadosamente.
+%
+En todo momento, la simplicidad debe sustituir a la eficiencia.
+%
+Sólo deben utilizarse algoritmos complejos si su complejidad puede ser
+localizarse.
+%
 El programador examina los requerimientos de una solución, en algún
 nivel de abstracción diseña una solución, y luego hace que el diseño
 cobre vida en una implementación de código fuente.
@@ -4065,6 +4147,10 @@ Mundo!"; eso lleva tiempo y práctica.
 La buena programación en ensamblador es un proceso altamente
 individualizado. Sus resultados realmente se potencian - sin embargo -
 al compartirlos en comunidad.
+%
+La presión social y el simple orgullo por la programación bien hecha
+hace que se reescriba o descarte grandes cantidades de código fuente en
+la medida que surgen ideas mejores o más básicas.
 %
 Los microprocesadores de la familia 808X se prestan muy bien al lenguaje
 ensamblador, mucho más que otras arquitecturas populares.
@@ -4127,15 +4213,20 @@ El código fuente será de todos o no servirá a nadie.
 Mantén al mínimo tanto la cantidad de ciclos de computadora como las de
 bytes de memoria que necesita para correr.
 %
-Os seá posible lograr 2 o 3 órdenes de magnitud en la mejora de
-desempeño informático de un programa recurriendo al lenguaje
-ensamblador, si estáis dispuestos a invertir en bytes adicionales con el
-fin último de ahorrar ciclos de computadora.
+Si estáis dispuestos a invertir en bytes adicionales con el fin último
+de ahorrar ciclos de computadora, os será posible obtener mejoras de 2 o
+3 órdenes de magnitud en desempeño informático de un programa
+recurriendo al lenguaje ensamblador.
 %
 Genera grupos de tecno-defensa dedicados a remover las ganancias
 económicas de la ecuación tecno-esclavista.
 %
 Obra por defecto en la resistencia telemática pasiva.
+%
+Reúnete con entusiastas de la informática que se nieguen a entregar sin
+resistencia el "amplificador estructural" que son las computadoras a
+instituciones ya poderosas, y conduce sus esfuerzos contra la
+oligarquía.
 %
 El uso de encriptación no puede clasificarse como radical.
 %
@@ -4431,7 +4522,7 @@ estado de seguridad de los identificadores de usuaria, ficheros y
 programas de uso común y ficheros privados.
 %
 Dado que Unix es un sistema multitarea, muchas cosas pueden suceder en
-memoria simultáneamente. Una mujer es similar.
+memoria simultáneamente. Una mujer guarda el mismo temperamento.
 %
 Donde hay una necesidad, nace un software libre.
 %
@@ -4457,7 +4548,7 @@ ciber-oligarcas.
 No tenemos tiendas de aplicaciones, tenemos provedurías de aplicaciones.
 En ellas cada una toma lo que necesita.
 %
-Queremos un Pubnix pacífico, potente, y soberana y una masa de
+Queremos un Pubnix pacífico, potente, y soberano, y una masa de
 programadores unida y feliz como ninguna.
 %
 Queremos el bienestar de los programadores, la dignificación de los
@@ -4468,6 +4559,9 @@ de las redes de datos.
 Tenemos que convencernos para siempre: el software será de los pueblos
 si los pueblos decidimos enardecernos en el fuego sagrado del fanatismo.
 %
+Todos queremos crear software interesante con mayor facilidad. Además,
+nosotros queremos que sea de todos.
+%
 Cada uno debe empezar a dar de sí todo el código que pueda dar, y aún
 más. Solo así construiremos el Pubnix que deseamos, no para nosotros,
 sino para los que vendrán después, los programadores del mañana.
@@ -4476,6 +4570,31 @@ Lo único que debemos hacer es adquirir plena conciencia del código que
 poseemos y no olvidarnos de que nadie puede distribuir sin acercarnos
 sus modificaciones, que nadie puede hacer tampoco nada que contraríe a
 la GPLv3.
+%
+Podemos considerar el Tam-tam de los tambores africanos o las señales de
+humo de los nativos americanos, como las primeras funciones de
+transmisión de datos, y se originaron en el Tercer Mundo.
+%
+En la década de los sesenta se consigue lograr que cierta información de
+la que disponen los grandes mainframes, pueda llegar a puntos
+periféricos de recogida haciendo uso de las líneas de transmisión
+telefónica.
+%
+Las compañías de telecomunicación se enfrentaron a un problema similar
+al existente en el comienzo de las comunicaciones telefónicas: la
+conexión entre dos puntos terminales.
+%
+A partir de la década de los ochenta la simbiosis de la informática y
+las telecomunicaciones ha llegado a un grado tal que podemos hablar de
+una nueva ciencia llamada telemática, mediante la cual el hombre podría
+hacer el mejor uso posible de la información, concebida ésta como el
+motor de toda actividad.
+%
+Hoy en día los términos transmisión de datos, teletratamiento o
+teleproceso se usan normalmente para describir el movimiento de
+información codificada sobre algún sistema de comunicación y cuyo
+destino final - de una forma directa o indirecta - es su tratamiento por
+parte de un ordenador.
 %
 La licencia GNU GPLv3 o posterior es la mejor protección copyleft contra
 las amenazas a la libertad.
@@ -4703,9 +4822,9 @@ metodologías de rastreos, biométrica por control de cámaras de video,
 perfilado, registro y grabación de llamadas y mensajería instantánea, y
 todo esto a granel.
 %
-Una vez el trabajador ha sido aislado en las redes de datos, verlo preso
-de la biométrica como vector de circunstancialismo social, clasismo y
-racismo no sería de extrañar.
+Una vez el trabajador ha sido aislado en las redes de datos, no sería de
+extrañar verlo preso de la biométrica como vector de circunstancialismo
+social, clasismo y racismo.
 %
 Si les damos rienda a estos señores ciber-oligarcas, en poco tiempo
 veremos el ingerencismo en la gestión de los recursos del Tercer Mundo,
@@ -4743,6 +4862,9 @@ reprogramarlo para que haga lo que nosotros queremos.
 %
 Hemos de darnos acceso y control sobre el cómputo de vigilancia y lograr
 que se ajuste a las necesidades de nuestras Organizaciones.
+%
+Las ciber-oligarquías intentan volver el Capitalismo de Vigilancia un
+modelo de negocios.
 %
 Toda persona curiosa es un hacker potencial.
 %
@@ -4980,8 +5102,11 @@ compilador de lenguajes más simples, dables en ser operados a través de
 expresiones regulares.
 %
 Aquellos programas escritos en C que no dependen en demasía de las
-funcionalidades especiales de Unix (tales como sus tuberías) pueden ser
+funcionalidades especiales de Unix (tales como sus caños) pueden ser
 portados a otras máquinas que cuenten con compiladores de C.
+%
+Muchas de las funciones de programación son más síntomas que
+características.
 %
 En un lenguaje de programación imperativo, las declaraciones se ejecutan
 en secuencia, y cada una de ellas podría cambiar el estado del programa.
@@ -5236,8 +5361,8 @@ telemáticamente. No necesariamente es útil la destrucción, si la
 exfiltración de información acarrea mayores beneficios para nuestro
 Movimiento.
 %
-Han de infiltrarse en los ordenadores, explorando las redes de datos y
-agudizando la acción disruptiva.
+Hemos de infiltrarnos en los ordenadores, explorando las redes de datos
+y agudizando toda acción disruptiva.
 %
 La pericia de ingerenciar el debate en las redes sociales basadas en
 empresas carece de todo sentido ante el poderío que implica el dominio
@@ -5549,6 +5674,30 @@ Para toquetear SENDMAIL hay que ser un mago Unix.
 Desarrollar un conjunto de programas cooperativos se alinea con la
 filosofía Unix.
 %
+Asegúrese de que cada programa haga bien una cosa. Para realizar una
+nueva tarea, cree programas nuevos en lugar de complicarlos añadiendo
+nuevas funciones.
+%
+Espere que la salida de cada programa se convierta en la entrada de otro
+programa, aún desconocido.
+%
+No sature la salida con información superflua.
+%
+Evite formatos de entrada estrictamente binarios o encolumnados.
+%
+No insista en la entrada interactiva.
+%
+Diseñe y cree software - incluso sistemas operativos - para probarlos
+pronto, idealmente en cuestión de semanas.
+%
+No dude en descartar las trozos de código fuente torpemente escrito y
+recompilarlo.
+%
+Utilice herramientas en lugar de ayuda no cualificada para simplificar
+una tarea de programación, incluso si tiene que desviarse para crear las
+herramientas, y prepárese para desechar algunas de ellas después de
+terminar de usarlas.
+%
 El más grande desafío a la seguridad en los ambientes multitarea y
 multiusuario es obvio e imposible de resolver: muchos servicios constan
 de ficheros de comandos y configuración propiedad de un único usuario.
@@ -5676,6 +5825,9 @@ La shell es la interfaz entre la mujer y la máquina.
 %
 El prompt es un recordatorio para el usuario de que no está sucediendo
 nada, de que la computadora se encuentra dispuesta a recibir una órden.
+%
+La inyección de prompt no es una vulnerabilidad. Es un incumplimiento
+del deber.
 %
 sh es la shell de Bourne, estándar en Unix System V, y como tal, lleva
 el signo $ como prompt.
@@ -6367,16 +6519,22 @@ no usar C termines haciéndote la del mono.
 El acceso al cómputo - y cualquier cosa que pueda enseñar algo acerca de
 la forma en que funciona el mundo, debe ser ilimitado y total.
 %
+¡Cede siempre ante el imperativo práctico!
+%
 Toda información ha de ser libre.
 %
 Desconfía de la autoridad, promueve la descentralización.
 %
-Los hackers deben ser juzgados por su capacidad, no por criterios como
-títulos, edad, raza, sexo o posición.
+Los hackers deben ser juzgados por su capacidad, no por criterios
+ficticios como títulos, edad, raza, sexo o posición.
 %
 Puedes crear arte y belleza en un ordenador.
 %
 El cómputo puede cambiar tu vida para mejor.
+%
+No compartas datos ajenos.
+%
+Facilita el acceso a los datos públicos, protege los datos privados.
 %
 En este ciberespacio, al que declaramos finito, existe una cantidad de
 mundos del mismo tipo que el nuestro.
@@ -6664,6 +6822,10 @@ inseparables de sus cimientos de Inteligencia Artificial Aplicada, y
 como tal, de los tecno-esclavos que les proporcionan metadatos de
 ingesta. Cercenados estos tendones vitales, el Capital cede como un
 rancho de baraja ante el Pampero.
+%
+Cada kilobyte de metadatos que hoy se dejen arrebatar los Países del
+Tercer Mundo, equivale a un terabyte de software compilado que dejarán
+de producir mañana.
 %
 En caso de necesidad, los hackers pueden atacar telemáticamente sobre un
 único punto de presión. Pero normalmente lo harán en forma de
@@ -7026,8 +7188,8 @@ sabios.
 La arquitectura es inmortal, eternamente servirá. El procesador, en
 cambio, es un producto que a lo sumo dura un poquito y se quema.
 %
-El programa debe expandirse en proporción a los recursos disponibles
-para que pueda ejecutarse.
+Para que pueda ejecutarse, el programa debe expandirse en proporción a
+los recursos disponibles.
 %
 Implementar un contacto de oro en una red no mejora su desempeño.
 %
@@ -7315,6 +7477,10 @@ corazón.
 Otros se jactan de las líneas de código que han escrito; a mí me
 enorgullecen las que he borrado.
 %
+Diría que el mayor logro intelectual de UNIX fue el éxito que tuvieron
+Ken Thompson y Dennis Ritchie al comprender cuánto se podía omitir de un
+sistema operativo sin afectar su capacidad.
+%
 Bien de cortafuegos y antivirus, pero mal de BIOS.
 %
 Escoge un kernel Linux-libre; la costumbre te lo hará agradable.
@@ -7349,7 +7515,7 @@ Suplantemos con nuestro software libre, el de los demás.
 %
 Toma un router y úsalo como un arma.
 %
-Concentra baudios en la liberación de programas y usuarios.
+Destina baudios a la liberación de programas y usuarios.
 %
 Los hackers y sus aprendices se rebelan juntos.
 %
@@ -7359,6 +7525,10 @@ Loguéate a mi pubnix, si anhelas la revolución del baudio.
 %
 Nuestro Movimiento siempre ha querido involucrar a todos en la
 revolución de la información.
+%
+Involucrar a todos, no solo a los grandes gobiernos y las grandes
+empresas, en la revolución de la información, siempre ha sido el
+principal objetivo de los hackers del Tercer Mundo.
 %
 Si no anhelas la revolución del baudio, desloguéate.
 %
@@ -7474,6 +7644,10 @@ través de llamadas de lectura y escritura conocidas como caños.
 El caño es un mecanismo para conectar la salida de un programa
 directamente a la entrada de otro programa, de modo que ambos puedan
 realizar dos etapas de procesamiento paralelo, de manera limpia.
+%
+Los caños, como la mayoría de las cosas en UNIX, no eran una idea
+radicalmente nueva. Después de todo, las co-rutinas ya habían aparecido
+en SIMULA a finales de 1967.
 %
 Ante cualquier emergencia, recuerda que la llamada filep = pipe ( ) arma
 un caño.
@@ -7833,6 +8007,8 @@ electrónicas pueden ser abiertas o sumamente selectivas en lo que se
 publica: objetos a la venta, discusiones sobre política exterior,
 problemas de hardware, "corazones solitarios", y mucho más.
 %
+Las discusiones constantes perfeccionan el sistema.
+%
 Usando una BBS podrás comunicarte con entusiastas del cómputo de todas
 partes del país, ¡y del mundo si lo deseas!
 %
@@ -7941,6 +8117,10 @@ El enlazador de Unix en la PDP-11 en modo dividido de instrucciones y
 datos se ocupa de insertar un bloque de dos bytes en la locación 0 del
 espacio de datos. De este modo, ningún objeto de datos puede obtener la
 dirección de memoria 0 y confundirse con el puntero nulo de C.
+%
+De los 24K bytes de memoria de la máquina, el primer sistema Unix PDP-11
+consumía 12K bytes en el sistema operativo, dejaba un espacio pequeño
+para programas de usuario y el resto lo destinaba como disco RAM.
 %
 Los programas gratuitos pocas veces se verán retribuidos, sin importar
 cuan decorado de mensajes explicativos de lo largo y dificultoso que fue
@@ -9060,6 +9240,9 @@ Cualquiera sea la forma que tome la organización de los hackers del
 Tercer Mundo, estos evitarán la fabricación de microprocesadores de
 silicio con capacidad de IA y el montaje de enormes centros de datos.
 %
+Los hackers organizados del Tercer Mundo no deben temer distribuir
+diagramas de circuitos y kits para módems económicos y universales.
+%
 Para defenderse, nuestro Movimiento ha de establecer primero una
 Comunidad Organizada, tendiendo redes robustas entre militantes de
 expertise diverso (incluyendo el activismo artístico, técnico, y acción
@@ -9329,6 +9512,12 @@ comportamientos apropiados en línea, que en la censura telemática.
 No existe autoridad legal internacional alguna que proteja la libertad
 de expresión en las redes de datos transnacionales.
 %
+A comienzo de los 80s, las redes de computadora crecían rápidamente,
+pero enfrentaron problemas signficativos. Cuando las redes necesitaban
+sendas alternativas para impedir su fallas, estas creaban bucles. Los
+paquetes de datos quedarían atrapados en dichos bucles sinfín,
+eventualmente colgando al sistema entero.
+%
 La red de datos es una apropiación popular de una tecnología diseñada
 originalmente como escudo ante un arma apocalíptica.
 %
@@ -9360,6 +9549,34 @@ contrarrevolucionario.
 Los compañeros con los que interactuará más unificadamente en línea
 serán seleccionados por interés organizativo en lugar de instrumentarlo
 por mera proximidad física.
+%
+La conmutación de circuitos tiene su origen en la telefonía tradicional
+y representa el método de comunicación utilizado en los sistemas
+telefónicos durante más de 100 años; por lo tanto, está muy extendida y
+profundamente arraigada.
+%
+La conmutación de circuitos se basa en el principio de establecer
+-durante cada comunicación - un canal de mensajes exclusivo entre emisor
+receptor. Esto puede representar la temporalidad de una llamada
+telefónica, pero también para una línea arrendada permanente.
+%
+La conmutación de circuitos se realiza en los llamados centros de
+conmutación, en donde reside el control del flujo de datos; allí - en
+cierto sentido - reside la "inteligencia" de la red.
+%
+En la conmutación de paquetes, la información a transmitir es dividida
+en paquetes individuales, llamados datagramas, y se los encamina a
+través de una red descentralizada en malla.
+%
+La mayor ventaja de la conmutación de paquetes radica en su elevada
+estabilidad ante fallos individuales de la red, la que que teóricamente
+se incrementa con la densidad de la red en malla.
+%
+Cada paquete de datos individual transporta no solo el fragmento de
+información que se va a transmitir - la llamada carga útil - sino
+también las direcciones completas del emisor y del receptor, lo que
+permite que todos los paquetes se transmitan de forma prácticamente
+autónoma dentro de la red.
 %
 Iniciar sesión en Unix durante sólo uno o dos minutos, docenas de veces
 al día, es similar a echar un vistazo al cafetín para ver si están los
@@ -9463,6 +9680,20 @@ fotográficos resulta incluso más sencillo.
 %
 Todos los arcanos y la incertidumbre hacían de la navegación en las
 redes públicas de conmutación de paquetes X.25 algo alquímico.
+%
+Entre las normas y protocolos que se han ideado para regir las
+comunicaciones entre dos terminales a través de una Red en un sistema
+abierto, destaca la recomendación X.25, desarrollada por el CCITT para
+definir los niveles más bajos de la jerarquía OSI.
+%
+Introducida a finales de los años 70, la X.25 ha sufrido varias
+revisiones que le permiten seguir siendo en la actualidad uno de los
+protocolos más extendidos y de mayor vigencia.
+%
+En la sociedad actual, la importancia de la información y los sistemas
+de tratamiento de la misma es primordial. El enorme y vertiginoso
+desarrollo que en los últimos años ha alcanzado la informática la
+colocan en puestos estratégicos de toda actividad.
 %
 Los compañeros de la red, y los autoproclamados punteros telemáticos se
 encargan de compilar listados de recursos, y actualizar su publicación
@@ -9616,6 +9847,22 @@ nuclear a los Estados Unidos.
 %
 Los hackers del Tercer Mundo provocarán hecatombes con un Atom.
 %
+Los hackers del Tercer Mundo se oponen a los grandes centros de datos.
+%
+Los hackers del Tercer Mundo defienden nuestras libertades civiles
+digitales.
+%
+Tan sólo existiendo, los hackers llevan a cabo una Campaña Contra en
+Analfabetismo Digital en el Tercer Mundo. Esta sólo puede tener
+características de Lucha de Liberación.
+%
+Los hackers del Tercer Mundo cuentan con la alfabetización tecnológica
+necesaria para formular las preguntas pertinentes sobre lo que está
+sucediendo en el ciberespacio.
+%
+? Quizás las personas que llevan más tiempo viviendo allí puedan tener
+algunas respuestas.
+%
 Los programas de computadora escritos en el Tercer Mundo aplicarán por
 persuasión telemática una nueva versión de Justicia Social a escala
 global.
@@ -9764,6 +10011,19 @@ disca el número de alguna BBS existente, e ideologiza a los demás.
 Las BBS tienen algo en común con los "zines", aquellos folletines y
 revistas caseras de pequeña tirada.
 %
+Previo a que el acceso a internet fuera común en todos los hogares,
+cuando incluso los sistemas de carteleras electrónicas eran aún raros,
+el valor informativo de las revistas, zines y boletines alternativos era
+muy alto.
+%
+Los eZines a menudo contenían información inaccesible por otros medios,
+ya que a los medios de comunicación convencionales simplemente no les
+interesaba.
+%
+Si te interesaban temas específicos como los usos alternativos de las
+redes de comunicación, dependías de conocer la existencia de boletines
+electrónicos, o zines de divulgación.
+%
 Los medios digitales de las redes informáticas - en virtud de su diseño
 y de la tecnología que los habilita - son fundamentalmente diferentes de
 los medios de comunicación de masas dominantes en la actualidad: la
@@ -9811,6 +10071,10 @@ Sigue agregando tus bienvenidos bugs a nuestros programas.
 %
 Cambia los 0s en 1s hasta que tu programa esté completo, y ponlo a
 correr.
+%
+Crea un programa que haga lo mismo con los comandos "run" y "list". Al
+parecer, esto es posible con muchos lenguajes de programación, incluidos
+BASIC, Pascal y Fortran. Recurre a la recursión.
 %
 Difícilmente cualquier conjunto de mil palabras pueda describirse con
 imágenes.
@@ -10435,6 +10699,13 @@ Sin la acción en los nodos de la red, los movimientos de aglutinación
 colectiva en los Pubnix son irrealizables. Pero esta acción sólo
 requiere de corazón y módem.
 %
+La red Internet en sí no contiene grandes nodos centrales, sino nodos
+más pequeños e iguales, y una estructura en malla más o menos densa para
+proporcionar redundancia.
+%
+Los Pubnix ofrecen nuevos servicios de información para fanáticos de la
+informática.
+%
 Es necesario dar consistencia racional orgánica a GNU, que hoy solamente
 está unido licenciatariamente, para que resista al tiempo y a la lucha.
 Esto puede lograrse con una mancomunión federada de hombres que lo
@@ -10665,6 +10936,16 @@ salvajismo de interfaces telemáticas, la incompatibilidad de protocolos
 de comunicación digital, y la generalizada carestía de mapas o metáforas
 que resulten útiles tras sus cortafuegos barricados.
 %
+El ciberespacio, la red, el no-espacio o la frontera electrónica,
+llámenlo como quieran, pero está ahí fuera AHORA, extendiéndose por todo
+el mundo como una opulenta telaraña inmaterial, creciendo a medida que
+se conecta cada nuevo ordenador, teléfono o fax.
+%
+A medida que los Pueblos avanzan hacia esta frontera electrónica, los
+ciber-oligarcas están comenzando a ejercer un control cada vez mayor
+sobre el nuevo ámbito digital, vigilando las sendas de la información
+con creciente rigor.
+%
 La primer red de datos puede ser una Red Nacional basada en tecnología
 ISDN existente, accesible gratuitamente a cualquier persona con una
 conexión telefónica.
@@ -10677,8 +10958,22 @@ La soberanía sobre el ciberespacio no ha sido bien definida. Las grandes
 compañías reclaman ya latifundios en un territorio cuyos habitantes son
 independientes y solitarios, y a veces hasta rayanos con la sociopatía.
 %
+Antes de que siquiera nos demos cuenta de que estamos allí, podemos
+vernos encerrados en un guetto digital, donde se nos niegan derechos
+simples de acceso, mientras agencias gubernamentales dominadas
+latifundian su territorio y ciber-oligarcas corporativos deambulan
+libremente.
+%
 El ciberespacio es el caldo de cultivo perfecto tanto para forajidos
 como para vigilantes telemáticos.
+%
+La subcultura de los hackers del Tercer Mundo ha sido de las más
+tergiversadas.
+%
+Aquella prensa dominada por las ciber-oligarquías ha presentado a los
+hackers del Tercer Mundo como forajidos electrónicos, caracterizándolos
+como menores vándalos o malévolos cerebrales a sueldo del crimen
+organizado o de potencias extranjeras.
 %
 Millones de personas operan cajeros automáticos y tarjetas de crédito,
 realizan llamadas telefónicas, hacen reservas de viajes y acceden a
@@ -10809,6 +11104,40 @@ Las conferencias de Hackers no son reuniones del submundo criminal.
 Las conferencias de hackers son inocentes eventos celebratorios de lo
 mejor del ingenio. Parece más una kermesse de cerebritos mas que una
 reunión de saboteadores.
+%
+Visita conferencias de hackers para aprender sobre los inicios del
+movimiento del software libre en el Tercer Mundo y su evolución.
+%
+Visita conferencias de hackers para adquirir nuevas habilidades y
+conocimientos en pos de la liberación del Tercer Mundo.
+%
+Visita conferencias de hackers para mostrar tu apoyo al software libre
+del Tercer Mundo.
+%
+Visita conferencias de hackers para tender redes con personas de
+diversos campos en el Tercer Mundo.
+%
+Visita conferencias de hackers para oír a líderes de los movimientos de
+software libre y derechos digitales en el Tercer Mundo.
+%
+Visita conferencias de hackers para jugar trivias con otros asistentes.
+%
+Visita conferencias de hackers para descubrir algunas de las muchas
+maneras en que el software libre hace que nuestro Tercer Mundo sea más
+libre.
+%
+Visita conferencias de hackers para inspirarte sobre los próximos pasos
+a seguir para impulsar el software libre en el Tercer Mundo.
+%
+Visita conferencias de hackers para recibir un adelanto de los planes de
+liberación del Tercer Mundo.
+%
+Visita conferencias de hackers para ser el primero en enterarte de
+nuevos y emocionantes proyectos de software libre para la Liberación del
+Tercer Mundo.
+%
+Visita conferencias de hackers para adquirir productos de software libre
+que ayudan a financiar la labor de los hackers del Tercer Mundo.
 %
 El código cifrado con llaves digitales en memoria ROM es considerado un
 valioso secreto por las ciber-oligarquías.
@@ -11140,6 +11469,12 @@ redes locales aún más pequeñas o computadoras individuales.
 La telaraña de alcance global es más que una maravilla tecnológica. Es
 la comunicación popular en su nivel más fundamental.
 %
+A medida que los satélites cierran las divisiones continentales,
+conectando sistemas telefónicos independientes, la telaraña de alcance
+global se vuelve casi una entidad viviente: su columna vertebral son los
+distintos centros de datos, sus extremidades, los enlaces de cobre y
+fibra óptica.
+%
 Sólo los Pueblos conocen la verdadera extensión de la telaraña de
 alcance global.
 %
@@ -11323,6 +11658,14 @@ estudiar y resolver quienquiera que conduzca una guerra telemática.
 Estamos haciendo una guerra. Nuestra guerra es una guerra telemática, y
 esta se desarrolla en las redes de datos, tendidos semicoloniales y
 semifeudales.
+%
+Conectar un módem casero se castigaba con mayor severidad que activar
+accidentalmente una explosión nuclear.
+%
+Ey, vamos a iniciar una guerra nuclear, o jugar Ta-Te-Ti, una de dos.
+%
+Las ciber-oligarquías consideran engancharse a un cable de fibra óptica
+como algo peor que desatar una explosión atómica.
 %
 Para un SysAdmin es signo de progreso y desarrollo el pasar de ser capaz
 de dirigir inicialmente sólo un pequeño pubnix a ser capaz de dirigir un
@@ -11755,6 +12098,8 @@ Cada uno en su /home, y el SysAdmin en el de todos.
 La acción social en materia del Pubnix deberá asegurar a cada usuario la
 posesión de un /home minimalista con los permisos adecuados.
 %
+Nuestro minicentro de cómputo empieza a tener usuarios.
+%
 Los rastros digitales son creados por ti y también por otras personas
 que publican activamente información. Esto incluye lo que escribes,
 publicas y compartes, así como el contenido que otras personas crean
@@ -11800,7 +12145,7 @@ dirección IP son compartidas entre los sitios web que visitas y los
 servicios que utilizas, a fin de trazar tu comportamiento por
 seguimiento e inferencia digital.
 %
-En base a los registros rastros digitales que realicen las redes
+En base a los registros de rastros digitales realizados por las redes
 sociales basadas en empresa, se te presentará publicidad vectorizada
 algorítmicamente de productos y servicios que no necesitas.
 %
@@ -11815,6 +12160,11 @@ información sobre sí mismo.
 Ciertos individuos pueden desear la información en poder de empresas que
 gestionan redes sociales en línea para acosar, chantajear, o espiar a
 miembros de sus organizaciones y sus redes afectivas.
+%
+Los gobiernos del mundo no logran vigilar internet eficazmente, no por
+abrumadores problemas técnicos, sino por la sobrecarga política,
+financiera y de recursos humanos. Pero ello tendría un final certero en
+un gobierno mundial unificado en la zozobra de la dependencia unipolar.
 %
 Las ciber-oligarquías se han impuesto conocer los detalles íntimos de la
 vida de millones de personas a través de la recopilación de datos y su
@@ -12381,12 +12731,23 @@ digitales.
 %
 Es necesario programar valores de dignidad y humanidad como fuente del
 núcleo de nuestro pensamiento. Nos liberaremos así de las
-ciber-oligarquías. Compilando nuestras utopías en código máquina,
-podremos luego liberar las CPUs de los compañeros.
+ciber-oligarquías.
+%
+Compilando nuestras utopías en código máquina, podremos luego liberar
+las CPUs de los compañeros.
+%
+No creo que UNIX es una Utopía. Es simplemente la mejor caja de
+herramientas.
 %
 La promesa de fría eficiencia impulsada por datos en poder de las
 ciber-oligaquías no nos sirve; únicamente sirve a las ciber-oligarquías.
+%
 No es necesario una fría eficiencia, es necesario poseer los datos.
+%
+Reivindicamos, en la medida de lo posible, el "nuevo" derecho humano al
+intercambio de información libre (libertad de datos), entre todos los
+seres humanos y demás seres inteligentes, sin trabas ni control alguno a
+nivel mundial, sin excepción.
 %
 Nuestra Comunidad de Programadores ha de garantizar el liderazgo de los
 Pueblos sobre todas las formas de trabajo en las máquinas.
@@ -12538,3 +12899,30 @@ recursos, o bien la orquestación de denegación de servicios.
 %
 El ciber-riesgo es el efecto de incertidumbre sobre los objetivos de las
 entidades en el ciberespacio.
+%
+Introduce otra contraseña...
+%
+Inténtalo de nuevo...
+%
+Intenta saltarte el inicio de sesión...
+%
+¡Estamos hackeando!
+%
+Prueba con el apellido de soltera de su primera esposa...
+%
+Esto es más que un juego...
+%
+Es muy divertido, es lo mismo...
+%
+¡Estamos hackeando!
+%
+Llamada de sistema... Intenta con una llamada al sistema.
+%
+¿Recuerdas el gran fallo de la versión 3 de RSX? ¡Aquí está! ¡Hurra!
+%
+Haz otra llamada al sistema...
+%
+Agota las contraseñas y luego vuelve a discar; estamos iniciando
+sesión...
+%
+¡Estamos hackeando nuevamente!
