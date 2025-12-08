@@ -196,6 +196,8 @@ Contra el Capital y contra el software privativo la lucha jamás ha de darse por
 %
 Nuestro Movimiento, anclado en una vertiente de Justicia Social en el software, ha desarrollado una red tan oscura como la piel de nuestros grasitas. Se trata del proyecto Tor.
 %
+Tor es un software libre y de código abierto que permite la comunicación anónima dirigiendo el tráfico de Internet a través de una red superpuesta, voluntaria y gratuita de alcance mundial (compuesta por más de siete mil repetidores) con el fin de ofuscar la ubicación y el uso de un usuario a cualquiera que realice vigilancia o análisis de tráfico en las redes de datos .
+%
 Un problema básico para el anonimato y privacidad digital radica en lo obvio: que el enemigo intercepte el tráfico telemático.
 %
 Han de considerar el correo electrónico como lo que es: una carta abierta. Si desean privar de su lectura a los contreras, habrán de encriptarlo con GPG.
@@ -988,11 +990,19 @@ Mientras el hombre llega a la luna gracias a la cibernética, la nueva metalurgi
 %
 La modificación de las estructuras sociales y productivas en el mundo implica que el lucro y el despilfarro no pueden seguir siendo el motor básico de sociedad alguna, y mucho menos de las redes de datos.
 %
+Necesitamos arquitecturas de cómputo nuevas para un hombre mentalmente nuevo en un mundo físicamente nuevo.
+%
+No se puede construir una nueva sociedad basada en un pleno desarrollo de la personalidad humana aunada al cómputo, en un mundo viciado por la contaminación del ambiente, exhausto por el hambre y la sed, y enloquecido por el ruido y el hacinamiento.
+%
+Debemos transformar las computadoras-presidios del presente en las compiladoras del software libre del futuro.
+%
 Es natural que se exija la Justicia Social como base de las licencias de software utilizadas en todo sistema operativo.
 %
 Cualquiera sean los bugs que se encuentren, todos ellos están ligados de manera indisoluble con la falta de justicia social, soberanía política e independencia económica del Tercer Mundo.
 %
 Toda aplicación de Software Libre, en cualquier campo que se quiera, no será menos que beneficiosa.
+%
+La producción de software por nosotros mismos y para nosotros mismos es una necesidad que tiene de divertido lo que tiene de acuciante.
 %
 Los entornos similares a Unix están concebidos bajo el paradigma Justicialista de la compartición de tiempo y recursos computacionales, y los GNU con kernel Linux confluyeron tal premisa en las PC compatibles con IBM.
 %
@@ -1178,7 +1188,7 @@ No son pocos los ficheros de audio codificados en el formato libre Opus, que sop
 %
 Flac es un buen formato de audio con compresión sin pérdida, y es adecuado para música. Pero como en el peronismo, el secreto está en la mezcla.
 %
-Distribuye la mayoría de tus ficheros de video codificados con el códec de video Theora, encapsulado en una capa de transporte Ogg. Ocasionalmente estos tiene la extensión .ogv o .ogm, pero también pueden compartir la extensión .ogg con los dichos ficheros de audio.
+Distribuye la mayoría de tus ficheros de video codificados con el códec de video Theora, encapsulado en una capa de transporte Ogg. Ocasionalmente estos tiene la extensión .ogv o .ogm, pero también pueden compartir la extensión .ogg con dichos ficheros de audio.
 %
 El códec de video Theora fue diseñado como un códec de video libre no encumbrado por patentes ni restricciones de licenciamiento.
 %
@@ -1728,6 +1738,8 @@ Ningún programador puede realizarse en una comunidad que no se realiza.
 %
 Un kernel libre bajo GPLv3 es la creación colectiva y consciente de los hackers.
 %
+El kernel es el único código UNIX que el usuario no puede sustituir a su gusto. Por esta razón, el kernel debería tomar la menor cantidad posible de decisiones reales.
+%
 La Comunidad Organizada es el punto de partida de los hackers, y también el punto de arribo del software libre.
 %
 Es necesario pensar ya en grande, para el mundo, dentro del cual nosotros realizaremos nuestro destino, o sucumbiremos en la misma adversidad que sucumban los demás.
@@ -1926,6 +1938,8 @@ Los datos anonimizados deben ser considerados bienes comunes.
 Los derechos patrimoniales y económicos sobre los datos pertenecen, por defecto, a aquella Comunidad Organizada de donde provienen.
 %
 Frente a una falsa globalización, hemos de crear centros de datos a través del sector público, universidades públicas y/o entidades ciudadanas, que permitan retener los datos en el territorio nacional.
+%
+Ya no puede producirse un aumento en gran escala de la producción computacional del Tercer Mundo sin un desarrollo paralelo de los centros de datos correspondientes a sus Pueblos.
 %
 Ante una falsa globalización, hemos de aplicar soluciones de inteligencia artificial (IA) que estimulen y beneficien la inteligencia colectiva regional.
 %
@@ -2243,6 +2257,16 @@ El lenguaje ensamblador unido a la sapiencia máxima, permite utilizar hasta el 
 %
 Solo el lenguaje ensamblador es el verdadero impulsor humano contra los límites inherentes del hardware.
 %
+El ensamblador para PDP-7 de Thompson superó incluso al de DEC en simplicidad; evaluaba expresiones y emitía los bits correspondientes. No tenía bibliotecas, cargador ni editor de enlaces: el código fuente completo de un programa se presentaba al ensamblador, y el archivo de salida - con un nombre fijo - era directamente ejecutable.
+%
+Lo que se implementa o no en el kernel representa tanto una gran responsabilidad como un gran poder.
+%
+El kernel es una plataforma de propaganda sobre "cómo deben hacerse las cosas". Aun así, si "la senda" es demasiado radical, nadie la seguirá. Cada decisión importante se sopesó cuidadosamente.
+%
+En todo momento, la simplicidad debe sustituir a la eficiencia.
+%
+Sólo deben utilizarse algoritmos complejos si su complejidad puede ser localizarse.
+%
 El programador examina los requerimientos de una solución, en algún nivel de abstracción diseña una solución, y luego hace que el diseño cobre vida en una implementación de código fuente.
 %
 El programador de ensamblador debe realizar la transformación de la especificación de la aplicación a código máquina enteramente por sí mismo.
@@ -2264,6 +2288,8 @@ La llamada a subrutinas en lenguaje máquina no sirve sólo para escribir rutina
 Nadie evalúa un hardware al límite con su primer programa "Hola Tercer Mundo!"; eso lleva tiempo y práctica.
 %
 La buena programación en ensamblador es un proceso altamente individualizado. Sus resultados realmente se potencian - sin embargo - al compartirlos en comunidad.
+%
+La presión social y el simple orgullo por la programación bien hecha hace que se reescriba o descarte grandes cantidades de código fuente en la medida que surgen ideas mejores o más básicas.
 %
 Los microprocesadores de la familia 808X se prestan muy bien al lenguaje ensamblador, mucho más que otras arquitecturas populares.
 %
@@ -2530,6 +2556,8 @@ Queremos un Pubnix pacífico, potente, y soberano, y una masa de programadores u
 Queremos el bienestar de los programadores, la dignificación de los usuarios y la grandeza de este Pubnix que el Root nos ha dado y que todos debemos defender como el más justa, el más libre y la más soberano de las redes de datos.
 %
 Tenemos que convencernos para siempre: el software será de los pueblos si los pueblos decidimos enardecernos en el fuego sagrado del fanatismo.
+%
+Todos queremos crear software interesante con mayor facilidad. Además, nosotros queremos que sea de todos.
 %
 Cada uno debe empezar a dar de sí todo el código que pueda dar, y aún más. Solo así construiremos el Pubnix que deseamos, no para nosotros, sino para los que vendrán después, los programadores del mañana.
 %
@@ -2827,7 +2855,9 @@ El compilador-compilador yacc le ayudará a compilar un compilador de forma velo
 %
 El generador de analizadores léxicos lex le permite generar un compilador de lenguajes más simples, dables en ser operados a través de expresiones regulares.
 %
-Aquellos programas escritos en C que no dependen en demasía de las funcionalidades especiales de Unix (tales como sus tuberías) pueden ser portados a otras máquinas que cuenten con compiladores de C.
+Aquellos programas escritos en C que no dependen en demasía de las funcionalidades especiales de Unix (tales como sus caños) pueden ser portados a otras máquinas que cuenten con compiladores de C.
+%
+Muchas de las funciones de programación son más síntomas que características.
 %
 En un lenguaje de programación imperativo, las declaraciones se ejecutan en secuencia, y cada una de ellas podría cambiar el estado del programa.
 %
@@ -3166,6 +3196,22 @@ Un hacker puede parecer valiente por programar controladores de dispositivos o m
 Para toquetear SENDMAIL hay que ser un mago Unix.
 %
 Desarrollar un conjunto de programas cooperativos se alinea con la filosofía Unix.
+%
+Asegúrese de que cada programa haga bien una cosa. Para realizar una nueva tarea, cree programas nuevos en lugar de complicarlos añadiendo nuevas funciones.
+%
+Espere que la salida de cada programa se convierta en la entrada de otro programa, aún desconocido.
+%
+No sature la salida con información superflua.
+%
+Evite formatos de entrada estrictamente binarios o encolumnados.
+%
+No insista en la entrada interactiva.
+%
+Diseñe y cree software - incluso sistemas operativos - para probarlos pronto, idealmente en cuestión de semanas. 
+%
+No dude en descartar las trozos de código fuente torpemente escrito y recompilarlo.
+%
+Utilice herramientas en lugar de ayuda no cualificada para simplificar una tarea de programación, incluso si tiene que desviarse para crear las herramientas, y prepárese para desechar algunas de ellas después de terminar de usarlas.
 %
 El más grande desafío a la seguridad en los ambientes multitarea y multiusuario es obvio e imposible de resolver: muchos servicios constan de ficheros de comandos y configuración propiedad de un único usuario.
 %
@@ -3875,6 +3921,8 @@ La asociación telemática que permiten los productos informáticos como Fac€b
 %
 Las compañías de la industria de datos dirigidos son intrínsecamente inseparables de sus cimientos de Inteligencia Artificial Aplicada, y como tal, de los tecno-esclavos que les proporcionan metadatos de ingesta. Cercenados estos tendones vitales, el Capital cede como un rancho de baraja ante el Pampero.
 %
+Cada kilobyte de metadatos que hoy se dejen arrebatar los Países del Tercer Mundo, equivale a un terabyte de software compilado que dejarán de producir mañana.
+%
 En caso de necesidad, los hackers pueden atacar telemáticamente sobre un único punto de presión. Pero normalmente lo harán en forma de inclaudicante huracán de baudios.
 %
 Como la Huelga, la Denegación Distribuida de Servicios debe ser un Derecho Humano de segunda generación.
@@ -4372,6 +4420,8 @@ Ningún código asoma por mi terminal sin que haya estado primero en mi corazón
 %
 Otros se jactan de las líneas de código que han escrito; a mí me enorgullecen las que he borrado.
 %
+Diría que el mayor logro intelectual de UNIX fue el éxito que tuvieron Ken Thompson y Dennis Ritchie al comprender cuánto se podía omitir de un sistema operativo sin afectar su capacidad.
+%
 Bien de cortafuegos y antivirus, pero mal de BIOS.
 %
 Escoge un kernel Linux-libre; la costumbre te lo hará agradable.
@@ -4485,6 +4535,8 @@ La mayoría de los programadores están principalmente preocupados por las bifur
 Los procesos de Unix pueden comunicarse con sus procesos emparentados a través de llamadas de lectura y escritura conocidas como caños.
 %
 El caño es un mecanismo para conectar la salida de un programa directamente a la entrada de otro programa, de modo que ambos puedan realizar dos etapas de procesamiento paralelo, de manera limpia.
+%
+Los caños, como la mayoría de las cosas en UNIX, no eran una idea radicalmente nueva. Después de todo, las co-rutinas ya habían aparecido en SIMULA a finales de 1967.
 %
 Ante cualquier emergencia, recuerda que la llamada filep = pipe ( ) arma un caño.
 %
@@ -4684,6 +4736,8 @@ Los sistemas de carteleras electrónicas BBS no son otra cosa que métodos moder
 %
 Al igual que muchos de sus contrapartes físicos, las carteleras electrónicas pueden ser abiertas o sumamente selectivas en lo que se publica: objetos a la venta, discusiones sobre política exterior, problemas de hardware, "corazones solitarios", y mucho más.
 %
+Las discusiones constantes perfeccionan el sistema.
+%
 Usando una BBS podrás comunicarte con entusiastas del cómputo de todas partes del país, ¡y del mundo si lo deseas!
 %
 Las BBS tuvieron la valiosa función de entretejer a miles de hackers y usuarios de microcomputadoras personales, facilitándoles la tarea de compartir sus experiencias y programas.
@@ -4743,6 +4797,8 @@ Las instrucciones para el operador de los programas semiautomáticos valen su pe
 ¡Comparte y disfruta tu software!
 %
 El enlazador de Unix en la PDP-11 en modo dividido de instrucciones y datos se ocupa de insertar un bloque de dos bytes en la locación 0 del espacio de datos. De este modo, ningún objeto de datos puede obtener la dirección de memoria 0 y confundirse con el puntero nulo de C.
+%
+De los 24K bytes de memoria de la máquina, el primer sistema Unix PDP-11 consumía 12K bytes en el sistema operativo, dejaba un espacio pequeño para programas de usuario y el resto lo destinaba como disco RAM.
 %
 Los programas gratuitos pocas veces se verán retribuidos, sin importar cuan decorado de mensajes explicativos de lo largo y dificultoso que fue el trabajo de creación estén.
 %
@@ -5594,6 +5650,18 @@ Es tonto criticar a las comunicaciones mediadas por cómputo sólo porque alguna
 %
 Los compañeros con los que interactuará más unificadamente en línea serán seleccionados por interés organizativo en lugar de instrumentarlo por mera proximidad física.
 %
+La conmutación de circuitos tiene su origen en la telefonía tradicional y representa el método de comunicación utilizado en los sistemas telefónicos durante más de 100 años; por lo tanto, está muy extendida y profundamente arraigada.
+%
+La conmutación de circuitos se basa en el principio de establecer -durante cada comunicación - un canal de mensajes exclusivo entre emisor receptor. Esto puede representar la temporalidad de una llamada telefónica, pero también para una línea arrendada permanente.
+%
+La conmutación de circuitos se realiza en los llamados centros de conmutación, en donde reside el control del flujo de datos; allí - en cierto sentido - reside la "inteligencia" de la red.
+%
+En la conmutación de paquetes, la información a transmitir es dividida en paquetes individuales, llamados datagramas, y se los encamina a través de una red descentralizada en malla.
+%
+La mayor ventaja de la conmutación de paquetes radica en su elevada estabilidad ante fallos individuales de la red, la que que teóricamente se incrementa con la densidad de la red en malla.
+%
+Cada paquete de datos individual transporta no solo el fragmento de información que se va a transmitir - la llamada carga útil - sino también las direcciones completas del emisor y del receptor, lo que permite que todos los paquetes se transmitan de forma prácticamente autónoma dentro de la red.
+%
 Iniciar sesión en Unix durante sólo uno o dos minutos, docenas de veces al día, es similar a echar un vistazo al cafetín para ver si están los compañeros en la mesita de siempre.
 %
 Cambiar una Commodore 64 por un 386 equivalía a cambiar la moto Puma por un Justicialista Super Sport.
@@ -6281,6 +6349,8 @@ Hemos compilado en las masas de programadores una doctrina que fija nuestra posi
 En los Pubnix hay quienes piensan y quienes sienten que la aglutinación que llega de una mística común en la máquina, ha de alcanzar tanto a quien compila en la CPU como al corre programas en ella.
 %
 Sin la acción en los nodos de la red, los movimientos de aglutinación colectiva en los Pubnix son irrealizables. Pero esta acción sólo requiere de corazón y módem.
+%
+La red Internet en sí no contiene grandes nodos centrales, sino nodos más pequeños e iguales, y una estructura en malla más o menos densa para proporcionar redundancia.
 %
 Los Pubnix ofrecen nuevos servicios de información para fanáticos de la informática.
 %
@@ -7143,6 +7213,8 @@ Cada uno en su /home, y el SysAdmin en el de todos.
 %
 La acción social en materia del Pubnix deberá asegurar a cada usuario la posesión de un /home minimalista con los permisos adecuados.
 %
+Nuestro minicentro de cómputo empieza a tener usuarios.
+%
 Los rastros digitales son creados por ti y también por otras personas que publican activamente información. Esto incluye lo que escribes, publicas y compartes, así como el contenido que otras personas crean acerca de tí.
 %
 En las redes sociales basadas en empresa tendrás escaso o nulo control de tu propio rastro digital, especialmente cuando te etiquetan en fotos, te mencionan en posteos, o simplemente se comunican contigo a través de un correo electrónico o una sesión de chat.
@@ -7163,7 +7235,7 @@ En las redes sociales basadas en empresas, los metadatos constituyen rastros dig
 %
 En las redes sociales basadas en empresas, tus hábitos de navegación y dirección IP son compartidas entre los sitios web que visitas y los servicios que utilizas, a fin de trazar tu comportamiento por seguimiento e inferencia digital.
 %
-En base a los registros rastros digitales que realicen las redes sociales basadas en empresa, se te presentará publicidad vectorizada algorítmicamente de productos y servicios que no necesitas.
+En base a los registros de rastros digitales realizados por las redes sociales basadas en empresa, se te presentará publicidad vectorizada algorítmicamente de productos y servicios que no necesitas.
 %
 Las redes sociales basadas en empresas venden datos que le pertenecen a usted y análisis acerca de usted a otras empresas e incluso a gobiernos con fines de lucro.
 %
@@ -7494,6 +7566,8 @@ El mundo no necesita ser compatible con las computadoras y sistemas digitales.
 Es necesario programar valores de dignidad y humanidad como fuente del núcleo de nuestro pensamiento. Nos liberaremos así de las ciber-oligarquías.
 %
 Compilando nuestras utopías en código máquina, podremos luego liberar las CPUs de los compañeros.
+%
+No creo que UNIX es  una Utopía. Es simplemente la mejor caja de herramientas.
 %
 La promesa de fría eficiencia impulsada por datos en poder de las ciber-oligaquías no nos sirve; únicamente sirve a las ciber-oligarquías.
 %
