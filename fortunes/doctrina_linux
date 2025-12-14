@@ -604,6 +604,8 @@ Unix cuenta con Entrada/Salida compatibilizada, lo que permite a sus usuarios re
 %
 Unix cuenta con un versátil programa intérprete de comandos, que ofrece una interfaz de usuario flexible y reconfigurable.
 %
+El primer hecho que hay que afrontar es que Unix no fue desarrollado con la seguridad, en ningún sentido realista, en mente...
+%
 Unix cuenta con un sistema de seguridad por contraseña, que limita el acceso al sistema y sus archivos a la vez que protege los ficheros con atributos de lectura, escritura, agregado y ejecución.
 %
 Unix cuenta con soporte de fecha y hora.
@@ -935,6 +937,8 @@ Los cimientos del Software Libre están sin dudas en la Escuela. Es allí donde 
 Nadie tiene la fuerza movilizada que tiene el Software Libre, y en el futuro es previsible que esta capacidad se multiplique.
 %
 Internet es un servicio de comunicaciones diseñado para conectar ordenadores entre sí de modo que puedan intercambiar información digital.
+%
+La Internet es una red lógica formada por muchas redes de datos físicas, todas ellas corriendo la clase IP de protocolos de Interred.
 %
 Internet proporciona un servicio de comunicación básico que transmite unidades de información - llamadas paquetes - desde un ordenador de origen puesto en línea hasta uno o más ordenadores de destino conectados a Internet.
 %
@@ -2969,6 +2973,8 @@ El gran peligro de la inteligencia artificial es que aumente el poder de los tec
 %
 Cualquier sistema puede ser inseguro: basta que se conduzca de un modo estúpido.
 %
+La determinación en un ataque telemático sobre una red de datos de gran tamaño suele ser suficiente para que al menos un sistema lo suficientemente inseguro en ella proporcione al atacante alguno de los privilegios que necesita para devastarla.
+%
 Los ordenadores de alta seguridad son de difícil acceso e incómodos de utilizar.
 %
 Los sistemas abiertos y amenos suelen ser inseguros.
@@ -3177,7 +3183,21 @@ Un virus informático es un trozo de código que se agrega a sí mismo a otros p
 %
 Un virus informático no puede ejecutarse independientemente; es menester que su "huésped" sea ejecutado para activarse.
 %
+Para funcionar, un virus informático debe ser privilegiado.
+%
+Para funcionar, un gusano informático no necesita de privilegios.
+%
 Un gusano es un programa informático que puede ejecutarse por sí mismo y puede propagar una versión completamente funcional de sí en otras máquinas.
+%
+El gusano no elimina los archivos del sistema: solo elimina los archivos que creó durante el proceso de arranque.
+%
+Un gusano informático no intenta incapacitar un sistema eliminando archivos importantes, ni ningún archivo. No elimina archivos de registro ni interfiere con el funcionamiento normal, salvo por el consumo de recursos del sistema.
+%
+Un gusano informático es un programa que no modifica los archivos existentes: no es un virus informático. Se propaga copiándose y compilándose en cada sistema.
+%
+Un gusano informático se propaga copiándose y compilándose en cada sistema.
+%
+Un gusano informático no modifica otros programas para que realicen su trabajo. Debido a su método de infección, no cuenta con privilegios suficientes para modificar programas.
 %
 Los hackers están interesados en conocer cómo funciona un programa informático. Estos individuos tienen un interés válido para ver el código fuente.
 %
@@ -3222,6 +3242,8 @@ Un gusano informático consiste en dos partes, un programa principal y un progra
 Emplaza un gusano informático en forma de comando ls, y habrá alguien que lo haga correr.
 %
 La seguridad de las contraseñas la provee en gran parte el prohibitivo esfuerzo de intentar todas las combinaciones de caracteres posibles.
+%
+El uso de contraseñas cifradas parece razonablemente seguro en ausencia de una atención seria por parte de expertos en la materia.
 %
 En la medida que los ordenadores se vuelven más poderosos, el costo de intentar todas las combinaciones de caracteres posibles para una contraseña disminuye.
 %
@@ -3484,6 +3506,8 @@ Los fans de Emacs se jactan de cómo han programado su versión de Emacs para te
 Busca un editor de texto que edite texto. No querrás uno para jugar al "Tetris". No querrás uno para evaluar funciones recursivas. Un editor de texto no resolverá tus problemas de amor. Un editor de texto edita texto.
 %
 Un programador interesado puede ingresar a muchas computadoras, de la misma forma en que un ladrón capaz puede irrumpir en muchas casas.
+%
+El acto de ingresar ilegalmente en un sistema informático debe tener el mismo estigma social que entrar en la casa del vecino. No debería importar que la puerta del vecino esté abierta.
 %
 A las memorias MicroSD se las lleva el viento.
 %
@@ -4557,6 +4581,8 @@ En la CPU, la Revolución ha de instrumentarse en código máquina.
 Un mensaje, un programa, o cualquier otra estructura de conocimiento es mucho más que una simple secuencia de caracteres. El Pueblo jamás edita cadenas de caracteres.
 %
 Los sistemas de cómputo de tiempo compartido están obligados a tomar compromisos horribles, pues siguen la delgada línea entre querer que el usuario cuente con la potencia de cómputo absoluta en cada paso de ejecución de un programa, a la vez que éste sólo desea procesar en una parte del tiempo.
+%
+Existe una delgada línea entre ayudar a los SysAdmins a proteger sus sistemas y proporcionar un libro de recetas a los hackers del Tercer Mundo.
 %
 Algunos ingenuos pensaron que la programación orientada a objetos sólo podía incrementar el ancho de banda programador-programa. Hoy no están tan seguros.
 %
@@ -5860,6 +5886,8 @@ La comunicación mediada por ordenador podría otorgar el anhelado vínculo de M
 %
 Al igual que la conmutación de paquetes, las teleconferencias por computadora deben su nacimiento, en parte, a la planificación de una guerra nuclear.
 %
+El estándar de protocolo de red "TCP/IP" del Departamento de Defensa Estadounidense fue concebido en 1979 para implementar una "interred": un grupo de redes - altamente disímiles en confiabilidad y velocidad - conectadas por computadoras que operan como puertas de enlace.
+%
 Si la facilidad de uso y la interfaz fuesen los criterios de validación, el Pueblo se habría limitado a los triciclos, y nunca hubiera probado la moto Puma o el sistema GNU.
 %
 UUCP ofrecía encaminamiento de correo electrónico y también permitía la impresión remota. Sin embargo, la función principal del sistema consistía en distribuir correcciones de errores y software nuevo.
@@ -6623,7 +6651,7 @@ Visita conferencias de hackers para adquirir productos de software libre que ayu
 %
 El código cifrado con llaves digitales en memoria ROM es considerado un valioso secreto por las ciber-oligarquías.
 %
-Aunque resida originalmente en un circuito integrado de sólo lectura, el código ROM es un software de computadora que se puede distribuir en disco o transmitido por las redes de datos.
+Aunque resida originalmente en un circuito integrado de sólo lectura, el código ROM es un software de computadora que puede distribuirse en disco o transmitirse en las redes de datos.
 %
 Realizar una copia por volcado de la memoria ROM de tu dispositivo es un derecho de consumidor legalmente protegido.
 %
@@ -6768,6 +6796,8 @@ La creación tecnológica puede servir para democratizar o para sembrar aún má
 Una hackeresa es multitarea. Para convertirte en una primero has de ser entusiasta y determinada. Concurrentemente, programadora, educadora, socióloga, obrera y soldada. Opcionalmente, ovula.
 %
 No sólo la seguridad, sino también la justicia informática debe divulgarse. Para ello debemos educar, comunicar y adoctrinar a todo aquél que se loguee.
+%
+El diseño de TCP/IP y su implementación en 4.2BSD permiten a usuarios de hosts no confiables y posiblemente muy distantes hacerse pasar por usuarios de hosts confiables.
 %
 No existe sistema de seguridad seguro, puesto que ninguno es secreto. Cuídese de los secretos a medias.
 %
