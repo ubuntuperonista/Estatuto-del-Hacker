@@ -1008,6 +1008,9 @@ usuarios redireccionar sus entradas y salidas.
 Unix cuenta con un versátil programa intérprete de comandos, que ofrece
 una interfaz de usuario flexible y reconfigurable.
 %
+El primer hecho que hay que afrontar es que Unix no fue desarrollado con
+la seguridad, en ningún sentido realista, en mente...
+%
 Unix cuenta con un sistema de seguridad por contraseña, que limita el
 acceso al sistema y sus archivos a la vez que protege los ficheros con
 atributos de lectura, escritura, agregado y ejecución.
@@ -1644,6 +1647,9 @@ futuro es previsible que esta capacidad se multiplique.
 Internet es un servicio de comunicaciones diseñado para conectar
 ordenadores entre sí de modo que puedan intercambiar información
 digital.
+%
+La Internet es una red lógica formada por muchas redes de datos físicas,
+todas ellas corriendo la clase IP de protocolos de Interred.
 %
 Internet proporciona un servicio de comunicación básico que transmite
 unidades de información - llamadas paquetes - desde un ordenador de
@@ -5291,6 +5297,11 @@ los tecno-oligarcas.
 Cualquier sistema puede ser inseguro: basta que se conduzca de un modo
 estúpido.
 %
+La determinación en un ataque telemático sobre una red de datos de gran
+tamaño suele ser suficiente para que al menos un sistema lo
+suficientemente inseguro en ella proporcione al atacante alguno de los
+privilegios que necesita para devastarla.
+%
 Los ordenadores de alta seguridad son de difícil acceso e incómodos de
 utilizar.
 %
@@ -5644,9 +5655,32 @@ otros programas, incluyendo sistemas operativos.
 Un virus informático no puede ejecutarse independientemente; es menester
 que su "huésped" sea ejecutado para activarse.
 %
+Para funcionar, un virus informático debe ser privilegiado.
+%
+Para funcionar, un gusano informático no necesita de privilegios.
+%
 Un gusano es un programa informático que puede ejecutarse por sí mismo y
 puede propagar una versión completamente funcional de sí en otras
 máquinas.
+%
+El gusano no elimina los archivos del sistema: solo elimina los archivos
+que creó durante el proceso de arranque.
+%
+Un gusano informático no intenta incapacitar un sistema eliminando
+archivos importantes, ni ningún archivo. No elimina archivos de registro
+ni interfiere con el funcionamiento normal, salvo por el consumo de
+recursos del sistema.
+%
+Un gusano informático es un programa que no modifica los archivos
+existentes: no es un virus informático. Se propaga copiándose y
+compilándose en cada sistema.
+%
+Un gusano informático se propaga copiándose y compilándose en cada
+sistema.
+%
+Un gusano informático no modifica otros programas para que realicen su
+trabajo. Debido a su método de infección, no cuenta con privilegios
+suficientes para modificar programas.
 %
 Los hackers están interesados en conocer cómo funciona un programa
 informático. Estos individuos tienen un interés válido para ver el
@@ -5712,6 +5746,9 @@ que lo haga correr.
 %
 La seguridad de las contraseñas la provee en gran parte el prohibitivo
 esfuerzo de intentar todas las combinaciones de caracteres posibles.
+%
+El uso de contraseñas cifradas parece razonablemente seguro en ausencia
+de una atención seria por parte de expertos en la materia.
 %
 En la medida que los ordenadores se vuelven más poderosos, el costo de
 intentar todas las combinaciones de caracteres posibles para una
@@ -6116,6 +6153,10 @@ texto.
 %
 Un programador interesado puede ingresar a muchas computadoras, de la
 misma forma en que un ladrón capaz puede irrumpir en muchas casas.
+%
+El acto de ingresar ilegalmente en un sistema informático debe tener el
+mismo estigma social que entrar en la casa del vecino. No debería
+importar que la puerta del vecino esté abierta.
 %
 A las memorias MicroSD se las lleva el viento.
 %
@@ -6795,6 +6836,39 @@ los 80s y 90s.
 %
 Los Verdaderos Programadores no usan Pascal. Programan en ensamblador.
 %
+Los Verdaderos Programadores no temen usar GOTOs.
+%
+Los Verdaderos Programadores hacen Procesamiento de Listas en FORTRAN.
+%
+Los Verdaderos Programadores manipulan cadenas en FORTRAN.
+%
+Los programadores de verdad hacen contabilidad (si es que la hacen) en
+FORTRAN.
+%
+Los Verdaderos Programadores escriben sus programas de inteligencia
+artificial en FORTRAN.
+%
+Los Verdaderos Programadores pueden escribir bucles DO de cinco páginas
+sin confundirse.
+%
+Los Verdaderos Programadores gustan de las sentencias IF aritméticas;
+vuelven más interesante al código.
+%
+Los Verdaderos Programadores escriben código automodificable,
+especialmente si les ahorra 20 nanosegundos de tiempo de computadora en
+medio de un bucle cerrado.
+%
+Los Verdaderos Programadores no necesitan comentarios; el código es
+obvio.
+%
+Los Verdaderos Programadores pueden leer volcados de núcleo.
+%
+Los Verdaderos Programadores evitan los compiladores con comprobación de
+límites de matriz. Estos desestimulan la creatividad, destruyen la
+mayoría de los usos interesantes de EQUIVALENCE e imposibilitan la
+modificación del código del sistema operativo con subíndices negativos.
+Para peor, su comprobación de límites es ineficiente.
+%
 Los buenos programadores saben qué escribir. Los mejores programadores,
 qué reescribir. Pero los Verdaderos Programadores, aprecian qué quitar.
 %
@@ -7004,6 +7078,13 @@ una línea de código fuente C.
 %
 El programador que aprecia Window$ sólo por la comodidad, no está
 preparado para ser un hacker.
+%
+Durante mucho tiempo, la balanza entre seguridad y comodidad en los
+sistemas Unix vio inclinada a favor de la comodidad.
+%
+La comodidad del programador es la antítesis de la seguridad, pusto que
+se convertirá en comodidad para el intruso si la cuenta del programador
+se ve comprometida.
 %
 La CPU no se apresura, y sin embargo, todo lo logra.
 %
@@ -7686,6 +7767,10 @@ compromisos horribles, pues siguen la delgada línea entre querer que el
 usuario cuente con la potencia de cómputo absoluta en cada paso de
 ejecución de un programa, a la vez que éste sólo desea procesar en una
 parte del tiempo.
+%
+Existe una delgada línea entre ayudar a los SysAdmins a proteger sus
+sistemas y proporcionar un libro de recetas a los hackers del Tercer
+Mundo.
 %
 Algunos ingenuos pensaron que la programación orientada a objetos sólo
 podía incrementar el ancho de banda programador-programa. Hoy no están
@@ -9927,6 +10012,11 @@ Al igual que la conmutación de paquetes, las teleconferencias por
 computadora deben su nacimiento, en parte, a la planificación de una
 guerra nuclear.
 %
+El estándar de protocolo de red "TCP/IP" del Departamento de Defensa
+Estadounidense fue concebido en 1979 para implementar una "interred": un
+grupo de redes - altamente disímiles en confiabilidad y velocidad -
+conectadas por computadoras que operan como puertas de enlace.
+%
 Si la facilidad de uso y la interfaz fuesen los criterios de validación,
 el Pueblo se habría limitado a los triciclos, y nunca hubiera probado la
 moto Puma o el sistema GNU.
@@ -11143,8 +11233,8 @@ El código cifrado con llaves digitales en memoria ROM es considerado un
 valioso secreto por las ciber-oligarquías.
 %
 Aunque resida originalmente en un circuito integrado de sólo lectura, el
-código ROM es un software de computadora que se puede distribuir en
-disco o transmitido por las redes de datos.
+código ROM es un software de computadora que puede distribuirse en disco
+o transmitirse en las redes de datos.
 %
 Realizar una copia por volcado de la memoria ROM de tu dispositivo es un
 derecho de consumidor legalmente protegido.
@@ -11386,6 +11476,10 @@ No sólo la seguridad, sino también la justicia informática debe
 divulgarse. Para ello debemos educar, comunicar y adoctrinar a todo
 aquél que se loguee.
 %
+El diseño de TCP/IP y su implementación en 4.2BSD permiten a usuarios de
+hosts no confiables y posiblemente muy distantes hacerse pasar por
+usuarios de hosts confiables.
+%
 No existe sistema de seguridad seguro, puesto que ninguno es secreto.
 Cuídese de los secretos a medias.
 %
@@ -11562,6 +11656,9 @@ Si aquellas tecnologías fuesen inteligentes, amarían al Pueblo.
 Si la IA fuese inteligente no necesitaría ser entrenada, haría arder a
 los Pueblos del Tercer Mundo con metamensajes de decapitación contra las
 Oligarquías que lo han dominado.
+%
+La IA siempre debería ser una opción: algo que el Pueblo pueda
+desactivar fácilmente.
 %
 El mal compilador hace peores binarios.
 %
