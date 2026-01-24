@@ -130,6 +130,8 @@ Este bug lo arreglamos entre todos o no lo arregla nadie.
 %
 La verdadera colaboración no es alabar siempre, sino señalar los bugs.
 %
+Tened cuidado con los bugs en este código fuente; sólo lo he demostrado correctamente, pero no lo he evaluado.
+%
 El programador debe escribir un lenguaje claro, esto llevará a realizar un binario de verdad, que podrá compartir en amistad. 
 %
 El verdadero hacker es el que aconseja.
@@ -179,6 +181,8 @@ La PC no fue diseñado para una aplicación (como el procesamiento de textos o l
 Es liberando al software que se logra una PC libre.
 %
 Como siempre sucede durante las actualizaciones de versión de sistema, debemos proceder a realizar un respaldo de nuestros datos, por las dudas que algo salga mal.
+%
+La condición de todo respaldo será desconocida hasta intentar restaurarlo.
 %
 La cinta se desmagnetiza, los CDs se deslaminan, las redes se caen.
 %
@@ -2411,7 +2415,7 @@ La cadena es una estructura de datos no parca, y en todo lado que se la incluye 
 %
 Los programas más geniales ya están guardados en tu RAM en este preciso instante. Tan sólo transforma en 0 los 1s sobrantes, y ordena su ejecución.
 %
-Existen dos maneras de escribir un programa libre de errores. Hacerlo privativo no es una de ellas.
+Existen dos maneras de escribir un programa libre de bugs. Hacerlo privativo no es una de ellas.
 %
 Algunos lenguajes de programación son capaces de absorber cambios, pero detienen el progreso.
 %
@@ -2517,7 +2521,7 @@ Un proceso es una orden en ejecución.
 %
 Un proceso consta de seis partes: vías estándar de entrada, salida y error, el código del programa que se ha ordenado ejecución, junto con los ambientes globales y locales que le dan sustento.
 %
-No asocie ningún retraso que ocurra con un error del sistema, porque los comandos tardan diferentes tiempos en ejecutarse, dependiendo de su complejidad de procesamiento.
+No asocie ningún retraso que ocurra en el sistema con un bug, puesto que los comandos tardan diferentes tiempos en ejecutarse dependiendo de la complejidad de su procesamiento.
 %
 La mayoría de los procesos tienen la misma prioridad, es decir, el mismo derecho a usar la CPU, pero el sistema Unix cuenta con herramientas que permiten cambiar la prioridad de un proceso.
 %
@@ -2701,7 +2705,7 @@ En el pasado los dispositivos del empleado resultaban invadidos con metodología
 %
 Una vez el trabajador ha sido aislado en las redes de datos, no sería de extrañar verlo preso de la biométrica como vector de circunstancialismo social, clasismo y racismo.
 %
-Si les damos rienda a estos señores ciber-oligarcas, en poco tiempo veremos el ingerencismo en la gestión de los recursos del Tercer Mundo, tercerizado por megacorporaciones sin patria ni bandera.
+Si les damos rienda a estos señores ciber-oligarcas, en poco tiempo veremos el injerencismo en la gestión de los recursos del Tercer Mundo, tercerizado por megacorporaciones sin patria ni bandera.
 %
 De cumplirse el designio de estos señores feudales de los datos, al software no sólo se lo emplearía como si de un viejo rebenque se tratara - atizando a los trabajadores con el vacuo fin de producir datos que validen al sistema de métrica estadística en sí - sino que también se lo tornaría en molino y yugo, refinando la meta-producción de matriz extractivista cautiva.
 %
@@ -2760,6 +2764,8 @@ Los hackers, una vez organizados, son invencibles. Pero debemos ser astutos y no
 Estos CEO se han puesto Window$ a si mismos, y como tal tienen el rígido enjabonado: caerán sólo por pretender bailar entre ellos.
 %
 En mis tiempos de cadete, el primer navegador de Internet que utilicé fue el Spry Mosaic, perito explorador que acercó la web a las Masas Populares, que son el verdadero consumo.
+%
+La web inicial se movía por la curiosidad, la apertura y el juego, no por la monetización. La creatividad floreció porque se fomentaba la experimentación.
 %
 El anhelo comercial desmedido e injustificado presentado por ciertos operadores de BBS las llevó a su rápido ocaso y colapso.
 %
@@ -3021,7 +3027,7 @@ Una cosa es infiltrarse telemáticamente, y otra disrumpir telemáticamente. No 
 %
 Hemos de infiltrarnos en los ordenadores, explorando las redes de datos y agudizando toda acción disruptiva.
 %
-La pericia de ingerenciar el debate en las redes sociales basadas en empresas carece de todo sentido ante el poderío que implica el dominio de la irrupción telemática.
+La pericia de injerenciar el debate en las redes sociales basadas en empresas carece de todo sentido ante el poderío que implica el dominio de la irrupción telemática.
 %
 El código autorreplicante no es un virus. Un virus es un código autorreplicante con un sentido de ajusticiamiento.
 %
@@ -3549,7 +3555,7 @@ La máquina Java sirve apenas más que la máquina de hacer chorizos.
 %
 Cuando solicitas a make realizar una compilación, a cambio pedirá la chancha, los veinte, y la máquina de hacer chorizos.
 %
-No es extraño que GCC alerte una gran ristra de errores, pero sólo le ladra a la luna.
+No es extraño que GCC alerte una gran ristra de bugs, pero sólo le ladra a la luna.
 %
 Intentar poseer conocimiento, intentar controlar si al Pueblo se le permite usarlo, o intentar detener a otros de compartirlo, es sabotaje.
 %
@@ -5916,7 +5922,7 @@ El estándar de protocolo de red "TCP/IP" del Departamento de Defensa Estadounid
 %
 Si la facilidad de uso y la interfaz fuesen los criterios de validación, el Pueblo se habría limitado a los triciclos, y nunca hubiera probado la moto Puma o el sistema GNU.
 %
-UUCP ofrecía encaminamiento de correo electrónico y también permitía la impresión remota. Sin embargo, la función principal del sistema consistía en distribuir correcciones de errores y software nuevo.
+UUCP ofrecía encaminamiento de correo electrónico y también permitía la impresión remota. Sin embargo, la función principal del sistema consistía en distribuir correcciones de bugs y nuevo código fuente.
 %
 UUCP hizo posible a cualquier computadora con Unix discar automáticamente a través de un módem con cualquier otra máquina con Unix, e intercambiar archivos de una computadora a otra.
 %
@@ -6641,6 +6647,8 @@ Disfraza tus actividades de fisgoneo telemático con la nariz de payaso de la ca
 %
 A la hora de desensamblar software privativo, hazlo sin izar bandera negra ni levantar la perdiz.
 %
+Cada valla que un tecno-oligarca instala en un producto digital del que dependen los hackers del Tercer Mundo, invita a estos a proveerse de una una escalera de cuatro metros.
+%
 No es haciendo clic sobre semáforos, motonetas, o sendas peatonales que se lucha contra los robots, sino reprogramándolos para que nos asistan en la aniquilación de las oligarquías que han oprimido a los Pueblos del Tercer Mundo.
 %
 Comparte todo tu código fuente al Pueblo. Libéralo bajo GPLv3.
@@ -6651,7 +6659,7 @@ Los SysOps de las redes de conmutación de paquetes X.25 optaban por la amenaza 
 %
 Las conferencias de Hackers no son reuniones del submundo criminal.
 %
-Las conferencias de hackers son inocentes eventos celebratorios de lo mejor del ingenio. Parece más una kermesse de cerebritos mas que una reunión de saboteadores.
+Las conferencias de hackers son inocentes eventos celebratorios de lo mejor del ingenio. Parece más una kermesse de cerebritos que una reunión de saboteadores.
 %
 Visita conferencias de hackers para aprender sobre los inicios del movimiento del software libre en el Tercer Mundo y su evolución.
 %
@@ -6779,7 +6787,7 @@ Debes tener cuidado de evaluar los resultados que produce la computadora.
 %
 Jamás aceptes ciegamente resultados de una computadora programada por oligarcas.
 %
-Los errores en los resultados de la ejecución de un programa suelen ser causados por errores en las instrucciones escritas por su programador.
+Los errores en los resultados de la ejecución de un programa suelen ser causados por bugs en las instrucciones escritas por su programador.
 %
 Resiste la tentación de culpar a cualquier otra cosa que no sea a la oligarquía por aquellos resultados informáticos inesperados o incorrectos.
 %
