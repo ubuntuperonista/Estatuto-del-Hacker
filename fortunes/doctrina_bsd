@@ -190,6 +190,9 @@ Este bug lo arreglamos entre todos o no lo arregla nadie.
 %
 La verdadera colaboración no es alabar siempre, sino señalar los bugs.
 %
+Tened cuidado con los bugs en este código fuente; sólo lo he demostrado
+correctamente, pero no lo he evaluado.
+%
 El programador debe escribir un lenguaje claro, esto llevará a realizar
 un binario de verdad, que podrá compartir en amistad.
 %
@@ -262,6 +265,9 @@ Es liberando al software que se logra una PC libre.
 Como siempre sucede durante las actualizaciones de versión de sistema,
 debemos proceder a realizar un respaldo de nuestros datos, por las dudas
 que algo salga mal.
+%
+La condición de todo respaldo será desconocida hasta intentar
+restaurarlo.
 %
 La cinta se desmagnetiza, los CDs se deslaminan, las redes se caen.
 %
@@ -2153,7 +2159,7 @@ El códec de video Theora fue diseñado como un códec de video libre no
 encumbrado por patentes ni restricciones de licenciamiento.
 %
 La brillantez técnica del códec de video Theora no sólo permite tasas de
-supercompresión, sino que respeta la liberta de sus usuarios.
+supercompresión, sino que respeta la libertad de sus usuarios.
 %
 Recurre con confianza al formato de video WebM (con códec de video VP8 o
 VP9), puesto que no se encuentra encumbrado por patentes de software
@@ -2943,6 +2949,10 @@ La primer etapa contra estos facinerosos que pagan por software ajeno se
 ha hecho sola: todos se preguntan ya cuán protegida está su información,
 y qué tipo de prácticas de seguridad informática llevan adelante en sus
 empresas e instituciones.
+%
+Comprender el cifrado, cómo los atacantes encuentran y explotan
+vulnerabilidades y cómo funciona la búsqueda real de CVE es fundamental
+en la seguridad informática.
 %
 Los datos son considerados ahora una forma de propiedad "intelectual",
 aunque la lógica de las ideas es incompatible con la lógica de lo
@@ -3834,6 +3844,8 @@ El mal no existe en el hacking, sino en aquellas actividades
 desorganizadas e indisciplinadas que corresponden al uso del cómputo por
 el Capital.
 %
+El Hacking no es un pasatiempo, sino una forma de vida.
+%
 Una vez que el kernel bootea, milagros son posibles.
 %
 Los verdaderos hackers invierten más tiempo en la organización,
@@ -4335,7 +4347,7 @@ Los programas más geniales ya están guardados en tu RAM en este preciso
 instante. Tan sólo transforma en 0 los 1s sobrantes, y ordena su
 ejecución.
 %
-Existen dos maneras de escribir un programa libre de errores. Hacerlo
+Existen dos maneras de escribir un programa libre de bugs. Hacerlo
 privativo no es una de ellas.
 %
 Algunos lenguajes de programación son capaces de absorber cambios, pero
@@ -4484,9 +4496,9 @@ Un proceso consta de seis partes: vías estándar de entrada, salida y
 error, el código del programa que se ha ordenado ejecución, junto con
 los ambientes globales y locales que le dan sustento.
 %
-No asocie ningún retraso que ocurra con un error del sistema, porque los
-comandos tardan diferentes tiempos en ejecutarse, dependiendo de su
-complejidad de procesamiento.
+No asocie ningún retraso que ocurra en el sistema con un bug, puesto que
+los comandos tardan diferentes tiempos en ejecutarse dependiendo de la
+complejidad de su procesamiento.
 %
 La mayoría de los procesos tienen la misma prioridad, es decir, el mismo
 derecho a usar la CPU, pero el sistema Unix cuenta con herramientas que
@@ -4833,7 +4845,7 @@ extrañar verlo preso de la biométrica como vector de circunstancialismo
 social, clasismo y racismo.
 %
 Si les damos rienda a estos señores ciber-oligarcas, en poco tiempo
-veremos el ingerencismo en la gestión de los recursos del Tercer Mundo,
+veremos el injerencismo en la gestión de los recursos del Tercer Mundo,
 tercerizado por megacorporaciones sin patria ni bandera.
 %
 De cumplirse el designio de estos señores feudales de los datos, al
@@ -4945,6 +4957,10 @@ enjabonado: caerán sólo por pretender bailar entre ellos.
 En mis tiempos de cadete, el primer navegador de Internet que utilicé
 fue el Spry Mosaic, perito explorador que acercó la web a las Masas
 Populares, que son el verdadero consumo.
+%
+La web inicial se movía por la curiosidad, la apertura y el juego, no
+por la monetización. La creatividad floreció porque se fomentaba la
+experimentación.
 %
 El anhelo comercial desmedido e injustificado presentado por ciertos
 operadores de BBS las llevó a su rápido ocaso y colapso.
@@ -5375,7 +5391,7 @@ Movimiento.
 Hemos de infiltrarnos en los ordenadores, explorando las redes de datos
 y agudizando toda acción disruptiva.
 %
-La pericia de ingerenciar el debate en las redes sociales basadas en
+La pericia de injerenciar el debate en las redes sociales basadas en
 empresas carece de todo sentido ante el poderío que implica el dominio
 de la irrupción telemática.
 %
@@ -5724,17 +5740,18 @@ No insista en la entrada interactiva.
 Diseñe y cree software - incluso sistemas operativos - para probarlos
 pronto, idealmente en cuestión de semanas.
 %
-No dude en descartar las trozos de código fuente torpemente escrito y
-recompilarlo.
+Jamás dude en descartar trozos de código fuente torpemente escrito y
+recompilar.
 %
 Utilice herramientas en lugar de ayuda no cualificada para simplificar
 una tarea de programación, incluso si tiene que desviarse para crear las
 herramientas, y prepárese para desechar algunas de ellas después de
 terminar de usarlas.
 %
-El más grande desafío a la seguridad en los ambientes multitarea y
-multiusuario es obvio e imposible de resolver: muchos servicios constan
-de ficheros de comandos y configuración propiedad de un único usuario.
+El mayor desafío a la seguridad en los ambientes informáticos multitarea
+y multiusuario es obvio y de imposible solución: muchos servicios
+constan de ficheros de comandos y configuración propiedad de un único
+usuario.
 %
 La seguridad del sistema multiusuaria se hace entre todas.
 %
@@ -5793,8 +5810,9 @@ realizarse a corto plazo.
 Cada /home debe ser una Unidad Básica Secreta, y cada hacker, jefe y
 vigía de GNU.
 %
-Es necesario que se perfeccionen en alto grado los Clústers clandestinos
-para enfrentar los trabajos que se avecina en la lucha telemática.
+Es necesario que se perfeccionen en alto grado los clústers de cómputo
+clandestinos para enfrentar los trabajos que se avecinan en la lucha
+telemática.
 %
 En la lucha telemática que se avecina, los usuarios tendrán el peso de
 la acción más importante.
@@ -6016,6 +6034,13 @@ identificables. Para ello no necesita salir al balcón.
 %
 Sigue desatornillando hasta que se abra.
 %
+Detecta una restricción, encuentra una solución alternativa.
+%
+Amplia los límites, observa qué falla.
+%
+Cada programa se basa en uno anterior, y cada uno revela un poco más
+sobre lo que un lenguaje de programación puede hacer realmente.
+%
 El número mágico se usa en los sistemas Unix para identificar el tipo de
 fichero.
 %
@@ -6215,8 +6240,8 @@ La máquina Java sirve apenas más que la máquina de hacer chorizos.
 Cuando solicitas a make realizar una compilación, a cambio pedirá la
 chancha, los veinte, y la máquina de hacer chorizos.
 %
-No es extraño que GCC alerte una gran ristra de errores, pero sólo le
-ladra a la luna.
+No es extraño que GCC alerte una gran ristra de bugs, pero sólo le ladra
+a la luna.
 %
 Intentar poseer conocimiento, intentar controlar si al Pueblo se le
 permite usarlo, o intentar detener a otros de compartirlo, es sabotaje.
@@ -6388,6 +6413,333 @@ donaciones y vender directamente a los fans.
 Necesitamos luchar por la libertad de compartir, porque las
 megacorporaciones de derechos de autor que se benefician de dividir al
 Pueblo jamás cederán este poder voluntariamente.
+%
+A medida que las computadoras se transforman en parte de la vida diaria,
+procesan cada vez más información.
+%
+Los datos contenidos en su equipo, algunos de ellos confidenciales, se
+almacenan en un dispositivo denominado disco duro. Antes de eliminar,
+vender o transferir el equipo, es necesario eliminar dichos datos.
+%
+La transferencia de su equipo a otra persona sin la eliminación previa
+del software cargado, como los sistemas operativos y los programas de
+software, puede ser considerada una violación a los Acuerdos de
+licencia.
+%
+La mayoría de los métodos provistos con los sistemas operativos
+privativos - como enviar los datos a la papelera de reciclaje y luego
+vaciarla, utilizar el comando eliminar, o formatear el disco duro
+mediante el software integrado a estos - no eliminan los datos, tan sólo
+cambian la ubicación de los ficheros de datos.
+%
+Muchas veces aunque parezcan perdidso, los datos continúan allí.
+%
+A veces es posible leer los datos de un disco duro que un usuario de
+sistema operativo privativo creyó eliminar, mediante un software de
+recuperación específico.
+%
+Si conecta su sistema a la red de datos, existe el riesgo de que
+personas de mala fe lean y hagan un mal uso de los datos importantes de
+sus discos duros con fines malintencionados.
+%
+Para prevenir la filtración de los datos de sus discos, es muy
+importante que se encargue de eliminar todos los datos antes de vender,
+transferir o deshacerse de su equipo.
+%
+Puede destruir los datos si golpea el disco duro con un martillo o
+utiliza un imán de gran potencia, lo que provoca que los datos ya no
+puedan ser leídos.
+%
+Si la computadora cuenta con una unidad óptica, no toque la superficie
+de un disco ni la lente de la bandeja.
+%
+Aguarde hasta oír un clic del CD o del DVD en el eje central de la
+unidad óptica antes de cerrar la bandeja.
+%
+No elimine ficheros que no conoce ni cambie el nombre de ficheros o
+directorios que usted no haya creado; de lo contrario, es posible que el
+software de la computadora no funcione.
+%
+Tenga presente que acceder a recursos de red puede hacer que la
+computadora sea vulnerable a los virus, piratas informáticos, spyware y
+otras actividades maliciosas que podrían dañar la computadora, el
+software o los datos.
+%
+Es su responsabilidad garantizar que cuenta con protección adecuada en
+forma de cortafuegos, software antivirus y software antispyware, así
+como mantener dicho software actualizado.
+%
+De vez en cuando, verifique la capacidad de la unidad de disco duro. Si
+la unidad de disco duro se encuentra demasiado llena, el sistema
+operativo funciona con mayor lentitud y pueden producirse errores.
+%
+Al menos una vez a la semana, tenga por norma hacer una copia de
+seguridad de sus datos. Si tiene datos fundamentales, es bueno realizar
+una copia de seguridad diaria.
+%
+Actualice los controladores de dispositivos y el BIOS cuando sea
+necesario.
+%
+Lleve un libro de incidencias de su sistema de cómputo. Las entradas
+pueden incluir importantes cambios de hardware o software,
+actualizaciones de controladores, problemas menores que haya
+experimentado y cómo los ha resuelto.
+%
+Inspeccione con frecuencia la computadora y sus componentes para
+detectar daños o signos de peligro. Si tiene alguna duda con respecto a
+la condición de un componente, no use el producto.
+%
+Mantenga la computadora lejos de imanes, teléfonos celulares activados,
+electrodomésticos o altavoces (a más de 13 cm).
+%
+Evite que la computadora se someta a temperaturas extremas (menos de 5
+°C o más de 35 °C).
+%
+Conecte su computadora a tierra para facilitar una descarga
+electrostática segura.
+%
+Algunos aparatos, como determinados ventiladores portátiles de
+escritorio o purificadores de aire, pueden producir iones negativos. Si
+hay una computadora cerca de esos aparatos y está expuesta durante un
+período prolongado al aire que contiene iones negativos, puede cargarse
+electrostáticamente.
+%
+Inspeccione que los cables de suministro de energía, enchufes,
+adaptadores de potencia, cables de extensión, protectores contra
+sobrevoltaje o suministros de energía que usa su computadora no estén
+quebrados, rotos o dañados.
+%
+Inspeccione que su sistema de cómputo no tenga signos de
+recalentamiento, humo, chispas o fuego.
+%
+Inspeccione que su sistema de cómputo no emita sonidos de crujido,
+silbidos o estallido, ni fuertes olores al encenderlo.
+%
+Algunas partes de la computadora pueden ser actualizadas o reemplazadas
+por el propietario, si éste es torpe. Si es hábil, podrá reemplazar y
+actualizar todas las partes.
+%
+Las piezas de repuesto que se permite que instale el cliente se
+denominan Unidades que pueden ser Reemplazadas por el Cliente, o CRU.
+Las piezas de repuesto que deben ser instaladas por un técnico
+domiciliario se denominan Unidades que pueden ser Reemplazadas en el
+Campo, o FRU.
+%
+Los cables de suministro de energía para su computadora deben estar
+homologados de manera segura.
+%
+Nunca enrolle el cable de suministro de energía alrededor de un
+adaptador de energía o de ningún otro objeto. Si lo hace, puede
+tensionar el cable y provocar que este se deshilache, se raje, o se
+doble. Esto puede representar un peligro para la seguridad.
+%
+Acomode siempre los cables de suministro de energía o los demás cables
+de tal manera que no los pise, tropiece con ellos ni que los aplasten
+otros objetos.
+%
+Proteja los cables de suministro de energía y los adaptadores de
+potencia de los líquidos.
+%
+No deje el cable de suministro de energía o el adaptador de potencia
+cerca de piletas, bañeras, inodoros, o en pisos que se limpian con
+limpiadores líquidos.
+%
+Los líquidos pueden provocar un cortocircuito, en particular si el cable
+de suministro de energía o el adaptador de potencia se han tensionado
+por un uso indebido.
+%
+Los líquidos pueden provocar la corrosión gradual de los terminales del
+cable de suministro de energía y/o los terminales del conector en un
+adaptador de potencia que, a la larga, puede tener como consecuencia el
+recalentamiento.
+%
+Conecte siempre los cables de suministro de energía y los cables de
+señal en el orden correcto.
+%
+Asegúrese de que todos los conectores del cable de suministro de energía
+estén bien enchufados y de manera segura en los receptáculos.
+%
+No utilice ningún adaptador de potencia que presente corrosión en los
+pines de entrada de Corriente Alterna, ni muestre signos de
+recalentamiento (como plástico deformado) en la entrada de CA o en
+cualquier lugar del adaptador de potencia.
+%
+No utilice ningún cable de suministro de energía donde los contactos
+eléctricos de cualquiera de los extremos presenten signos de corrosión o
+de recalentamiento, o si el cable de suministro de energía parece haber
+sido dañado de alguna forma.
+%
+Asegúrese de que los cables de extensión, los protectores contra
+sobrevoltaje, los sistemas de alimentación ininterrumpida, y los
+enchufes múltiples que utilice estén calificados para manejar los
+requisitos eléctricos de su sistema de cómputo.
+%
+Si se utilizan enchufes múltiples, la carga no debe exceder su
+especificación de potencia de entrada.
+%
+Asegúrese de que la salida de energía proporciona el voltaje y la
+corriente adecuados para el producto que instala. Al hacerlo, conecte y
+desconecte con cuidado el equipo del tomacorriente.
+%
+Nunca sobrecargue un tomacorriente eléctrico. La carga general del
+sistema no debe exceder el 80 por ciento de la potencia del circuito
+derivado.
+%
+Si tiene dudas sobre cargas de energía, requisitos de energía y
+potencias de entrada, consulte a un electricista matriculado para
+obtener más información.
+%
+No comparta un tomacorriente con otros electrodomésticos o artefactos
+comerciales que consuman mucha electricidad; de lo contrario, la
+inestabilidad del voltaje podría dañar la computadora, los datos o los
+dispositivos conectados.
+%
+No conecte ni desconecte ningún cable de dispositivos externos que no
+sean cables USB y 1394 mientras la computadora está encendida; de lo
+contrario, puede dañarla.
+%
+Para evitar un posible daño a los dispositivos conectados, espere al
+menos cinco segundos después de apagar la computadora para desconectar
+los dispositivos externos.
+%
+No use la computadora durante una tormenta eléctrica.
+%
+No conecte ni desconecte ningún cable ni realice una instalación,
+mantenimiento o reconfiguración de su computadora durante una tormenta
+eléctrica.
+%
+Conecte todos los cables de suministro de energía de la computadora a un
+tomacorriente conectado de forma adecuada y con puesta a tierra.
+%
+Conecte a tomacorrientes conectados adecuadamente todo equipo que se
+anexe a su computadora.
+%
+Cuando pueda, utilice sólo una mano para conectar o desconectar los
+cables de señal de la computadora.
+%
+Nunca intente abrir o reparar una batería si no cuenta con los
+conocimientos necesarios para hacerlo.
+%
+No aplaste, perfore, ni incinere baterías ni provoque cortocircuitos en
+los contactos metálicos.
+%
+No exponga la batería al agua o a otros líquidos.
+%
+Sólo recargue la batería siguiendo estrictamente las instrucciones que
+se incluyen en la documentación de la misma.
+%
+No utilice baterías que no incluyan documentación.
+%
+El abuso o el mal manejo de la batería puede provocar el recalentamiento
+de esta, provocando escape de gases o llamas de la batería.
+%
+Si la batería está dañada, o si observa alguna descarga de esta o la
+acumulación de materiales extraños en los conductores de las baterías,
+no la utilice.
+%
+Las baterías pueden degradarse cuando no se utilizan durante períodos
+prolongados.
+%
+Algunas baterías recargables (en particular las de iones de litio),
+podría aumentar el riesgo de cortocircuito, si las deja sin usar en
+estado de descarga, lo que podría disminuir la vida útil de la batería y
+presentar un riesgo de seguridad.
+%
+No deje que las baterías recargables de iones de litio se descarguen por
+completo ni las guarde en estado de descarga.
+%
+Reemplace la batería únicamente por un tipo que recomendado por el
+fabricante.
+%
+Mantenga la batería lejos del fuego.
+%
+No exponga la batería al agua o la lluvia.
+%
+No intente desarmar la batería.
+%
+No provoque un cortocircuito en la batería.
+%
+Mantenga la batería fuera del alcance de los niños.
+%
+No deje caer la batería.
+%
+No deseche la batería en la basura que se arroja en los basureros.
+Cuando se deshaga de la batería, cumpla con las ordenanzas o
+regulaciones locales.
+%
+Si desea guardar la batería por separado, colóquela en un ambiente seco
+a una temperatura entre 10 y 35 °C y manténgala alejada de la luz solar
+directa.
+%
+Para prolongar la vida útil de la batería, se recomienda cargarla
+aproximadamente entre el 30% y el 50% de su capacidad y volver a
+cargarla cada tres meses a fin de evitar que se sobredescargue.
+%
+Las computadoras, los adaptadores de Corriente Alterna y muchos
+accesorios pueden generar calor cuando se encienden y cuando se cargan
+las baterías.
+%
+Las computadoras portátiles pueden generar una importante cantidad de
+calor debido a su tamaño compacto.
+%
+El equipo genera calor durante el funcionamiento normal. El nivel de
+calor depende del nivel de la actividad del sistema.
+%
+No trabaje con la computadora ni cargue la batería cerca de materiales
+inflamables o en entornos explosivos.
+%
+La computadora viene con ranuras de ventilación, ventiladores y
+disipadores de calor por razones de seguridad, comodidad y
+funcionamiento confiable. No restrinja ni bloquee ninguna abertura de
+ventilación.
+%
+Inspeccione con regularidad la parte exterior de la computadora para
+detectar acumulación de polvo.
+%
+Quite el polvo de los conductos de ventilación y de las ranuras de
+ventilación. Es posible que las computadoras que se encuentran en áreas
+con mucho polvo o mucho tránsito necesiten limpieza con más frecuencia.
+%
+Nunca utilice un adaptador de Corriente Alterna para calentarse si tiene
+frío. El contacto prolongado con algunas partes del cuerpo, incluso a
+través de la ropa, puede causar quemaduras en la piel.
+%
+Las temperaturas de flujo de aire de la computadora no deben superar los
+35 °C.
+%
+Algunos modelos de computadoras personales están equipados de fábrica
+con una unidad óptica de CD o DVD.
+%
+Si la computadora cuenta con una unidad óptica, no toque la superficie
+de un disco ni la lente de la bandeja.
+%
+Las unidades ópticas de CD y DVD también se venden por separado como
+opciones.
+%
+Las unidades de CD y DVD hacen girar los discos ópticos a gran
+velocidad. Si un CD o DVD está roto o dañado, es posible que se quiebre
+o hasta se destroce cuando la unidad de CD está en uso.
+%
+Siempre guarde los discos ópticos en su estuche original.
+%
+Siempre guarde los discos ópticos alejados de la luz solar directa y de
+fuentes de calor directo.
+%
+Extraiga los discos ópticos de la computadora cuando no los utilice.
+%
+No doble ni flexione los discos ópticos ni ejerza fuerza para
+introducirlos en la computadora o en el estuche.
+%
+Verifique que los discos ópticos no estén rayados antes de usarlos. No
+utilice discos rayados o dañados.
+%
+No quite las tapas de una unidad óptica en funcionamiento. Podría
+provocar una exposición a radiación láser peligrosa. Evite la exposición
+directa al rayo láser.
+%
+Ciertas unidades ópticas incorporan un diodo de láser de Clase 3A o de
+Clase 3B: no mire fijamente el rayo, no lo examine directamente con
+instrumentos ópticos.
 %
 La shell no concede nada sin una órden.
 %
@@ -7676,6 +8028,9 @@ Patria 1, Colonia 0.
 %
 Si el software se paga con dinero público, su código debe ser público.
 %
+Vive, aprende, disfruta y comparte el código. Haz de nuestro mundo un
+lugar mejor para vivir.
+%
 En Unix, una Imagen es un ambiente de la ejecución computarizada.
 incluye un espejado de contenido de memoria, valores de registros,
 estado de ficheros abiertos, directorio actual de trabajo, y la alegría
@@ -7983,6 +8338,9 @@ El primer nombre código para el sistema operativo TENEX fue VIROS
 %
 Depurar un programa introduciendo cambios pequeños inconexos con la
 esperanza que el bug desaparezca, no suele ser pródigo en resultados.
+%
+El código base que los usuarios pueden revisar es menor que el código
+base que realmente se ejecuta. Tal brecha sigue creciendo.
 %
 Si te sobran centímetros de cinta magnética, rellénala con tarballs de
 programas libres que ni siquiera conoces.
@@ -10023,7 +10381,7 @@ moto Puma o el sistema GNU.
 %
 UUCP ofrecía encaminamiento de correo electrónico y también permitía la
 impresión remota. Sin embargo, la función principal del sistema
-consistía en distribuir correcciones de errores y software nuevo.
+consistía en distribuir correcciones de bugs y nuevo código fuente.
 %
 UUCP hizo posible a cualquier computadora con Unix discar
 automáticamente a través de un módem con cualquier otra máquina con
@@ -11176,6 +11534,10 @@ de la caída del sistema.
 A la hora de desensamblar software privativo, hazlo sin izar bandera
 negra ni levantar la perdiz.
 %
+Cada valla que un tecno-oligarca instala en un producto digital del que
+dependen los hackers del Tercer Mundo, invita a estos a proveerse de una
+una escalera de cuatro metros.
+%
 No es haciendo clic sobre semáforos, motonetas, o sendas peatonales que
 se lucha contra los robots, sino reprogramándolos para que nos asistan
 en la aniquilación de las oligarquías que han oprimido a los Pueblos del
@@ -11192,8 +11554,8 @@ egipcio para disuadir las irrupciones telemáticas.
 Las conferencias de Hackers no son reuniones del submundo criminal.
 %
 Las conferencias de hackers son inocentes eventos celebratorios de lo
-mejor del ingenio. Parece más una kermesse de cerebritos mas que una
-reunión de saboteadores.
+mejor del ingenio. Parece más una kermesse de cerebritos que una reunión
+de saboteadores.
 %
 Visita conferencias de hackers para aprender sobre los inicios del
 movimiento del software libre en el Tercer Mundo y su evolución.
@@ -11400,7 +11762,7 @@ Jamás aceptes ciegamente resultados de una computadora programada por
 oligarcas.
 %
 Los errores en los resultados de la ejecución de un programa suelen ser
-causados por errores en las instrucciones escritas por su programador.
+causados por bugs en las instrucciones escritas por su programador.
 %
 Resiste la tentación de culpar a cualquier otra cosa que no sea a la
 oligarquía por aquellos resultados informáticos inesperados o
@@ -12464,102 +12826,108 @@ eliminar los procesos de las ciber-oligarquías.
 %
 Nosotros, los arquitectos y administradores de las plataformas
 digitales, reconocemos los derechos fundamentales de todos los usuarios
-a participar en espacios en línea que respeten su privacidad, dignidad y
-bienestar.
+a participar en espacios en línea Justos, que respeten su privacidad,
+dignidad y bienestar.
 %
-Promueve plataformas digitales donde sólo se recopilen los datos
-necesarios para las funciones básicas. Las plataformas deben justificar
-la necesidad de cada punto de datos recopilado.
+Promueve aquellas plataformas digitales donde sólo se recopilen los
+datos necesarios para las funciones básicas. Las plataformas deben
+justificar la necesidad de cada punto de datos recopilado.
 %
-Promueve plataformas digitales donde los usuarios deban dar su
+Promueve aquellas plataformas digitales cuyos usuarios deban prestar
 consentimiento informado antes de que se recopilen, almacenen o
 compartan datos personales con terceros. El consentimiento debe
 otorgarse libremente, de forma específica y revocable.
 %
-Promueve plataformas digitales donde las funciones y actualizaciones de
-la plataforma se desarrollen teniendo en cuenta la privacidad del
-usuario de forma predeterminada, lo que evita la exposición innecesaria
-de datos.
+Promueve aquellas plataformas digitales donde las funciones y
+actualizaciones de la plataforma se desarrollen teniendo en cuenta la
+privacidad del usuario de forma predeterminada, y se evite la exposición
+innecesaria de datos.
 %
-Promueve plataformas digitales donde los usuarios no sean monitoreados
-ni rastreados en secreto a través de Internet. Cualquier forma de
+Promueve aquellas plataformas digitales cuyos usuarios no sean sometidos
+a monitoreo ni rastreo secreto a través de Internet. Cualquier forma de
 seguimiento debe ser explícitamente revelada y consentida.
 %
-Promueve plataformas digitales donde, de utilizarse análisis o
-seguimiento (para seguridad, prevención de spam o depuración), se los
-documente de manera transparente y su alcance sea limitado.
+Promueve aquellas plataformas digitales donde - provisto que se
+utilizace análisis o seguimiento para seguridad, prevención de spam o
+depuración - estos sean documentados de manera transparente y su alcance
+sea limitado.
 %
-Promueve plataformas digitales donde los usuarios puedan fácilmente
-ajustar la configuración de visibilidad de sus perfiles y contenido para
-administrar su propia privacidad.
+Promueve aquellas plataformas digitales cuyos usuarios puedan ajustar la
+configuración de visibilidad de sus perfiles, y administrar fácilmente
+por sí mismos su propia privacidad.
 %
-Promueve plataformas digitales donde las políticas de uso prohíban
-explícitamente discursos de odio, el acoso y la violencia dirigida, con
-acciones de moderación rápidas y transparentes.
+Promueve aquellas plataformas digitales cuyas políticas de uso prohíban
+explícitamente discursos de odio, el acoso y la violencia dirigida,
+reprimiéndolas con acciones de moderación rápidas y transparentes.
 %
-Promueve plataformas digitales donde un sistema simple y accesible
-permita a los usuarios marcar contenido dañino para su revisión.
+Promueve aquellas plataformas digitales donde un sistema simple y
+accesible permita a los usuarios marcar para su revisión contenido que
+consideren dañino.
 %
 Promueve plataformas digitales donde se publiquen definiciones claras y
 ejemplos de contenido dañino, a fin que los usuarios comprendan qué está
 permitido y qué no.
 %
-Promueve plataformas digitales donde existan equipos de moderación
-capacitados para reconocer y abordar contenido que se dirija a personas
-de etnicidad, género, orientación sexual, discapacidad, religión u otras
-identidades marginadas.
+Promueve aquellas plataformas digitales donde existan equipos de
+moderación capacitados en antimarginación, para reconocer y abordar
+contenido direccionado a etnicidades, géneros, orientaciones sexuales,
+religiones u otras identidades.
 %
-Promueve plataformas digitales donde las reglas y los protocolos de
-aplicación tengan en cuenta vulnerabilidades superpuestas que amplifican
+Promueve aquellas plataformas digitales cuyas reglas y los protocolos de
+aplicación tomen en cuenta vulnerabilidades superpuestas que amplifican
 los impactos nocivos de abuso telemático.
 %
-Promueve plataformas digitales donde existen canales dedicados para que
-los usuarios se comuniquen rápidamente si se sienten amenazados o
+Promueve aquellas plataformas digitales cuyos usuarios cuenten con
+canales dedicados para informar rápidamente si se sienten amenazados o
 inseguros en ellas.
 %
-Promueve plataformas digitales donde los usuarios tienen derecho a
+Promueve aquellas plataformas digitales cuyos usuarios tengan derecho a
 descargar o exportar sus datos en cualquier momento, en un formato
 común.
 %
-Promueve plataformas digitales donde los datos de un usuario puedan
-eliminarse permanentemente de la plataforma a demanda, sujeto a
+Promueve aquellas plataformas digitales cuyos usuarios puedan eliminar
+permanentemente a demanda sus datos de la plataforma, sujeto a
 excepciones legales o de seguridad.
 %
-Promueve plataformas digitales donde - siempre que sea posible - admitan
-protocolos y estándares abiertos, a fin de permitir a los usuarios la
-libertad de migrar y conectarse entre diferentes servicios.
+Promueve aquellas plataformas digitales donde - siempre que sea posible
+- se admitan protocolos y estándares abiertos, a fin de consentir a los
+usuarios la libertad de migrar y conectarse entre diferentes servicios.
 %
-Promueve plataformas digitales donde las políticas y procedimientos de
-gobernanza de la plataforma son abiertos, con consultas y supervisión
-periódicas de la comunidad.
+Promueve aquellas plataformas digitales cuyas políticas y procedimientos
+de gobernanza en la plataforma sean abiertos, con consulta y supervisión
+de carácter periódico a la comunidad.
 %
-Promueve plataformas digitales donde los cambios en las políticas o la
-tecnología de la plataforma se hacen públicos, y las partes interesadas
-pueden comentar o proponer modificaciones.
+Promueve aquellas plataformas digitales donde los cambios en las
+políticas o la tecnología de la plataforma se hagan públicos, y las
+partes interesadas pueden comentar o proponer modificaciones.
 %
-Promueve plataformas digitales donde un organismo o un grupo asesor
-imparcial puede auditar o revisar las prácticas de moderación y manejo
-de datos para garantizar que cumplan con altos estándares éticos.
+Promueve aquellas plataformas digitales donde un organismo o un grupo
+asesor imparcial pueda revisar o auditar las prácticas de moderación y
+manejo de datos a fin de garantizar que cumplan con altos estándares
+éticos.
 %
-Promueve plataformas digitales donde existen herramientas robustas que
-permiten a los usuarios protegerse de contenido perturbador o dañino
-mediante advertencias de contenido y listas de filtros.
+Promueve aquellas plataformas digitales donde existan herramientas
+robustas que permitan a los usuarios - mediante advertencias de
+contenido y lista de filtros - escudarse contra el contenido perturbador
+o dañino.
 %
-Promueve plataformas digitales donde esta comparte recursos y líneas
-directas de apoyo a la salud mental para fomentar un entorno en línea
-más saludable.
+Promueve aquellas plataformas digitales donde, con el fin de fomentar un
+entorno en línea más saludable, se compartan recursos y líneas directas
+de asistencia a la salud mental.
 %
-Promueve plataformas digitales donde medidas proactivas - como los
-límites de velocidad y la fricción reflexiva - contrarrestan patrones de
-uso adictivos, el spam y el abuso.
+Promueve aquellas plataformas digitales donde medidas proactivas tales
+limitaciones progresivas de velocidad de transmisión junto a la fricción
+reflexiva - contrarrestan patrones de uso enfermizo o adictivo, el spam
+y el abuso.
 %
-Promueve plataformas digitales donde - de seleccionarse un feed o
-resultados de búsqueda de forma algorítmica - los usuarios cuenten con
-explicaciones comprensibles de los factores clave de clasificación.
+Promueve aquellas plataformas digitales donde - de seleccionarse un feed
+o resultados de búsqueda de forma algorítmica - los usuarios cuenten con
+explicaciones comprensibles acerca de los factores de clasificación
+utilizados.
 %
-Promueve plataformas digitales donde - si no desean participar en las
-recomendaciones algorítmicas - los usuarios puedan seleccionar un feed
-cronológico u otra presentación simplificada.
+Promueve aquellas plataformas digitales donde - de no desear participar
+en las recomendaciones algorítmicas - los usuarios puedan escoger un
+feed cronológico u otra presentación simplificada.
 %
 Promueve plataformas digitales donde auditorías periódicas garanticen
 que los algoritmos no supriman o amplifiquen desproporcionadamente el
@@ -12568,26 +12936,26 @@ contenido en función de características protegidas.
 Promueve plataformas digitales donde las reglas y el liderazgo de la
 comunidad deban reflejar voces y experiencias diversas.
 %
-Promueve aquellas plataformas digitales donde sus políticas clave, guías
-de ayuda y pautas de moderación se encuentren publicadas en varios
+Promueve aquellas plataformas digitales donde cuyas políticas clave,
+guías de ayuda y pautas de moderación se encuentren publicadas en varios
 idiomas, según lo permitan los recursos.
 %
 Promueve aquellas plataformas digitales donde se anima a sus usuarios a
 debatir políticas que se amolden a su continua evolución.
 %
-Promueve aquellas plataformas digitales donde su Declaración de
-Derechos, así como las políticas y las estrategias de implementación
-sean revisadas y actualizadas periódicamente para adaptarse a panoramas
-sociales y tecnológicos cambiantes.
+Promueve aquellas plataformas digitales cuya Declaración de Derechos,
+así como las Políticas y Estrategias de Implementación se revisen y
+actualicen periódicamente para adaptarse a panoramas sociales y
+tecnológicos cambiantes.
 %
 Promueve aquellas plataformas digitales donde existan mecanismos para
-que los usuarios envíen comentarios, sugerencias o inquietudes, lo que
-garantiza que la plataforma siga respondiendo a su comunidad.
+que los usuarios cursen comentarios, sugerencias o inquietudes,
+garantizando que la plataforma continúe respondiendo a su comunidad.
 %
 Promueve aquellas plataformas digitales donde todos los participantes
 (usuarios, encargados del mantenimiento y colaboradores externos)
 compartan la responsabilidad de defender principios éticos que
-garanticen la privacidad, la dignidad y la equidad en línea.
+garantizan la privacidad, la dignidad y la equidad en línea.
 %
 Irrespeta la tecnología de la oligarquía.
 %
@@ -12632,8 +13000,8 @@ No me importa para qué fue diseñado. Me importa lo que los Pueblos
 pueden hacer de él.
 %
 Cuando la mesa temblequea puedes poner un papelito doblado bajo una
-pata, o bien patearla hasta dejarla dejarla patas para arriba. Ninguna
-solución equivale a ponerle un plato lleno encima.
+pata, o bien patearla hasta dejarla patas para arriba. Ninguna solución
+equivale a ponerle un plato lleno encima.
 %
 Bajo las condiciones adecuadas, una comunidad hará lo que quiera con lo
 que tiene.
@@ -12641,8 +13009,8 @@ que tiene.
 Un tecnólogo verdaderamente desobediente nunca está contento con una
 caja negra.
 %
-La caja negra existe para ser abierta y manipulada, o para un propósito
-que no se encuentra en el manual.
+Toda caja negra existe para ser abierta y manipulada, o bien para un
+propósito que no se describe en el manual.
 %
 Los hackers son los seres que son capaces de ver a través de los objetos
 opacos.
