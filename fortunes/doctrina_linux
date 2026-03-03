@@ -3281,7 +3281,7 @@ Sin software publicado bajo GPLv3, la Liberación Digital no podrá realizarse a
 %
 Cada /home debe ser una Unidad Básica Secreta, y cada hacker, jefe y vigía de GNU.
 %
-Es necesario que se perfeccionen en alto grado los Clústers clandestinos para enfrentar los trabajos que se avecina en la lucha telemática.
+Es necesario que se perfeccionen en alto grado los clústers de cómputo clandestinos para enfrentar los trabajos que se avecinan en la lucha telemática.
 %
 En la lucha telemática que se avecina, los usuarios tendrán el peso de la acción más importante. 
 %
@@ -3656,6 +3656,195 @@ Las obras que realizan un trabajo incluyen al software, recetas, obras educativa
 Existen maneras de apoyar a los artistas sin restringir la libertad de compartir. Para muchos artistas musicales ya es adecuado solicitar donaciones y vender directamente a los fans.
 %
 Necesitamos luchar por la libertad de compartir, porque las megacorporaciones de derechos de autor que se benefician de dividir al Pueblo jamás cederán este poder voluntariamente.
+%
+A medida que las computadoras se transforman en parte de la vida diaria, procesan cada vez más información.
+%
+Los datos contenidos en su equipo, algunos de ellos confidenciales, se almacenan en un dispositivo denominado disco duro. Antes de eliminar, vender o transferir el equipo, es necesario eliminar dichos datos.
+%
+La transferencia de su equipo a otra persona sin la eliminación previa del software cargado, como los sistemas operativos y los programas de software, puede ser considerada una violación a los Acuerdos de licencia.
+%
+La mayoría de los métodos provistos con los sistemas operativos privativos - como enviar los datos a la papelera de reciclaje y luego vaciarla, utilizar el comando eliminar, o formatear el disco duro mediante el software integrado a estos - no eliminan los datos, tan sólo cambian la ubicación de los ficheros de datos.
+%
+Muchas veces aunque parezcan perdidso, los datos continúan allí.
+%
+A veces es posible leer los datos de un disco duro que un usuario de sistema operativo privativo creyó eliminar, mediante un software de recuperación específico.
+%
+Si conecta su sistema a la red de datos, existe el riesgo de que personas de mala fe lean y hagan un mal uso de los datos importantes de sus discos duros con fines malintencionados.
+%
+Para prevenir la filtración de los datos de sus discos, es muy importante que se encargue de eliminar todos los datos antes de vender, transferir o deshacerse de su equipo.
+%
+Puede destruir los datos si golpea el disco duro con un martillo o utiliza un imán de gran potencia, lo que provoca que los datos ya no puedan ser leídos.
+%
+Si la computadora cuenta con una unidad óptica, no toque la superficie de un disco ni la lente de la bandeja.
+%
+Aguarde hasta oír un clic del CD o del DVD en el eje central de la unidad óptica antes de cerrar la bandeja.
+%
+No elimine ficheros que no conoce ni cambie el nombre de ficheros o directorios que usted no haya creado; de lo contrario, es posible que el software de la computadora no funcione.
+%
+Tenga presente que acceder a recursos de red puede hacer que la computadora sea vulnerable a los virus, piratas informáticos, spyware y otras actividades maliciosas que podrían dañar la computadora, el software o los datos.
+%
+Es su responsabilidad garantizar que cuenta con protección adecuada en
+forma de cortafuegos, software antivirus y software antispyware, así como mantener dicho software actualizado.
+%
+De vez en cuando, verifique la capacidad de la unidad de disco duro. Si la unidad de disco duro se encuentra demasiado llena, el sistema operativo funciona con mayor lentitud y pueden producirse errores.
+%
+Al menos una vez a la semana, tenga por norma hacer una copia de seguridad de sus datos. Si tiene datos fundamentales, es bueno realizar una copia de seguridad diaria.
+%
+Actualice los controladores de dispositivos y el BIOS cuando sea necesario.
+%
+Lleve un libro de incidencias de su sistema de cómputo. Las entradas pueden incluir importantes cambios de hardware o software, actualizaciones de controladores, problemas menores que haya experimentado y cómo los ha resuelto.
+%
+Inspeccione con frecuencia la computadora y sus componentes para detectar daños o signos de peligro. Si tiene alguna duda con respecto a la condición de un componente, no use el producto.
+%
+Mantenga la computadora lejos de imanes, teléfonos celulares activados,
+electrodomésticos o altavoces (a más de 13 cm).
+%
+Evite que la computadora se someta a temperaturas extremas (menos de
+5 °C o más de 35 °C).
+%
+Conecte su computadora a tierra para facilitar una descarga electrostática segura.
+%
+Algunos aparatos, como determinados ventiladores portátiles de escritorio o purificadores de aire, pueden producir iones negativos. Si hay una computadora cerca de esos aparatos y está expuesta durante un período prolongado al aire que contiene iones negativos, puede cargarse electrostáticamente.
+%
+Inspeccione que los cables de suministro de energía, enchufes, adaptadores de potencia, cables de extensión, protectores contra sobrevoltaje o suministros de energía que usa su computadora no estén quebrados, rotos o dañados.
+%
+Inspeccione que su sistema de cómputo no tenga signos de recalentamiento, humo, chispas o fuego.
+%
+Inspeccione que su sistema de cómputo no emita sonidos de crujido, silbidos o estallido, ni fuertes olores al encenderlo.
+%
+Algunas partes de la computadora pueden ser actualizadas o reemplazadas por el propietario, si éste es torpe. Si es hábil, podrá reemplazar y actualizar todas las partes.
+%
+Las piezas de repuesto que se permite que instale el cliente se denominan Unidades que pueden ser Reemplazadas por el Cliente, o CRU. Las piezas de repuesto que deben ser instaladas por un técnico domiciliario se denominan Unidades que pueden ser Reemplazadas en el Campo, o FRU.
+%
+Los cables de suministro de energía para su computadora deben estar homologados de manera segura.
+%
+Nunca enrolle el cable de suministro de energía alrededor de un adaptador de energía o de ningún otro objeto. Si lo hace, puede tensionar el cable y provocar que este se deshilache, se raje, o se doble. Esto puede representar un peligro para la seguridad.
+%
+Acomode siempre los cables de suministro de energía o los demás cables de tal manera que no los pise, tropiece con ellos ni que los aplasten otros objetos.
+%
+Proteja los cables de suministro de energía y los adaptadores de potencia de los líquidos.
+%
+No deje el cable de suministro de energía o el adaptador de potencia cerca de piletas, bañeras, inodoros, o en pisos que se limpian con limpiadores líquidos.
+%
+Los líquidos pueden provocar un cortocircuito, en particular si el cable de suministro de energía o el adaptador de potencia se han tensionado por un uso indebido.
+%
+Los líquidos pueden provocar la corrosión gradual de los terminales del cable de suministro de energía y/o los terminales del conector en un adaptador de potencia que, a la larga, puede tener como consecuencia el recalentamiento.
+%
+Conecte siempre los cables de suministro de energía y los cables de señal en el orden correcto.
+%
+Asegúrese de que todos los conectores del cable de suministro de energía estén bien enchufados y de manera segura en los receptáculos.
+%
+No utilice ningún adaptador de potencia que presente corrosión en los pines de entrada de Corriente Alterna, ni muestre signos de recalentamiento (como plástico deformado) en la entrada de CA o en cualquier lugar del adaptador de potencia.
+%
+No utilice ningún cable de suministro de energía donde los contactos eléctricos de cualquiera de los extremos presenten signos de corrosión o de recalentamiento, o si el cable de suministro de energía parece haber sido dañado de alguna forma.
+%
+Asegúrese de que los cables de extensión, los protectores contra sobrevoltaje, los sistemas de alimentación ininterrumpida, y los enchufes múltiples que utilice estén calificados para manejar los requisitos eléctricos de su sistema de cómputo.
+%
+Si se utilizan enchufes múltiples, la carga no debe exceder su especificación de potencia de entrada.
+%
+Asegúrese de que la salida de energía proporciona el voltaje y la corriente adecuados para el producto que instala. Al hacerlo, conecte y desconecte con cuidado el equipo del tomacorriente.
+%
+Nunca sobrecargue un tomacorriente eléctrico. La carga general del sistema no debe exceder el 80 por ciento de la potencia del circuito derivado.
+%
+Si tiene dudas sobre cargas de energía, requisitos de energía y potencias de entrada, consulte a un electricista matriculado para obtener más información.
+%
+No comparta un tomacorriente con otros electrodomésticos o artefactos comerciales que consuman mucha electricidad; de lo contrario, la inestabilidad del voltaje podría dañar la computadora, los datos o los dispositivos conectados.
+%
+No conecte ni desconecte ningún cable de dispositivos externos que no sean cables USB y 1394 mientras la computadora está encendida; de lo contrario, puede dañarla.
+%
+Para evitar un posible daño a los dispositivos conectados, espere al menos cinco segundos después de apagar la computadora para desconectar los dispositivos externos.
+%
+No use la computadora durante una tormenta eléctrica.
+%
+No conecte ni desconecte ningún cable ni realice una instalación, mantenimiento o reconfiguración de su computadora durante una tormenta eléctrica.
+%
+Conecte todos los cables de suministro de energía de la computadora a un tomacorriente conectado de forma adecuada y con puesta a tierra.
+%
+Conecte a tomacorrientes conectados adecuadamente todo equipo que se
+anexe a su computadora.
+%
+Cuando pueda, utilice sólo una mano para conectar o desconectar los
+cables de señal de la computadora.
+%
+Nunca intente abrir o reparar una batería si no cuenta con los conocimientos necesarios para hacerlo.
+%
+No aplaste, perfore, ni incinere baterías ni provoque cortocircuitos en los contactos metálicos.
+%
+No exponga la batería al agua o a otros líquidos.
+%
+Sólo recargue la batería siguiendo estrictamente las instrucciones que se incluyen en la documentación de la misma. 
+%
+No utilice baterías que no incluyan documentación.
+%
+El abuso o el mal manejo de la batería puede provocar el recalentamiento de esta, provocando escape de gases o llamas de la batería.
+%
+Si la batería está dañada, o si observa alguna descarga de esta o la acumulación de materiales extraños en los conductores de las baterías, no la utilice.
+%
+Las baterías pueden degradarse cuando no se utilizan durante períodos prolongados.
+%
+Algunas baterías recargables (en particular las de iones de litio), podría aumentar el riesgo de cortocircuito, si las deja sin usar en estado de descarga, lo que podría disminuir la vida útil de la batería y presentar un riesgo de seguridad.
+%
+No deje que las baterías recargables de iones de litio se descarguen por completo ni las guarde en estado de descarga.
+%
+Reemplace la batería únicamente por un tipo que recomendado por el fabricante.
+%
+Mantenga la batería lejos del fuego.
+%
+No exponga la batería al agua o la lluvia.
+%
+No intente desarmar la batería.
+%
+No provoque un cortocircuito en la batería.
+%
+Mantenga la batería fuera del alcance de los niños.
+%
+No deje caer la batería.
+%
+No deseche la batería en la basura que se arroja en los basureros. Cuando se deshaga de la batería, cumpla con las ordenanzas o regulaciones locales.
+%
+Si desea guardar la batería por separado, colóquela en un ambiente seco a una temperatura entre 10 y 35 °C y manténgala alejada de la luz solar directa.
+%
+Para prolongar la vida útil de la batería, se recomienda cargarla aproximadamente entre el 30% y el 50% de su capacidad y volver a cargarla cada tres meses a fin de evitar que se sobredescargue.
+%
+Las computadoras, los adaptadores de Corriente Alterna y muchos accesorios pueden generar calor cuando se encienden y cuando se cargan las baterías.
+%
+Las computadoras portátiles pueden generar una importante cantidad de calor debido a su tamaño compacto.
+%
+El equipo genera calor durante el funcionamiento normal. El nivel de calor depende del nivel de la actividad del sistema.
+%
+No trabaje con la computadora ni cargue la batería cerca de materiales inflamables o en entornos explosivos.
+%
+La computadora viene con ranuras de ventilación, ventiladores y disipadores de calor por razones de seguridad, comodidad y funcionamiento confiable. No restrinja ni bloquee ninguna abertura de ventilación.
+%
+Inspeccione con regularidad la parte exterior de la computadora para detectar acumulación de polvo.
+%
+Quite el polvo de los conductos de ventilación y de las ranuras de ventilación. Es posible que las computadoras que se encuentran en áreas con mucho polvo o mucho tránsito necesiten limpieza con más frecuencia.
+%
+Nunca utilice un adaptador de Corriente Alterna para calentarse si tiene frío. El contacto prolongado con algunas partes del cuerpo, incluso a través de la ropa, puede causar quemaduras en la piel.
+%
+Las temperaturas de flujo de aire de la computadora no deben superar los 35 °C.
+%
+Algunos modelos de computadoras personales están equipados de fábrica con una unidad óptica de CD o DVD.
+%
+Si la computadora cuenta con una unidad óptica, no toque la superficie de un disco ni la lente de la bandeja.
+%
+Las unidades ópticas de CD y DVD también se venden por separado como opciones.
+%
+Las unidades de CD y DVD hacen girar los discos ópticos a gran velocidad. Si un CD o DVD está roto o dañado, es posible que se quiebre o hasta se destroce cuando la unidad de CD está en uso.
+%
+Siempre guarde los discos ópticos en su estuche original.
+%
+Siempre guarde los discos ópticos alejados de la luz solar directa y de fuentes de calor directo.
+%
+Extraiga los discos ópticos de la computadora cuando no los utilice.
+%
+No doble ni flexione los discos ópticos ni ejerza fuerza para introducirlos en la computadora o en el estuche.
+%
+Verifique que los discos ópticos no estén rayados antes de usarlos. No utilice discos rayados o dañados.
+%
+No quite las tapas de una unidad óptica en funcionamiento. Podría provocar una exposición a radiación láser peligrosa. Evite la exposición directa al rayo láser.
+%
+Ciertas unidades ópticas incorporan un diodo de láser de Clase 3A o de Clase 3B: no mire fijamente el rayo, no lo examine directamente con instrumentos ópticos.
 %
 La shell no concede nada sin una órden.
 %
