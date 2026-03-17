@@ -1006,7 +1006,7 @@ son visibles y evidentes para los trabajadores.
 Unix permite múltiples tareas y múltiples usuarios en sus sistemas de
 archivaje, tanto en disco duro como flexible.
 %
-Unix permite múltiples directorios y subdirectorios jerárquicos.
+Unix permite jerarquía de múltiples directorios y subdirectorios.
 %
 Unix cuenta con Entrada/Salida compatibilizada, lo que permite a sus
 usuarios redireccionar sus entradas y salidas.
@@ -1029,6 +1029,61 @@ velocidad.
 Unix dispone de ejecución de tareas y servicios de usuarios residente en
 memoria libre de intercambio, por medio de veloz conmutación contextual
 de banco de memoria.
+%
+El sistema operativo Unix es uno con multiprocesos, similar a otros
+sistemas operativos de minicomputadoras o mainframes. Pero el sistema
+Unix también es un fenómeno.
+%
+El sistema Unix alcanzó su auge no por una campaña corporativa, sino
+gracias al entusiasmo de sus usuarios.
+%
+Diseñado por un pequeño grupo de personas para su propio uso, Unix se ha
+convertido - casi sin esfuerzo convencional de márketing - tal vez en es
+sistema operativo más ampliamente utilizado por ordenadores de rango
+intermedio.
+%
+El sistema GNU incluye un amplio conjunto de herramientas de desarrollo
+de software, muchas de las cuales también pueden aplicarse a la
+implementación de distintas formas de Lucha para la Liberación del
+Tercer Mundo.
+%
+Las herramientas de programación provistas con GNU pueden utilizarse en
+combinación para afrontar la resolución de una gran cantidad de
+problemas, sin necesidad de programación convencional.
+%
+El sistema GNU cuenta con un diseño elegante, intelectualmente atractivo
+y satisfactorio de usar; muchos usuarios experimentados dirían que
+incluso es divertido.
+%
+Es difícil capturar la esencia de su elegancia, pero reside en la
+potencia que emana de la simplicidad, más que de la complejidad.
+%
+En lugar de la larga lista de características semiindependientes -y en
+ocasiones contradictorias- que caracterizan a muchos sistemas
+operativos, el sistema GNU ofrece un número relativamente pequeño de
+funcionalidades fundamentales, pero universales.
+%
+GNU logra su generalidad eliminando restricciones en lugar de añadir
+opciones.
+%
+En palabras de uno de sus diseñadores, Unix es un sistema simple y
+coherente que lleva al límite algunas buenas ideas y modelos.
+%
+Los usuarios de Unix pueden conectar sencillos mecanismos para crear
+potentes herramientas que satisfagan sus necesidades o reflejen sus
+preferencias.
+%
+En resumen, el sistema GNU probablemente fomenta el software
+reutilizable con mayor eficacia que cualquier otro sistema operativo
+comercial.
+%
+Es sumamente dificultoso encontrar un usuario que comprenda
+profundamente el sistema GNU y que, además, elija voluntariamente otro
+sistema operativo comercial.
+%
+Los usuarios del sistema GNU han cambiado desde que se diseñó, al igual
+que los problemas a los que se ha aplicado. Pero el hardware en el que
+se ejecuta ha cambiado aún más drásticamente.
 %
 Entubar el uso de herramientas disímiles es lo que torna a un sistema
 Unix poderoso. Esto es lo adecuado y también lo justo.
@@ -5364,6 +5419,130 @@ espionaje internacional.
 %
 Los neófitos atribuyen todo fallo del software a algún virus. La
 realidad de su causa es la opacidad del código privativo.
+%
+Jamás hackees maliciosamente un sistema.
+%
+No borres ni modifiques archivos ajenos innecesariamente, ni ralentices
+o bloquees intencionadamente un sistema. La única excepción a esta regla
+es la modificación de los registros del sistema y las pistas de
+auditoría para ocultar los rastros de tus huellas.
+%
+No des tu nombre ni tu número telefónico real a NADIE, no importa quién
+sea. Algunos de los hackers más famosos se han convertido en informantes
+porque los han descubierto, y te delatarán si les das la oportunidad.
+%
+Se dice que uno de cada tres hackers es un agente federal, y aunque esto
+es una exageración, úsalo como regla y no tendrás problemas. Reúnete con
+ellos en un bucle, alianza, cartelera electrónica o sistema de chat,
+pero no des tu número telefónico.
+%
+Mantente alejado de las computadoras del gobierno. Descubrirás muy
+pronto que intentar hackear una instalación militar es prácticamente
+imposible y te arrestarán antes de que puedas decir "¡mierda!".
+%
+El Gran Hermano tiene recursos infinitos y todo el tiempo que necesita
+para darte caza.
+%
+Los c0dez son una forma de pseudo-phreaking que no tiene nada que ver
+con la exploración de las redes telefónicas, que es de lo que trata el
+phreaking.
+%
+Si eres demasiado perezoso para practicar el phreaking o ser ingenioso,
+entonces olvídate del phreaking.
+%
+¡Jamás uses c0dez desde tu propia casa! Punto. Es lo más increíblemente
+patético que he visto en mi vida en el mundo clandestino; un abuso
+increíble de c0dez, que ha sido la perdición de muchísimas personas.
+%
+La mayoría de las PBX/950/800 tienen ANI, y usarlos te llevará a la
+atrapado, sin duda. Y las tarjetas telefónicas son una idea aún peor.
+%
+No incrimines a otros phreakers, por mucho que los odies.
+%
+Denunciar a otros phreakers por una disputa es una pésima manera de
+resolver las cosas; dales una paliza, córtales el teléfono/la luz/el
+agua, lo que sea, pero no delates. Al final, se volverá en tu contra.
+%
+Ten cuidado con lo que publicas en línea. Como regla general, no
+publiques cuentas ni c0dez en redes abiertas. Dejarán de servir en
+cuestión de días y perderás tu nuevo tesoro.
+%
+Publicar números de tarjetas de crédito ajenas en las redes de datos es
+un delito penal, y hacerlo con los propios es una idea muy estúpida.
+%
+No compres artículos con una tarjeta de crédito ajena. Esto es incluso
+peor que usar c0dez; las probabilidades de que te atrapen son muy altas.
+%
+Si por alguna razón tienes que usar c0dez, usa los tuyos y nada más.
+%
+Jamás uses un c0de que veas en una cartelera electrónica, porque lo más
+probable es que ya se haya usado indebidamente y esté siendo
+monitoreado.
+%
+Siéntete libre de hacer preguntas, pero con sensatez.
+%
+Los habitantes de las redes no siempre estarán dispuestos a compartir
+cuentas raras, y si este es el caso, no te sorprendas.
+%
+Como regla general, formula preguntas técnicas. Intenta aprender todo lo
+que puedas mediante la experiencia práctica.
+%
+Sé precavido. Cuida tu backdoor.
+%
+Usa PGP para cifrar tus archivos, guarda tus notas/impresiones en
+secreto.
+%
+Haz lo que sea necesario para disminuir tu estancia en el mundo de los
+teléfonos móviles.
+%
+Si te atrapan, no digas NADA a las autoridades. Niégate a hablar con
+ellas sin la presencia de un abogado.
+%
+Si la policía llega a tu domicilio para ejecutar una orden de registro,
+léela cuidadosamente; es tu derecho. Averigua qué pueden y qué no pueden
+hacer, y si no pueden hacer algo, asegúrate de que no lo hagan.
+%
+Si es posible, no intentes hackear tu propia línea telefónica. Empalma
+la línea de tu vecino, llama desde un Fortress Fone, hackea una caja de
+conexiones, lo que sea... si hackeas durante el tiempo suficiente, es
+probable que algún día te rastreen o te registren en la base de datos
+ANI.
+%
+No asumas que estás completamente a salvo en redes de conmutación de
+paquetes; lleva tiempo, pero si analizan tu punto de acceso local,
+podrán rastrearte.
+%
+Dificulta al máximo el rastreo a los demás.
+%
+Al llamar a un punto de acceso telefónico, trampolinea tu llamada en
+varios números de marcación saliente, intentando pasar por al menos dos
+compañías telefónicas diferentes.
+%
+Cuando te encuentres en una red de conmutación de paquetes o en una red
+de área local o amplia, intenta rebotar la llamada en varios PADs o a
+través de otras redes antes de arribar a tu destino.
+%
+Cuanto más puentees tu enlace, más papeleo para el investigador y más
+fácil te será escapar sin dejar rastro.
+%
+Intenta no permanecer demasiado tiempo en ningún sistema y alterna tus
+horas y fechas de logueo.
+%
+¡No guardes notas escritas! Mantén toda la información en la
+computadora, cifrada con PGP u otro programa de cifrado de estándar
+militar. Las notas escritas solo te incriminarán en un tribunal.
+%
+Si tomas nota de algo, pásalo a un fichero digital, cífralo, y tritura
+el papel lo antes posible... en pedacitos pequeños es mejor, o mejor
+aún, ¡quémalo!
+%
+Las autoridades también recaban desperdicios, y si te deshaces de tus
+notas completas en la basura, terminarán en sus manos y las usarán en tu
+contra.
+%
+Algunos piensan que es mejor irrumpir telemáticamente durante el día (o
+cuando el usuario normalmente use su cuenta) para no despertar sospechas
+del SysAdmin. Otros creen lo contrario.
 %
 La ética hacker no implica que no se requiera cerrojos en los
 ordenadores.
@@ -10332,6 +10511,13 @@ El uso del Pubnix coevoluciona con el sistema Unix.
 %
 El sistema es el Pueblo.
 %
+El sistema GNU es roca sólida.
+%
+El sistema GNU es, sin duda, uno de los grandes hitos en la historia de
+la informática. Sus puntos fuertes son sustanciales e innegables. No
+tiene fallos fatales. Sus deficiencias - que son en gran medida
+vestigios históricos - están desapareciendo.
+%
 GNU y Unix son - con suerte - sistemas informáticos. Tal vez ni primos
 lejanos.
 %
@@ -10539,6 +10725,10 @@ Los usuarios no necesitan ciber-oligarcas.
 Colgarse es humano. Rebootear es maquinal.
 %
 GNU revoluciona la CPU.
+%
+Estrictamente hablando, el núcleo es el sistema operativo Unix; el
+intérprete de comandos y las utilidades son programas comunes sin
+privilegios especiales.
 %
 Hurd será lo que deba ser, o no será nada.
 %
