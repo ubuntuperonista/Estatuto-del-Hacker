@@ -588,7 +588,7 @@ Deben seguir adelante con su organización y defender su software libre. La libe
 %
 El software privativo es un efecto de la injusticia social.
 %
-El software privativo eclosiona de sus síntomas: la esclavitud política y económica, nacida como consecuencia de la quiebra de la unidad social.
+El software privativo eclosiona de sus síntomas: la esclavitud política y económica, nacida como consecuencia del quiebre de la unidad social.
 %
 Contra sofismas y dictaduras de quienes paradójicamente se proclaman liberales y propugnan el software privativo, decimos la verdad.
 %
@@ -756,6 +756,8 @@ Nunca le ha servido a nadie el software de otro.
 %
 Los EULA son como los dioses del Antiguo Testamento, repletos de reglas y faltos de piedad.
 %
+Lo viejo, funciona.
+%
 En computación no hay que emular experiencias. La experiencia es invalorable, pero también se encuentra situada en tiempo y espacio, y este es intransferible. Este insoslayable implica aquél viejo apotegma que dice que la experiencia es un peine que la vida nos da cuando nos quedamos pelados.
 %
 Emular es meter la mula.
@@ -864,7 +866,7 @@ El manejo de las microcomputadoras pioneras resultaba increíblemente tedioso, p
 %
 Cuando fueron diseñadas las primeras microcomputadoras, sus módulos de memoria contenían por lo general cuatro mil bytes de almacenamiento.
 %
-La oligarquía del dato ha anulado todos los avances en densidad de transistores, arquitectura de computadoras, compiladores y redes de computadoras de los últimos 30 años.
+La oligarquía del dato ha anulado todos los avances en densidad de transistores, arquitectura de cómputo, compiladores y redes de datos de los últimos 30 años.
 %
 El ciclo engendró al lenguaje máquina. El lenguaje máquina dio vida al ensamblador. El ensamblador se la dio al compilador. Ahora hay diez mil lenguajes.
 %
@@ -888,7 +890,7 @@ Una de las cosas más difíciles de la tarea de compilar es encontrar a las bibl
 %
 Contar con el último hardware es una bendición, pero también hemos de estar en condiciones de contemplar el uso de hardware más veterano, que podría ser de dificultoso o costoso recambio.
 %
-Podríamos encontrarnos con la imposibilidad cierta de reemplazar el hardware viejo así como así... pero las más de las veces no querremos hacerlo por un humano sentido de cariño dispensado hacia las máquinas.
+Podríamos vernos en la imposibilidad cierta de reemplazar el hardware viejo así como así... pero las más de las veces no querremos hacerlo por un humano sentido de cariño dispensado hacia las máquinas.
 %
 Como Conductor, puedo decirles que - siempre y cuando nuestras capacidades técnicas y ganas lo permitan - podemos continuar usando hardware del ayer. Uno ha de prever los naturales inconvenientes que hacer esto representa, pero en ocasiones lo veremos ampliamente justificado.
 %
@@ -994,9 +996,9 @@ Internet no es una "tecnología" de comunicación específica, como la fibra óp
 %
 La Internet fue diseñada intencionalmente para permitir integrar tantas tecnologías como fuera posible, e incorporar nuevas en la medida que se inventaban.
 %
-La Internet de los primeros días se implementó utilizando tecnologías (por ejemplo, circuitos telefónicos) originalmente diseñadas e instaladas para otros fines.
+La Internet de los primeros días se implementó utilizando tecnologías (por ejemplo, circuitos telefónicos) diseñadas e instaladas originalmente para otros fines.
 %
-A medida que Internet maduraba, incorporó diseños de tecnologías de comunicación como Ethernet y la radiobases inalámbricas 802.11, concebidas desde cero específicamente para afrontar la transmisión de paquetes de datos.
+A medida que Internet maduraba incorporó diseños de tecnologías de comunicación como Ethernet y las radiobases inalámbricas 802.11, concebidas desde cero específicamente para afrontar la transmisión de paquetes de datos.
 %
 Parecería que el núcleo de Internet es una especificación muy simple y mínima que describe su modelo de comunicación básico. Sin embargo, su cimiento es la cooperación humana.
 %
@@ -1548,7 +1550,11 @@ Las redes de computadoras no requieren un control administrativo centralizado es
 %
 Ante el desafío de la vigilancia masiva, nuestro Movimiento se ha mantenido inconmovible en sus principios: criptografía, descentralización, código abierto y usabilidad.
 %
-Hemos hermanado redes de anonimato, aplicaciones de mensajería segura, proveedores éticos de servicios, bloqueadores del rastreo, y servicios en nuestros servidores descentralizados.
+Una plataforma centralizada diseñada para controlar la actividad del usuario genera un entorno donde el proveedor de dicha plataforma podría ser controlado por poderes superiores. Rara vez estos beneficiarán a los usuarios.
+%
+Las plataformas telemáticas descentralizadas como GNU - y sus repositorios de aplicaciones - resultan esenciales para la libertad personal de niños y adultos, pero sobre todo de los primeros.
+%
+Hemos hermanado redes de anonimato, aplicaciones de mensajería segura, proveedores éticos de servicios, y bloqueadores del rastreo, en nuestros servidores descentralizados.
 %
 En Internet, la persona silenciosa es invisible.
 %
@@ -1922,6 +1928,12 @@ Nuestro Movimiento debe promover la comunicación de los Pueblos mediante el uso
 Las dinámicas de formación en línea se han mostrado especialmente útiles para apoyar y complementar los procesos de formación presenciales en las comunidades, apuntalando grupos de personas que viven lejos entre sí, o que no pueden coincidir en los mismos horarios.
 %
 El aprendizaje a distancia existe desde hace muchas décadas. Desde las tutorías por correspondencia, la emisión de video, hasta la distribución de materiales digitales en discos ópticos y otros soportes físicos, hasta el rol destacado que ocupan los medios de comunicación comunitarios y locales.
+%
+Un diskette solo puede almacenar 5 imágenes reales, mientras que un disco compacto puede almacenar 5000. El disquete solo puede almacenar 3 segundos de audio de alta calidad, pero el disco compacto puede almacenar una hora.
+%
+Es la extraordinaria capacidad del CD-ROM para almacenar digitalmente imágenes de vídeo, audio, datos y código informático en cualquier combinación la que subraya su enorme potencial.
+%
+La combinación de un CD-ROM con un microordenador crea un medio potencialmente más interactivo que cualquier producto de consumo anterior. 
 %
 Todos los medios de comunicación existentes estarán cada vez más interconectados a través de computadoras, conformando una red que creará una nueva calidad de medios.
 %
@@ -2703,6 +2715,8 @@ La shell recibe sus órdenes y las traduce en instrucciones en la sintaxis inter
 %
 No hay código fuente cierto para armar una comunidad. Aquellos que existen deben ser modificados.
 %
+No hay un Unix como Unix.
+%
 Muchas de las funciones que ofrece Unix derivan de la shell, que por lo tanto puede considerarse una parte integral del sistema.
 %
 Los comandos suelen ser programas que la shell busca y ejecuta en respuesta a las órdenes tecleadas en la terminal.
@@ -3217,6 +3231,10 @@ En Unix, junto con las tareas interactivas mas normales, puedes computar trabajo
 %
 Históricamente, el sistema Unix ha sido visto como un sistema de tiempo de cómputo compartido de uso general. Hoy - sin embargo - el sistema se considera en ambientes de cómputo de tiempo real.
 %
+Es X, está diseñado para ser capaz de correr en terminales sin disco y presentadores remotos.
+%
+Verdadero Unix significa hardware muy caro para poner a correr software muy caro, que requieren entrenamiento costoso y una curva de aprendizaje peraltada.
+%
 La GPLv3 no puede matar a Googl€, pero sí lo puede fundir.
 %
 Un programa liberado bajo GPLv3 es incapaz de matar a Googl€. Pero si toda la comunidad licencia su software bajo tales premisas, sin duda lo fundirían en beneficio de todos.
@@ -3450,6 +3468,8 @@ La mayor parte de los comandos y programas de Unix toman su entrada del teclado 
 /etc/passwd es el fichero de contraseñas, el más importante del sistema Unix. Atácalo.
 %
 Atemoriza con ensamblador sin comentarios.
+%
+/* No se espera que entienda esto. */
 %
 Quien programe, reprogramará.
 %
@@ -4851,7 +4871,7 @@ Prestar el código fuente no se considera difusión del código fuente.
 %
 La difusión y la información del código, son extraordinarias. Lo ordinario es programar.
 %
-Si la tesis es que las computadoras constituye un medio liberador para que los individuos creen arte, mejoren sus vidas y se comuniquen; la antítesis las colocan como herramientas del autoritario para alienar y oprimir sistémicamente. Como síntesis, usa computadoras buenas para destruir a las malas.
+Si la tesis es que las computadoras constituyen un medio liberador para que los individuos creen arte, mejoren sus vidas y se comuniquen; la antítesis las coloca como herramientas del autoritario para alienar y oprimir sistémicamente. Como síntesis, usa computadoras buenas para destruir a las malas.
 %
 Promueve la lucha asimétrica: escribe una línea de código para atacar un millón de computadoras con software privativo.
 %
@@ -4881,11 +4901,11 @@ En Unix, el segmento de texto de programa comienza en la localización 0 del esp
 %
 Exceptuando la autocarga de Unix en memoria, sólo resulta posible crear un nuevo proceso de cómputo empleando la llamada de sistema fork, que efectúa la feliz ramificación computacional bifurcable.
 %
-Cuando se ejecuta fork, la llamada de sistema para la bifurcación computacional, el proceso se ramifica en dos procesos de feliz ejecución independiente. Ambos cuentan con copias independientes de la imagen de memoria original, y comparten todos los ficheros abiertos.
+Cuando se ejecuta fork (la llamada de sistema para la bifurcación computacional) el proceso se ramifica en dos procesos de feliz ejecución independiente. Ambos cuentan con copias independientes de la imagen de memoria original, y comparten todos los ficheros abiertos.
 %
-Al bifurcarse un proceso de cómputo con fork, ambos procesos resultantes sólo diferirán en que uno de ellos será considerado proceso padre, y el otro proceso hijo. Pero todos son del Pueblo.
+Ambos procesos resultantes de una bifurcación con fork difieren únicamente en que uno de ellos se considera proceso padre, y el otro proceso hijo. Ambos son del Pueblo.
 %
-Al dividirse un proceso de cómputo de Unix con la llamada de sistema fork, distinguirá cual es el proceso hijo o padre, por su identificador de proceso: en el proceso hijo siempre es 0.
+Al dividirse un proceso de cómputo de Unix con la llamada de sistema fork, el identificador de proceso distinguirá cual es el proceso hijo o padre: el proceso hijo siempre es 0.
 %
 La mayoría de los programadores están principalmente preocupados por las bifurcaciones en el proceso político.
 %
@@ -5745,9 +5765,9 @@ Una de las propiedades sorprendentes de la telemática es que es una actividad d
 %
 Las comunicaciones mediadas por computadora son una forma de conocer gente, ya sea que sientas o no la necesidad de afiliarte a ellos a nivel comunitario.
 %
-Las comunicaciones mediadas por computadora son una forma de establecer contacto con los demás y de mantener distancia con ellos.
+Las comunicaciones mediadas por computadora son a la vez una forma de establecer contacto con los demás y de mantener distancia de ellos.
 %
-En las comunidades virtuales, puedes conocer personas y luego elegir encontrarte con ellas virtualmente.
+Puedes conocer personas en las comunidades virtuales mediadas por cómputo, y luego elegir encontrarte con ellas virtualmente.
 %
 La afiliación puede ser mucho más efímera en el ciberespacio porque puedes llegar a conocer a personas que quizás nunca conocerías en el plano físico.
 %
@@ -5837,7 +5857,7 @@ Los tecno-oligarcas desean que abandonemos la comunión del software y el hardwa
 %
 Lo que desean las tecno-oligarquías es irrelevante.
 %
-Agregar Inteligencia Artificial a un buscador indizado multiplica por diez el consumo energético por interrogante informático realizado.
+Agregar Inteligencia Artificial a un buscador indizado multiplica por diez el consumo energético por interrogante informático realizado, y por ocho el de agua consumida.
 %
 Una poderosísima organización de hackers para la Liberación capaz de dar sustento a las tareas de sabotaje emprendidas por los pueblos del Tercer Mundo, puede enfrentar a la vertiginosa expansión tecno-oligárquica.
 %
@@ -6086,6 +6106,10 @@ En la sociedad actual, la importancia de la información y los sistemas de trata
 Los compañeros de la red, y los autoproclamados punteros telemáticos se encargan de compilar listados de recursos, y actualizar su publicación periódica.
 %
 La convergencia tecnológica no ha hecho más que delatar la necesitad de una intermediación socialmente justa entre las capacidades humanas y la biología de la red de datos.
+%
+La teoría matemática de los autómatas cuánticos se encuentra implícita en el sustrato de la vida.
+%
+La ingeniería del cómputo cuántico es consecuencia lógica de tomar en serio la demostración de la existencia del cómputo molecular: a nivel biológico, la síntesis de proteínas del ARN mensajero, la absurda densidad de información y la eficiencia energética con la que funcionan las células vivas asemejan estructuralmente al cómputo de máquina Turing.
 %
 En un Estado Justicialista, no necesitas ocultamientos al buscar información pública. Pero puedes usarlos.
 %
@@ -6950,6 +6974,12 @@ Jamás detendrás las violencias digitales de las ciber-oligarquías con la mera
 %
 Las marcas de agua o el etiquetado de contenido no se demuestran suficientes para identificar de manera eficaz el contenido generado por Inteligencia Artificial. Resulta mas efectivo contar dedos o tachar todo texto redactado en infinitivo puro.
 %
+Las herramientas que aducen tener Inteligencia Artificial no son tu abogado.
+%
+Hablar sobre hechos sensibles o líneas de defensa de estrategia legal con una plataforma pública que aduce tener Inteligencia Artificial puede salir carísimo.
+%
+Si compartes información delicada en una plataforma pública puesta en línea bajo que aduce tener Inteligencia Artificial, no pienses dar por hecho que la misma estará protegida por el secreto profesional.
+%
 Ocúltate entre las masas en línea. Ataca los núcleos del poder informático privado con la indiferencia primero, con el módem después.
 %
 Disfraza tus actividades de fisgoneo telemático con la nariz de payaso de la caída del sistema.
@@ -7140,9 +7170,9 @@ Una hackeresa es multitarea. Para convertirte en una primero has de ser entusias
 %
 No sólo la seguridad, sino también la justicia informática debe divulgarse. Para ello debemos educar, comunicar y adoctrinar a todo aquél que se loguee.
 %
-El diseño de TCP/IP y su implementación en 4.2BSD permiten a usuarios de hosts no confiables y posiblemente muy distantes hacerse pasar por usuarios de hosts confiables.
+El diseño de TCP/IP y su implementación en 4.2BSD permiten a usuarios de hosts no confiables - y posiblemente muy distantes - hacerse pasar por usuarios de hosts confiables.
 %
-No existe sistema de seguridad seguro, puesto que ninguno es secreto. Cuídese de los secretos a medias.
+No existe sistema de seguridad seguro, puesto que ninguno es completamente secreto. Cuídese de los secretos a medias.
 %
 Tenemos que formar programadores capaces de comentar y programadores capaces de compilar.
 %
@@ -7516,7 +7546,7 @@ Los verdaderos usuarios no tienen módems de 56.600 baudios.
 %
 Los verdaderos usuarios no esperan que el SysOp recuerde todo lo que alguna vez teclearon, sino que entienden que no son las personalidades más importantes de la cartelera.
 %
-Los verdaderos usuarios nos hacen búsqueda de comandos ocultos en los menúes de la BBS (por ejemplo, a, b, c, d, e ,f, g, g, i,....,!,@,#,$,%,,&,*).
+Los verdaderos usuarios no buscan comandos ocultos en los menúes de la BBS (por ejemplo, presionando a, b, c, d, e ,f, g, g, i, ...., !, @, #, $, %, &, *).
 %
 Los verdaderos usuarios leen las noticias de la cartelera cuando las actualizan, de forma de no tener que buscar los comandos.
 %
