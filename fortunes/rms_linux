@@ -1,5 +1,3 @@
-Intentar poseer conocimiento, intentar controlar si a la gente se le permite usarlo, o intentar detener a otros de compartirlo, es sabotaje.
-%
 La Libertad 0 es la libertad para ejecutar el programa como tu quieras.
 %
 La Libertad 1 es la libertad para estudiar el código fuente del programa y luego modificarlo para hacer que el programa haga lo que tú deseas.
@@ -7,6 +5,8 @@ La Libertad 1 es la libertad para estudiar el código fuente del programa y lueg
 La Libertad 2 es la libertad de redistribuir copias exactas cuando lo desees. Es una libertad para ayudar al prójimo.
 %
 Libertad 3 es la libertad para redistribuir copias de tus versiones modificadas cuando lo desees. Esta es la libertad para contribuir a tu comunidad.
+%
+Intentar poseer conocimiento, intentar controlar si a la gente se le permite usarlo, o intentar detener a otros de compartirlo, es sabotaje.
 %
 El Derecho de Autor no era un problema cuando sólo restringía a las editoriales, pero ahora se ha convertido en una excusa para atacar al público.
 %
@@ -54,7 +54,7 @@ Dos de las licencias Creative Commons son "libres" en el sentido en que el softw
 %
 Como las obras educativas y de referencia han de ser libres, estas deberían ser protegidas sólo por licencias libres (que, en el caso de Creative Commons, son CC-BY o CC-SA).
 %
-A diferencia de las licencias Creative Commons, la licencia GNU FDL también permite incluír en la documentación secciones secundarias que son invariantes.
+A diferencia de las licencias Creative Commons, la licencia GNU FDL también permite incluir en la documentación secciones secundarias que son invariantes.
 %
 Algunos manuales de software GNU cuentan con una sección invariante que explica las ideas de libertad. Cualquiera puede alterar las partes técnicas de dicha documentación para corresponder a versiones modificadas de programas propios, mas no pueden eliminar la sección que explica que desarrollamos el manual por el bien de la libertad.
 %
@@ -72,7 +72,7 @@ Hay formas de apoyar a los artistas sin restringir la libertad de compartir. Sol
 %
 Necesitamos luchar por la libertad de compartir, porque las megacorporaciones de derechos de autor que se benefician de dividir al Pueblo jamás cederán voluntariamente su poder.
 %
-La shell no concede nada sin una órden.
+La shell no concede nada sin una orden.
 %
 Nunca compréis ningún producto con DRM a menos que tengáis acceso personal a los medios para romper el DRM.
 %
@@ -107,6 +107,8 @@ Contribuye al Software Libre.
 Distribuya discos, habla con el Pueblo y ayúdalos a instalar software libre.
 %
 Encuentra grupos de usuarios de Software Libre en tu zona.
+%
+Un inexperto no debería estar instalando sistemas operativos. Tampoco programándolos. Mucho menos licenciarlos privativamente.
 %
 Participad de aquellos proyectos que guarden el objetivo hacer que las obras creativas se puedan compartir.
 %
@@ -174,7 +176,7 @@ Dos de las licencias Creative Commons son "libres" en el sentido en que el softw
 %
 Como las obras educativas y de referencia han de ser libres, estas deberían ser protegidas sólo por licencias libres (que, en el caso de Creative Commons, son CC-BY o CC-SA).
 %
-A diferencia de las licencias Creative Commons, la licencia GNU FDL también permite inclu8ir en la documentación secciones secundarias que son invariantes.
+A diferencia de las licencias Creative Commons, la licencia GNU FDL también permite incluir en la documentación secciones secundarias que son invariantes.
 %
 Algunos manuales de software GNU cuentan con una sección invariante que explica las ideas de libertad. Cualquier puede alterar las partes técnicas de dicha documentación para corresponder a versiones modificadas de programas propios, mas no pueden eliminar la sección que explica que desarrollamos el manual por el bien de la libertad.
 %
@@ -184,13 +186,13 @@ El ataque al intercambio digital es un intento de dividir a las personas y domin
 %
 Para otro tipo de obras, aquellas que utilizas para hacer un trabajo práctico en tu vida, no basta con ser compartibles. Dichas obras han de ser libres, lo que significa tener las mismas cuatro libertades que definen al Software Libre.
 %
-Las obras que realizan un trabajo práctico incluyen al software, recetas, bras educativas, de referencia y muchos otros tipos de obras que se le puedan ocurrir. Estas deben ser libres porque a menos que las personas controlen las obras que utilizan para realizar trabajos en su vida, no controlan su vida.
+Las obras que realizan un trabajo práctico incluyen al software, recetas, obras educativas, de referencia y muchos otros tipos de obras que se le puedan ocurrir. Estas deben ser libres porque a menos que las personas controlen las obras que utilizan para realizar trabajos en su vida, no controlan su vida.
 %
 Hay formas de apoyar a los artistas sin restringir la libertad de compartir. Solicitar donaciones y vender directamente a los fans ya funciona bien para muchos artistas musicales.
 %
 Necesitamos luchar por la libertad de compartir, porque las megacorporaciones de derechos de autor que se benefician de dividir al Pueblo jamás cederán voluntariamente su poder.
 %
-La shell no concede nada sin una órden.
+La shell no concede nada sin una orden.
 %
 Nunca compréis ningún producto con DRM a menos que tengáis acceso personal a los medios para romper el DRM.
 %
@@ -220,11 +222,15 @@ El Movimiento del Software Libre resulta ser una parte esencial de un movimiento
 %
 Descarga una versión de GNU/Linux y comienza a usarla.
 %
+Nunca instalé GNU/Linux. Nunca vi sentido en aprenderlo; siempre hubo alguien que ya sabía hacerlo a quien podía pedirle que lo hiciera por mí, y lo haría sin cometer errores.
+%
 Contribuye al Software Libre.
 %
 Distribuya discos, habla con el Pueblo y ayúdalos a instalar software libre.
 %
 Encuentra grupos de usuarios de Software Libre en tu zona.
+%
+Vé a un grupo de usuarios, y encuentra a alguien que ame instalar sistemas operativos y ayudar al Pueblo.
 %
 Participad de aquellos proyectos que guarden el objetivo hacer que las obras creativas se puedan compartir.
 %
@@ -416,7 +422,7 @@ A veces se malinterpreta el término de "software libre" -para empezar, no tiene
 %
 Libertad 0: La libertad de ejecutar el programa sea cual sea el propósito.
 %
-Libertad 1: La libertad para modificar el programa para ajustarlo a tus necesidades. (Para que se trate de una libertad efectiva en la práctica, deberás tener acceso al código fuente, dado que sin él la tarea de incorporar cambios en un programa esextremadamente difícil.)
+Libertad 1: La libertad para modificar el programa para ajustarlo a tus necesidades. (Para que se trate de una libertad efectiva en la práctica, deberás tener acceso al código fuente, dado que sin él la tarea de incorporar cambios en un programa es extremadamente difícil.)
 %
 Libertad 2: La libertad de redistribuir copias, ya sea de forma gratuita, ya sea a cambio del pago de un precio.
 %
@@ -428,7 +434,7 @@ Las colecciones de software libre a la venta en formato de CD-ROM son muy import
 %
 El desarrollo de un sistema operativo de principio a fin es un proyecto colosal.
 %
-Desde el inicio, decidí usar TEX como principal procesador de texto, y unos años más tarde me pasé al X Window System en vez de escribir otro sistema de ventanas para GNU.
+Desde el inicio, decidí usar TeX como principal procesador de texto, y unos años más tarde me pasé al X Window System en vez de escribir otro sistema de ventanas para GNU.
 %
 El sistema GNU no consiste en una colección completa de software GNU. El sistema incluye programas desarrollados por otros individuos y para proyectos con sus propios propósitos que empleamos por su condición de software libre.
 %
@@ -635,7 +641,7 @@ Un paquete importante de software libre sin un buen manual libre que lo acompañ
 %
 La documentación libre, al igual que el software, es una cuestión de libertad, no de precio.
 %
-Debe autorizarse la redistribución del manual de un programa libre - incluida la venta comercial, en papel y on line - de modo que el manual pueda acompañar a todas las copias del programa.
+Debe autorizarse la redistribución del manual de un programa libre - incluida la venta comercial, en papel y online - de modo que el manual pueda acompañar a todas las copias del programa.
 %
 Por regla general, no creo que la gente deba tener el derecho de modificar toda clase de artículos y libros. Pero existe una razón específica de que la libertad para modificar sea un elemento crucial para la documentación relativa al software libre.
 %
@@ -663,7 +669,7 @@ He realizado mi trabajo siempre ansioso ante la perspectiva de que no tuviera su
 %
 La visión de un regimiento de hackers manos a la obra constituye una fuente de alivio y de alegría.
 %
-Con el transcurso de los años los peligros son cada vez mayores, y ahora Microsoft nos tiene en su punto de mira.
+Con el transcurso de los años los peligros son cada vez mayores, y ahora Micro$oft nos tiene en su punto de mira.
 %
 No podemos pensar que el futuro de la libertad está asegurado. ¡No os engañéis! Si quieres conservar tu libertad, tienes que estar preparado para defenderla.
 %
@@ -821,10 +827,7 @@ No podemos esperar que el mero deseo de un software potente y fiable incite a la
 %
 Necesitamos la clase de determinación que la gente tiene cuando lucha por su libertad y su comunidad, determinación para seguir adelante durante años sin rendirse.
 %
-Algunos distribuidores de software GNU/Linux añaden paquetes
-propietarios al sistema básico libre e invitan a los usuarios a
-considerar esto como una ventaja, en lugar de un retroceso en la
-libertad.
+Algunos distribuidores de software GNU/Linux añaden paquetes propietarios al sistema básico libre e invitan a los usuarios a considerar esto como una ventaja, en lugar de un retroceso en la libertad.
 %
 Al igual que las ciencias, el software despiertan la codicia en un gran número de gerentes universitarios: consideran los programas como una potencial fuente de ingresos, y no como aportaciones al saber humano.
 %
@@ -1442,3 +1445,67 @@ Mucha información personal en su teléfono móvil está disponible para cualqui
 Existe una vigilancia tan extrema que la mayoría de la gente no la imagina.
 %
 Si queremos recuperar la democracia, tenemos que detener la vigilancia extrema.
+%
+Steve Jobs, el pionero del cómputo como prisión atractiva - aquella diseñada para cercenar a los necios de su libertad - ha muerto.
+%
+Todos merecemos terminar con la influencia maligna de Steve Jobs en el cómputo del Pueblo.
+%
+Los dispositivos IoT son maliciosos, peligrosos, y francamente injustos. No hay que comprarlos, debemos tener la conducta de decir no.
+%
+Todo aquello que puede contener software no libre, y hablar con la Internet, es injusticia.
+%
+Los negocios son expertos en manipular a los Pueblos hasta el punto en que necesiten firmeza para decir no, y en ese momento pierdes, a no ser que tengas coraje y firmeza.
+%
+Los Pueblos que consideren que las ventajas prácticas son más importantes que la libertad, perderán su libertad.
+%
+Deja de pensar en lo que ellos piensan. Que se vayan al demonio si están dispuestos a sacrificar su libertad, no podrás detenerlos. Hábla en cambio a la gente que valora la libertad lo suficiente como para hacer un sacrificio por ella.
+%
+La verificación de edad se ha convertido en una excusa universal para exigir que todos los usuarios se identifiquen, lo cual supone una injusticia para todos los usuarios, independientemente de su edad.
+%
+Neutralidad de red significa quee un proveedor de servicios de red no impone sus prejuicios entre las actividades posibilitadas al usuario, y también que no impone el uso de un programa propietario específico, sino que permite al usuario hacer todo con interfases documentadas.
+%
+La red debe ser un medio de comunicación entre todos los usuarios. Si una compañía de red impone prejuicios basados en con quien te comunicas, ya no es un medio justo para comunicarte con quien deseas.
+%
+Si el proveedor de servicios de datos requiere el uso de un programa propietario secreto para -por ejemplo- configurar la conexión, el usuario no podrá usar libremente esta conexión.
+%
+Las compañías pueden restringir como los usaurios usan la red de datos, impidiendo las comunicaciones entre ellos a través de protocolos par a par.
+%
+Como el proveedor de conexión puede imponer todos sus prejuicios, puede facilitar el acceso de una cosa e impedir el acceso a otro.
+%
+Si una red de datos no es neutral, el proveedor de datos puede cambiarla mucho, dificultar el acceso a protocolos de par a par libres, y hacer que el acceso a Micro$oft sea muy sencillo, o cualquier otra cosa que desee.
+%
+El acceso a grandes corporaciones de medios puede ser muy conveniente, y el acceso a otros sitios que opongan los puntos de vista de las primeras puede ser muy inconveniente, por ejemplo.
+%
+Lo que nos importa a nosotros es que el programa respete nuestra libertad. Si respeta nuestra libertad, eso es, la libertad de los usuarios, es ético, y podremos considerar usarlo.
+%
+Si un programa no respeta nuestra libertad, debemos rechazarlo para mantener nuestra libertad.
+%
+Los programas propietarios, que quitan a sus usuarios sus libertades, no son éticos, no deben existir, y en tanto existan, nosotros no debemos usarlos.
+%
+La libertad de los usuarios del software es algo mucho más importante que el modelo de creación. Tener modelos de creación es una cuestión de métodos. Pero ser libre es un requerimiento, una demanda para el software.
+%
+Si un programa no respeta la libertades del usuario, el usuario debe rechazar su uso.
+%
+Primero necesitamos pensar qué cosas son buenas, deseables, y qué cosas deben ser rechazadas. Luego, habiendo identificado los buenos objetivos, podemos buscar maneras de lograr dichos objetivos. Puesto que el objetivo es un software que respete nuestra libertad, es el Software Libre.
+%
+El software propietario es malo e injusto y no debería existir.
+%
+Una razón para escribir software libre es divertirse. Escribir un programa es una diveersión maravillosa para los buenos programadores.
+%
+Una razón para escribir softwaree libre es el idealismo político de la liberación del ciberespacio.
+%
+Una razón para escribir softwaree libre es sentirse admirado, porque es agradable sentirse admirado.
+%
+Una razón para escribir software libre es obtener reputación como un buen programador. Si publicas un buen programa libre, todos quienes se interesen en él sabrán que tú eres un buen programador.
+%
+Una razón para escribir software libre es la gratitud. Si lo has usado por muchos años, los programas libres que otros han desarrollado y tu aprecias lo que han hecho. Escribir un programa de uso general y publicarlo como software libre es una manera de hacerlo.
+%
+Una razón para escribir software libre es agradecer a la comunidad que te ha dado su software.
+%
+Un motivo bien conocido para programar software libre es mejorar aquel que ya usas para que se desempeñe mejor.
+%
+Una razón para escribir softwara libre es porque muchos odian a Micro$oft. Es un error enfocar todas las críticas en Micro$oft, puesto que Appl€ es más maligna.
+%
+El hecho es que muchos odian a Micro$oft, y eso motiva a muchos a escribir software libre.
+%
+Una razón para escribir software libre es el dinero. Hay muchos que obtienen dinero de alguna maneara desarrollando programas libres, o por servicios; escriben programas y venden el soporte. También hay grandes compañías que subvencionan la creación de software libre.
