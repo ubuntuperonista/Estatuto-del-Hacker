@@ -336,15 +336,15 @@ Un hiperenlace engañoso es un vector extremadamente común para los ataques de 
 %
 El HTML es un conjunto de especificaciones extremadamente largo y complicado, diseñado para navegar por la web, donde hay una gran variedad de documentos, aplicaciones, etc.
 %
-El HTML fue diseñado sin tener en cuenta el correo electrónico.
+El HTML fue diseñado sin tener en cuenta al correo electrónico.
 %
-Una gran parte (si no la mayoría) de las funcionalidades del HTML son indeseables para el correo electrónico; si se incluyen pueden abusarse para extraer información sobre ti, tus contactos, tu calendario, otros correos en tu bandeja de entrada, etc.
+Una gran parte (si no la mayoría) de las funcionalidades del HTML son indeseables para el correo electrónico; si se las incluyen podrían resultar abusadas con el fin de extraer información sobre tí, tus contactos, tu calendario, otros correos en tu bandeja de entrada, etcétera.
 %
-La ejecución remota es una de las funcionalidades del HTML más abusadas en el correo electrónico.
+Una de las funcionalidades del HTML más abusadas en el correo electrónico el la ejecución remota.
 %
-Los correos HTML son buenos para publicistas, pero malos para todos los demás.
+Los correos electrónicos con código HTML son buenos para publicistas, pero malos para todos los demás.
 %
-Todos los correos HTML enviados por publicistas incluyen identificadores en los enlaces y en las imágenes que están diseñados para extraer información sobre los usuarios y enviársela de vuelta a quien envía el mensaje.
+Todos los correos electrónicos con código HTML enviados por publicistas incluyen identificadores en los enlaces y en las imágenes diseñados para extraer información sobre los usuarios y enviársela de vuelta al remitente.
 %
 Examina con atención las URL: las ristras extrañas de números y letras son únicas para ti y se utilizan para identificarte. Otros usarán dicha información para manipularte, intentando buscar anuncios que son más propensos a influir sobre tus hábitos de compra.
 %
@@ -3945,7 +3945,7 @@ La transferencia de su equipo a otra persona sin la eliminación previa del soft
 %
 La mayoría de los métodos provistos con los sistemas operativos privativos - como enviar los datos a la papelera de reciclaje y luego vaciarla, utilizar el comando eliminar, o formatear el disco duro mediante el software integrado a estos - no eliminan los datos, tan sólo cambian la ubicación de los ficheros de datos.
 %
-Muchas veces aunque parezcan perdidso, los datos continúan allí.
+Muchas veces aunque parezcan perdidos, los datos continúan allí.
 %
 A veces es posible leer los datos de un disco duro que un usuario de sistema operativo privativo creyó eliminar, mediante un software de recuperación específico.
 %
@@ -6559,7 +6559,7 @@ En el código sólo hay reglas. En su ejecución, consecuencias.
 %
 El CD-ROM de AOL se regala.
 %
-El DVD-ROM de Triquel GNU/Linux se regala.
+El DVD-ROM de Trisquel GNU/Linux se regala.
 %
 Si el rígido tamborillea, está manifestando.
 %
@@ -6693,7 +6693,7 @@ El plan maestro de la acción concertada debe insertarse dentro de un sistema de
 %
 En la lid telemática, la acción defensiva por antonomasia la constituye el sabotaje telemático.
 %
-Los hackers del Tercer Mundo han de concebir ataques cibernéticos para que sean visibles y velen - en efecto - los furtivos y mucho más demoledores sabotajes algorítmos sobre las ciber-oligarquías.
+Los hackers del Tercer Mundo han de concebir ataques cibernéticos visibles que velen - en efecto - los furtivos y mucho más demoledores sabotajes algorítmicos sobre las ciber-oligarquías.
 %
 Aplicando una concepción táctica que detecte los puntos débiles de los ciber-oligarcas, y aplicando esa condición fantasmal del hacker en las líneas de datos, todo es posible.
 %
@@ -7962,7 +7962,7 @@ Promueve plataformas digitales donde se publiquen definiciones claras y ejemplos
 %
 Promueve aquellas plataformas digitales donde existan equipos de moderación capacitados en antimarginación, para reconocer y abordar contenido direccionado a etnicidades, géneros, orientaciones sexuales, religiones u otras identidades.
 %
-Promueve aquellas plataformas digitales cuyas reglas y los protocolos de aplicación tomen en cuenta vulnerabilidades superpuestas que amplifican los impactos nocivos de abuso telemático.
+Promueve aquellas plataformas digitales cuyas reglas y los protocolos de aplicación tomen en cuenta vulnerabilidades superpuestas que amplifican los impactos nocivos del abuso telemático.
 %
 Promueve aquellas plataformas digitales cuyos usuarios cuenten con canales dedicados para informar rápidamente si se sienten amenazados o inseguros en ellas.
 %
