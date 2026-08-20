@@ -398,7 +398,7 @@ Los paquetes son efímeros.
 %
 El FTP es un protocolo simple y popular, y si bien es posible utilizar unas medidas de seguridad limitadas con él (en forma de sesiones únicas con usuario y contraseña, directorios protegidos), actualmente se lo considera un modo de comunicación básico, recomendado sólo para ficheros y material que podamos considerar público.
 %
-Si un servidor posee servicio de FTP anónimo, ante la solicitud de nombre de usuario basta teclear la palabra "anonymous" para gorzar de acceso a dicho sistema.
+Si un servidor posee servicio de FTP anónimo, ante la solicitud de nombre de usuario basta teclear la palabra "anonymous" para gozar de acceso a dicho sistema.
 %
 Disfruto transmitir ficheros con croc por su estilo en lugar de su comodidad.
 %
