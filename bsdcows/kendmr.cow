@@ -1,7 +1,7 @@
 {$balloon}
-        {$tl}                  ,.--:::::::::::::::::..           ___...---- 
-         {$tl}               .-";;;.ffffffffffffffffffffff;+ _.-"
-          {$tl}           ,',";:::"""fffffffffffffffffff:;,."
+         {$tl}                 ,.--:::::::::::::::::..           ___...---- 
+          {$tl}              .-";;;.ffffffffffffffffffffff;+ _.-"
+           {$tl}          ,',";:::"""fffffffffffffffffff:;,."
                    ,"             ffffffffffffffff,"
                  ,"                fffffffffffff."
                 ;                   fffffffffff/
