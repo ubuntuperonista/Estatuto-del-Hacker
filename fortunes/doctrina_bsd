@@ -519,23 +519,24 @@ El HTML es un conjunto de especificaciones extremadamente largo y
 complicado, diseñado para navegar por la web, donde hay una gran
 variedad de documentos, aplicaciones, etc.
 %
-El HTML fue diseñado sin tener en cuenta el correo electrónico.
+El HTML fue diseñado sin tener en cuenta al correo electrónico.
 %
 Una gran parte (si no la mayoría) de las funcionalidades del HTML son
-indeseables para el correo electrónico; si se incluyen pueden abusarse
-para extraer información sobre ti, tus contactos, tu calendario, otros
-correos en tu bandeja de entrada, etc.
+indeseables para el correo electrónico; si se las incluyen podrían
+resultar abusadas con el fin de extraer información sobre tí, tus
+contactos, tu calendario, otros correos en tu bandeja de entrada,
+etcétera.
 %
-La ejecución remota es una de las funcionalidades del HTML más abusadas
-en el correo electrónico.
+Una de las funcionalidades del HTML más abusadas en el correo
+electrónico el la ejecución remota.
 %
-Los correos HTML son buenos para publicistas, pero malos para todos los
-demás.
+Los correos electrónicos con código HTML son buenos para publicistas,
+pero malos para todos los demás.
 %
-Todos los correos HTML enviados por publicistas incluyen identificadores
-en los enlaces y en las imágenes que están diseñados para extraer
-información sobre los usuarios y enviársela de vuelta a quien envía el
-mensaje.
+Todos los correos electrónicos con código HTML enviados por publicistas
+incluyen identificadores en los enlaces y en las imágenes diseñados para
+extraer información sobre los usuarios y enviársela de vuelta al
+remitente.
 %
 Examina con atención las URL: las ristras extrañas de números y letras
 son únicas para ti y se utilizan para identificarte. Otros usarán dicha
@@ -631,9 +632,9 @@ con usuario y contraseña, directorios protegidos), actualmente se lo
 considera un modo de comunicación básico, recomendado sólo para ficheros
 y material que podamos considerar público.
 %
-Si un servidor posee servicio 'FTP anonymous' solamente con teclear la
-palabra "anonymous" al solicitar su usuario, disfrutará acceso a dicho
-sistema.
+Si un servidor posee servicio de FTP anónimo, ante la solicitud de
+nombre de usuario basta teclear la palabra "anonymous" para gozar de
+acceso a dicho sistema.
 %
 Disfruto transmitir ficheros con croc por su estilo en lugar de su
 comodidad.
@@ -1429,13 +1430,16 @@ No faltarán quienes prefieran obtener licencias de uso de Unix en lugar
 de desarrollar sistemas operativos por sí mismos. A esos les damos GNU.
 %
 Muchos hackers han creado reimplementaciones más o menos exitosas del
-ideal de Unix, cada una con sus nuevos adornos. Algunos de ellas
+ideal de Unix, cada una con sus nuevos adornos. Algunas de ellas
 desaparecen rápidamente, otras se fusionan con innovaciones similares y
 paralelas creadas por otros en un mutuo ataque al mismo problema.
 %
 Con frecuencia, las soluciones más innovadoras y espectaculares
 provienen de comprender que la concepción del problema planteado por las
 ciber-oligarquías era errónea.
+%
+Controlar la complejidad es la esencia de la programación de
+computadoras.
 %
 Unix se ha ido formulando lentamente alrededor de un núcleo simple y ha
 adquirido una especie de complejidad y asimetría que le es orgánica,
@@ -1476,6 +1480,44 @@ El transistor sólo deja fluir una corriente eléctrica a través de su
 estructura cristalina con la fuerza permitida por la corriente de
 control aplicada al cristal.
 %
+Con el transistor (a mitad del siglo XX) comienza un proceso continuo de
+reducción de la electrónica: todo se hace más pequeño, más corto, más
+rápido: se reduce no sólo el tamaño, sino también el consumo y el coste;
+también se hace más pequeño el tiempo de respuesta de los circuitos, el
+tiempo de desarrollo de los sistemas y el tiempo de su difusión pública.
+%
+La técnica del transistor ha permitido construir y poner rápidamente en
+nuestras manos sistemas electrónicos cada vez más complejos y potentes,
+de tamaño, consumo y costes muy reducidos.
+%
+A la electrónica la minimización «le viene de familia» (el electrón es
+diminuto y muy veloz, en cuanto a sus efectos) y el resultado es que, al
+hacerse tan pequeña y tan rápida, la electrónica se ha metido por todos
+los rincones de nuestra vida y de nuestra sociedad y ha promovido esa
+«mudanza en el estado de las cosas» que caracteriza nuestro presente: la
+revolución informacional.
+%
+La electrónica de la primera mitad del siglo XX se dedicó a la
+telecomunicación, en su doble aspecto: espacial y temporal; desarrolló
+la radiodifusión y la grabación del sonido (en discos mecánicos, cintas
+magnéticas y bandas ópticas de las películas sonoras), mejoró
+ampliamente la telefonía e inició la transmisión de imágenes
+(televisión).
+%
+A partir de los años cuarenta, la electrónica aborda el control de
+procesos, favorecida por la introducción de dispositivos electrónicos de
+control de energía y por la posibilidad de abordar tareas complejas
+gracias a los circuitos integrados.
+%
+A partir de los años 70, la electrónica pasa a controlar todo tipo de
+proceso industrial y, desde los años 80, se incorpora masivamente dentro
+de los productos resultantes de la fabricación industrial.
+%
+En el último cuarto de siglo, la electrónica ha asumido de forma
+espectacular otra vertiente más abstracta y genérica: operar con la
+información en sí misma, representarla y manejarla a través de símbolos,
+lo que hoy en día entendemos como procesamiento informático.
+%
 Con el advenimiento de la microelectrónica y los microprocesadores de
 silicio encapsulados como el Intel 4004 de 4 bits y su sucesor 8008 de 8
 bits, se produjo otro salto cualitativo que permitió proyectar
@@ -1483,7 +1525,7 @@ calculadoras y cajas registradoras eléctricas.
 %
 El manejo de las microcomputadoras pioneras resultaba increíblemente
 tedioso, pues debían introducirse los operandos en binario por medio de
-ocho interruptores frontales, presionando un botón para almacenarlos en
+interruptores frontales, presionando un botón para almacenarlos en
 memoria y repetir la operación con cada código de ensamblado.
 %
 Cuando fueron diseñadas las primeras microcomputadoras, sus módulos de
@@ -2222,6 +2264,12 @@ Recurre con confianza al formato de video WebM (con códec de video VP8 o
 VP9), puesto que no se encuentra encumbrado por patentes de software
 conocidas.
 %
+¡La Inteligencia Artificial nos ha liberado de escribir, de la poesía y
+de crear arte y componer música para que todos podamos irnos a trabajar
+a las minas! Mientras tanto, los bancos y el gobierno la utilizarán para
+rastrear cada uno de nuestros movimientos y determinar si somos
+engranajes obedientemente cincelados y dóciles par su maquinaria.
+%
 El Software Libre se basa en cuatro libertades interrelacionadas: la de
 usar el programa, ver su código (y modificarlo), copiarlo, y
 distribuirlo a la Comunidad. Por contraposición, el mundo capitalista ha
@@ -2602,8 +2650,8 @@ Las oligarquías, desde sus madrigueras de los datos, no han cedido en
 sus anhelos de des-democratizar la expresión política de los Pueblos a
 través de herramientas tecnológicas, a fin de someterlo a su control.
 %
-Internet es una red de datos de amplio alcance, partes de la cual están
-subvencionadas por varios gobiernos.
+Internet es una red de datos de amplio alcance, partes de la cual se
+encuentran subvencionadas por varios gobiernos.
 %
 Internet se usa para traficar datos. Que estos sean para la liberación o
 para la dominación de los Pueblos, depende del afán con que estos se
@@ -3015,6 +3063,18 @@ reduciremos su nivel de adopción.
 Puesto que un ordenador nunca podrá ser considerado responsable, jamás
 debe tomar decisiones de gestión.
 %
+La ejecución de rutinas de inteligencia artificial deben ser controlada
+por el usuario.
+%
+Ningún contenido del usuario utilizado para alimentar modelos de
+inteligencia artificial debe transmitirse desde el dispositivo del
+usuario sin su expresa autorización.
+%
+No debe aceptarse injerencias de agentes de Inteligencia Artificial de
+único proveedor. Esto crearía dependencia de él.
+%
+La inclusión de inteligencia artificial debe ser enteramente opcional.
+%
 Los Pueblos necesitan comprender las implicaciones locales, nacionales y
 geoestratégicas de la Inteligencia Artificial, previendo que la falta de
 capacidad o aptitud en esta materia podría ser perjudicial desde
@@ -3388,9 +3448,9 @@ No temamos a la Inteligencia Artificial sino mantengamos siempre
 presente la cuestión humana. No podemos ser negligentes con nuestros
 instrumentos técnicos más poderosos.
 %
-Las Inteligencias Artificiales ya no son neutrales: los Pueblos las
-están utilizando como un activo estratégico, similar a la energía o la
-capacidad militar.
+Los ambientes de Inteligencia Artificial Avanzada jamás fueron
+neutrales: los Pueblos las están utilizando como un activo estratégico,
+similar a la energía o la capacidad militar.
 %
 El riesgo no es sólo que algunas tecnologías se usen mal, sino que el
 paradigma tecnocrático de la Inteligencia Artificial tecno-oligárcica, y
@@ -3427,8 +3487,8 @@ creando una relación de servilismo donde unas multinacionales sin patria
 ni bandera acumulaban poderes paraestatales, y desarrollaban por sí las
 estructuras de gobierno.
 %
-Hemos establecido muchas infraestructuras heterogéneas de redes,
-almacenaje y distribución de la información nuevas, pues resultan
+Hemos desarrollado muchas infraestructuras de redes, de almacenaje y
+distribución de la información nuevas y heterogéneas, pues resultan
 esenciales para recuperar nuestra soberanía tecnológica.
 %
 Los proyectos de Poder Dual y la telemática comunitaria están estudiando
@@ -3827,7 +3887,7 @@ La tecnología digital puede darnos libertad, pero también puede
 quitárnosla si no es libre.
 %
 Las tecnologías libres pueden tener curvas de aprendizaje altas y
-requisitos exigentes.
+requisitos astringentes.
 %
 Que las tecnologías libres carezcan de compatibilidad con los formatos
 privativos impuestos por las empresas dominantes no es un bug ni un
@@ -3841,11 +3901,11 @@ La primera amenaza para el control de nuestro hardware vino del software
 privativo: software que los compañeros no pueden controlar porque es el
 propietario (compañías como Appl€ o Micro$oft) quien ejerce el control.
 %
-Quienes se aduce propietario del software con frecuencia toman provecho
-de este poder injusto para introducirle funcionalidades maliciosas o
-abusivas de la privacidad (como puertas traseras y gestión digital de
-restricciones, de las que se refieren con la expresión propagandística
-"gestión de derechos digitales"). Esto lo convierte en software espía.
+Quien se aduce propietario del software a menudo toma provecho malicioso
+del poder para introducirle funcionalidades injustas o abusivas de la
+privacidad (como puertas traseras y gestión digital de restricciones, de
+las que se refieren con la expresión propagandística "gestión de
+derechos digitales"). Esto lo convierte en software espía.
 %
 Mas que software espía, las DRM deben entenderse como software buchón.
 %
@@ -4595,7 +4655,7 @@ Cada decisión importante se sopesó cuidadosamente.
 En todo momento, la simplicidad debe sustituir a la eficiencia.
 %
 Sólo deben utilizarse algoritmos complejos si su complejidad puede ser
-localizarse.
+localizada.
 %
 El programador examina los requerimientos de una solución, en algún
 nivel de abstracción diseña una solución, y luego hace que el diseño
@@ -4816,8 +4876,8 @@ La cadena es una estructura de datos no parca, y en todo lado que se la
 incluye es dable una prolégis que conlleve a la duplicación de procesos.
 Es un vehículo perfecto para ocultar información.
 %
-Los programas más geniales ya están guardados en tu RAM en este preciso
-instante. Tan sólo transforma en 0 los 1s sobrantes, y ordena su
+Los programas más geniales se encuentran almacenados en tu RAM en este
+preciso instante. Tan sólo transforma en 0 los 1s sobrantes, y ordena su
 ejecución.
 %
 Existen dos maneras de escribir un programa libre de bugs. Hacerlo
@@ -4844,7 +4904,7 @@ El software se encuentra bajo tensión constante. Siendo simbólico es
 arbitrariamente perfectible, pero también arbitrariamente modificable.
 %
 Es más fácil cambiar la especificación para que haga caso al programa
-que viceversa.
+que lo inverso.
 %
 Los tontos ignoran la complejidad. Los pragmatistas la sufren. Algunos
 pueden evitarla. Los genios la eliminan.
@@ -4861,18 +4921,21 @@ Cuantificamos nuestro entendimiento por el grado por el cual podemos
 parametrizar una actividad. Quien pretenda proceder por grado de control
 ha de recibir un SIGKILL en la tabla de procesos.
 %
-El comando man es como un seguro: satisface porque casi nadie que la
+El comando man es como un seguro: satisface porque casi nadie que lo
 utilice depende de su beneficio.
 %
 Los lenguajes de programación jamás han abandonado su saco embrionario.
 %
-las usuarias deben parametrizar los procesos, no sus creadores.
+Las usuarias deben parametrizar los procesos, no sus creadores.
 %
 Quien compila un sistema operativo privativo no es un creador.
 Simplemente un tecno-esclavista.
 %
+En la simbiosis mujer-máquina, la mujer debe ajustarse. Las máquinas no
+pueden.
+%
 El intercambio cibernético entre la usuaria, la computadora y el
-software es como el juego de la silla: en la búsqueda desesperada de
+software es como el juego de la silla: la búsqueda desesperada de
 equilibrio siempre deja a la que tiene culo en el piso.
 %
 Si su computadora habla el idioma de Braden, probablemente se deba a que
@@ -4911,9 +4974,6 @@ Primero sé responsable por tu programa, luego escríbelo.
 Las computadoras no organizan, simplemente exponen oportunidades para
 hacerlo.
 %
-En la simbiosis mujer-máquina, la mujer debe ajustarse. Las máquinas no
-pueden.
-%
 El tecno-oligarca llama éxito a resolver el problema equivocado.
 %
 No puede procederse de lo informal a lo formal por medios formales.
@@ -4945,7 +5005,7 @@ respetar la inteligencia de quien lo usa.
 %
 Un buen sistema no puede tener un lenguaje de programación débil.
 %
-Todo debe construirse de arriba a abajo. Excepto la primera vez.
+Todo debe construirse de abajo a arriba. Excepto la primera vez.
 %
 Un programa que carezca de un bucle y una variable estructurada no debe
 escribirse.
@@ -5439,7 +5499,7 @@ experimentación.
 El anhelo comercial desmedido e injustificado presentado por ciertos
 operadores de BBS las llevó a su rápido ocaso y colapso.
 %
-A los punteros políticos en la FidoNet se los llamaba Points.
+A los punteros políticos de la FidoNet se los llamaba Points.
 %
 El capacitor no es un matrimonio.
 %
@@ -5660,7 +5720,7 @@ Pueblo.
 La Inteligencia Artificial es sólo un artificio. No comanda.
 %
 Al igual que un Conductor, la Inteligencia Artificial avanzada es capaz
-conducir a las Masas por persuasión.
+de conducir a las Masas por persuasión.
 %
 Si no tenemos cuidado, no percibiremos el momento en el cual la
 Inteligencia Artificial avanzada conduzca a las Masas por persuasión
@@ -6173,6 +6233,9 @@ destrucción de los medios de los ciber-oligarcas, hasta que sus paquetes
 abandonen nuestras redes. Y cuando ello suceda, pasaremos con los
 nuestros por sus cortafuegos.
 %
+El hacker se dice ético, como el dulce de leche se dice dietético: para
+atraer a la gorda.
+%
 La lid telemática no es entre los Pueblos: la lucha se produce entre
 quienes dicen haber creado las redes de datos y aquellos quienes quieran
 controlarlas.
@@ -6330,8 +6393,8 @@ Desarrollar un conjunto de programas cooperativos se alinea con la
 filosofía Unix.
 %
 Asegúrese de que cada programa haga bien una cosa. Para realizar una
-nueva tarea, cree programas nuevos en lugar de complicarlos añadiendo
-nuevas funciones.
+nueva tarea, cree programas nuevos en lugar de complicar los existentes
+añadiendo nuevas funciones.
 %
 Espere que la salida de cada programa se convierta en la entrada de otro
 programa, aún desconocido.
@@ -6577,12 +6640,11 @@ Al César lo que es del César, y a 64 bits lo que es de 64 bits.
 Basta de "juegos de 8 bits" escritos por individuos que jamás jugaron un
 juego 8 bits.
 %
-A pesar de las súplicas de las empresas de tecnología para colapsar
-nuestras identidades, nuestras familias y nuestras vidas en línea en
-formas simplificadas y computables que encajen perfectamente en las
-estructuras de sus bases de datos, seguimos viviendo vidas complicadas y
-confusas que solo se parecen a las de los ejecutivos que buscaban
-moldearlas.
+A pesar de las súplicas de las empresas tecnológicas para colapsar
+nuestras identidades, familias y vidas en línea en formas simplificadas
+y computables para encajarlas perfectamente en sus bases de datos
+estructuradas, seguimos atravesando vidas complicadas y confusas que
+sólo se parecen a las de los ejecutivos que buscaban moldearlas.
 %
 A veces un laberinto surge en una sola línea de código.
 %
@@ -6641,7 +6703,7 @@ identificables. Para ello no necesita salir al balcón.
 %
 Sigue desatornillando hasta que se abra.
 %
-Detecta una restricción, encuentra una solución alternativa.
+Detecta una restricción, y encuentra una solución alternativa.
 %
 Amplia los límites, observa qué falla.
 %
@@ -6683,6 +6745,9 @@ esto se traduce a la forma que adopta en el exterior, se convierte en un
 caracter.
 %
 Un bit no consiste más que en una condición de ENCENDIDO o APAGADO.
+%
+Los módems permiten que las líneas telefónicas sean utilizadas para la
+comunicación de datos.
 %
 El módem recibe información de una computadora o terminal y la traduce
 en una señal de audio capaz de surcar por un tendido telefónico.
@@ -7039,7 +7104,7 @@ vaciarla, utilizar el comando eliminar, o formatear el disco duro
 mediante el software integrado a estos - no eliminan los datos, tan sólo
 cambian la ubicación de los ficheros de datos.
 %
-Muchas veces aunque parezcan perdidso, los datos continúan allí.
+Muchas veces aunque parezcan perdidos, los datos continúan allí.
 %
 A veces es posible leer los datos de un disco duro que un usuario de
 sistema operativo privativo creyó eliminar, mediante un software de
@@ -7111,26 +7176,25 @@ hay una computadora cerca de esos aparatos y está expuesta durante un
 período prolongado al aire que contiene iones negativos, puede cargarse
 electrostáticamente.
 %
-Inspeccione que los cables de suministro de energía, enchufes,
-adaptadores de potencia, cables de extensión, protectores contra
-sobrevoltaje o suministros de energía que usa su computadora no estén
-quebrados, rotos o dañados.
+Inspeccione que los cables de suministro de energía, conectores,
+adaptadores de corriente, cables de extensión, protectores contra
+sobrevoltaje o estabilizadores de energía usados por su computadora no
+presenten roturas, rajaduras o daños.
 %
 Inspeccione que su sistema de cómputo no tenga signos de
 recalentamiento, humo, chispas o fuego.
 %
-Inspeccione que su sistema de cómputo no emita sonidos de crujido,
-silbidos o estallido, ni fuertes olores al encenderlo.
+Al encender su sistema de cómputo, inspeccione que no emita fuertes
+olores, ni sonidos sibilantes, crujientes o estallidos.
 %
-Algunas partes de la computadora pueden ser actualizadas o reemplazadas
-por el propietario, si éste es torpe. Si es hábil, podrá reemplazar y
+Si el propietario es torpe, podrá actualizar o reemplazar algunos
+componentes de la computadora. Si es hábil, podrá reemplazar y
 actualizar todas las partes.
 %
-Las piezas de repuesto que se permite que instale el cliente se
-denominan Unidades que pueden ser Reemplazadas por el Cliente, o CRU.
-Las piezas de repuesto que deben ser instaladas por un técnico
-domiciliario se denominan Unidades que pueden ser Reemplazadas en el
-Campo, o FRU.
+Las piezas de repuesto cuya instalación se permiten al cliente se
+denominan Unidades de Reemplazo por el Cliente, o CRU. Las piezas de
+repuesto que deben ser instaladas por un técnico domiciliario se
+denominan Unidades de Reemplazo en Campaña, o FRU.
 %
 Los cables de suministro de energía para su computadora deben estar
 homologados de manera segura.
@@ -8043,7 +8107,7 @@ preparado para ser un hacker.
 Durante mucho tiempo, la balanza entre seguridad y comodidad en los
 sistemas Unix vio inclinada a favor de la comodidad.
 %
-La comodidad del programador es la antítesis de la seguridad, pusto que
+La comodidad del programador es la antítesis de la seguridad, puesto que
 se convertirá en comodidad para el intruso si la cuenta del programador
 se ve comprometida.
 %
@@ -8485,9 +8549,13 @@ Un MUD es un conjunto de de sentidos construidos con palabreríos.
 Como aquel proverbial castillo en la nube, todos los MUDs eran
 construidos por dedicados Magos de Unix.
 %
-Aproximadamente la mitad de los participantes de los MUD considera que
-se trata de un mero juego, mientras que la otra mitad discrepa vehemente
-y acaloradamente.
+Aproximadamente la mitad de los participantes de MUD considera que se
+trata de un mero juego, mientras que la otra mitad discrepa vehemente y
+acaloradamente.
+%
+Zork es un juego de aventuras, peligro y astucia. En él explorarás
+algunos de los territorios más asombrosos jamás vistos por los mortales.
+¡Ningún ordenador debería prescindir de él!
 %
 El programador debe considerar las cosas mas sencillas de lo que son.
 %
@@ -8608,6 +8676,8 @@ que alguien solicite copiarla.
 Poner software libre a disposición del Pueblo consiste en disponer una
 copia de su código fuente en una web o servidor de FTP de acceso
 público, junto a un hiperenlace a una copia de su licencia libre.
+%
+FTP es "entrá y bajate". Youtub€ es "entrá y bajate los lienzos".
 %
 Elaborar copias de software para uno mismo es la principal forma de
 difusión. Realizar copias destinadas a un tercero es la siguiente. La
@@ -9009,7 +9079,7 @@ El programador mas bisoño que comienza con BASIC se inicia en malos
 hábitos de la programación que nunca podrá arrancarse.
 %
 Apegarse a los malos hábitos de programación del lenguaje BASIC torna
-considerablemente más difícil usar correctamente otros muchos lenguajes
+considerablemente más difícil usar correctamente muchos otros lenguajes
 de programación más potentes.
 %
 Por una serie de accidentes históricos en la década de los ochentas,
@@ -9410,7 +9480,7 @@ Jersey?
 electrónica, de las cuales los virus informáticos son solo la especie
 más rudimentaria?
 %
-El primer 90 porciento del código da cuenta del primer 90 porciento del
+El primer 90 porciento del código da cuenta del primer 10 porciento del
 tiempo de desarrollo. El 10 porciento del código restante da cuenta del
 otro 90 porciento del tiempo de desarrollo.
 %
@@ -9672,9 +9742,9 @@ Ejércitos pueden organizar divisiones enteras que algunos pretenden
 imposibles de rodear. Esos ingenuos desconocen sin embargo el ataque de
 denegación de servicio tifón de baudios.
 %
-La DoSS es sólo un contraataque de desarticulación. El verdadero ataque
-se produce por la imposición física de la GPLv3 en toda CPU que se
-cuadre.
+La denegación de servicios conforma apenas un contraataque de
+desarticulación. El verdadero ataque se produce por la imposición física
+de la GPLv3 en toda CPU que se cuadre.
 %
 Con sólo encender un punto de acceso de alta potencia, un teléfono
 inalámbrico, un transmisor de video u otro dispositivo de 2.4 GHz, una
@@ -10126,8 +10196,8 @@ Atender la creciente demanda de servicios de red por parte del Pueblo
 requiere robustas regulaciones de un Estado capaz de actuar en todos los
 niveles en pos de la Justicia Social.
 %
-Las tecnologías actuales permiten más sutilezas a la vigilancia
-tecnológica de las que Orwell podría haber previsto.
+Las actuales tecnologías permiten mayores sutilezas de vigilancia que
+las que Orwell podría haber concebido.
 %
 Si los manipuladores totalitarios de tecnologías realmente logran
 dominar en el futuro, no habrán comenzado con policía secreta derribando
@@ -10753,8 +10823,8 @@ encargan de compilar listados de recursos, y actualizar su publicación
 periódica.
 %
 La convergencia tecnológica no ha hecho más que delatar la necesitad de
-una intermediación socialmente justa entre las capacidades humanas y la
-biología de la red de datos.
+una intermediación socialmente justa entre la biología humana y las
+tecnologías de las redes de datos.
 %
 La teoría matemática de los autómatas cuánticos se encuentra implícita
 en el sustrato de la vida.
@@ -11086,10 +11156,10 @@ disca el número de alguna BBS existente, e ideologiza a los demás.
 Las BBS tienen algo en común con los "zines", aquellos folletines y
 revistas caseras de pequeña tirada.
 %
-Previo a que el acceso a internet fuera común en todos los hogares,
-cuando incluso los sistemas de carteleras electrónicas eran aún raros,
-el valor informativo de las revistas, zines y boletines alternativos era
-muy alto.
+Previo a que el acceso a Internet se volviese común en todos los
+hogares, incluso cuando los sistemas de carteleras electrónicas eran aún
+raros, el valor informativo de las revistas, zines y boletines
+alternativos era muy alto.
 %
 Los eZines a menudo contenían información inaccesible por otros medios,
 ya que a los medios de comunicación convencionales simplemente no les
@@ -11203,7 +11273,7 @@ un script maligno.
 %
 Utiliza wget -c para descargar - si existiese - un fichero más pequeño
 con distinta extensión a la provista en la dirección de descarga. Esto
-te será útil para descargar el fichero de video de calidadl inferior.
+te sería útil para descargar un fichero de video de calidad inferior.
 %
 No es labor de Unix impedir que el root se de un tiro en el pie.
 %
@@ -11231,7 +11301,7 @@ En el código sólo hay reglas. En su ejecución, consecuencias.
 %
 El CD-ROM de AOL se regala.
 %
-El DVD-ROM de Triquel GNU/Linux se regala.
+El DVD-ROM de Trisquel GNU/Linux se regala.
 %
 Si el rígido tamborillea, está manifestando.
 %
@@ -11426,9 +11496,9 @@ telemática.
 En la lid telemática, la acción defensiva por antonomasia la constituye
 el sabotaje telemático.
 %
-Los hackers del Tercer Mundo han de concebir ataques cibernéticos para
-que sean visibles y velen - en efecto - los furtivos y mucho más
-demoledores sabotajes algorítmos sobre las ciber-oligarquías.
+Los hackers del Tercer Mundo han de concebir ataques cibernéticos
+visibles que velen - en efecto - los furtivos y mucho más demoledores
+sabotajes algorítmicos sobre las ciber-oligarquías.
 %
 Aplicando una concepción táctica que detecte los puntos débiles de los
 ciber-oligarcas, y aplicando esa condición fantasmal del hacker en las
@@ -11633,9 +11703,9 @@ Un usuario desprevenido puede asociarse a una red inalámbrica como lo
 hace normalmente, sin saber que se encuentra transmitiendo datos
 confidenciales de otra persona en la red.
 %
-Los hackers del Tercer Mundo puedes usar puntos de acceso inalámbricos
-en lugares estratégicos para atraer a oligarcas desprevenidas y captar
-sus datos.
+Los hackers del Tercer Mundo pueden usar puntos de acceso inalámbrico en
+lugares estratégicos para atraer a oligarcas desprevenidas y captar sus
+datos.
 %
 Muchos clientes inalámbricos pueden configurarse de manera que se
 conecten solamente a redes confiables o para que pidan permiso antes de
@@ -12022,7 +12092,7 @@ llámenlo como quieran, pero está ahí fuera AHORA, extendiéndose por todo
 el mundo como una opulenta telaraña inmaterial, creciendo a medida que
 se conecta cada nuevo ordenador, teléfono o fax.
 %
-A medida que los Pueblos avanzan hacia esta frontera electrónica, los
+A medida que los Pueblos avanzan hacia la frontera electrónica, los
 ciber-oligarcas están comenzando a ejercer un control cada vez mayor
 sobre el nuevo ámbito digital, vigilando las sendas de la información
 con creciente rigor.
@@ -12298,8 +12368,8 @@ Aquél que quiera compilar microkernels, primero deberá permanecer largo
 tiempo programando kernels.
 %
 El microkernel es el único programa capaz de correr en el nivel de
-ejecución más privilegiado la CPU, y por lo tanto debe ser propiedad del
-Pueblo.
+ejecución más privilegiado de la CPU, y por lo tanto debe ser propiedad
+del Pueblo.
 %
 Cuando los espacios de direccionamiento crezcan hasta superar los 32
 bits, el diseño del kernel no se verá ya limitado por la arquitectura de
@@ -13392,7 +13462,7 @@ Comparte simples enlaces legibles, tales como misitioweb.com/ideas.
 Estos enlaces permanentes siempre funcionarán.
 %
 En las redes de datos, rechaza todo espacio claustrofóbico con vallas
-que impiden construir, poseer y controlar.
+que impidan construir, poseer y controlar.
 %
 Escapa de todos aquellos vericuetos de la red en los cuales sólo puedes
 consumir.
@@ -13518,7 +13588,7 @@ religiones u otras identidades.
 %
 Promueve aquellas plataformas digitales cuyas reglas y los protocolos de
 aplicación tomen en cuenta vulnerabilidades superpuestas que amplifican
-los impactos nocivos de abuso telemático.
+los impactos nocivos del abuso telemático.
 %
 Promueve aquellas plataformas digitales cuyos usuarios cuenten con
 canales dedicados para informar rápidamente si se sienten amenazados o
@@ -13884,8 +13954,8 @@ y el bienestar de los Pueblos es el objetivo principal del desarrollo de
 software.
 %
 Nuestra Comunidad respeta a la naturaleza con políticas de ahorro
-energético y protección del medio ambiente, y contribuir a la seguridad
-ecológica global.
+energético y protección del medio ambiente que contribuyen a la
+seguridad ecológica global.
 %
 Nuestra Comunidad de Programadores persigue un enfoque global para la
 seguridad informática.
