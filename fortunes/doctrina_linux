@@ -840,6 +840,8 @@ Muchos hackers han creado reimplementaciones más o menos exitosas del ideal de 
 %
 Con frecuencia, las soluciones más innovadoras y espectaculares provienen de comprender que la concepción del problema planteado por las ciber-oligarquías era errónea.
 %
+Controlar la complejidad es la esencia de la programación de computadoras.
+%
 Unix se ha ido formulando lentamente alrededor de un núcleo simple y ha adquirido una especie de complejidad y asimetría que le es orgánica, como las raíces de un árbol o las ramificaciones de una arteria coronaria.
 %
 Compender el desarrollo de Unix es cosa más de la proctología que de la ciencia del cómputo.
@@ -2501,7 +2503,7 @@ El kernel es una plataforma de propaganda sobre "cómo deben hacerse las cosas".
 %
 En todo momento, la simplicidad debe sustituir a la eficiencia.
 %
-Sólo deben utilizarse algoritmos complejos si su complejidad puede ser localizarse.
+Sólo deben utilizarse algoritmos complejos si su complejidad puede ser localizada.
 %
 El programador examina los requerimientos de una solución, en algún nivel de abstracción diseña una solución, y luego hace que el diseño cobre vida en una implementación de código fuente.
 %
@@ -2641,7 +2643,7 @@ A los hackers no se los mide por su ingenio y su lógica, sino por su completitu
 %
 La cadena es una estructura de datos no parca, y en todo lado que se la incluye es dable una prolégis que conlleve a la duplicación de procesos. Es un vehículo perfecto para ocultar información.
 %
-Los programas más geniales ya están guardados en tu RAM en este preciso instante. Tan sólo transforma en 0 los 1s sobrantes, y ordena su ejecución.
+Los programas más geniales se encuentran almacenados en tu RAM en este preciso instante. Tan sólo transforma en 0 los 1s sobrantes, y ordena su ejecución.
 %
 Existen dos maneras de escribir un programa libre de bugs. Hacerlo privativo no es una de ellas.
 %
@@ -2659,7 +2661,7 @@ El programador de LISP conoce el valor de todo, y el costo de nada.
 %
 El software se encuentra bajo tensión constante. Siendo simbólico es arbitrariamente perfectible, pero también arbitrariamente modificable.
 %
-Es más fácil cambiar la especificación para que haga caso al programa que viceversa.
+Es más fácil cambiar la especificación para que haga caso al programa que lo inverso.
 %
 Los tontos ignoran la complejidad. Los pragmatistas la sufren. Algunos pueden evitarla. Los genios la eliminan.
 %
@@ -2673,15 +2675,17 @@ El corazón procesa símbolos, la CPU números.
 %
 Cuantificamos nuestro entendimiento por el grado por el cual podemos parametrizar una actividad. Quien pretenda proceder por grado de control ha de recibir un SIGKILL en la tabla de procesos.
 %
-El comando man es como un seguro: satisface porque casi nadie que la utilice depende de su beneficio.
+El comando man es como un seguro: satisface porque casi nadie que lo utilice depende de su beneficio.
 %
 Los lenguajes de programación jamás han abandonado su saco embrionario.
 %
-las usuarias deben parametrizar los procesos, no sus creadores.
+Las usuarias deben parametrizar los procesos, no sus creadores.
 %
 Quien compila un sistema operativo privativo no es un creador. Simplemente un tecno-esclavista.
 %
-El intercambio cibernético entre la usuaria, la computadora y el software es como el juego de la silla: en la búsqueda desesperada de equilibrio siempre deja a la que tiene culo en el piso.
+En la simbiosis mujer-máquina, la mujer debe ajustarse. Las máquinas no pueden.
+%
+El intercambio cibernético entre la usuaria, la computadora y el software es como el juego de la silla: la búsqueda desesperada de equilibrio siempre deja a la que tiene culo en el piso.
 %
 Si su computadora habla el idioma de Braden, probablemente se deba a que está hecha en China.
 %
@@ -2709,8 +2713,6 @@ Primero sé responsable por tu programa, luego escríbelo.
 %
 Las computadoras no organizan, simplemente exponen oportunidades para hacerlo.
 %
-En la simbiosis mujer-máquina, la mujer debe ajustarse. Las máquinas no pueden.
-%
 El tecno-oligarca llama éxito a resolver el problema equivocado.
 %
 No puede procederse de lo informal a lo formal por medios formales. Formatea.
@@ -2731,7 +2733,7 @@ Un buen lenguaje de programación no solo debe ser poderoso, también debe respe
 %
 Un buen sistema no puede tener un lenguaje de programación débil.
 %
-Todo debe construirse de arriba a abajo. Excepto la primera vez.
+Todo debe construirse de abajo a arriba. Excepto la primera vez.
 %
 Un programa que carezca de un bucle y una variable estructurada no debe escribirse.
 %
