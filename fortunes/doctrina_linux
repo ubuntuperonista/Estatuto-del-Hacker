@@ -866,7 +866,7 @@ Con el transistor (a mitad del siglo XX) comienza un proceso continuo de reducci
 %
 La técnica del transistor ha permitido construir y poner rápidamente en nuestras manos sistemas electrónicos cada vez más complejos y potentes, de tamaño, consumo y costes muy reducidos.
 %
-A la electrónica la minimización «le viene de familia» (el electrón es diminuto y muy veloz, en cuanto a sus efectos) y el resultado es que, al hacerse tan pequeña y tan rápida, la electrónica se ha metido por todos los rincones de nuestra vida y de nuestra sociedad y ha promovido esa «mudanza en el estado de las cosas» que caracteriza nuestro presente: la revolución informacional.
+A la electrónica la minimización "le viene de familia" (el electrón es diminuto y muy veloz, en cuanto a sus efectos) y el resultado es que, al hacerse tan pequeña y tan rápida, la electrónica se ha metido por todos los rincones de nuestra vida y de nuestra sociedad y ha promovido esa "mudanza en el estado de las cosas" que caracteriza nuestro presente: la revolución informacional.
 %
 La electrónica de la primera mitad del siglo XX se dedicó a la telecomunicación, en su doble aspecto: espacial y temporal; desarrolló la radiodifusión y la grabación del sonido (en discos mecánicos, cintas magnéticas y bandas ópticas de las películas sonoras), mejoró ampliamente la telefonía e inició la transmisión de imágenes (televisión).
 %
@@ -4314,9 +4314,9 @@ Los obstáculos a la circulación de la información en línea, en especial los 
 %
 Las bibliotecas y los servicios de información son instituciones dinámicas que conectan al Pueblo con fuentes mundiales de información y con las ideas y obras de creación que desean encontrar.
 %
-Las bibliotecas y los servicios de información computarizados en línea ponen la riqueza de la expresión humana y la diversidad cultural a disposición de todos y en todo tipo de soportes.
+Las bibliotecas y los servicios de información computarizados en línea ponen la riqueza de la expresión humana y la diversidad cultural a disposición de todos, y en todo tipo de soportes.
 %
-Las bibliotecas y los servicios de información computarizados son vías de acceso fundamentales a Internet.
+Las bibliotecas y los servicios de información computarizados son las vías de acceso fundamental a Internet.
 %
 Existe quien encuentra en los servicios de información computarizados en línea orientación y ayuda, amén de un acceso práctico a la Red, y hay quien no tiene a su alcance ningún otro punto de acceso.
 %
@@ -4476,7 +4476,7 @@ Los Verdaderos Programadores no usan Mouse. A lo sumo son ratas.
 %
 IRQ2 es mi mouse. IRQ10 es mi rata.
 %
-Considera qué parte del programas debes desechar; de todos modos tendrás que hacerlo.
+Considera qué parte del programa debes desechar; de todos modos tendrás que hacerlo.
 %
 Cuando pierdas interés en tu programa, légalo al Pueblo bajo GPLv3.
 %
@@ -4496,7 +4496,7 @@ En la medida que pasen los años, el cómputo estará cada vez más involucrado 
 %
 La tecnología del cómputo debe siempre sintetizarse.
 %
-Al contrario de lo que muchos creen, la evolución de la tarea del cómputo debe llevarse a cabo según una labor de simplificación.
+Al contrario de lo que muchos creen, la evolución de la tarea del cómputo debe lograrse según una labor de simplificación.
 %
 El sistema Unix no es el fin de la síntesis computacional a la que aspira el Pueblo: sólo un buen paso en la senda de la simplificación.
 %
@@ -5885,7 +5885,7 @@ No existió dificultad en hacer que la definición del lenguaje C fuese completa
 %
 Aquellos que quisieron cerrar la definición del lenguaje C siempre tendieron a mencionar el argumento del férreo control autoral. Los autores de los lenguajes más relevantes que siguieron este estilo fracasaron en consecuencia.
 %
-Si piensas como una computadora, el lenguaje C realmente tiene sentido.
+Si piensas como una computadora, el lenguaje C realmente cobra sentido.
 %
 Depuro programas de vez en cuando, más a menudo escribo HTML, y escribo guiones para que hagan cosas.
 %
@@ -6877,7 +6877,7 @@ Una de las respuestas a la diversidad es la traducción. En la informática la d
 El portado es una de las respuestas informáticas a la diversidad de hardware.
 Otra es la emulación.
 %
-Como las computadoras puede simular las operaciones de cualquier máquina, es factible escribir un programa que incite a la máquina de la oligarquía a comportarse como una máquina del Pueblo.
+Como las computadoras pueden simular las operaciones de cualquier máquina, es factible escribir un programa que incite a la máquina de la oligarquía a comportarse como una máquina del Pueblo.
 %
 Toda computadora puede emular a otra. Las penalizaciones de velocidad e implementación son - a lo sumo - cosas del hombre.
 %
