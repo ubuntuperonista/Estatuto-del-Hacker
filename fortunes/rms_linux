@@ -1509,3 +1509,23 @@ Una razón para escribir softwara libre es porque muchos odian a Micro$oft. Es u
 El hecho es que muchos odian a Micro$oft, y eso motiva a muchos a escribir software libre.
 %
 Una razón para escribir software libre es el dinero. Hay muchos que obtienen dinero de alguna maneara desarrollando programas libres, o por servicios; escriben programas y venden el soporte. También hay grandes compañías que subvencionan la creación de software libre.
+%
+Me gustaría intervenir un momento.
+%
+A lo que ustedes se refieren como "Linux" es, en realidad, GNU/Linux —o, como he empezado a llamarlo últimamente— GNU mas Linux.
+%
+Linux no es un sistema operativo por sí mismo, sino otro componente libre de un sistema GNU plenamente funcional, el cual resulta útil gracias a bibliotecas centrales, utilidades de intérprete de comandos y otros componentes vitales del sistema que, en conjunto, conforman un sistema operativo completo según lo define la norma POSIX.
+%
+Muchos usuarios de computadoras emplean a diario una versión modificada del sistema GNU sin darse cuenta.
+%
+Por una peculiar serie de circunstancias, la versión de GNU que se utiliza ampliamente suele denominarse al día de hoy "Linux", y muchos de sus usuarios desconocen que, en el fondo, se trata del sistema GNU desarrollado por el Proyecto GNU.
+%
+Ciertamente existe algo llamado Linux —y muchas personas lo están utilizando—, pero no es más que una parte del sistema que emplean.
+%
+Linux es un núcleo: el programa del sistema que asigna los recursos de la máquina a los demás programas que se ejecutan.
+%
+El núcleo es una parte esencial de un sistema operativo, pero por sí solo resulta inútil; solo puede funcionar dentro del contexto de un sistema operativo completo.
+%
+Por lo general, Linux se utiliza en combinación con el sistema operativo GNU: el conjunto es, básicamente, GNU con Linux añadido, es decir, GNU/Linux.
+%
+Todas las llamadas "distribuciones de Linux" son, en realidad, distribuciones de GNU/Linux.
